@@ -60,8 +60,7 @@ aelhkie	helppo
 aelkedh	alkaa
 aellieh	älä
 aelmies	maukas
-ae nagkh	han, hän; siis
-aerebi	ennen, ensin, aiemmin	
+aerebi	ennen, ensin, aiemmin
 aerede	aamu, huomen
 aeredsbeapmoe	aamiainen
 aeriebistie	aikaisemmin, ennestään, edeltä
@@ -86,7 +85,6 @@ arhpedh	malttaa
 arhpehtovvedh	kyllästyä, tulla kärsimättömäksi
 aske	kuu, kuukausi
 askedh	kuutamo, kuunloiste
-assh dohkoe	hus pois (koiralle)
 astedh	ehtiä
 astoe	aika (johonkin)
 asvedidh	pelätä, tuntea kauhua
@@ -208,14 +206,13 @@ bijjelen	yli
 bijjemes	ylin
 bijjene	ylhäällä
 bijjiebasse	ylemmäs
-bijjierietjmie	verkon yläpaula	
+bijjierietjmie	verkon yläpaula
 bïjle	auto
 bïjlebovre	autokauppa
 bïjlevuejemelohkehtæjja	autokoulun opettaja
 bïjre	ympäri
 bijredh	silputa ja/tai paistaa lihaa
 bïjredh	jyrsiä, järsiä
-bïjre jarkan	ympäri(llä)
 bïjvedh	tarjeta
 bïjvele	lämmin (sää)
 bïjvelåbboe	lämpimämpi
@@ -305,7 +302,6 @@ båavjoeh	vaaleanharmaa (poro)
 båeltielidh	polttaa
 båeries	vanha
 båetedh	tulla
-båetije bearjadahken	ensi perjantaina
 båetskie	kanta(pää)
 bårras	hajallaan (oleva)
 bårredh	syödä (eläin)
@@ -322,7 +318,7 @@ daajje	taikina
 daajkoe	täällä(päin)
 daajroes	tiettävästi, tietysti
 daakteme	täysikasvuinen
-daalhkesh	lääke, lääkkeet	
+daalhkesh	lääke, lääkkeet
 daamhtaj	usein, jatkuvasti
 daamhtetje	usein, jatkuvasti
 daanbiejjien	tänään
@@ -358,7 +354,6 @@ dagke	kos, kös
 dagkeres	sellainen
 dagkere	sellainen
 dah	ne, he
-dah guaktah	he kaksi
 dahkoe	sinne
 dahpe	tuppi
 dahpedh	sulkea
@@ -371,7 +366,6 @@ dalvese	vuoren, tunturinhuippu
 damtedh	tuntea; kokeilla; maistaa
 damtehtidh	tunnustella, koettaa
 dan	sen, siihen; niin
-dan aereden	sinä aamuna
 darhkh	sitten; kaan, kään
 darks	sitten; kaan, kään
 darhke	sitten; kaan, kään
@@ -381,7 +375,6 @@ darjome	tekeminen
 darvedh	tervata
 dastegh	yhtäkkiä; siltä varalta että
 datne	sinä
-datne dihte	sinä(pä) se
 deahpadidh	sattua, tapahtua
 deajvoe	juurista punottu juustomuotti
 deakehke	kotapuu, ruode
@@ -401,12 +394,10 @@ deereriepie	uroskettu
 deerpegh	tarpeet, tarvikkeet, varusteet
 dejkoe	tuolla (ympäriinsä)
 dejpeli	entisaikaan
-dej beeli	entisaikaan
 dejpelatje	entisaikainen, muinainen
 dejbaaletje	entisaikainen, muinainen
 delhkiehtidh	ilmestyä paikalle (susi)
 dellie	silloin, sitten
-dellie maajetjh	vihdoin viimein
 dennie	sinä, siinä
 derhvie	turve
 derhviegåetie	turvekota, kammi
@@ -449,13 +440,11 @@ doerke	torko, kotarisu
 doerkestidh	kattaa risuilla, (lattia)varvuilla
 doestedh	uskaltaa
 doete	se (sinua lähempänä oleva)
-dohkh diekie	sinne tänne
 dohkoe	sinne
 dohte	tuo (kauempana oleva)
-don biejjien	toissapäivänä
 domhpe	maansiirtoauto
 domtedh	tuntua; maistua
-dovletje	entinen, muinainen	
+dovletje	entinen, muinainen
 dovne	vallan, aivan, kaikkiaan; myöten; myös, jopa
 dovres	kallis
 dovtesgierkie	tukikivi
@@ -526,7 +515,6 @@ eatneme	maa
 eavadidh	välittää
 ebrie	sade
 edtjedh	täytyä, pitää; aikoa
-eejan jovjan	lohduta (ja kanna) minua
 eejehtalledh	viettää aikaa, olla jouten
 eejehtalleme	loma
 eejehtidh	viettää aikaa, olla jouten, laiskotella
@@ -554,7 +542,7 @@ faehtie	poron mahalaukku
 faelhkiebaernie	sulhanen
 Faepmie	Fatmomakke (Ruotsissa)
 fahkedh	herätä
-fealadidh	kulkea, liikkua	
+fealadidh	kulkea, liikkua
 fealadimmie	matka
 fealloe	lauta
 fealpere	parsinneula
@@ -592,9 +580,7 @@ gaajeh	kovin, aivan; kova, kauhea
 gaaje	kovin, aivan; kova, kauhea
 gaajh	kovin, aivan; kova, kauhea
 gaajhke	kaikki
-gaajhkene lehkesne	kaikkialla, joka puolella
 gaajhkesh	kaikki (yhdessä)
-gaajhkesh dovnesh	kaikki (tyynni)	
 gaaktsede	kahdeksas
 gaale	karsina
 gaalkedh	selvittää (verkkoa)
@@ -703,12 +689,10 @@ gejhkieguelie	kuivattu kala
 gejhkielidh	raadella, repiä
 geljies	väljä, leveä
 gellie	(kuinka) monta; aika lailla
-gellien aejkien	monta kertaa
 gelmedh	palella; jäätyä
 gertjie	koski, putous
 gidtjh	näes
 gie	kuka
-gie joem	joku
 giebnie	(kahvi)pannu, keittoastia
 gïebredh	kääriä, pakata
 gïebrelgovvedh	kietoutua, sotkeutua
@@ -730,7 +714,6 @@ gïerhkeme	kehto, komsio
 gieries	rakas
 gierkie	kivi
 gïertedh	sietää, kärsiä
-gïerth mannem	anteeksi
 giesedh	vetää
 giesege	kesällä
 giesie	kesä
@@ -791,7 +774,7 @@ goerve	makkara
 goese	kuusi(puu)
 goeseråhtoe	kuusimetsä
 goetsedh	kavuta, juosta
-goetsedidh	juoksennella (eläin)	
+goetsedidh	juoksennella (eläin)
 goeve	joulukuu
 goevledh	katsella, tarkastella, tuijottaa
 gogkoe	mitä kautta, miltä kohdin, missä
@@ -826,7 +809,6 @@ guarkedh	ymmärtää
 gubpene	missä
 gubpede	mistä (suunnasta)
 gudtsene	ole hyvä
-gudtsien (aelties)	kiitoksia ruuasta
 guedtedh	kantaa; vasoa (poro)
 guehpere	kynsi; kopara
 guejmie	kanssa; kumppani, toveri
@@ -851,12 +833,10 @@ guhkene	kaukana
 guhkiem	kauan
 guhkie	pitkä
 guhkies	pitkä
-guhkie övtebe	kauan sitten
 guhte	kuka
 guhtsedh	valvoa
 gujht	toki, kuitenkin
 guksie	pahkakuppi, kuksa
-guktemes laakan	mitenkään
 guktie	kuinka, miten
 guktieh	joten, niin että
 gullievæhta	kultamitali
@@ -892,9 +872,7 @@ gævnjodh	ripustaa
 gævnjoestidh	ripustaa
 göökte	kaksi
 göökteluhkie	kaksikymmentä
-göökten haaran	kahteen osaan, kahteen suuntaan
 gööktesh	kaksin, kaksi yhdessä
-göökti göökti	kaksitellen
 gööledh	kalastaa
 gööleme	kalastus
 göölemekåarhte	kalastuskortti
@@ -1015,8 +993,8 @@ håajje	kasa
 håajsodh	kyetä, jaksaa
 åajsodh	kyetä, jaksaa
 håalodh	puhua, pitää puhe
-håangke	suvanto, jurmu	
-åangke	suvanto, jurmu	
+håangke	suvanto, jurmu
+åangke	suvanto, jurmu
 hååkene	taipuvainen
 ïebne	aines
 ïedtje	into
@@ -1033,12 +1011,10 @@ ijje	ei
 iktesth	jatkuvasti
 iktegisth	jatkuvasti
 ikth	kerran
-ikth gåessie	toisinaan, jonkin kerran
 illedh	saada päätökseen, lopettaa, täyttää
 inhtsie	erityisesti
 isvelihke	hirveä, kauhea, kamala
 jaa	kyllä
-jaa nov maa	jo toki, kyllä vain
 jaavoe	kyllä
 jeavoe	kyllä
 jaavvoe	jauho(t)
@@ -1049,7 +1025,6 @@ jaepieboelhke	vuodenaika
 jaevrie	järvi
 jaksedh	saavuttaa, ulottua
 jakselidh	saavuttaa, tavoittaa (nopeasti)
-jakseme mieresne	käsillä, lähellä
 jaksoes	käsillä oleva, saavutettavissa oleva
 jalhts	vaikka
 jalke	tasainen
@@ -1176,7 +1151,7 @@ kaarhte	kartta
 kaarre	mies
 kilovmeter	kilometri
 klaahka	sauva
-klaahtoehtidh	leikkiä, pitää hauskaa	
+klaahtoehtidh	leikkiä, pitää hauskaa
 klaasetjelmieh	silmälasit
 klaase	ikkuna
 klaasse	luokka
@@ -1187,7 +1162,6 @@ klienjiedidh	välkkyä
 klovperdidh	olla lumisokea
 klovse	albiinoporo; vaalea(hiuksinen)
 klåenkiehtidh	soida (kirkonkello)
-klååmsehth (vearelde)	epävakainen sää, jolloin savu tulee sisään
 konhtovre	konttori, toimisto
 konhtovrebarkije	toimistotyöntekijä
 konhtovrebarkoe	toimistotyö
@@ -1253,7 +1227,7 @@ laejpietjaalege	leiväntekoohje, resepti
 laetjedh	sijata vuode
 laatjodh	sijata vuode
 laevie	sukulainen, pikkuserkku
-laeviehkadtjh	pikkuserkut (keskenään)	
+laeviehkadtjh	pikkuserkut (keskenään)
 laeviestidh	nimittää, puhutella laevieksi
 lahkaskidh	onnistua
 lahkoe	onni
@@ -1327,7 +1301,6 @@ luhpie	lupa, lupaus; sallittu
 luhpiedidh	luvata
 luhpiehtidh	luvata, myöntyä
 luste	huvi(tus); hauska
-lusten gaavhtan	huvin vuoksi
 lustestalledh	huvitella
 lutnjedh	nostaa
 luvlielisnie	idempänä
@@ -1342,7 +1315,7 @@ lööke	sipuli
 löönedh	lainata
 löönestidh	lainata vähäksi aikaa
 lööpkedh	halkaista (liha tai kala)
-löövedh	irrottaa, ottaa irti	
+löövedh	irrottaa, ottaa irti
 lööveldidh	irrottaa, ottaa irti
 löövje	tee
 löövles	painava, raskas, vaikea
@@ -1381,7 +1354,6 @@ maaketje	vaimon pikkuveli tai sisaren poika
 maaksoe	maksu
 maales	ateria
 maalese	ateria
-maam joem	yhtä ja toista
 maana	lapsi
 maanabaelie	lapsuusaika
 maanageehtije	lastenhoitaja, lastenvahti
@@ -1392,7 +1364,6 @@ maarhkelihtie	matoastia
 maaskedh	sekaantua, sotkeutua
 maaskenidh	sotkeutua
 madtan	huonosti, niukasti
-madtan laakan	huonosti, juuri ja juuri	
 madtege	niukka, kehnonlainen
 mådtege	niukka, kehnonlainen
 madtjeldehtedh	ilahduttaa
@@ -1411,11 +1382,8 @@ magkere	mikä, millainen
 magkeres	mikä, millainen
 mah	ko(han), kö(hän)
 mahte	melkein, lähes
-man jïjnjh	kuinka monta, kuinka paljon
-man åvteste	minkä tähden
 mannasinie	miksi, mitä varten
 manne	minä
-manne mån	minäpä	
 marngedh	kääntyä takaisin
 marngestidh	vääntää, taittaa kaksinkerroin, kääriä ylös
 maskastidh	ommella kiinni, ommella umpeen
@@ -1429,7 +1397,6 @@ measije	vasaisa, paljon vasoja
 meatan	mukana, mukaan
 mejtie	ko, kö
 men	mutta
-mennie mieresne	paljonko, missä määrin
 mestie	mistä
 miedtedh	härnätä, ärsyttää; erehtyä, tehdä väärin
 mielhkie	maito
@@ -1518,7 +1485,6 @@ naaken	joku
 naakene	joku
 naaloe	(pyöreä) neula
 naan	jokin, mikään
-naan gille	jokunen, muutama
 naarpehke	ahne, perso, himokas
 naatskedh	käydä kimppuun
 naavjodh	havaita	
@@ -1612,9 +1578,6 @@ nommestehtedh	kutsua nimeltä
 nossedh	puuhailla, touhuta
 nov	niin, kyllä
 novh	niin, kyllä
-novh amma	toki
-novh hævvi	tietenkin, luonnollisesti
-novh maa	jo toki, niin kyllä
 nualan	alle
 nuarvan	likainen, roskainen
 nuehtie	nuotta
@@ -1662,7 +1625,6 @@ orrijidh	jäädä paikalleen, pysähtyä; lopettaa
 ostedalledh	viettää aikaa
 otnerasse	kotakorva (kaareva kodan rankapuu)
 ovjuvre	peto(eläin)
-ov jösses	jestas sentään
 ovledh	tulehtua	
 ovmese	kaikenlainen
 ovnohkens	tuntematon
@@ -1815,7 +1777,6 @@ saalhtetjh	hiukan suolaa
 saalje	paju, raita
 saalmegærja	virsikirja
 saarnodh	sanoa, kertoa
-saarnoeh jeahtah	sanopa se
 saatnan	tosi, totta
 saedtie	hiekka
 saedtietjeallere	maakellari
@@ -1957,7 +1918,7 @@ slajpan	longollaan, lerpallaan; huolimattomasti pantuna
 slapmoehgåetie	matala ja leveä kota
 slavtjeguelie	vasta kutenut kala
 sleagran	likainen
-sleehpedh 	punoa suonilankaa poron selkäjänteestä
+sleehpedh	punoa suonilankaa poron selkäjänteestä
 sleengkedh	heittää
 sleevhkedh	heittää, paiskata pois
 sliehtie	räntä
@@ -1978,7 +1939,7 @@ smååhkedh	maistaa
 smååhkestidh	maistaa vähäsen
 snaabrestidh	kaluta, syödä vähäsen
 snaejrie	viipale, kappale
-sneehpebe 	nopeampi
+sneehpebe	nopeampi
 sneehpes	nopea
 snjaltje	heinäkuu
 snjaltjh	karvattomat kengät
@@ -2019,7 +1980,7 @@ spaarretje	pieni sinka
 spealadidh	soittaa
 speedtjedh	hajoittaa 
 speenedh	peittää (koipinahka) lastuilla (pingotusta varten)
-speerredh 	levittää kuivumaan
+speerredh	levittää kuivumaan
 spidtje	maatila, uudisasutus
 spïjhke	naula
 spæjhkere	naula
@@ -2168,7 +2129,7 @@ tjeavlagierkie	verkon kives, paino
 tjeavlarietjmie	verkon (ylä)paula
 tjeehpes	musta
 tjeehpeslaaketje	mustahko, mustanlainen
-tjeekehtidh 	vetää, mahduttaa
+tjeekehtidh	vetää, mahduttaa
 tjengkere	pallo
 tjeengkere	pallo
 tjelmehts	sokea
@@ -2238,7 +2199,6 @@ tjuahpa	hakkuuaukio
 tjuavkeds	valoisa
 tjuedtjielidh	nousta ylös
 tjuerpies	kömpelö
-tjuetie stoerretjuetie	satatuhatta
 tjuvliestidh	suudella
 tjuvtjiedidh	osoittaa (sormella)
 tjuvviestidh	sataa sisään räppänäaukosta
@@ -2405,7 +2365,7 @@ viehkiehtidh	auttaa
 viehkiehtæjja	apulainen, työntekijä
 vielie	vielä, enää, enemmän
 vïelle	veli
-vïenhtedh	arvella, ajatella, uskoa	
+vïenhtedh	arvella, ajatella, uskoa
 vïere	kenkäheinäkerä, viera
 vïeredh	veistää kirveellä
 vierhkiedidh	kovertaa
@@ -2423,7 +2383,6 @@ vievtjije	sätkyttelevä
 vigkie	riita
 vihkeles	tärkeä
 vihth	taas
-vihth masten	vaihteen vuoksi
 vihtie	tietty, tunnettu, varma
 vihties	tietty, tunnettu, varma
 vïjhte	viisi
@@ -2538,7 +2497,6 @@ våårenjasse	susi, peto
 åebrelen	syrjään; ylitse, enemmän kuin tarpeen
 åehpies	tuttu
 åejjie	pää
-åejjieh saejriedieh	päätä särkee
 åejjienalhke	tyyny
 åajjienååleh	tyyny
 åejvie	päällikkö, johtaja
