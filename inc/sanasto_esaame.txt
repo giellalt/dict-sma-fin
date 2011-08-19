@@ -21,7 +21,7 @@ aalkoe	alku
 aalkove	alku
 aalebovtse	teurasporo
 aales	rauhallinen, pedoton
-aaloe	(puun) mahla, (lihan, kalan) mehu
+aaloe	(puun) mahla, (lihan KOMMA kalan) mehu
 aalohke	kumisaapas
 aaltoe	vaadin
 aamhtse	asia, aihe
@@ -42,7 +42,7 @@ aavhtestidh	ammentaa, äyskäröidä
 aavoe	ilo
 aavone	iloissaan
 aavrehke	onnekas
-aavtjoe	(kirveen, veitsen) terä
+aavtjoe	(kirveen KOMMA veitsen) terä
 abpe	koko(nainen)
 abpelsijne	appelsiini
 abpese	pusero, villapaita
@@ -95,10 +95,10 @@ baahkedidh	lämmittää
 baahkes	lämmin
 baahke	lämmin
 baahketjaetsie	kuuma vesi
-baahkoe	(tunturin, vuoren)rinne
+baahkoe	(tunturin KOMMA vuoren)rinne
 baahtje	poika
 baahtjetje	pikkupoika
-baahtsedh	päästä (yli, läpi, irti)
+baahtsedh	päästä (yli KOMMA läpi KOMMA irti)
 baahtsege	eläimen sydän; puun käpy
 baajedh	antaa, sallia
 baajkoe	kova pakkanen
@@ -110,7 +110,7 @@ baalhka	palkka
 baalka	polku
 baalte	sivulla, vieressä; ohi
 baarhkoe	puun kuori; parkki(liemi)
-baarhkoegalte	kaarnapölkky (koivupölli, josta irrotetaan kaarnaa)
+baarhkoegalte	kaarnapölkky (koivupölli KOMMA josta irrotetaan kaarnaa)
 baarnetje	pikkupoika
 badth	han, hän, toki
 badtja	voide
@@ -237,7 +237,7 @@ bist	taas, sitten, puolestaan
 blomma	kukka(nen)
 boehth	vastapäätä
 boelhke	pätkä, pala, kappale, (ajan)jakso
-boelhketje	(luku, näytös)kappale
+boelhketje	(luku KOMMA näytös)kappale
 boelte	lehtimetsä, koivua kasvava metsänrinne
 boelnedh	kuihtua, kellastua
 boelve	polvi
@@ -621,7 +621,7 @@ gaavalohke	kesy poro, joka helposti seuraa ihmistä
 gaavalahke	kesy poro, joka helposti seuraa ihmistä
 gaavelhkrievvie	kesy poro, joka helposti seuraa ihmistä
 gaavhtan	vuoksi, tähden; suhteen
-gaavmoe	luola, (ketun, karhun) pesä
+gaavmoe	luola, (ketun KOMMA karhun) pesä
 gaavnedh	löytää
 gaavnedidh	tavata, kohdata
 gaavnjeres	soikea, pitkulainen
@@ -773,7 +773,7 @@ goebpere	sieni
 goedtehtjidh	olla vasomassa
 goegkerdidh	ryömiä, kontata
 goejesjidh	kuoria, poistaa kuori (puusta)
-goekedh	paistaa (aurinko, kuu)
+goekedh	paistaa (aurinko KOMMA kuu)
 goekedh	päivänpaiste
 guakedh	päivänpaiste
 goelke	(eläimen) karva
@@ -1280,7 +1280,7 @@ liehtebe	halvempi
 liehties	halpa
 liejpie	leppä
 lïeme	liemi
-liemkede	leuto (sää); suoja(sää, keli)
+liemkede	leuto (sää); suoja(sää KOMMA keli)
 lïenedidh	lämmittää t. jäähdyttää sopivan lämpimäksi
 lientsie	nimismies
 lïepse	mahapaita, mahan ympärillä oleva rasva
@@ -1600,7 +1600,7 @@ noelestidh	riisua nopeasti
 noere	nuori
 noerhtelen	pohjoispuolella
 noerhtelistie	pohjoisesta, pohjoisempaa
-noerhteraedtie	(tunturin, vuoren) pohjoispuoli, sivu
+noerhteraedtie	(tunturin KOMMA vuoren) pohjoispuoli, sivu
 noerhtese	pohjoiseen päin
 noeve	sieni
 noh	ja
@@ -1691,7 +1691,7 @@ prïejhke	saarna
 prievie	kirje
 prïhtjegadtje	vähän kahvia
 prïhtjege	kahvi(juoma)
-prïhtjegh	kahvi(pavut, jauhe)
+prïhtjegh	kahvi(pavut KOMMA jauhe)
 prïhtjhgiebnie	kahvipannu
 prïhtjhgåetie	kahvila	
 provhkedh	pitää tapana; käyttää
@@ -2014,8 +2014,7 @@ sovkijahtjedh	alkaa soutaa
 sovkije	soutaja
 sovmedh	olettaa, arvella, epäillä
 spaajhte	nopeasti, reippaasti
-spaarra	sinka, pingotusvarpa (tikku, jolla eläimen nahka t.
-	kuivattava kala pingotetaan levälleen)
+spaarra	sinka, pingotusvarpa (tikku KOMMA jolla eläimen nahka t. kuivattava kala pingotetaan levälleen)
 spaarretje	pieni sinka
 spealadidh	soittaa
 speedtjedh	hajoittaa 
@@ -2035,7 +2034,7 @@ stasjovne	asema
 staasjovne	asema
 staavra	vapa
 steegkedh	sulkea
-steeredh	pitää (kiinni, paikallaan)
+steeredh	pitää (kiinni KOMMA paikallaan)
 steerestidh	ottaa, pitää kiinni
 stïeres	valmis
 stilledh	lähettää, käskeä, panna tekemään
@@ -2091,7 +2090,7 @@ sygkele	polkupyörä
 syjhtedh	vahtia, hoitaa
 syjhtere	(sairaan)hoitaja
 sysngelasjh	(syötävät) sisälmykset
-sægkodh	vetää (ylös, esim. kaloja; erilleen, esim. poroja teurastettavaksi)
+sægkodh	vetää (ylös KOMMA esim. kaloja SEMIKOLON erilleen KOMMA esim. poroja teurastettavaksi)
 sæjjoesdålle	avotuli
 sæjlodh	väsyä, uupua
 sæjloedidh	väsyttää
@@ -2284,7 +2283,7 @@ treblienjuenie	harmaa poro, jolla on pieniä valkoisia pilkkuja turvassa
 trïengke	renki
 trimhkeldahkesne	sirrillään
 truhkie	puuvati, kaukalo
-træjpoe	huono (tuulinen, sateinen) sää
+træjpoe	huono (tuulinen KOMMA sateinen) sää
 tråahpoe	porras, portaat
 tråahpa	porras, portaat
 tråajjoe	takki, neule, pusero
@@ -2380,7 +2379,7 @@ veaksehke	vahva
 vealasjidh	maata, olla makuulla, nojata
 vealasjimmie	makailu
 vealma	syvä suvantopaikka
-vearadidh	olla, käydä (kylässä, vieraisilla)
+vearadidh	olla, käydä (kylässä KOMMA vieraisilla)
 vearelde	sää, ilma; maailma
 veaskoe	laukku
 veasodh	elää, asua
