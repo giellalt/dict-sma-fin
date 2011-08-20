@@ -20,6 +20,14 @@ Ambiguous pos assigning according to the data found in smaoahpa files:
 rc>grep count out_03/smafin.xml.xml | wc -l 
       11
 
+Adding pos from ped/sma/src/*.xml files to the xml-transformed smafin file
+both to the lemma AND to all translations. The assumption hereby is that
+in most of cases the pos values are the same. --> DONE
+
+TODO:
+ - check and correct pos values for the ambiguous pos: e.g., pos="a_n"
+ - check and if needed correct pos values in both l and t elements
+
 
 II. cleanup entries
 
