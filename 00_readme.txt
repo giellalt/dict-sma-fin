@@ -32,9 +32,3 @@ generated from csv inc-files.
  3. If the inc-file are changed then at least the structure should be kept.
 
 
-src>grep '<poses/>' out_00/smafin.xml.xml | wc -l 
-     692
-src>grep '<poses>' out_00/smafin.xml.xml | wc -l 
-    1857
-
-
