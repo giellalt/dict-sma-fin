@@ -44,7 +44,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">aahketjeguaktah</l>
+         <l pos="xxx">aahketje-guaktah</l>
       </lg>
       <mg>
          <tg>
@@ -64,7 +64,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">aahtjebe</l>
+         <l pos="xxx">aehtjebe</l>
       </lg>
       <mg>
          <tg>
@@ -114,7 +114,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">aajjetjeguaktah</l>
+         <l pos="xxx">aajjetje-guaktah</l>
       </lg>
       <mg>
          <tg>
@@ -266,7 +266,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">aamhtse</l>
       </lg>
@@ -277,7 +277,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">aamhte</l>
       </lg>
@@ -288,7 +288,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">aamhtese</l>
       </lg>
@@ -299,7 +299,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">aamhtsegïetedallije</l>
       </lg>
@@ -387,7 +387,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">aatovmefaamoesijjie</l>
+         <l pos="xxx">atovmefaamoesijjie</l>
       </lg>
       <mg>
          <tg>
@@ -482,7 +482,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">abpelsijne</l>
+         <l pos="xxx">appelsijne</l>
       </lg>
       <mg>
          <tg>
@@ -650,7 +650,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">aerebi</l>
+         <l pos="xxx">aarebi</l>
       </lg>
       <mg>
          <tg>
@@ -683,7 +683,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">aeriebistie</l>
+         <l pos="xxx">aarebistie</l>
       </lg>
       <mg>
          <tg>
@@ -1106,7 +1106,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">baakohth</l>
       </lg>
@@ -1365,7 +1365,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">bahkasidh</l>
       </lg>
@@ -1680,7 +1680,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">beensine</l>
+         <l pos="xxx">bensijne</l>
       </lg>
       <mg>
          <tg>
@@ -1730,7 +1730,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">bejsjeme</l>
       </lg>
@@ -2301,7 +2301,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">bïjvelåbboe</l>
+         <l pos="xxx">bïjvelåbpoe</l>
       </lg>
       <mg>
          <tg>
@@ -2469,7 +2469,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">blomma</l>
       </lg>
@@ -3410,16 +3410,6 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">daanbiejjien</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">tänään</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="xxx">daanhtsodh</l>
       </lg>
       <mg>
@@ -3523,7 +3513,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">daatovre</l>
+         <l pos="xxx">daatore</l>
       </lg>
       <mg>
          <tg>
@@ -3655,16 +3645,6 @@
       <mg>
          <tg>
             <t pos="xxx">tänään</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="xxx">daenaereden</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">tänä aamuna</t>
          </tg>
       </mg>
    </e>
@@ -3925,7 +3905,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">darks</l>
       </lg>
@@ -4204,9 +4184,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
-         <l pos="xxx">dejkoe</l>
+         <l pos="xxx">dajkoe</l>
       </lg>
       <mg>
          <tg>
@@ -4224,7 +4204,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">dejpelatje</l>
       </lg>
@@ -4235,7 +4215,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">dejbaaletje</l>
       </lg>
@@ -4436,7 +4416,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">dihte</l>
+         <l pos="xxx">dïhte</l>
       </lg>
       <mg>
          <tg>
@@ -4509,7 +4489,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">dimperebuvrie</l>
+         <l pos="xxx">dïmperebuvrie</l>
       </lg>
       <mg>
          <tg>
@@ -4529,7 +4509,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">disse</l>
+         <l pos="xxx">dïsse</l>
       </lg>
       <mg>
          <tg>
@@ -4605,7 +4585,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">doeltejehtedh</l>
       </lg>
@@ -4807,7 +4787,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">dovtesgierkie</l>
       </lg>
@@ -4847,7 +4827,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">duarstabiejjegi</l>
       </lg>
@@ -5103,7 +5083,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">döörkenes</l>
       </lg>
@@ -5148,17 +5128,6 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">dåaktovre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">lääkäri</t>
-            <t pos="xxx">tohtori</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="xxx">dåalvodh</l>
       </lg>
       <mg>
@@ -5175,12 +5144,22 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">dåamijes</l>
+         <l pos="xxx">dåajmijes</l>
       </lg>
       <mg>
          <tg>
             <t pos="xxx">kohtelias</t>
             <t pos="xxx">kunnolla käyttäytyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">dåajmetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">kohtelias</t>
          </tg>
       </mg>
    </e>
@@ -5340,7 +5319,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">dåvnetråajjoe</l>
       </lg>
@@ -5446,7 +5425,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">ealehke</l>
       </lg>
@@ -5463,7 +5442,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">eanna</l>
       </lg>
@@ -5473,7 +5452,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">earoeladtje</l>
       </lg>
@@ -5875,7 +5854,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">fearhkasidh</l>
       </lg>
@@ -5927,7 +5906,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">fïerhne</l>
       </lg>
@@ -5969,7 +5948,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">fïjfere</l>
+         <l pos="xxx">fijfere</l>
       </lg>
       <mg>
          <tg>
@@ -6056,7 +6035,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">fuehpiemisnie</l>
       </lg>
@@ -6401,7 +6380,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">gaamtsehth</l>
       </lg>
@@ -6678,7 +6657,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST adv">
       <lg>
          <l pos="xxx">gaedtiebealesne</l>
       </lg>
@@ -6736,7 +6715,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gaejvielidh</l>
+         <l pos="xxx">gejvielidh</l>
       </lg>
       <mg>
          <tg>
@@ -6874,7 +6853,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">gajhkedasse</l>
       </lg>
@@ -6947,7 +6926,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">galhkove</l>
       </lg>
@@ -6960,16 +6939,6 @@
    <e>
       <lg>
          <l pos="xxx">gallanidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">tulla kylläiseksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="xxx">gallamidh</l>
       </lg>
       <mg>
          <tg>
@@ -7123,7 +7092,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">gaskevahka</l>
       </lg>
@@ -7196,7 +7165,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">geajnotje</l>
+         <l pos="xxx">gyöjnetje</l>
       </lg>
       <mg>
          <tg>
@@ -7493,7 +7462,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gïebrelgovvedh</l>
+         <l pos="xxx">gïebrelovvedh</l>
       </lg>
       <mg>
          <tg>
@@ -7606,7 +7575,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">gïeltegs</l>
       </lg>
@@ -7720,7 +7689,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">giesieeejehtalleme</l>
+         <l pos="xxx">giesie-eejehtalleme</l>
       </lg>
       <mg>
          <tg>
@@ -7955,7 +7924,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gïknjelsovvedh</l>
+         <l pos="xxx">gïknjeldovvedh</l>
       </lg>
       <mg>
          <tg>
@@ -7983,7 +7952,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">gilmetahke</l>
       </lg>
@@ -8077,7 +8046,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">glijreldahkesne</l>
+         <l pos="xxx">glïjreldahkesne</l>
       </lg>
       <mg>
          <tg>
@@ -8178,7 +8147,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">goenehth</l>
       </lg>
@@ -8199,7 +8168,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">goenehthtråajja</l>
       </lg>
@@ -8672,7 +8641,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">gudtsene</l>
       </lg>
@@ -9008,7 +8977,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">guktieh</l>
       </lg>
@@ -9082,7 +9051,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST interj">
       <lg>
          <l pos="xxx">gussene</l>
       </lg>
@@ -9199,7 +9168,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST adv">
       <lg>
          <l pos="xxx">gæhtsan</l>
       </lg>
@@ -10236,7 +10205,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">heektove</l>
+         <l pos="xxx">hektove</l>
       </lg>
       <mg>
          <tg>
@@ -10422,7 +10391,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">hingsedålle</l>
+         <l pos="xxx">hïngsedålle</l>
       </lg>
       <mg>
          <tg>
@@ -10432,7 +10401,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">hinnedh</l>
+         <l pos="xxx">hïnnedh</l>
       </lg>
       <mg>
          <tg>
@@ -10441,7 +10410,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">hoejhkesjidh</l>
       </lg>
@@ -10510,7 +10479,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">huinesne</l>
+         <l pos="xxx">hujnesne</l>
       </lg>
       <mg>
          <tg>
@@ -10581,7 +10550,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">håagkije</l>
+         <l pos="xxx">håagkoje</l>
       </lg>
       <mg>
          <tg>
@@ -10644,7 +10613,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">håangke</l>
+         <l pos="xxx">håanghke</l>
       </lg>
       <mg>
          <tg>
@@ -10655,7 +10624,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">åangke</l>
+         <l pos="xxx">åanghke</l>
       </lg>
       <mg>
          <tg>
@@ -10849,7 +10818,19 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">isvelihke</l>
+         <l pos="xxx">isvelihks</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">hirveä</t>
+            <t pos="xxx">kauhea</t>
+            <t pos="xxx">kamala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">isveligs</l>
       </lg>
       <mg>
          <tg>
@@ -11188,7 +11169,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">jeeste</l>
       </lg>
@@ -11330,7 +11311,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">jïevege</l>
       </lg>
@@ -11353,7 +11334,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jih</l>
+         <l pos="xxx">jïh</l>
       </lg>
       <mg>
          <tg>
@@ -11374,7 +11355,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jijhtelidh</l>
+         <l pos="xxx">jïjhtelidh</l>
       </lg>
       <mg>
          <tg>
@@ -11420,7 +11401,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jijjehtovvedh</l>
+         <l pos="xxx">jïjjehtovvedh</l>
       </lg>
       <mg>
          <tg>
@@ -11528,7 +11509,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jijtjemsh</l>
+         <l pos="xxx">jïjtjemsh</l>
       </lg>
       <mg>
          <tg>
@@ -11538,7 +11519,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jijtse</l>
+         <l pos="xxx">jïjtse</l>
       </lg>
       <mg>
          <tg>
@@ -11576,13 +11557,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">jïlleskenteme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">= jïllemsgenhtseme</t>
+            <t pos="xxx">takakaihdin (poron sarvessa)</t>
          </tg>
       </mg>
    </e>
@@ -11597,7 +11578,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">jimkelidh</l>
       </lg>
@@ -11607,7 +11588,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">jïpsadidh</l>
       </lg>
@@ -11617,7 +11598,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">jïpse</l>
       </lg>
@@ -12058,7 +12039,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">jyörtedh</l>
       </lg>
@@ -12154,7 +12135,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jåvleeejehtalleme</l>
+         <l pos="xxx">jåvle-eejehtalleme</l>
       </lg>
       <mg>
          <tg>
@@ -12264,7 +12245,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">kilovmeter</l>
+         <l pos="xxx">kilomeetere</l>
       </lg>
       <mg>
          <tg>
@@ -12282,7 +12263,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">klaahtoehtidh</l>
       </lg>
@@ -12401,7 +12382,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">konhtovre</l>
+         <l pos="xxx">kontovre</l>
       </lg>
       <mg>
          <tg>
@@ -12412,7 +12393,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">konhtovrebarkije</l>
+         <l pos="xxx">kontovrebarkije</l>
       </lg>
       <mg>
          <tg>
@@ -12422,7 +12403,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">konhtovrebarkoe</l>
+         <l pos="xxx">kontovrebarkoe</l>
       </lg>
       <mg>
          <tg>
@@ -12432,7 +12413,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">konhtovreåvtehke</l>
+         <l pos="xxx">kontovreåvtehke</l>
       </lg>
       <mg>
          <tg>
@@ -12442,7 +12423,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">konhtovreviehkie</l>
+         <l pos="xxx">kontovreviehkie</l>
       </lg>
       <mg>
          <tg>
@@ -12518,7 +12499,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">krïjhte</l>
+         <l pos="xxx">krijhte</l>
       </lg>
       <mg>
          <tg>
@@ -12589,7 +12570,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">kroehkememaasjina</l>
+         <l pos="xxx">kroehkemasjijne</l>
       </lg>
       <mg>
          <tg>
@@ -12729,7 +12710,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">kveita</l>
       </lg>
@@ -12780,7 +12761,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">kåvrohte</l>
       </lg>
@@ -12880,7 +12861,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">laanteburriekonhtovre</l>
+         <l pos="xxx">laanteburriekontovre</l>
       </lg>
       <mg>
          <tg>
@@ -13205,7 +13186,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">ledtjie</l>
       </lg>
@@ -13278,7 +13259,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">leessemebijle</l>
+         <l pos="xxx">leessemebïjle</l>
       </lg>
       <mg>
          <tg>
@@ -13443,7 +13424,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST LMM pl">
       <lg>
          <l pos="xxx">lihphgierkie</l>
       </lg>
@@ -13545,7 +13526,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">lilla</l>
       </lg>
@@ -13637,7 +13618,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">lohkemesh</l>
       </lg>
@@ -14359,7 +14340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">maakenåhke</l>
       </lg>
@@ -14389,7 +14370,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">maales</l>
       </lg>
@@ -14585,7 +14566,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">maehtetje</l>
       </lg>
@@ -14823,7 +14804,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">measije</l>
       </lg>
@@ -15146,7 +15127,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">minuse</l>
+         <l pos="xxx">mijnuse</l>
       </lg>
       <mg>
          <tg>
@@ -15156,7 +15137,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">mirhkekruana</l>
+         <l pos="xxx">mïrhkekruana</l>
       </lg>
       <mg>
          <tg>
@@ -15177,7 +15158,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">modtovresaakoe</l>
+         <l pos="xxx">motovresaakoe</l>
       </lg>
       <mg>
          <tg>
@@ -15275,7 +15256,7 @@
       <mg>
          <tg>
             <t pos="xxx">muisto</t>
-            <t pos="xxx">muisti</t>
+            <t pos="xxx">muisti OBS TIL FST som har godt minne</t>
          </tg>
       </mg>
    </e>
@@ -15292,7 +15273,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">mojjesjidh</l>
+         <l pos="xxx">mojjesidh</l>
       </lg>
       <mg>
          <tg>
@@ -15342,7 +15323,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">mubpehte</l>
       </lg>
@@ -15489,7 +15470,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">myövhkes</l>
+         <l pos="xxx">myövhke</l>
       </lg>
       <mg>
          <tg>
@@ -15498,6 +15479,26 @@
       </mg>
    </e>
    <e>
+      <lg>
+         <l pos="xxx">mïevhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">pehmeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">myvhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">pehmeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">möövkes</l>
       </lg>
@@ -15964,7 +15965,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">napsh</l>
       </lg>
@@ -16200,7 +16201,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">njaelkie</l>
       </lg>
@@ -16234,7 +16235,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">njalhkedigks</l>
+         <l pos="xxx">njalhkedihks</l>
       </lg>
       <mg>
          <tg>
@@ -16359,7 +16360,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">njieljehts</l>
       </lg>
@@ -16369,7 +16370,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">nj̈ietsege</l>
       </lg>
@@ -16706,7 +16707,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">noh</l>
       </lg>
@@ -16738,7 +16739,17 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">nommelaehpie</l>
+         <l pos="xxx">nïmmelaehpije</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">yli 6 1/3 vuotias urosporo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">nymmelaehpije</l>
       </lg>
       <mg>
          <tg>
@@ -17006,13 +17017,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST interj">
       <lg>
-         <l pos="xxx">nåånåå</l>
+         <l pos="xxx">nåå-nåå</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">heihei</t>
+            <t pos="xxx">hei-hei</t>
          </tg>
       </mg>
    </e>
@@ -17046,7 +17057,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">ohtje</l>
       </lg>
@@ -17180,7 +17191,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">onnevielle</l>
+         <l pos="xxx">onnevïelle</l>
       </lg>
       <mg>
          <tg>
@@ -17229,7 +17240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST adv">
       <lg>
          <l pos="xxx">orresistie</l>
       </lg>
@@ -17351,7 +17362,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST adv">
       <lg>
          <l pos="xxx">ovve</l>
       </lg>
@@ -18138,9 +18149,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
-         <l pos="xxx">reaktaaamhtese</l>
+         <l pos="xxx">reakta-aamhtese</l>
       </lg>
       <mg>
          <tg>
@@ -18406,16 +18417,6 @@
       <mg>
          <tg>
             <t pos="xxx">parkita</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="xxx">rïsnjedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">kerätä (polttopuita)</t>
          </tg>
       </mg>
    </e>
@@ -18743,6 +18744,16 @@
    </e>
    <e>
       <lg>
+         <l pos="xxx">råanja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">kaatosade</t>
+         </tg>
+      </mg>
+   </e>
+   <e note="TIL FST">
+      <lg>
          <l pos="xxx">råanjedimmie</l>
       </lg>
       <mg>
@@ -18878,7 +18889,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">saalmegærja</l>
+         <l pos="xxx">salmegærja</l>
       </lg>
       <mg>
          <tg>
@@ -19122,16 +19133,6 @@
    <e>
       <lg>
          <l pos="xxx">seakoes</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">käheä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="xxx">seakoe</l>
       </lg>
       <mg>
          <tg>
@@ -19550,7 +19551,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">sisætnan</l>
+         <l pos="xxx">sinsætnan</l>
       </lg>
       <mg>
          <tg>
@@ -19565,7 +19566,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">sjaampove</l>
+         <l pos="xxx">sjampove</l>
       </lg>
       <mg>
          <tg>
@@ -19573,20 +19574,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">sjaavede</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hiljaa</t>
-            <t pos="xxx">ääneti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="xxx">sjaavedh</l>
       </lg>
       <mg>
          <tg>
@@ -19739,7 +19729,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">sjiehtesjidh</l>
+         <l pos="xxx">sjïehtesjidh</l>
       </lg>
       <mg>
          <tg>
@@ -19770,7 +19760,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">sjuevneds</l>
+         <l pos="xxx">sjuevnjeds</l>
       </lg>
       <mg>
          <tg>
@@ -19788,7 +19778,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">sjædtoes</l>
       </lg>
@@ -19923,7 +19913,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">skïemtjebijle</l>
+         <l pos="xxx">skïemtjebïjle</l>
       </lg>
       <mg>
          <tg>
@@ -19962,7 +19952,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">skïemtjesyjhtere</l>
       </lg>
@@ -19993,7 +19983,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">skïerke</l>
       </lg>
@@ -20159,7 +20149,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">skuvlehieme</l>
+         <l pos="xxx">skuvlehïejme</l>
       </lg>
       <mg>
          <tg>
@@ -20248,7 +20238,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">skoeknge</l>
       </lg>
@@ -20291,7 +20281,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">skålta</l>
+         <l pos="xxx">skalta</l>
       </lg>
       <mg>
          <tg>
@@ -20796,7 +20786,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">soelmeh</l>
       </lg>
@@ -20853,7 +20843,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">soevestehted</l>
+         <l pos="xxx">soevestehtedh</l>
       </lg>
       <mg>
          <tg>
@@ -21109,7 +21099,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">staajnehke</l>
       </lg>
@@ -21166,16 +21156,6 @@
    <e>
       <lg>
          <l pos="xxx">stasjovne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">asema</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="xxx">staasjovne</l>
       </lg>
       <mg>
          <tg>
@@ -21288,7 +21268,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">stoerevielle</l>
+         <l pos="xxx">stoerevïelle</l>
       </lg>
       <mg>
          <tg>
@@ -21298,7 +21278,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">stoerrevielle</l>
+         <l pos="xxx">stoerrevïelle</l>
       </lg>
       <mg>
          <tg>
@@ -21367,7 +21347,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">strerkies</l>
       </lg>
@@ -21753,7 +21733,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">Svöörje</l>
+         <l pos="xxx">Sveerje</l>
       </lg>
       <mg>
          <tg>
@@ -21782,7 +21762,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">syjhtere</l>
       </lg>
@@ -21995,7 +21975,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">såårhte</l>
       </lg>
@@ -22198,7 +22178,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">teatere</l>
+         <l pos="xxx">teaatere</l>
       </lg>
       <mg>
          <tg>
@@ -22206,7 +22186,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">teknigkere</l>
       </lg>
@@ -22218,7 +22198,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">telefovnhnommere</l>
+         <l pos="xxx">tellefovnenommere</l>
       </lg>
       <mg>
          <tg>
@@ -22302,7 +22282,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">tjaebpie</l>
       </lg>
@@ -22698,7 +22678,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjidtj’aahka</l>
+         <l pos="xxx">tjidtjaahka</l>
       </lg>
       <mg>
          <tg>
@@ -22709,7 +22689,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjidj’aajja</l>
+         <l pos="xxx">tjidtjaajja</l>
       </lg>
       <mg>
          <tg>
@@ -22730,7 +22710,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjiehtjele</l>
+         <l pos="xxx">tjïehtjele</l>
       </lg>
       <mg>
          <tg>
@@ -22906,7 +22886,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">tjïjhke</l>
       </lg>
@@ -22926,7 +22906,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">tjïjhkestidh</l>
       </lg>
@@ -23375,7 +23355,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">tjyöresthtjelmieh</l>
       </lg>
@@ -23385,7 +23365,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">tjöödtjhsijjie</l>
       </lg>
@@ -23634,7 +23614,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">tjåenhtjeme</l>
       </lg>
@@ -23684,7 +23664,18 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
+      <lg>
+         <l pos="xxx">tjahkeme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">kampa</t>
+            <t pos="xxx">häkilä (kenkäheinän käsittelyä varten)</t>
+         </tg>
+      </mg>
+   </e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">tjåhkeme</l>
       </lg>
@@ -23737,7 +23728,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">traaktovre</l>
+         <l pos="xxx">traktore</l>
       </lg>
       <mg>
          <tg>
@@ -23817,7 +23808,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">tråahpoe</l>
       </lg>
@@ -23828,7 +23819,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">tråahpa</l>
       </lg>
@@ -23865,7 +23856,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tråamhpoeh</l>
+         <l pos="xxx">tråmhpoeh</l>
       </lg>
       <mg>
          <tg>
@@ -23893,7 +23884,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">tröjjes</l>
       </lg>
@@ -24110,7 +24101,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">tsåaptsele</l>
       </lg>
@@ -24152,7 +24143,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">tuvriste</l>
       </lg>
@@ -24162,7 +24153,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">turriste</l>
       </lg>
@@ -24309,7 +24300,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vaajeshgærja</l>
+         <l pos="xxx">vaajesegærja</l>
       </lg>
       <mg>
          <tg>
@@ -24317,7 +24308,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">vaajhkoen</l>
       </lg>
@@ -24499,7 +24490,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">vadtes</l>
       </lg>
@@ -24639,7 +24630,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">vaenies</l>
       </lg>
@@ -25226,7 +25217,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">vearnga</l>
       </lg>
@@ -25293,7 +25284,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vievtjedidh</l>
+         <l pos="xxx">vïevtjedidh</l>
       </lg>
       <mg>
          <tg>
@@ -25302,9 +25293,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
-         <l pos="xxx">vievtjije</l>
+         <l pos="xxx">vïevtjije</l>
       </lg>
       <mg>
          <tg>
@@ -25494,7 +25485,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vissjehtovvedh</l>
+         <l pos="xxx">vïssjehtovvedh</l>
       </lg>
       <mg>
          <tg>
@@ -25969,7 +25960,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">vueperes</l>
       </lg>
@@ -26270,7 +26261,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">övtebe</l>
+         <l pos="xxx">evtebe</l>
       </lg>
       <mg>
          <tg>
@@ -26456,7 +26447,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">åanehksguapa</l>
+         <l pos="xxx">åenehksguapa</l>
       </lg>
       <mg>
          <tg>
@@ -26563,9 +26554,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
-         <l pos="xxx">åajjienååleh</l>
+         <l pos="xxx">åejjienååleh</l>
       </lg>
       <mg>
          <tg>
@@ -26646,7 +26637,7 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">åeremetjiehtjele</l>
+         <l pos="xxx">åeremetjïehtjele</l>
       </lg>
       <mg>
          <tg>
@@ -26745,7 +26736,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">åesiesmaennie</l>
       </lg>
@@ -26755,7 +26746,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">åesiesålma</l>
       </lg>
@@ -27032,7 +27023,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="TIL FST">
       <lg>
          <l pos="xxx">åvtemennie</l>
       </lg>
@@ -27119,13 +27110,23 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="USIKKER">
       <lg>
          <l pos="xxx">åårkeniste</l>
       </lg>
       <mg>
          <tg>
             <t pos="xxx">urkuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">daanbien</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">tänään</t>
          </tg>
       </mg>
    </e>
