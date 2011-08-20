@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="adv">aadtjegh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vastikään</t>
+            <t pos="adv">vasta</t>
+            <t pos="adv">juuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aadtjen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vastikään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aaj</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">myös</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aajmene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">jäljellä</t>
+            <t pos="adv">tallella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aatsolen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ylle</t>
+            <t pos="adv">yllä</t>
+            <t pos="adv">yli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aavone</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">iloissaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aelhkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">helppo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aarebi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ennen</t>
+            <t pos="adv">ensin</t>
+            <t pos="adv">aiemmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ahtjetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vähäsen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ajve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">alvas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+            <t pos="adv">kauhean</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">annje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vielä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">barre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">biejjegi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">päivisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bijjelen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">yli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bijjene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ylhäällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bijjiebasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ylemmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">boelvhjöölki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">polvillaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bæjngolen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ulkopuolella</t>
+            <t pos="adv">ulkopuolelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">båadtsode</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">alasti</t>
+            <t pos="adv">alaston</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bååstede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">takaisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bååstide</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">takaisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">daagkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">täällä</t>
+            <t pos="adv">tätä kautta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">daajkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">täällä(päin)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">daebpene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">täällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">daelie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">daelvege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">talvella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">daenbiejjien</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tänään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dahkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sinne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dallah</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">heti</t>
+            <t pos="adv">saman tien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dallahmasten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nopeasti</t>
+            <t pos="adv">hetimmiten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dallatjinie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">heti</t>
+            <t pos="adv">saman tien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dallegh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">heti</t>
+            <t pos="adv">saman tien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">debpene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tuolla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dejpeli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">entisaikaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dellie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">silloin</t>
+            <t pos="adv">sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">die</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">niin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">diekie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">doekoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vasten</t>
+            <t pos="adv">kohden</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dohkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sinne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dovne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vallan</t>
+            <t pos="adv">aivan</t>
+            <t pos="adv">kaikkiaan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">myöten</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">myös</t>
+            <t pos="adv">jopa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dubpene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tuolla (kaukana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">duelie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ole hyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">siinä (on)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">duvlie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">siinä (on)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dæjman</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">viime vuonna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dåvvese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kauemmas rannasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">easkah</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">eensilaakan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kunnolla</t>
+            <t pos="adv">hyvin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">eevre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kokonaan</t>
+            <t pos="adv">aivan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ektesne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">yhdessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ektelen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">samaan suuntaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ektine</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">yhdessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ennje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vielä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gaaje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+            <t pos="adv">aivan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">kova</t>
+            <t pos="adv">kauhea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gaajh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+            <t pos="adv">aivan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">kova</t>
+            <t pos="adv">kauhea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gaskoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">keskellä</t>
+            <t pos="adv">keskeltä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gidtjh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">näes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">giesege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kesällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gïjrege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">keväällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gogkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">mitä kautta</t>
+            <t pos="adv">miltä kohdin</t>
+            <t pos="adv">missä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">goske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kunnes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gosse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">minne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">kun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gubpene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">missä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gubpede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">mistä (suunnasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">guhkiem</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kauan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">guhkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">pitkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">guktie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kuinka</t>
+            <t pos="adv">miten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gusnie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">missä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gustie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">mistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gåabph</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">minne</t>
+            <t pos="adv">mihin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gåessie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">milloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gåhkese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kauas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hijvenlaakan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">hyvin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">iktesth</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">jatkuvasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">iktegisth</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">jatkuvasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ikth</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kerran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">inhtsie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">erityisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">jallan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">hädin tuskin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">jillene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">lännessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">jirreden</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">huomenna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">joekoen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">varsin</t>
+            <t pos="adv">erityisen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">erityinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">jååktan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">eilen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">kaanne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ehkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e note="USIKKER">
+      <lg>
+         <l pos="adv">ledtjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">onkohan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">læjhkan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kuitenkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">mahte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">melkein</t>
+            <t pos="adv">lähes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">meatan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">mukana</t>
+            <t pos="adv">mukaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">minngemes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">lopuksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">miste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vahingossa</t>
+            <t pos="adv">tarkoittamatta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">murrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">viihtyisä</t>
+            <t pos="adv">rauhaisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">naa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+            <t pos="adv">varsin</t>
+            <t pos="adv">melko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">naemhtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">näin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nimhtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">näin</t>
+            <t pos="adv">täten</t>
+            <t pos="adv">tällä tavoin</t>
+            <t pos="adv">siten</t>
+            <t pos="adv">sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">noerhtelen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">pohjoispuolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">noerhtelistie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">pohjoisesta</t>
+            <t pos="adv">pohjoisempaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">noerhtese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">pohjoiseen päin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">novh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">niin</t>
+            <t pos="adv">kyllä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nuekies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kyllin</t>
+            <t pos="adv">kylliksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nåljode</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sarveton</t>
+            <t pos="adv">nupo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">oktegh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">yksin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">olkese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ulos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">seamma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sama(nlainen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">seenhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">myöhä(inen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">slahkode</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vinossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">soejmetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">hissukseen</t>
+            <t pos="adv">pikku hiljaa</t>
+            <t pos="adv">rauhallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">soejmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">hissukseen</t>
+            <t pos="adv">pikku hiljaa</t>
+            <t pos="adv">rauhallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">sontere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vasten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">tjaebpieslaakan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kauniisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">tjarke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+            <t pos="adv">ponnekkaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">tjööjjeste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">pahoinvointinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">tjåanghkan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">yhteen</t>
+            <t pos="adv">kokoon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">varki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">pian</t>
+            <t pos="adv">nopeasti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">heti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">varhain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">varke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">pian</t>
+            <t pos="adv">nopeasti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">heti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">varhain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vielie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vielä</t>
+            <t pos="adv">enää</t>
+            <t pos="adv">enemmän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vihth</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">voestegh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ensin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vuelelen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">alla</t>
+            <t pos="adv">alapuolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vuelnie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">alhaalla</t>
+            <t pos="adv">alla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vöölle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+            <t pos="adv">valtavan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">våålese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">alas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">öövre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aivan</t>
+            <t pos="adv">kokonaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">åebrelen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">syrjään</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">ylitse</t>
+            <t pos="adv">enemmän kuin tarpeen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ålkene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ulkona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ålkone</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ulkona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ålkoelisnie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ulkopuolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ålvas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kamala</t>
+            <t pos="adv">kauhea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ålvoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kamala</t>
+            <t pos="adv">kauhea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">alvas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kamala</t>
+            <t pos="adv">kauhea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">kovin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ånnetji</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vähäsen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">åvtine</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">edeltä</t>
+            <t pos="adv">ensinnä</t>
+         </tg>
+      </mg>
+   </e>
+</r>

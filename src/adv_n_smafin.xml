@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="adv_n">reaktoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv_n">totta</t>
+            <t pos="adv_n">oikein</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv_n">oikeus</t>
+            <t pos="adv_n">totuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv_n">maaje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv_n">tosin</t>
+            <t pos="adv_n">vaikkakin</t>
+         </tg>
+      </mg>
+   </e>
+</r>

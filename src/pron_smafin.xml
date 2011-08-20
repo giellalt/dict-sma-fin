@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="pron">dah</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">ne</t>
+            <t pos="pron">he</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">datne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">sinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dïhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">se</t>
+            <t pos="pron">hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dijjieh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">te</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dåtnoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">te kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">manne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">minä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">månnoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">me kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">satne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hän (itse)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">såtnoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">he kaksi (itse)</t>
+         </tg>
+      </mg>
+   </e>
+</r>

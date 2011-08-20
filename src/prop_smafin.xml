@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="prop">Dearna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="prop">Tärnaby</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Faepmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="prop">Fatmomakke (Ruotsissa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Nöörje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="prop">Norja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Sveerje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="prop">Ruotsi</t>
+         </tg>
+      </mg>
+   </e>
+</r>
