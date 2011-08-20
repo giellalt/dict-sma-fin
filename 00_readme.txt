@@ -8,6 +8,19 @@ I. pos info in the xml file:
   2. lemma found with exactly one pos value but potentially different values
   3. lemma not found
 
+No lemma found in the existing source files for smaoahpa:
+src>grep '<poses/>' out_00/smafin.xml.xml | wc -l
+     692
+
+Lemma found in the existing source files for smaoahpa:
+src>grep '<poses>' out_00/smafin.xml.xml | wc -l 
+    1857
+
+Ambiguous pos assigning according to the data found in smaoahpa files:
+rc>grep count out_03/smafin.xml.xml | wc -l 
+      11
+
+
 II. cleanup entries
 
 III. CLT have to agree on a common practice when working with inc-files and xml-files
@@ -17,4 +30,11 @@ generated from csv inc-files.
  2. Why not to work with the xml-transformed data if already there?
 
  3. If the inc-file are changed then at least the structure should be kept.
+
+
+src>grep '<poses/>' out_00/smafin.xml.xml | wc -l 
+     692
+src>grep '<poses>' out_00/smafin.xml.xml | wc -l 
+    1857
+
 
