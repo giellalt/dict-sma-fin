@@ -39,4 +39,24 @@ generated from csv inc-files.
 
  3. If the inc-file are changed then at least the structure should be kept.
 
+Legend for the field separators in xxx_smafin.txt file:
+
+___ (instead of TAB) = separates each main column such as lemma, translations, comments, possible pos, etc.
+
+$ (instead of ;) = separates meaning groups in the translation column
+
+| (instead of ,) = separates translations within a meaning group
+
+Examples:
+aktine ___ yhdessä
+amma ___ toki $ pas | päs
+askedh ___ kuutamo | kuunloiste
+asvedihks ___ pelottava | kauhea
+baahkes ___ lämmin
+baahtjetje ___ pikkupoika
+baakohth ___ sanaton ___ USIKKER
+baaktoe ___ kautta | ohitse
+baalte ___ sivulla | vieressä $ ohi
+
+Please keep it like that!
 
