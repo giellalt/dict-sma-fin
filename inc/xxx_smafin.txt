@@ -1,538 +1,573 @@
-aahketje-guaktah ___ hän ja isoäitinsä
-aehtjebe ___ heidän isänsä
-aajjetje-guaktah ___ hän ja isoisänsä
-aajmojne ___ jäljellä | tallella
-aamhtse ___ asia | aihe ___ TIL FST
-aamhte ___ asia | aihe ___ TIL FST
-aamhtsegïetedallije ___ virkailija ___ TIL FST
-aarh ___ varhainen
-aareh ___ varhainen
-abpe ___ koko(nainen)
-aeblehts ___ laiska
-aejlies ___ pyhä
-aellieh ___ älä
-aarebistie ___ aikaisemmin | ennestään | edeltä
-aevere ___ erityisemmin
-aktine ___ yhdessä
-amma ___ toki $ pas | päs
-askedh ___ kuutamo | kuunloiste
-asvedihks ___ pelottava | kauhea
-baahkes ___ lämmin
-baahtjetje ___ pikkupoika
+aahketje-guaktah ___ n ___ hän ja isoäitinsä
+aehtjebe ___ n ___ heidän isänsä ___ INFL
+aajjetje-guaktah ___ n ___ hän ja isoisänsä
+aajmojne ___ adv ___ jäljellä | tallella
+aamhtese ___ n ___ asia | aihe 
+aamhte ___ n ___ asia | aihe ___ TIL FST
+aamhtesegïetedallije ___ n ___ virkailija ___ TIL FST
+aarh ___ a ___ varhainen
+aareh ___ a ___ varhainen
+abpe ___ indef ___ koko(nainen)
+aeblehts ___ a ___ laiska
+aejlies ___ a ___ pyhä
+aellieh ___ v ___ älä ___ INFL
+aarebistie ___ adv ___ aikaisemmin | ennestään | edeltä
+aevere ___ adv ___ erityisemmin
+aktene ___ adv ___ yhdessä
+ektine ___ adv ___ yhdessä
+amma ___ pcle ___ toki $ pas | päs
+askedh ___ x ___ kuutamo | kuunloiste ___ USIKKER
+asvedihks ___ a ___ pelottava | kauhea
+baahkes ___ a ___ lämmin
+baahtjetje ___ n ___ pikkupoika ___ TIL FST
 baakohth ___ sanaton ___ USIKKER
-baaktoe ___ kautta | ohitse
-baalte ___ sivulla | vieressä $ ohi
-badth ___ han | hän | toki
-bådtja ___ voide
-baerehke ___ aurinkoinen rinne | auringonpuoli | auringonpaiste
-bahkasidh ___ katketa ___ USIKKER
-balka ___ kenkäheinäpunos | jossa on useita sormauksia
-barkoes ___ työntäyteinen
-bealese ___ puoleen | luo $ lisäkkeeksi
-bealesne ___ puolella | puolessa
-beapmoejurjiehtæjja ___ kokki | keittäjä
-beetnegh ___ raha(t)
-beetnegadtje ___ vähän rahaa
-bejsjeme ___ oviaukon molemmin puolin oleva tila kodassa ___ TIL FST
-bejsjememoerh ___ ovenpielipuut | permikkäpuut
-bestele ___ terävä
-bïegketje ___ tuulenvire
-biejjienbaerehke ___ aurinkoinen rinne | auringonpuoli | auringonpaiste
-bïejstenidh ___ turmeltua | mennä pilalle
-bïevestovvedh ___ hikoilla | tulla hikiseksi
-bijjede ___ ylhäältä
-bijjemes ___ ylin
-bïjlevuejemelohkehtæjja ___ autokoulun opettaja
-bïjre ___ ympäri
-bïjredh ___ jyrsiä | järsiä
-bïjvelåbpoe ___ lämpimämpi
-bissemevuebnie ___ paistouuni
-bist ___ taas | sitten | puolestaan
-blomma ___ kukka(nen) ___ USIKKER
-boehth ___ vastapäätä
-boelnedh ___ kuihtua | kellastua
-boenge ___ povi
-boevedh ___ valvoa (ja pitää hauskaa)
-bovtsebïenje ___ porokoira
-buajtehke ___ lihava | rasvainen
-buaregh ___ terve (käteltäessä)
-buelielidh ___ palaa (nopeasti)
-buerebe ___ parempi
-buerkiestidh ___ selittää | neuvoa
-bullere ___ pallero | pallo
-byjreske ___ ympäristö
-byöpmedimmie ___ ruoka
-byöpmetjh ___ vähän ruokaa
-bæjhpa ___ piippu
-bæjhpoe ___ piippu
-bæjjesvåårti ___ ylöspäin | tunturiin | kevätmuuton suuntaan
-bæjngoldsmåvhkah ___ päällyshousut
-bööremes ___ paras
-båarasåbpoe ___ vanhempi
-båarasommes ___ vanhin
-bååhperidh ___ ihmetellä | hämmästellä | päivitellä
-daamhtaj ___ usein | jatkuvasti
-daamhtetje ___ usein | jatkuvasti
-daanhtsoestidh ___ tanssahtaa
-daase ___ tähän
-daate ___ tämä
-daatje ___ norjalainen | ruotsalainen
-daatore ___ tietokone
-daennie ___ tässä $ tänä
-daesnie ___ tässä
-daestie ___ tästä
-dagke ___ kos | kös
-dagkeres ___ sellainen
-dagkere ___ sellainen
-dalhkedh ___ tulla (esiin) | ilmestyä
-dan ___ sen | siihen $ niin
-darhkh ___ sitten $ kaan | kään
+baaktoe ___ po ___ kautta | ohitse
+baalte ___ po ___ sivulla | vieressä $ ohi
+badth ___ pcle ___ han | hän | toki
+bådtja ___ n ___ voide
+baerehke ___ n ___ aurinkoinen rinne | auringonpuoli | auringonpaiste
+bahkasidh ___ x ___ katketa ___ USIKKER
+balka ___ n ___ kenkäheinäpunos | jossa on useita sormauksia
+barkoes ___ a ___ työntäyteinen
+bealese ___ po ___ puoleen | luo $ lisäkkeeksi
+bealese ___ pr ___ puoleen | luo  
+bealesne ___ po ___ puolella | puolessa
+bealesne ___ pr ___ puolella | puolessa
+beapmoejurjiehtæjja ___ n ___ kokki | keittäjä ___ TIL FST
+beetnege ___ n ___ raha
+beetnegadtje ___ n ___ vähän rahaa ___ TIL FST
+bejsjeme ___ n ___ oviaukon molemmin puolin oleva tila kodassa ___ TIL FST
+bejsjememoere ___ n ___ ovenpielipuut | permikkäpuut
+bestele ___ a ___ terävä ___ INFL
+bïegketje ___ n ___ tuulenvire ___ TIL FST
+biejjienbaerehke ___ n ___ aurinkoinen rinne | auringonpuoli | auringonpaiste ___ TIL FST
+bïejstenidh ___ v ___ turmeltua | mennä pilalle
+bïevestovvedh ___ v ___ hikoilla | tulla hikiseksi
+bijjede ___ adv ___ ylhäältä
+bijjemes ___ a ___ ylin ___ INFL
+bïjlevuejemelohkehtæjja ___ n ___ autokoulun opettaja
+bïjre ___ po ___ ympäri
+bïjre ___ adv ___ ympäri
+bïjredh ___ v ___ jyrsiä | järsiä
+bïjvelåbpoe ___ a ___ lämpimämpi ___ INFL
+bissemevuebnie ___ n ___ paistouuni ___ TIL FST
+bist ___ pcle ___ taas | sitten | puolestaan
+blomma ___ n ___ kukka(nen) ___ USIKKER
+boehth ___ po ___ vastapäätä
+boelnedh ___ v ___ kuihtua | kellastua
+boenge ___ n ___ povi
+boevedh ___ v ___ valvoa (ja pitää hauskaa)
+bovtsebïenje ___ n ___ porokoira ___ TIL FST
+buajtehks ___ a ___ lihava | rasvainen
+buaregh ___ interj ___ terve (käteltäessä)
+buelielidh ___ v ___ palaa (nopeasti)
+buerebe ___ a ___ parempi ___ INFL
+buerebe ___ adv ___ parempi
+buerkiestidh ___ v ___ selittää | neuvoa
+bullere ___ n ___ pallero | pallo
+byjreske ___ n ___ ympäristö
+byöpmedimmie ___ n ___ ruoka OBS ___ TIL FST
+byöpmetje ___ n ___ vähän ruokaa ___ TIL FST 
+bæjhpa ___ n ___ piippu
+bæjhpoe ___ n ___ piippu
+bæjjesvåårti ___ adv ___ ylöspäin | tunturiin | kevätmuuton suuntaan
+bæjngoldsmåvhka ___ n ___ päällyshousut
+bööremes ___ a ___ paras ___ INFL
+båarasåbpoe ___ a ___ vanhempi ___ INFL
+båarasommes ___ a ___ vanhin ___ INFL
+bååhperidh ___ v ___ ihmetellä | hämmästellä | päivitellä
+daamhtaj ___ adv ___ usein | jatkuvasti
+daamhtetje ___ adv ___ usein | jatkuvasti
+daanhtsoestidh ___ v ___ tanssahtaa ___ TIL FST
+daase ___ adv ___ tähän
+daate __ dem ___ tämä
+daatje ___ n ___ norjalainen | ruotsalainen
+daatore ___ n ___ tietokone
+daennie ___ dem ___ tässä $ tänä ___ INFL
+daesnie ___ dem ___ tässä ___ INFL
+daestie ___ dem ___ tästä ___ INFL
+dagke ___ pcle ___ kos | kös
+dagkeres ___ dem ___ sellainen
+dagkere ___ dem ___ sellainen ___ INFL
+dalhkedh ___ v ___ tulla (esiin) | ilmestyä
+dan ___ pcle ___ niin
+dan ___ pers ___ sen ___ INFL
+dan ___ dem ___ siihen ___ INFL
+darhkh ___ pcle ___ sitten $ kaan | kään ___ TIL FST
 darks ___ sitten $ kaan | kään ___ USIKKER
-darhke ___ sitten $ kaan | kään
-dastegh ___ yhtäkkiä $ siltä varalta että
-deavabaahkoe ___ mäenrinne
-deavetje ___ pieni kumpu
-dajkoe ___ tuolla (ympäriinsä) ___ USIKKER
-dejpelatje ___ entisaikainen | muinainen ___ USIKKER
-dejbaaletje ___ entisaikainen | muinainen ___ USIKKER
-dennie ___ sinä | siinä
-desnie ___ siinä
-destie ___ siitä
-dïenesjidh ___ tienata | ansaita
-dïeves ___ täysi
-dievviedidh ___ tavata | kohdata | osua
-dih ___ te (lyhyt muoto sanasta dijjieh)
-dijpedh ___ napata | tarttua $ käydä onkeen
-dïmperebuvrie ___ puuvaja
-dïsse ___ sille | hänelle $ sinne
-dle ___ sitten (sanan dellie lyhyt muoto)
-doeka ___ vasten | kohden
+darhke ___ pcle ___ sitten $ kaan | kään
+dastegh ___ cs ___ siltä varalta että
+dastegh ___ adv ___ yhtäkkiä __ TIL FST
+deavabaahkoe ___ n ___ mäenrinne __ TIL FST
+deavetje ___ n ___ pieni kumpu __ TIL FST
+dajkoe ___ adv ___ tuolla (ympäriinsä)
+dejpelatje ___ x ___ entisaikainen | muinainen ___ USIKKER
+dejbaaletje ___ x ___ entisaikainen | muinainen ___ USIKKER
+dennie  ___ dem ___ sinä | siinä ___ INFL
+desnie ___ dem ___ siinä ___ INFL
+destie ___ dem ___ siitä ___ INFL
+dïenesjidh ___ v ___ tienata | ansaita
+dïeves ___ a ___ täysi ___ INFL
+dievviedidh ___ v ___ tavata | kohdata | osua
+dih ___ pcle ___ te (lyhyt muoto sanasta dijjieh)
+dijpedh ___ v ___ napata | tarttua $ käydä onkeen
+dïmperebuvrie ___ n ___ puuvaja __ TIL FST
+dïsse ___ pers ___ sille | hänelle $ sinne ___ INFL
+dle ___ adv ___ sitten (sanan dellie lyhyt muoto)
+doeka ___ adv ___ vasten | kohden
 doeltejehtedh ___ kiehauttaa ___ USIKKER
-doeltestidh ___ kiehahtaa
-doeltijidh ___ alkaa kiehua
-doeredidh ___ kokea (verkkoja)
-doete ___ se (sinua lähempänä oleva)
-dohte ___ tuo (kauempana oleva)
-dovletje ___ entinen | muinainen
-dovtesgierkie ___ tukikivi ___ TIL FST
-duakan ___ taakse
-duarstabiejjegi ___ torstaisin ___ TIL FST
-dubpelen ___ takana | tuolla puolen
-dubpiebasse ___ tuonnemmaksi
-dubpielisnie ___ tuonnempana
-duekesne ___ takana
-dunnie ___ siinä $ tuolla
-dusnie ___ tuolla kaukana
-duvvene ___ rannikolla | vuonolla
-dööpmedh ___ tuomita
-dööpmehtæjja ___ tuomari | tuomitsija
-dööpmesovvedh ___ saada tuomio
-döörkenes ___ vavistus | puistatus ___ TIL FST
-dåajmetje ___ kohtelias
-dåaresth ___ poikki | yli
-dåeriesmoere ___ kodan kynnyspuu
-dålletje ___ pieni tuli
-dån ___ sinä (sanan datne lyhyt muoto)
-dåvnetråajjoe ___ untuvatakki ___ USIKKER
-davvodh ___ korjata
-dåårrehtidh ___ hankkia | huolehtia
-eajhnadovvedh ___ päättää | aikoa | saada päähänsä
-ealehke ___ paha | työläs | ikävä $ katkera (ruuasta) ___ TIL FST
-eanna ___ aivan ___ USIKKER
-earoeladtje ___ rehellinen ___ TIL FST
-eavadidh ___ välittää
-eeremes ___ ennen kaikkea
-enn ___ kuin
-faahketji ___ yhtäkkiä | saman tien
-faelhkiebaernie ___ sulhanen
+doeltestidh ___ v ___ kiehahtaa __ TIL FST
+doeltijidh ___ v ___ alkaa kiehua
+doeredidh ___ v ___ kokea (verkkoja)
+doete ___ dem ___ se (sinua lähempänä oleva)
+dohte ___ dem ___ tuo (kauempana oleva)
+dovletje ___ a ___ entinen | muinainen
+dovtesgierkie ___ n ___ tukikivi ___ TIL FST
+duakan ___ po ___ taakse
+duakan ___ pr ___ taakse
+duarstabiejjegi ___ adv ___ torstaisin ___ TIL FST
+dubpelen ___ adv ___ takana | tuolla puolen
+dubpiebasse ___ adv ___ tuonnemmaksi
+dubpielisnie ___ adv ___ tuonnempana
+duekesne ___ pr ___ takana
+duekesne ___ po ___ takana
+dunnie ___ dem ___ siinä $ tuolla ___ INFL
+dusnie ___ dem ___ tuolla kaukana ___ INFL
+duvvene ___ adv ___ rannikolla | vuonolla
+dööpmedh ___ v ___ tuomita
+dööpmehtæjja ___ n ___ tuomari | tuomitsija ___ TIL FST
+dööpmesovvedh ___ v ___ saada tuomio
+döörkenes ___ n ___ vavistus | puistatus ___ TIL FST
+dåajmetje ___ a ___ kohtelias
+dåaresth ___ po ___ poikki | yli
+dåaresth ___ pr ___ poikki | yli
+dåeriesmoere ___ n ___ kodan kynnyspuu
+dålletje ___ n ___ pieni tuli ___ TIL FST
+dån ___ pcle ___ sinä (sanan datne lyhyt muoto) OBS
+dåvnetråajjoe ___ n ___ untuvatakki ___ USIKKER
+davvodh ___ v ___ korjata
+dåårrehtidh ___ v ___ hankkia | huolehtia
+eajhnadovvedh ___ v ___ päättää | aikoa | saada päähänsä
+ealehke ___ a ___ paha | työläs | ikävä $ katkera (ruuasta) ___ TIL FST
+eanna ___ x ___ aivan ___ USIKKER
+earoeladtje ___ a ___ rehellinen ___ TIL FST
+eavadidh ___ v ___ välittää
+eeremes ___ adv ___ ennen kaikkea
+enn ___ cc ___ kuin
+faahketji ___ adv ___ yhtäkkiä | saman tien
+faelhkiebaernie ___ n ___ sulhanen ___ TIL FST
 fearhkasidh ___ sortua | valua ___ USIKKER
-fehkiehtidh ___ havahtua
-fïereguhte ___ jokainen
-fïerhne ___ jokainen ___ TIL FST
-fïerhte ___ jokainen
-fijfere ___ (koivun)pahka
-firredh ___ ravistaa
-firrestidh ___ ravistella (vähän)
-fuehpesne ___ kiireessä $ kiireinen
-fuehpiemisnie ___ kiireessä ___ USIKKER
-fåvhta ___ vouti
-gaajeh ___ kovin | aivan $ kova | kauhea
-gaajhke ___ kaikki
-gaajhkesh ___ kaikki (yhdessä)
-gaaktsede ___ kahdeksas
-gaale ___ karsina
-gaamhparostedh ___ muksahtaa nurin
-gaamtsehth ___ käsineittä ___ USIKKER
-gaarkeles ___ selvä (vastakohta sotkuiselle)
-gaavalahke ___ kesy poro | joka helposti seuraa ihmistä
-gaavhtan ___ vuoksi | tähden $ suhteen
-gadtsegarhke ___ veijari
-gaedtiebealesne ___ rannan puolella ___ TIL FST adv
-gejvielidh ___ koota takaisin omia teitään kulkevat porot
-gahtjedidh ___ putoilla
-gahtjehtalledh ___ pudottaa | pudotella
-gajhkedasse ___ kuivumaan ___ USIKKER
-galhkove ___ päättäjäiset ___ USIKKER
-gallasodtje ___ kylläinen
-gallesh ___ monet
-garres ___ kova
-gaskese ___ väliin
-gaskevahka ___ keskiviikko ___ TIL FST
-gavtjedh ___ kaatua selälleen
-geahpa ___ keuhko
-gyöjnetje ___ pikkutie
-geehtedidh ___ pitää varansa | varoa
-gellie ___ (kuinka) monta $ aika lailla
-gie ___ kuka
+fehkiehtidh ___ v ___ havahtua
+fïereguhte ___ indef ___ jokainen
+fïerhne ___ indef ___ jokainen ___ TIL FST
+fïerhte ___ indef ___ jokainen
+fijfere ___ n ___ (koivun)pahka
+firredh ___ v ___ ravistaa
+firrestidh ___ v ___ ravistella (vähän)
+fuehpesne ___ n ___ kiireessä $ kiireinen ___ INFL
+fuehpiemisnie ___ x ___ kiireessä ___ USIKKER
+fåvhta ___ n ___ vouti
+gaaje ___ adv ___ kovin | aivan $ kova | kauhea
+gaajhke ___ indef ___ kaikki
+gaajhkesh ___ coll ___ kaikki (yhdessä)
+gaaktsede ___ ord ___ kahdeksas
+gaale ___ n ___ karsina
+gaamhparostedh ___ v ___ muksahtaa nurin
+gaamtsehth ___ x ___ käsineittä ___ USIKKER
+gaarkeles ___ a ___ selvä (vastakohta sotkuiselle)
+gaavalahke ___ n ___ kesy poro | joka helposti seuraa ihmistä
+gaavhtan ___ pr ___ vuoksi | tähden $ suhteen
+gaavhtan ___ po ___ vuoksi | tähden $ suhteen
+gadtsegarhke ___ n ___ veijari
+gaedtiebealesne ___ adv ___ rannan puolella ___ TIL FST adv
+gejvielidh ___ v ___ koota takaisin omia teitään kulkevat porot
+gahtjedidh ___ v ___ putoilla
+gahtjehtalledh ___ v ___ pudottaa | pudotella
+gajhkedasse ___ x ___ kuivumaan ___ USIKKER
+galhkove ___ x ___ päättäjäiset ___ USIKKER
+gallas ___ a ___ kylläinen
+gallesh ___ coll ___ monet
+garres ___ a ___ kova ___ INFL
+gaskese ___ po ___ väliin
+gaskevahka ___ n ___ keskiviikko ___ TIL FST
+gavtjedh ___ v ___ kaatua selälleen
+geahpa ___ n ___ keuhko
+gyöjnetje ___ n ___ pikkutie
+geehtedidh ___ v ___ pitää varansa | varoa
+gellie ___ num ___ (kuinka) monta
+gellie ___ indef ___ aika lailla
+gie ___ rel ___ kuka
 gïeltegs ___ jännittävä ___ USIKKER
-gïengele ___ syvä
-gïertedh ___ sietää | kärsiä
-giesie-eejehtalleme ___ kesäloma
-gïetetje ___ kätönen | pikku käsi
-gietskiebasse ___ lähemmäksi
-gïhpetje ___ hiukan kermaa
-gïtnjele ___ kyynel
-gille ___ muutama
-gilledidh ___ mennä makuulle
+gïengele ___ a ___ syvä
+gïertedh ___ v ___ sietää | kärsiä
+giesie-eejehtalleme ___ n ___ kesäloma ___ TIL FST
+gïetetje ___ n ___ kätönen | pikku käsi ___ TIL FST
+gietskiebasse ___ adv ___ lähemmäksi
+gïhpetje ___ n ___ hiukan kermaa
+gïtnjele ___ n ___ kyynel
+gille ___ indef ___ muutama
+gilledidh ___ v ___ mennä makuulle
 gilmetahke ___ pakastin ___ USIKKER
-gïrmedh ___ kehua
-girrehke ___ 3 1/3 – 4 1/3 vuotias urosporo
-glïjreldahkesne ___ koristeltuna
-goenehth ___ kova pakkanen ___ TIL FST
-goenehthtråajja ___ toppatakki | lämpötakki ___ TIL FST
-goeseråhtoe ___ kuusimetsä
-gogka ___ mitä kautta | miltä kohdin | missä
-goh ___ kun | kuin $ sitten
-golmeluhkie ___ kolmekymmentä
-golmesh ___ kolme ihmistä
-gon ___ ja (sanan gonnoeh lyhyt muoto)
-gonnoeh ___ ja | yhdessä (toisen) kanssa
-gosk ___ kunnes
-govhtede ___ kuudes
-govjehkåbpoe ___ nopeampi
-guaktegh ___ kaksi yhdessä
-guapamåvhkah ___ sukkahousut
-gudtsene ___ ole hyvä ___ USIKKER
-gujmie ___ kanssa $ kumppani | toveri
-guektelen ___ kahtia $ kahteen suuntaan
-guektiengiertien ___ kaksin kerroin
-gueliegaahkoeh ___ kalapullat
-guesehke ___ 4 1/3 – 5 1/3 vuotias urosporo
-guhkene ___ kaukana
-guhte ___ kuka
-gujht ___ toki | kuitenkin
+gïrmedh ___ v ___ kehua
+girrehke ___ n ___ 3 1/3 – 4 1/3 vuotias urosporo
+glïjreldahkesne ___ n ___ koristeltuna __ INFL
+goenehth ___ n ___ kova pakkanen ___ TIL FST
+goenehthtråajja ___ n ___ toppatakki | lämpötakki ___ TIL FST
+goeseråhtoe ___ n ___ kuusimetsä ___ TIL FST
+gogka ___ adv ___ mitä kautta | miltä kohdin | missä
+goh ___ cs ___ kun | kuin $ sitten
+golmeluhkie ___ num ___ kolmekymmentä
+golmesh ___ coll ___ kolme ihmistä
+gon ___ cc ___ ja (sanan gonnoeh lyhyt muoto)
+gonnoeh ___ cc ___ ja | yhdessä (toisen) kanssa
+gosk ___ pcle ___ kunnes
+govhtede ___ a ___ kuudes
+govjehkåbpoe ___ a ___ nopeampi ___ INFL
+govjehke ___ a ___ nopeampi OBS ___ INFL
+guaktege ___ coll ___ kaksi yhdessä
+guapamåvhkah ___ n ___ sukkahousut
+gudtsene ___ x ___ ole hyvä ___ USIKKER
+gujmie ___ po ___ kanssa
+gujmie ___ n ___ kumppani | toveri
+guektelen ___ adv ___ kahtia $ kahteen suuntaan
+guektiengiertien ___ adv ___ kaksin kerroin
+gueliegaahkoe ___ n ___ kalapulla
+guesehke ___ n ___ 4 1/3 – 5 1/3 vuotias urosporo
+guhkene ___ adv ___ kaukana
+guhte ___ rel ___ kuka
+gujht ___ pcle ___ toki | kuitenkin
 guktieh ___ joten | niin että ___ USIKKER
-gurkedh ___ kaataa | valaa
-gurkestidh ___ kaataa | valaa hiukan
-gussene ___ eipä kestä (kiittää) $ ole hyvä ___ TIL FST interj
-gyölledh ___ pysyä mukana
-gyösedidh ___ laahata (jatkuvasti)
-gæbjan ___ sairas
-gæhtsan ___ roikkumassa ___ TIL FST adv
-gænnah ___ kaan | kään
-gærjatjaelije ___ kirjailija
-göökteluhkie ___ kaksikymmentä
-gööktesh ___ kaksin | kaksi yhdessä
-göölemekåarhte ___ kalastuskortti
-gåabpa ___ kumpi(kaan)
-gåabpatjahkh ___ kumpikin | molemmat
-gåajkoe ___ luo | suuntaan
-gåalmede ___ kolmas
-gåatoemisnie ___ laiduntamassa
-gåellie ___ missä (on)
-gåhkoe ___ pituus
-gåmmebe ___ vaimo
-gårreldihkie ___ sidottuna
-gårroehbielie ___ vasen puoli
-haaj ___ hei
-haavjoelidh ___ hävitä | kadota (nopeasti)
-hahtadidh ___ keksiä | hoksata | saada idea
-hæhtadidh ___ keksiä | hoksata | saada idea
-hapsahtalledh ___ haistella $ vainuta
-hapse ___ haju
-hapsoe ___ haju
-hearskoe ___ herkullinen
-hievnienviermie ___ hämähäkinseitti
+gurkedh ___ v ___ kaataa | valaa
+gurkestidh ___ v ___ kaataa | valaa hiukan
+gussene ___ interj ___ eipä kestä (kiittää) $ ole hyvä ___ TIL FST interj
+gyölledh ___ v ___ pysyä mukana
+gyösedidh ___ v ___ laahata (jatkuvasti) ___ TIL FST
+gæbjoeh ___ a ___ sairas
+gæhtsan ___ adv ___ roikkumassa ___ TIL FST adv
+gænnah ___ pcle ___ kaan | kään
+gærjatjaelije ___ n ___ kirjailija ___ TIL FST
+göökteluhkie ___ num ___ kaksikymmentä
+gööktesh ___ coll ___ kaksin | kaksi yhdessä
+göölemekåarhte ___ n ___ kalastuskortti ___ TIL FST
+gåabpa ___ rel ___ kumpi(kaan)
+gåabpatjahkh ___ indef ___ kumpikin | molemmat
+gåajkoe ___ po ___ luo | suuntaan
+gåajkoe ___ pr ___ luo | suuntaan
+gåalmede ___ a ___ kolmas
+gåatoemisnie ___ n ___ laiduntamassa ___ INFL
+gåellie ___ pcle ___ missä (on)
+gåhkoe ___ n ___ pituus
+gåmmebe ___ n ___ vaimo ___ INFL
+gårreldihkie ___ a ___ sidottuna ___ TIL FST
+gårroehbielie ___ n ___ vasen puoli ___ TIL FST
+haaj ___ interj ___ hei
+haavjoelidh ___ v ___ hävitä | kadota (nopeasti)
+hahtadidh ___ v ___ keksiä | hoksata | saada idea
+hæhtadidh ___ v ___ keksiä | hoksata | saada idea
+hapsahtalledh ___ v ___ haistella $ vainuta
+hapse ___ n ___ haju
+hapsoe ___ n ___ haju
+hearskoe ___ n ___ herkullinen
+hievnienviermie ___ n ___ hämähäkinseitti ___ TIL FST
 hoejhkesjidh ___ huutaa | huikata ___ USIKKER
-hov ___ toki $ han | hän
-hujnesne ___ surullinen | huolestunut
-hævvi ___ tietenkin
-håagk’staavra ___ ongenvapa
-håagkoje ___ onkija
-håajje ___ kasa
-åanghke ___ suvanto | jurmu
-iehkedi ___ iltaisin
-iehkedsbeapmoe ___ iltaruoka
-ihke ___ koska | joten
-ijje ___ ei
-isveligs ___ hirveä | kauhea | kamala
-jaa ___ kyllä
-jaavoe ___ kyllä
-jeavoe ___ kyllä
-jaavvoe ___ jauho(t)
-jakselidh ___ saavuttaa | tavoittaa (nopeasti)
-jaksoes ___ käsillä oleva | saavutettavissa oleva
-jalhts ___ vaikka
-jalle ___ korkea
-jallh ___ tai | eli
-jamhkelidh ___ sammuttaa $ hävittää | tuhota
-jamhkedh ___ sammua
-jarngesne ___ keskellä
-jassije ___ paksu
-jeatjah ___ toiset | muut
-jeatjebh ___ toiset
-jeenemes ___ enin
-jeeste ___ hiiva ___ USIKKER
-jidtedh ___ irvistellä
-jeedtedh ___ irvistellä
-jïejkedh ___ epäröidä
-jielijeguvvie ___ elokuva
-jienebh ___ enemmän | useammat
-jïevege ___ peitto | peite ___ TIL FST
-jïh ___ ja
-jïjhtelidh ___ tulla esiin | näkyviin
-jijhtiestidh ___ tulla hiukan näkyviin
-jïjjen ___ yöllä
-jïjnjesh ___ moni | monet
-jïjnjh ___ monet | paljon
-jïjtje ___ itse
-jïjtjehke ___ varsinainen | itse
-jïjtjemsh ___ (he) itsensä
-jïjtse ___ oma
-jïllemsgenhtseme ___ takakaihdin (poron sarvessa)
+hov ___ pcle ___ toki $ han | hän
+hujnesne ___ n ___ surullinen | huolestunut ___ INFL
+hævvi ___ pcle ___ tietenkin
+håagk’staavra ___ n ___ ongenvapa
+håagkoje ___ n ___ onkija ___ TIL FST
+håajje ___ n ___ kasa
+åanghke ___ n ___ suvanto | jurmu
+iehkedi ___ adv ___ iltaisin ___ INFL
+iehkedsbeapmoe ___ n ___ iltaruoka ___ TIL FST
+ihke ___ cs ___ koska | joten
+ijje ___ interj ___ ei
+isveligs ___ a ___ hirveä | kauhea | kamala
+jaa ___ interj ___ kyllä
+jaavoe ___ interj ___ kyllä
+jeavoe ___ interj ___ kyllä
+jaavvoe ___ n ___ jauho(t)
+jakselidh ___ v ___ saavuttaa | tavoittaa (nopeasti)
+jaksoes ___ a ___ käsillä oleva | saavutettavissa oleva
+jalhts ___ cs ___ vaikka
+jalle ___ a ___ korkea
+jallh ___ cc ___ tai | eli
+jamhkelidh ___ v ___ sammuttaa $ hävittää | tuhota
+jamhkedh ___ v ___ sammua
+jarngesne ___ n ___ keskellä ___ INFL
+jassije ___ a ___ paksu
+jeatja ___ indef ___ toinen | muut
+jeatjebe ___ indef ___ toinen
+jeene ___ a ___ enin OBS
+jeeste ___ n ___ hiiva ___ USIKKER
+jidtedh ___ v ___ irvistellä
+jeedtedh ___ v ___ irvistellä
+jïejkedh ___ v ___ epäröidä
+jielijeguvvie ___ n ___ elokuva
+jienebe ___ indef ___ enemmän | useammat
+jïevege ___ n ___ peitto | peite ___ TIL FST
+jïh ___ cc ___ ja
+jïjhtelidh ___ v ___ tulla esiin | näkyviin
+jijhtiestidh ___ v ___ tulla hiukan näkyviin
+jïjjen ___ adv ___ yöllä ___ TIL FST
+jïjnjesh ___ coll ___ moni | monet
+jïjnjh ___ indef ___ monet | paljon ___ INFL
+jïjtje ___ refl ___ itse
+jïjtjehke ___ a ___ varsinainen | itse
+jïjtjemsh ___ refl ___ (he) itsensä ___ INFL
+jïjtse ___ refl ___ oma
+jïllemsgenhtseme ___ n ___ takakaihdin (poron sarvessa)
 jïlleskenteme ___ takakaihdin (poron sarvessa) ___ USIKKER
-jillielistie ___ lännestä | lännempää
+jillielistie ___ adv ___ lännestä | lännempää
 jimkelidh ___ sammuttaa ___ USIKKER
 jïpsadidh ___ kipsata ___ USIKKER
 jïpse ___ kipsi ___ USIKKER
-jis ___ puolestaan
-joe ___ jo
-jorpehke ___ pyöreä
-joevje ___ vaaleanharmaa poro (vaaleampi kuin båavjoeh)
-jovven ___ jo vain
-jualketje ___ pikku jalka
-juassah ___ aikaisemmin | sitten
-jueskebe ___ kylmempi (sää)
-juhtele ___ nopea kulkemaan | luistava
-juhtiehtidh ___ auttaa muuttamaan | auttaa siirtymään
-juktie ___ niin että
-jöödtedh ___ jestas
-jöömmetjh ___ kaksoset
+jis ___ cs ___ puolestaan
+jis ___ pcle ___ puolestaan
+joe __ adv ___ jo
+jorpehke ___ a ___ pyöreä ___ INFL
+joevje ___ n ___ vaaleanharmaa poro (vaaleampi kuin båavjoeh)
+jovven ___ interj ___ jo vain
+jualketje ___ n ___ pikku jalka ___ TIL FST
+juassah ___ po ___ aikaisemmin | sitten
+jueskebe ___ a ___ kylmempi (sää) ___ INFL
+jueskies ___ a ___ kylmempi (sää) OBS
+juhtele ___ a ___ nopea kulkemaan | luistava ___ INFL
+juhtiehtidh ___ v ___ auttaa muuttamaan | auttaa siirtymään
+juktie ___ cs ___ niin että
+jöödtedh ___ interj ___ jestas
+jöömmetjh ___ n ___ kaksoset
 jyörtedh ___ oleskella | viipyä | pysytellä ___ USIKKER
-jåaskoestidh ___ jäähtyä vähän
-jårrehtidh ___ kääntää ylösalaisin | tosinpäin
-jååktetjeiehkeden ___ eilisiltana
-jåårke ___ vastapäätä
-kaarhte ___ kartta
+jåaskoestidh ___ v ___ jäähtyä vähän
+jårrehtidh ___ v ___ kääntää ylösalaisin | tosinpäin
+jååktetjeiehkeden ___ adv ___ eilisiltana
+jåårke ___ po ___ vastapäätä
+kaarhte ___ n ___ kartta
 klaahtoehtidh ___ leikkiä | pitää hauskaa ___ USIKKER
-klovperdidh ___ olla lumisokea
-kontovreåvtehke ___ toimistopäällikkö
-kontovreviehkie ___ toimistoapulainen
-krïbpesjidh ___ vaatia
-krinngehke ___ vikkelästi (edestakaisin)
-kruepemes ___ karkein
-kråane ___ nurkka
-kråavhkasjidh ___ maata käpertyneenä
-kuvsjh ___ kurssi(t)
-kveita ___ ruijanpallas ___ USIKKER
-kåvrohte ___ unenpöpperöinen ___ USIKKER
-laake ___ laki
-laakan ___ lailla | tapaan $ kaltainen
-laanteburriekontovre ___ maanviljelyskonttori
-laetjedh ___ sijata vuode
-lahkaskidh ___ onnistua
-lahkoe ___ onni
-leavadimmie ___ melu | metelöinti
-liehtebe ___ halvempi
-lientsie ___ nimismies
-lïhke ___ lähellä
-lihphgierkie ___ kivi jossa on kieleke ___ TIL FST LMM pl
-lïhtsh ___ selkäranka
-lijhtere ___ litra
-lilla ___ liila(nvärinen) ___ USIKKER
-lissine ___ lisäksi
-lohkemesh ___ lukeminen | lukemiset ___ USIKKER
-lohkije ___ lukija
-lovves ___ märkä
-luajhtasovvedh ___ päästä irti
-luhkiegåalmede ___ kolmastoista
-luhkiemubpie ___ kahdestoista
-luhkievoestes ___ yhdestoista
-luhpiehtidh ___ luvata | myöntyä
-luvlielisnie ___ idempänä
-luvnie ___ luona
-luvrege ___ tottelevainen
-lyövlehke ___ raskas | painava
-löönestidh ___ lainata vähäksi aikaa
-lööveldidh ___ irrottaa | ottaa irti
-löövles ___ painava | raskas | vaikea
-låamme ___ tasku
-loemme ___ tasku
-låedtjie ___ tyyni (sää)
-låemtie ___ kesy
-låhkede ___ kymmenes
-lååjedidh ___ sarastaa | koittaa (päivä)
-maa ___ kyllä | kai | toki
-maadtere ___ kodan seinän reuna
-maajetjh ___ onneksi
-maakenåhke ___ 5 1/3 – 6 1/3 vuotias urosporo ___ TIL FST
-maales ___ ateria ___ TIL FST
-maanetje ___ pikkulapsi
-maarhkelihtie ___ matoastia
-madtege ___ niukka | kehnonlainen
-mådtege ___ niukka | kehnonlainen
-maehtele ___ taitava
-maehteles ___ taitava
-maehtetje ___ taitava ___ USIKKER
-maereles ___ taitava | onnekas
-magkere ___ mikä | millainen
-magkeres ___ mikä | millainen
-mah ___ ko(han) | kö(hän)
-mannasinie ___ miksi | mitä varten
-måskoestidh ___ ommella kiinni | ommella umpeen
-mearan ___ kunnes | sillä aikaa kun
-measije ___ vasaisa | paljon vasoja ___ USIKKER
-mejtie ___ ko | kö
-men ___ mutta
-mestie ___ mistä
-mietenh ___ mäti
-mietie ___ myöten
-mij ___ mikä
-mijakt ___ yksi tai toinen | jokin
-milkedh ___ syödä ja talloa pilalle
-milkesovvedh ___ tulla syödyksi ja tallotuksi
-minngesne ___ perässä
-minngiestaebnie ___ (veneen) perävannas
-motovresaakoe ___ moottorisaha
-moenedh ___ sanoa | kertoa | virkkaa
-moeretje ___ vähän (poltto)puita
-mohte ___ mutta | vaan
-mojhtes ___ muisto | muisti OBS som har godt minne
-mojjesidh ___ hymyillä
-muarjetjh ___ vähän marjoja
-mubpehte ___ toisesta ___ USIKKER
-mubpie ___ toinen
-murries ___ viihtyisä | rauhaisa
-musigke ___ musiikki
-muvhte ___ muutama | joku
-myvhke ___ pehmeä
-möövkes ___ pehmeä ___ USIKKER
-mænngan ___ myöhemmin | jälkeen
-måedtie ___ moni | muutama
-mån ___ minä (sanan manne lyhyt muoto)
-måsnoes ___ suuttunut | pahantuulinen
-måvhkah ___ housut
-naaken ___ joku
-naakene ___ joku
-naan ___ jokin | mikään
-nagke ___ siis
-namhtegh ___ ilman
-nannoes ___ vahva | luja
-napsh ___ siis | kin ___ USIKKER
-narhkelidh ___ estää poroja menemästä | ohjata toiseen suuntaan
-nelhtie ___ päältä
-nelnie ___ päällä
-nille ___ päälle
-njaelkie ___ maukas | hyvänmakuinen ___ TIL FST
-njeerpes ___ ohut | laiha
-njeervedh ___ jauhaa
-njielje ___ neljä
-njieljie ___ neljä
-njieljede ___ neljäs
-njieljehts ___ neljännes ___ USIKKER
-nj̈ietsege ___ poron takajalan alempi ydinluu ___ USIKKER
-njoelkedasse ___ sääntö
-njylledh ___ irrota (puun kuori)
-njåetsie ___ hartiaviitta
-njårkoehtidh ___ viheltää
-noerhteraedtie ___ (tunturin, vuoren) pohjoispuoli | sivu
-noh ___ ja ___ USIKKER
-nïmmelaehpije ___ yli 6 1/3 vuotias urosporo
-nymmelaehpije ___ yli 6 1/3 vuotias urosporo
-nommelaehpije ___ yli 6 1/3 vuotias urosporo
-nov ___ niin | kyllä
-nualan ___ alle
-nuelesne ___ alla | alapuolella
-nueleste ___ alta
-nuerebe ___ nuorempi
-nulle ___ nolla
-nåake ___ huono
-nåå ___ niinpä
-nåå-nåå ___ hei-hei ___ TIL FST interj
-nåts ___ entäpä
-nååts ___ entäpä
-ojhte ___ juuri (niin)
-olles ___ jottei
-orresistie ___ uudestaan ___ TIL FST adv
-orrestehtedh ___ uudistaa
-ovnuhtege ___ paha | tuhma $ hyödytön
-ov ___ aivan
-ovve ___ aivan ___ TIL FST adv
-peennagåetie ___ penaali | kynäkotelo
-prïhtjegadtje ___ vähän kahvia
-provnelaaketje ___ ruskeansävyinen
-provneldahke ___ punos
-påajke ___ poika
-raajan ___ asti | saakka
-raajnes ___ puhdas
-raajne ___ puhdas
-raakte ___ juuri | aivan | lähes
-raakth ___ juuri | aivan | lähes
-radijove ___ radio
-raejeste ___ alkaen
-raejkien ___ pitkin
-rastah ___ poikki | yli
-reakta ___ oikeus
-reakta-aamhtese ___ oikeusjuttu ___ USIKKER
-reaktaåejvie ___ (pää)tuomari
-redaktööre ___ toimittaja
-rïesegh ___ koristeet $ kukat
-rïeseldahke ___ koriste
-rïevhkestidh ___ polttaa tupakkaa
-raavtje ___ kylmä sateinen sää
-rijtedh ___ panna | pistää (jonnekin)
-rikti ___ oikein | hyvin $ kunnossa (oleva)
-rohkejaavvoe ___ ruisjauho(t)
-Romsa ___ Tromssa
-ryöknesovveme ___ laskettuna
-rööpseslaaketje ___ punertava
-råanjedimmie ___ kaatosade ___ TIL FST
-saalege ___ aukko | kuilu
-saalhtetjh ___ hiukan suolaa
-saatnan ___ tosi | totta
-saedtietjeallere ___ maakellari
-saelhtieh ___ suola
-sagki ___ kovasti | kovin
-sagke ___ kovasti | kovin
-seakoes ___ käheä
-sïemes ___ yksimielinen
-sïerrenohke ___ vieras
-sïevehtidh ___ vilkuttaa
-sih ___ he (lyhyt muoto sanasta sijjieh)
-sïjse ___ sisään
-sïlpe ___ hopea
-sïlpebeetnegh ___ hopearahat
-sinsitnien ___ toistensa
-sisnie ___ sisällä
-sistie ___ sisältä
-sinsætnan ___ toisillensa $ toisiinsa
-sjaavede ___ hiljaa | ääneti ___ TIL FST
-sjuevnjede ___ hämärä
-sjædtoes ___ kasvillisuuden peittämä ___ USIKKER
-sjöövedh ___ sekoittaa
-skaavhtege ___ laatikko
-skïemtjes ___ sairas | kipeä
-skïemtjesyjhtere ___ sairaanhoitaja ___ USIKKER
-skïerke ___ kirkas | pilvetön ___ USIKKER
-skæhtjoe ___ puuvaja | liiteri
-skåake ___ metsä
-skoeknge ___ nuori vaadin (t. hirvilehmä) ___ TIL FST
-skåave ___ (pikku)kenkä
-skåltoe ___ syy | vika
-skalta ___ syy | vika
-slaamedh ___ luhistua | romahtaa
-slajpan ___ longollaan | lerpallaan $ huolimattomasti pantuna
-sleagran ___ likainen
+klovperdidh ___ v ___ olla lumisokea
+kontovreåvtehke ___ n ___ toimistopäällikkö ___ TIL FST
+kontovreviehkie __ n ___ toimistoapulainen ___ TIL FST
+krïbpesjidh ___ v ___ vaatia
+krinngehke ___ a ___ vikkelästi (edestakaisin)
+kruepemes ___ a ___ karkein ___ INFL
+kråane ___ n ___ nurkka
+kråavhkasjidh ___ v ___ maata käpertyneenä
+kuvsje ___ n ___ kurssi
+kveita ___ n ___ ruijanpallas ___ USIKKER
+kåvrohte ___ x ___ unenpöpperöinen ___ USIKKER
+laake ___ n ___ laki
+laakan ___ adv ___ lailla | tapaan $ kaltainen
+laanteburriekontovre ___ n ___ maanviljelyskonttori ___ TIL FST
+laetjedh ___ v ___ sijata vuode
+lahkaskidh ___ v ___ onnistua
+lahkoe ___ n ___ onni
+leavadimmie ___ n ___ melu | metelöinti ___ TIL FST
+liehtebe ___ a ___ halvempi ___ INFL
+liehties ___ a ___ halvempi OBS
+lientsie ___ n ___ nimismies
+lïhke ___ po ___ lähellä
+lihphgierkie ___ n ___ kivi jossa on kieleke ___ TIL FST LMM pl
+lïhtse ___ n ___ selkäranka
+lijhtere ___ n ___ litra
+lilla ___ a ___ liila(nvärinen) ___ USIKKER
+lissine ___ adv ___ lisäksi ___ TIL FST
+lohkemesh ___ n ___ lukeminen | lukemiset ___ USIKKER
+lohkije ___ n ___ lukija
+lovves ___ a ___ märkä ___ INFL
+luajhtasovvedh ___ v ___ päästä irti
+luhkiegåalmede ___ ord ___ kolmastoista
+luhkiemubpie ___ ord ___ kahdestoista
+luhkievoestes ___ ord ___ yhdestoista
+luhpiehtidh ___ v ___ luvata | myöntyä
+luvlielisnie ___ adv ___ idempänä
+luvnie ___ pr ___ luona
+luvnie ___ po ___ luona
+luvregs ___ a ___ tottelevainen
+lyövlehke ___ a ___ raskas | painava ___ INFL
+löönestidh ___ v ___ lainata vähäksi aikaa
+lööveldidh ___ v ___ irrottaa | ottaa irti
+leevles ___ a ___ painava | raskas | vaikea
+löövles ___ a ___ painava | raskas | vaikea
+låamme ___ n ___ tasku
+loemme ___ n ___ tasku
+låedtjie ___ n ___ tyyni (sää) OBS
+låedtjies ___ a ___ tyyni (sää) OBS
+låemtie ___ a ___ kesy ___ INFL
+låhkede ___ a ___ kymmenes
+lååjedidh ___ v ___ sarastaa | koittaa (päivä)
+maa ___ pcle ___ kyllä | kai | toki
+maadtere ___ n ___ kodan seinän reuna
+maajetjh ___ adv ___ onneksi
+maakenåhke ___ n ___ 5 1/3 – 6 1/3 vuotias urosporo ___ TIL FST
+maales ___ n ___ ateria ___ TIL FST
+maanetje ___ n ___ pikkulapsi ___ TIL FST
+maarhkelihtie ___ n ___ matoastia ___ TIL FST
+madtege ___ a ___ niukka | kehnonlainen
+mådtege ___ a ___ niukka | kehnonlainen
+maehtele ___ a ___ taitava ___ INFL
+maehteles ___ a ___ taitava
+maehtetje ___ x ___ taitava ___ USIKKER
+maereles ___ a ___ taitava | onnekas
+magkere ___ interr ___ mikä | millainen ___ INFL
+magkeres ___ interr ___ mikä | millainen
+mah ___ pcle ___ ko(han) | kö(hän)
+mannasinie ___ rel ___ miksi | mitä varten ___ INFL
+måskoestidh ___ v ___ ommella kiinni | ommella umpeen
+mearan ___ cs ___ kunnes | sillä aikaa kun
+measije ___ x ___ vasaisa | paljon vasoja ___ USIKKER
+mejtie ___ pcle ___ ko | kö
+men ___ cc ___ mutta
+mestie ___ rel ___ mistä ___ INFL
+mietene ___ n ___ mäti
+mietie ___ po ___ myöten
+mij ___ rel ___ mikä
+mijakt ___indef ___ yksi tai toinen | jokin
+milkedh ___ v ___ syödä ja talloa pilalle
+milkesovvedh ___ v ___ tulla syödyksi ja tallotuksi ___ TIL FST
+minngesne ___ adv ___ perässä
+minngiestaebnie ___ n ___ (veneen) perävannas
+motovresaakoe ___ n ___ moottorisaha ___ TIL FST
+moenedh ___ v ___ sanoa | kertoa | virkkaa
+moeretje ___ n ___ vähän (poltto)puita ___ TIL FST
+mohte ___ cc ___ mutta | vaan
+mojhtes ___ n ___ muisto | muisti OBS ___ TIL FST
+mojhtes ___ a ___ muisto | muisti OBS ___ TIL FST 
+mojjesidh ___ v ___ hymyillä
+muarjetje ___ n ___ vähän marjoja
+mubpehte ___ x ___ toisesta ___ USIKKER
+mubpie ___ a ___ toinen
+murries ___ a ___ viihtyisä | rauhaisa
+musigke ___ n ___ musiikki
+muvhte __ indef ___ muutama | joku
+myvhke ___ a ___ pehmeä
+möövkes ___ a ___ pehmeä ___ USIKKER
+mænngan ___ adv ___ myöhemmin | jälkeen
+måedtie ___ indef ___ moni | muutama
+mån ___ pcle ___ minä (sanan manne lyhyt muoto) OBS
+måsnoes ___ a ___ suuttunut | pahantuulinen
+måvhka ___ n ___ housut
+naaken ___ indef ___ joku
+naakene ___ indef ___ joku
+naan ___ indef ___ jokin | mikään
+nagke ___ pcle ___ siis
+namhtegh ___ adv ___ ilman
+nannoes ___ a ___ vahva | luja
+napsh ___ x ___ siis | kin ___ USIKKER
+narhkelidh ___ v ___ estää poroja menemästä | ohjata toiseen suuntaan
+nelhtie ___ po ___ päältä
+nelhtie ___ pr ___ päältä
+nelnie ___ po ___ päällä
+nelnie ___ pr ___ päällä
+nille ___ po ___ päälle
+nïlle ___ pr ___ päälle
+njaelkie ___ a ___ maukas | hyvänmakuinen
+njeerpes ___ a ___ ohut | laiha
+njeervedh ___ v ___ jauhaa
+njielje ___ num ___ neljä
+njieljie ___ num ___ neljä
+njieljede ___ a ___ neljäs
+njieljehts ___ a ___ neljännes ___ USIKKER
+nj̈ietsege ___ a ___ poron takajalan alempi ydinluu ___ USIKKER
+njoelkedasse ___ n ___ sääntö
+njylledh ___ v ___ irrota (puun kuori)
+njåetsie ___ n ___ hartiaviitta
+njårkoehtidh ___ v ___ viheltää
+noerhteraedtie ___ n ___ (tunturin, vuoren) pohjoispuoli | sivu ___ TIL FST
+noh ___ x ___ ja ___ USIKKER
+nïmmelaehpije ___ n ___ yli 6 1/3 vuotias urosporo ___ TIL FST
+nymmelaehpije ___ n ___ yli 6 1/3 vuotias urosporo ___ TIL FST
+nommelaehpije ___ n ___ yli 6 1/3 vuotias urosporo ___ TIL FST
+nov ___ adv ___ niin | kyllä
+nualan ___ po ___ alle
+nualan ___ pr ___ alle
+nualan ___ adv ___ alle
+nuelesne ___ po ___ alla | alapuolella
+nueleste ___ po ___ alta
+nuerebe ___ a ___ nuorempi ___ INFL
+nulle ___ num ___ nolla
+nåake ___ a ___ huono
+nåå ___ interj ___ niinpä
+nåå ___ pcle ___ niinpä
+nåå-nåå ___ interj ___ hei-hei ___ TIL FST interj
+nåts ___ adv ___ entäpä
+nååts ___ adv ___ entäpä
+ojhte ___ pcle ___ juuri (niin)
+olles ___ v ___ jottei ___ INFL
+orresistie ___ adv ___ uudestaan ___ TIL FST adv
+orrestehtedh ___ v ___ uudistaa ___ TIL FST
+ovnuhtegs ___ a ___ paha | tuhma $ hyödytön
+ov ___ pcle ___ aivan
+ovve ___ adv ___ aivan ___ TIL FST adv
+peennagåetie ___ n ___ penaali | kynäkotelo ___ TIL FST
+prïhtjegadtje ___ n ___ vähän kahvia ___ TIL FST
+provnelaaketje ___ n ___ ruskeansävyinen ___ TIL FST
+provneldahke ___ n ___ punos
+påajke ___ n ___ poika
+raajan ___ po ___ asti | saakka
+raajnes ___ a ___ puhdas
+raajne ___ a ___ puhdas ___ INFL
+raakte ___ pcle ___ juuri | aivan | lähes
+raakth ___ adv ___ juuri | aivan | lähes
+radijove ___ n ___ radio
+raejeste ___ po ___ alkaen
+raejkien ___ x ___ pitkin OBS ___ USIKKER
+rastah ___ po ___ poikki | yli
+reakta ___ adv ___ oikeus
+reakta-aamhtese ___ n ___ oikeusjuttu ___ TIL FST
+reaktaåejvie ___ n ___ (pää)tuomari ___ TIL FST
+redaktööre __ n ___ toimittaja
+rïesege ___ n ___ koristeet $ kukat OBS
+rïeseldahke ___ n ___ koriste
+rïevhkestidh ___ v ___ polttaa tupakkaa
+raavtje ___ n ___ kylmä sateinen sää
+rijtedh ___ v ___ panna | pistää (jonnekin)
+rikti ___ adv ___ oikein | hyvin $ kunnossa (oleva)
+rohkejaavvoe ___ n ___ ruisjauho(t) ___ TIL FST
+Romsa ___ prop ___ Tromssa
+ryöknesovveme ___ n ___ laskettuna ___ TIL FST
+rööpseslaaketje ___ a ___ punertava
+råanjedimmie ___ n ___ kaatosade ___ TIL FST
+saalege ___ x ___ aukko | kuilu ___ USIKKER
+saalhtetje ___ n ___ hiukan suolaa
+saatnan ___ a ___ tosi | totta ___ TIL FST
+saetnies ___ a ___ tosi | totta
+saedtietjeallere ___ n ___ maakellari ___ TIL FST
+saelhtie ___ n ___ suola
+sagki ___ adv ___ kovasti | kovin
+sagke ___ adv ___ kovasti | kovin
+seakoes ___ a ___ käheä
+sïemes ___ a ___ yksimielinen
+sïerrenohke ___ n ___ vieras
+sïevehtidh ___ v ___ vilkuttaa
+sih ___ pcle ___ he (lyhyt muoto sanasta sijjieh) OBS
+sïjse ___ po ___ sisään
+sïjse ___ pr ___ sisään
+sïlpe ___ n ___ hopea
+sïlpebeetnege ___ n ___ hopearahat
+sinsitnien ___ recipr ___ toistensa
+sisnie ___ pr ___ sisällä
+sisnie ___ po ___ sisällä
+sistie ___ po ___ sisältä
+sistie ___ pr ___ sisältä
+sinsætnan ___ recipr ___ toisillensa $ toisiinsa
+sjaavede ___ a ___ hiljaa | ääneti ___ TIL FST
+sjuevnjeds ___ a ___ hämärä
+sjædtoes ___ x ___ kasvillisuuden peittämä ___ USIKKER
+sjöövedh ___ v ___ sekoittaa
+skaavhtege ___ n ___ laatikko ___ USIKKER
+skïemtje ___ a ___ sairas | kipeä
+skïemtjesyjhtere ___ n ___ sairaanhoitaja ___ USIKKER
+skïerke ___ a ___ kirkas | pilvetön ___ USIKKER
+skæhtjoe ___ n ___ puuvaja | liiteri
+skåake ___ n ___ metsä
+skoeknge ___ n ___ nuori vaadin (t. hirvilehmä) ___ TIL FST
+skåave ___ n ___ (pikku)kenkä
+skåltoe ___ n ___ syy | vika
+skalta ___ n ___ syy | vika
+slaamedh ___ v ___ luhistua | romahtaa
+slajpan ___ a ___ longollaan | lerpallaan $ huolimattomasti pantuna ___ TIL FST pred eller adv
+sleagran ___ a ___ likainen ___ INFL
+sleagrah ___ a ___ likainen
+sleagroeh ___ a ___ likainen
 sliehtieelmie ___ räntäsade
 smaavegualetje ___ pikkukala
 sneehpebe ___ nopeampi
