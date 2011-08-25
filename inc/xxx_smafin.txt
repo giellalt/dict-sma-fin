@@ -7,7 +7,7 @@ aamhte_n_asia | aihe_TIL FST
 aamhtesegïetedallije_n_virkailija_TIL FST
 aarh_a_varhainen
 aareh_a_varhainen
-abpe_indef_koko(nainen)
+abpe_indef_kokonainen
 aeblehts_a_laiska
 aejlies_a_pyhä
 aellieh_v_älä_INFL
@@ -20,7 +20,7 @@ askedh_x_kuutamo | kuunloiste_USIKKER
 asvedihks_a_pelottava | kauhea
 baahkes_a_lämmin
 baahtjetje_n_pikkupoika_TIL FST
-baakohth_x_sanaton_USIKKER
+baakohth_x_sanaton_TIL FST
 baaktoe_po_kautta | ohitse
 baalte_po_sivulla | vieressä $ ohi
 badth_pcle_han | hän | toki
@@ -101,8 +101,8 @@ dastegh_adv_yhtäkkiä __ TIL FST
 deavabaahkoe_n_mäenrinne __ TIL FST
 deavetje_n_pieni kumpu __ TIL FST
 dajkoe_adv_tuolla (ympäriinsä)
-dejpelatje_x_entisaikainen | muinainen_USIKKER
-dejbaaletje_x_entisaikainen | muinainen_USIKKER
+dejpelaDtje_x_entisaikainen | muinainen
+dejbaaletje_x_entisaikainen | muinainen
 dennie_dem_sinä | siinä_INFL
 desnie_dem_siinä_INFL
 destie_dem_siitä_INFL
@@ -115,7 +115,7 @@ dïmperebuvrie_n_puuvaja __ TIL FST
 dïsse_pers_sille | hänelle $ sinne_INFL
 dle_adv_sitten (sanan dellie lyhyt muoto)
 doeka_adv_vasten | kohden
-doeltejehtedh_v_kiehauttaa_USIKKER
+doeltejehtedh_v_kiehauttaa
 doeltestidh_v_kiehahtaa __ TIL FST
 doeltijidh_v_alkaa kiehua
 doeredidh_v_kokea (verkkoja)
@@ -197,7 +197,7 @@ geehtedidh_v_pitää varansa | varoa
 gellie_num_(kuinka) monta
 gellie_indef_aika lailla
 gie_rel_kuka
-gïeltegs_a_jännittävä_USIKKER
+gïeltegs_a_jännittävä
 gïengele_a_syvä
 gïertedh_v_sietää | kärsiä
 giesie-eejehtalleme_n_kesäloma_TIL FST
@@ -207,7 +207,7 @@ gïhpetje_n_hiukan kermaa
 gïtnjele_n_kyynel
 gille_indef_muutama
 gilledidh_v_mennä makuulle
-gilmetahke_x_pakastin_USIKKER
+gilmetahke_x_pakastin
 gïrmedh_v_kehua
 girrehke_n_3 1/3 – 4 1/3 vuotias urosporo
 glïjreldahkesne_n_koristeltuna __ INFL
@@ -223,10 +223,10 @@ gonnoeh_cc_ja | yhdessä (toisen) kanssa
 gosk_pcle_kunnes
 govhtede_a_kuudes
 govjehkåbpoe_a_nopeampi_INFL
-govjehke_a_nopeampi OBS_INFL
+govjehke_a_nopea
 guaktege_coll_kaksi yhdessä
 guapamåvhka_n_sukkahousut
-gudtsene_x_ole hyvä_USIKKER
+gudtsene_x_ole hyvä
 gujmie_po_kanssa
 gujmie_n_kumppani | toveri
 guektelen_adv_kahtia $ kahteen suuntaan
@@ -236,7 +236,7 @@ guesehke_n_4 1/3 – 5 1/3 vuotias urosporo
 guhkene_adv_kaukana
 guhte_rel_kuka
 gujht_pcle_toki | kuitenkin
-guktieh_x_joten | niin että_USIKKER
+guktie_x_joten | niin että
 gurkedh_v_kaataa | valaa
 gurkestidh_v_kaataa | valaa hiukan
 gussene_interj_eipä kestä (kiittää) $ ole hyvä_TIL FST interj
@@ -269,7 +269,7 @@ hapse_n_haju
 hapsoe_n_haju
 hearskoe_n_herkullinen
 hievnienviermie_n_hämähäkinseitti_TIL FST
-hoejhkesjidh_v_huutaa | huikata_USIKKER
+hojhkesjidh_v_huutaa | huikata
 hov_pcle_toki $ han | hän
 hujnesne_n_surullinen | huolestunut_INFL
 hævvi_pcle_tietenkin
@@ -297,8 +297,8 @@ jarngesne_n_keskellä_INFL
 jassije_a_paksu
 jeatja_indef_toinen | muut
 jeatjebe_indef_toinen
-jeene_a_enin OBS
-jeeste_n_hiiva_USIKKER
+jeene_a_paljon
+jeestere_n_hiiva
 jidtedh_v_irvistellä
 jeedtedh_v_irvistellä
 jïejkedh_v_epäröidä
@@ -318,9 +318,9 @@ jïjtse_refl_oma
 jïllemsgenhtseme_n_takakaihdin (poron sarvessa)
 jïlleskenteme_x_takakaihdin (poron sarvessa)_USIKKER
 jillielistie_adv_lännestä | lännempää
-jimkelidh_v_sammuttaa_USIKKER
-jïpsadidh_v_kipsata_USIKKER
-jïpse_n_kipsi_USIKKER
+jamkelidh_v_sammuttaa
+jïpsadidh_v_kipsata_TIL FST
+jïpse_n_kipsi_TIL FST
 jis_cs_puolestaan
 jis_pcle_puolestaan
 joe_adv_jo
@@ -330,7 +330,7 @@ jovven_interj_jo vain
 jualketje_n_pikku jalka_TIL FST
 juassah_po_aikaisemmin | sitten
 jueskebe_a_kylmempi (sää)_INFL
-jueskies_a_kylmempi (sää) OBS
+jueskies_a_kylmä (sää) 
 juhtele_a_nopea kulkemaan | luistava_INFL
 juhtiehtidh_v_auttaa muuttamaan | auttaa siirtymään
 juktie_cs_niin että
@@ -342,7 +342,7 @@ jårrehtidh_v_kääntää ylösalaisin | tosinpäin
 jååktetjeiehkeden_adv_eilisiltana
 jåårke_po_vastapäätä
 kaarhte_n_kartta
-klaahtoehtidh_v_leikkiä | pitää hauskaa_USIKKER
+klaahtoehtidh_v_leikkiä | pitää hauskaa
 klovperdidh_v_olla lumisokea
 kontovreåvtehke_n_toimistopäällikkö_TIL FST
 kontovreviehkie_n_toimistoapulainen_TIL FST
@@ -352,7 +352,7 @@ kruepemes_a_karkein_INFL
 kråane_n_nurkka
 kråavhkasjidh_v_maata käpertyneenä
 kuvsje_n_kurssi
-kveita_n_ruijanpallas_USIKKER
+kveita_n_ruijanpallas_TIL FST
 kåvrohte_x_unenpöpperöinen_USIKKER
 laake_n_laki
 laakan_adv_lailla | tapaan $ kaltainen
@@ -362,15 +362,14 @@ lahkaskidh_v_onnistua
 lahkoe_n_onni
 leavadimmie_n_melu | metelöinti_TIL FST
 liehtebe_a_halvempi_INFL
-liehties_a_halvempi OBS
+liehties_a_halpa
 lientsie_n_nimismies
 lïhke_po_lähellä
 lihphgierkie_n_kivi jossa on kieleke_TIL FST LMM pl
 lïhtse_n_selkäranka
 lijhtere_n_litra
-lilla_a_liila(nvärinen)_USIKKER
+lilla_a_liila | liilanvärinen
 lissine_adv_lisäksi_TIL FST
-lohkemesh_n_lukeminen | lukemiset_USIKKER
 lohkije_n_lukija
 lovves_a_märkä_INFL
 luajhtasovvedh_v_päästä irti
@@ -389,8 +388,7 @@ leevles_a_painava | raskas | vaikea
 löövles_a_painava | raskas | vaikea
 låamme_n_tasku
 loemme_n_tasku
-låedtjie_n_tyyni (sää) OBS
-låedtjies_a_tyyni (sää) OBS
+låedtjies_a_tyyni
 låemtie_a_kesy_INFL
 låhkede_a_kymmenes
 lååjedidh_v_sarastaa | koittaa (päivä)
@@ -405,7 +403,7 @@ madtege_a_niukka | kehnonlainen
 mådtege_a_niukka | kehnonlainen
 maehtele_a_taitava_INFL
 maehteles_a_taitava
-maehtetje_x_taitava_USIKKER
+maehtetje_n_taitava_USIKKER
 maereles_a_taitava | onnekas
 magkere_interr_mikä | millainen_INFL
 magkeres_interr_mikä | millainen
@@ -413,7 +411,7 @@ mah_pcle_ko(han) | kö(hän)
 mannasinie_rel_miksi | mitä varten_INFL
 måskoestidh_v_ommella kiinni | ommella umpeen
 mearan_cs_kunnes | sillä aikaa kun
-measije_x_vasaisa | paljon vasoja_USIKKER
+measije_a_vasaisa | paljon vasoja_TIL FST
 mejtie_pcle_ko | kö
 men_cc_mutta
 mestie_rel_mistä_INFL
@@ -433,13 +431,12 @@ mojhtes_n_muisto | muisti OBS_TIL FST
 mojhtes_a_muisto | muisti OBS_TIL FST 
 mojjesidh_v_hymyillä
 muarjetje_n_vähän marjoja
-mubpehte_x_toisesta_USIKKER
 mubpie_a_toinen
 murries_a_viihtyisä | rauhaisa
 musigke_n_musiikki
 muvhte_indef_muutama | joku
 myvhke_a_pehmeä
-möövkes_a_pehmeä_USIKKER
+möövhkes_a_pehmeä
 mænngan_adv_myöhemmin | jälkeen
 måedtie_indef_moni | muutama
 mån_pcle_minä (sanan manne lyhyt muoto) OBS
@@ -451,7 +448,6 @@ naan_indef_jokin | mikään
 nagke_pcle_siis
 namhtegh_adv_ilman
 nannoes_a_vahva | luja
-napsh_x_siis | kin_USIKKER
 narhkelidh_v_estää poroja menemästä | ohjata toiseen suuntaan
 nelhtie_po_päältä
 nelhtie_pr_päältä
@@ -465,14 +461,13 @@ njeervedh_v_jauhaa
 njielje_num_neljä
 njieljie_num_neljä
 njieljede_a_neljäs
-njieljehts_a_neljännes_USIKKER
-nj̈ietsege_a_poron takajalan alempi ydinluu_USIKKER
+njieljehts_a_neljännes
+njïetsege_a_poron takajalan alempi ydinluu
 njoelkedasse_n_sääntö
 njylledh_v_irrota (puun kuori)
 njåetsie_n_hartiaviitta
 njårkoehtidh_v_viheltää
 noerhteraedtie_n_(tunturin, vuoren) pohjoispuoli | sivu_TIL FST
-noh_x_ja_USIKKER
 nïmmelaehpije_n_yli 6 1/3 vuotias urosporo_TIL FST
 nymmelaehpije_n_yli 6 1/3 vuotias urosporo_TIL FST
 nommelaehpije_n_yli 6 1/3 vuotias urosporo_TIL FST
@@ -509,7 +504,7 @@ raakte_pcle_juuri | aivan | lähes
 raakth_adv_juuri | aivan | lähes
 radijove_n_radio
 raejeste_po_alkaen
-raejkien_x_pitkin OBS_USIKKER
+raejkien_adv_pitkin
 rastah_po_poikki | yli
 reakta_adv_oikeus
 reakta-aamhtese_n_oikeusjuttu_TIL FST
@@ -551,11 +546,11 @@ sistie_pr_sisältä
 sinsætnan_recipr_toisillensa $ toisiinsa
 sjaavede_a_hiljaa | ääneti_TIL FST
 sjuevnjeds_a_hämärä
-sjædtoes_x_kasvillisuuden peittämä_USIKKER
+sjædtoes_a_rehevä | kasvillisuuden peittämä
 sjöövedh_v_sekoittaa
-skaavhtege_n_laatikko_USIKKER
+skaavhtege_n_kulma | reuna_TIL FST
 skïemtje_a_sairas | kipeä
-skïemtjesyjhtere_n_sairaanhoitaja_USIKKER
+skïemtjesåjhtere_n_sairaanhoitaja
 skïerke_a_kirkas | pilvetön_USIKKER
 skæhtjoe_n_puuvaja | liiteri
 skåake_n_metsä
@@ -587,7 +582,7 @@ stoerre_a_iso
 stoeregeajnoe_n_maantie_TIL FST
 stoerevïelle_n_isoveli_TIL FST
 stoereåabpa_n_isosisko_TIL FST
-strerkies_x_säikähtänyt_USIKKER
+strerkies_x_säikähtänyt
 stroehtebiejjie_n_jouluaatto_TIL FST
 stuerebe_a_suurempi_INFL
 stööves_a_rauhallinen
@@ -596,22 +591,23 @@ suvvedh_v_kasvaa umpeen
 svihtjedh_v_liikkua
 sygkele_n_polkupyörä
 syjhtedh_v_vahtia | hoitaa
-syjhtere_n_(sairaan)hoitaja_USIKKER
+syjhtere_n_hoitaja | sairaanhoitaja
+såjhtere_n_hoitaja | sairaanhoitaja
 sæjra_n_siirappi
 sööjmeslaakan_adv_hiljakseen_TIL FST
 såajnodh_v_heinittää (kenkä)
 såaketje_n_pieni koivu
 såarhte_n_laji
 såårhte_n_laji_TIL FST
-såemies_indef_muutama | joku(nen)
+såemies_indef_muutama | joku | jokunen
 sån_pcle_han | hän $ kai
 såålhtehks_a_suolattu | suolainen
 sååvrehke_a_irtonainen ja karkea (lumi keväällä)
 tabledte_n_tableti
-teknigkere_n_teknikko_USIKKER
+teknigkere_n_teknikko
 tellefovnenommere_n_puhelinnumero_TIL FST
 tïjje_n_aika
-tjaaleldh_x_kirjallisesti_USIKKER
+tjaaleldh_adv_kirjallisesti_
 tjaangelidh_v_pujahtaa
 tjaangestidh_v_pistäytyä
 tjaebpie_a_kaunis_INFL
@@ -621,9 +617,9 @@ tjearmehke_n_1 1/3 – 2 1/3 vuotias naarasporo
 tjeehpeslaaketje_a_mustahko | mustanlainen
 tjeengkere_n_pallo
 tjietjelen_adv_yksinään | omissa oloissaan
-tjïjhke_n_kiikari_USIKKER
+tjïjhke_n_kiika
 tjïjhkerde_n_kiikari
-tjïjhkestidh_v_kiikaroida_USIKKER
+tjïjhkestidh_v_kiikaroida
 tjïjhtjede_a_seitsemäs
 tjïrrh_po_läpi | kautta
 tjoejkelidh_v_lähteä pois hiihtäen
@@ -638,7 +634,7 @@ tjöödtjhsijjie_n_maali_USIKKER
 tjöönghkestalledh_v_keräillä_TIL FST
 tjåagkoe_n_haarukka
 tjåejjiennuelie_n_vatsanalus
-tjåelie_n_suolet | sisälmykset | perkeet OBS
+tjåelie_n_suoli
 tjåenghkies_a_koossa | koottu(na)
 tjåenhtjeme_n_poron takajalan ylempi ydinluu_TIL FST
 tjahkeme_n_kampa | häkilä (kenkäheinän käsittelyä varten)_TIL FST
@@ -664,11 +660,11 @@ vaajhkoen_adv_ainoa | vähäinen_TIL FST
 vaaksjoehtæjja_n_porovahti_TIL FST
 vaalmestahke_n_selässä oleva (vaate)nyytti
 vaane_adv_tottunut
-vaarjoe_n_vaatteet OBS
+vaarjoe_n_vaatekappale
 vaaroe_n_kauppatavara
 vaaroehtidh_v_varoittaa | kehottaa
 vadtes_n_lahja_TIL FST
-vaeknie_n_ammukset OBS
+vaeknie_n_ammukset
 vaenemes_a_vähintään_INFL
 vaenies_a_vähän_TIL FST
 vahka_n_viikko_TIL FST
