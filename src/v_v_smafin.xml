@@ -6,21 +6,21 @@
 <r>
    <e>
       <lg>
-         <l pos="v_v">govledh</l>
+         <l pos="v" hid="1">govledh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v_v">kuulla</t>
+            <t pos="v">kuulla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v_v">govledh</l>
+         <l pos="v" hid="2">govledh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v_v">kuulua</t>
+            <t pos="v">kuulua</t>
          </tg>
       </mg>
    </e>
