@@ -6,21 +6,21 @@
 <r>
    <e>
       <lg>
-         <l pos="a_n">baahke</l>
+         <l pos="a">baahke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a_n">lämmin</t>
+            <t pos="a">lämmin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a_n">buerie</l>
+         <l pos="a">buerie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a_n">hyvä</t>
+            <t pos="a">hyvä</t>
          </tg>
       </mg>
    </e>
@@ -36,31 +36,31 @@
    </e>
    <e>
       <lg>
-         <l pos="a_n">lovve</l>
+         <l pos="a">lovve</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a_n">märkä</t>
+            <t pos="a">märkä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a_n">plïehtje</l>
+         <l pos="a">plïehtje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a_n">laakea</t>
+            <t pos="a">laakea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a_n">snjaltje</l>
+         <l pos="n">snjaltje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a_n">heinäkuu</t>
+            <t pos="n">heinäkuu</t>
          </tg>
       </mg>
    </e>
