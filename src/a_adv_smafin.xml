@@ -6,16 +6,21 @@
 <r>
    <e>
       <lg>
-         <l pos="a_adv">rïekte</l>
+         <l pos="a">rïekte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a_adv">suoraan</t>
+            <t pos="a">suora</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">rïekte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="a_adv">suora</t>
+            <t pos="adv">suoraan</t>
          </tg>
       </mg>
    </e>
