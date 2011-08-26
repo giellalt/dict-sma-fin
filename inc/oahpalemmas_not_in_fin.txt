@@ -222,172 +222,172 @@ dusnie daesnie
 duvrie	karhu
 duvtedh	tukea
 duvtestahke	tuki
-duvvehke	
-dåahka	
+duvvehke	kuikka
+dåahka	nukke
 dååsveridh	
 dæjmetje giesien	
-dïevedh	
-dïjnehke	
-dïjre	
-dïmpere	
-döörhke	
+dïevedh	täytyä
+dïjnehke	sokeri
+dïjre	viesti
+dïmpere	tukki
+döörhke	kaulus
 eadtjohkelaakan	
-ealjoeh	
+ealjoeh	laiska
 eanghkoen	
-easadidh	
+easadidh	nousta
 easkan	
-eejhteghtjåanghkoe	
-eengkele	
-eksaamene	
-elkie	
-faadta	
-faage	
-faageaamhtese	
-faala	
-faaledh	
-faaleldahke	
+eejhteghtjåanghkoe	vanhempainkokous
+eengkele	enkeli
+eksaamene	tentti
+elkie	poika
+faadta	polttopuu
+faage	oppiaine
+faageaamhtese	oppiaine
+faala	valas
+faaledh	tarjota
+faaleldahke	tarjous
 faamoeh tjöönghkedh	
-faatna	
-faerhmiestidh	
-fahkes	
-feejjen	
-feeledh	
-feeredh	
-fijrie	
-filme	
-firrelidh	
+faatna	väinönputki
+faerhmiestidh	halata
+fahkes	hereillä
+feejjen	iloinen
+feeledh	matkustaa
+feeredh	matkustaa
+fijrie	poikamies
+filme	elokuva
+firrelidh	ravistaa
 flyjjere	
-foeme	
+foeme	tuomi
 fuakedh	
-funhterdidh	
-færkasidh	
+funhterdidh	miettiä
+færkasidh
 fïerhten biejjien	
 fïerhten iehkeden	
-fïerpenroehtse	
-fïrredh	
-föörhkelh	
-gaajhkenjevlien	
-gaajhtse	
-gaajpeles	
-gaajsege	
+fïerpenroehtse	rätvänä
+fïrredh	ravistaa
+föörhkelh	nauru
+gaajhkenjevlien	limainen
+gaajhtse	vuohi
+gaajpeles	kömpelö
+gaajsege	saniainen
 gaalehtjidh	
 gaallohke	
-gaaloe	
-gaaltije	
-gaaltijejohketje	
+gaaloe	kylmä sää
+gaaltije	lähde
+gaaltijejohketje	lähdepuro
 gaalve	
-gaanedidh	
-gaaranasse	
+gaanedidh	syleilä
+gaaranasse	korppi
 gaaredh	
 gaarkoehtidh	
-gaarvanadtedh	
-gaarvanidh	
-gaase	
+gaarvanadtedh	häipyä
+gaarvanidh	häipyä
+gaase	hanhi
 gaatske	
-gaave	
-gaavestidh	
-gaavnoes	
-gabnjelidh	
+gaave	koukku
+gaavestidh	haukkua
+gaavnoes	oleva
+gabnjelidh	pelotella
 gadtere	
 gadtjeråtjka	
 gadtsese	
-gaejsie	
-gaekere	
-gaelmie	
-gaelmiesijjie	
-gaertienadtje	
-gaertjies	
-gaessie	
-gaetskedh	
+gaejsie	vuorenhuipuu
+gaekere	poronkakka
+gaelmie	hauta
+gaelmiesijjie	hautapaikka
+gaertienadtje	torppa
+gaertjies	ahdas
+gaessie	pihka
+gaetskedh	purra
 gaetskehke	
-gaevnie	
+gaevnie	lelu
 gahpedh	
-gajhkehtestedh	
-gajpe	
-galhkuve	
-galkedh	
-galme	
-gamte	
+gajhkehtestedh	kuivata
+gajpe	hattu
+galhkuve	loppu
+galkedh	pitää
+galme	kylmä
+gamte	leveä
 gapta	
 gaptese	
 gaptjese	
-garhpe	
-garhtse	
+garhpe	kuilu
+garhtse	hihna
 garkedh	
-garmerdidh	
-garmeres	
-garrelaejpie	
-garse	
-gaskedh	
-gaskesadtemegïele	
-gaskeviermie	
+garmerdidh	pröysteillä
+garmeres	ylpeä
+garrelaejpie	näkkileipä
+garse	vesiputous
+gaskedh	sasamoida
+gaskesadtemegïele	kommunikointikieli
+gaskeviermie	internetti
 geahpoe	
 geajnoeraejkien	
-gearkeske	
+gearkeske	kivinen
 gearodh	
 gebrie	
-gedtie	
-geellege	
-geeremegåetie	
-geerjedh	
+gedtie	villiporo
+geellege	vaimo
+geeremegåetie	vankila
+geerjedh	ilo
 geesjelelaakan	
 geevledh	
 gellene lehkesne	
 gie dellie datne	
-giefies	
-gieltegs	
-gierehtse	
-gierhkie	
-gieriesvaejvie	
-gieriesvoete	
+giefies	köyhä
+gieltegs	jännittävä
+gierehtse	pulkka
+gierhkie	ahma
+gieriesvaejvie	rakkaussuru
+gieriesvoete	rakkaus
 giesememoere	
 giesemeruevtie	
 giesie doekoe	
-giesie-eejehtimmie	
-giesiebarkoe	
+giesie-eejehtimmie	kesäloma
+giesiebarkoe	kesätyö
 giesien	
 gievrie	
-gihtjedidh	
+gihtjedidh	kysyä
 gihtjesovvedh	
 gilledh	
 gillehtidh	
-gilmehtahke	
-giltedh	
-gipsedh	
-girmedh	
+gilmehtahke	pakastin
+giltedh	kiiltää
+gipsedh	kipsata
+girmedh	kehua
 girtedh	
-girtiesijjie	
-girvene	
-gitaare	
-goejhke	
-goerehtalledh	
-goerehtalleme	
+girtiesijjie	lentokenttä
+girvene	halukas
+gitaare	kitara
+goejhke	koski
+goerehtalledh	haastatella
+goerehtalleme	haastattelu
 goerhtele	
-goerke	
+goerke	kurki
 goetsehtidh	
-goetselidh	
-goevte	
+goetselidh	juosta
+goevte	helmikuu
 goevtesmoere	
 golkedahke	
 golkedh	
 golkehke	
-gorredidh	
-govlesovvedh	
-govse	
-grammatihke	
+gorredidh	pelastaa
+govlesovvedh	kuullua
+govse	lehmä
+grammatihke	kielioppi
 gudtsien prïhtjegen åvteste	
-gudtsiestidh	
+gudtsiestidh	kiittää
 guehperenlïetse	
 guektien haerien	
-guelhties	
-gueliejaevrie	
+guelhties	kylmä
+gueliejaevrie	kalajärvi
 guhkiesbuejtie	
 gujredh	
 guktie gåarede	
-gumsie	
-gurhkedh	
-gurhkestidh	
-gurhtie	
+gumsie	karhu
+gurhkedh	kaataa
+gurhkestidh	kaadella
+gurhtie	kuikka
 gurreme	
 gurremeabpese	
 gurremetråajja	
