@@ -388,276 +388,276 @@ gumsie	karhu
 gurhkedh	kaataa
 gurhkestidh	kaadella
 gurhtie	kuikka
-gurreme	
+gurreme	kutoaminen
 gurremeabpese	
 gurremetråajja	
 gurruve	
 guvhkiehtidh	
 guvhkiehtæjja	
-guvviedidh	
-gyhtjelasse	
-gyhtsele	
-gyvjeh	
-gåahta	
-gåaroje	
+guvviedidh	piirtää
+gyhtjelasse	kysymys
+gyhtsele	etana
+gyvjeh	nopea
+gåahta	karkki
+gåaroje	ompelija
 gåarome	
-gåaromedeerpegh	
-gåatomelaante	
-gåetehke	
-gåetiegïele	
-gåetiesjalja	
-gåffoeh	
-gåhtjodh	
-gålkoe	
+gåaromedeerpegh	ompelutarvikkeet
+gåatomelaante	laidunta-alue
+gåetehke	avomies | avovaimo
+gåetiegïele	kotikieli
+gåetiesjalja	piha
+gåffoeh	höyhen
+gåhtjodh	kutsua
+gålkoe	marraskuu
 gårroebielie	
 gårroeh bielie	
 gåvles	
 gåvnahtalledh	
-gåårestahke	
-gåårtenje	
+gåårestahke	ompelulanka
+gåårtenje	nauha | lanka
 gæjsa	
-gællasjidh	
-gælloeh	
-gæmhpodh	
-gæmhpome	
-gærrodh	
-gïehke	
-gïelebiesie	
-gïeledajve	
-gïelejarnge	
-gïelenjoelkedasse	
-gïeleööhpehtimmie	
+gællasjidh	maata
+gælloeh	makaava
+gæmhpodh	taistella
+gæmhpome	taistelu
+gærrodh	kirota
+gïehke	vaadin
+gïelebiesie	kielipesä
+gïeledajve	kielialue
+gïelejarnge	kieliopetus
+gïelenjoelkedasse	kielisääntö
+gïeleööhpehtimmie	kieliopetus
 gïeltege	
-gïerene	
+gïerene	kiiruna
 gïerestalledh	
 gïerestidh	
-gïerhgietjie	
-gïeriesvoelpe	
-gïermesje	
+gïerhgietjie	huippu
+gïeriesvoelpe	ystävä
+gïermesje	käärme
 gïerte	
 gïesedh	
-gïeteråantja	
+gïeteråantja	johtoporo
 gïethgierehtse	
-gïevehpluevie	
-gïevehtidh	
+gïevehpluevie	suo?
+gïevehtidh	keinua
 gïjre doekoe	
 gïjrelaante	
 gïrse	
-göögkeles	
+göögkeles	upea | mainio
 göökten harran	
-gööles	
+gööles	kalaisa
 haelieh	
-haeliehtidh	
-haerrie	
-hajkedidh	
-hajkodh	
-heamture	
-heejle	
-heevehtimmie	
-hievnie	
-hievnieviermie	
+haeliehtidh	lentää
+haerrie	harjus
+hajkedidh	juosta
+hajkodh	heittää
+heamture	tarina
+heejle	kokonainen
+heevehtimmie	juhlinta
+hievnie	hämähäkki
+hievnieviermie	hämähäkinseiti
 hijven hov	
-hojjedh	
-hopsedh	
-hujnies	
+hojjedh	valita
+hopsedh	haista
+hujnies	surullinen
 hurrehke	
-hussege	
-håagkstaavra	
-håhkoe	
-håågkedidh	
+hussege	vesi-itikkä
+håagkstaavra	onki
+håhkoe	toivo
+håågkedidh	kalastaa
 håålesjidh	
-hælloe	
+hælloe	hylly
 iehkeden	
-iehtsedh	
-iehtseles	
+iehtsedh	rakastaa
+iehtseles	rakastettu
 ierie	
-ihkuve	
-ij	
+ihkuve	ikuinen
+ij	ei
 ij åejjieh vielie guedtieh	
 jaa hævvi	
-jaame	
-jaehkedh	
-jaemedh	
-jaemielidh	
+jaame	kuollut
+jaehkedh	uskoa
+jaemedh	kuolla
+jaemielidh	kuolla
 jallese	
-jarkedh	
-jarkelidh	
-jarnge	
-jeahna	
-jeanoe	
+jarkedh	kääntyä
+jarkelidh	kääntää
+jarnge	keskus
+jeahna	jättiläinen
+jeanoe	joki
 jearja	
-jearmijes	
-jearsoes	
-jeeluve	
-jemhkelde	
+jearmijes	järkevä
+jearsoes	turvallinen
+jeeluve	pääoma
+jemhkelde	pimeys
 jestiehtidh	
-jiehtege	
-jielemeguvvie	
+jiehtege	lause
+jielemeguvvie	elokuva
 jiesie	
-jievege	
-jihtseles	
+jievege	matto
+jihtseles	tiivis
 jillieraedtie	
-jimhkelidh	
-jipse	
+jimhkelidh	tuhota
+jipse	kipsi
 jirredeaereden	
-johke	
-johkebealam	
-johkenjaelmie	
-jorkesidh	
-jorkestimmie	
+johke	puro | joki
+johkebealam	joenreuna
+johkenjaelmie	joensuu
+jorkesidh	muuttua
+jorkestimmie	muutos
 jovjeråtnoe	
-juakasovvedh	
+juakasovvedh	jakaantua
 juelkiebielie	
-juelkietjengkere	
-jueskiedahke	
+juelkietjengkere	jalkapallo
+jueskiedahke	jääkaappi
 juhteme	
-julevsaemie	
-julevsaemiengïele	
-jupmele	
+julevsaemie	luulajansaamelainen
+julevsaemiengïele	luulajansaamen kieli
+jupmele	jumala
 jurjiehtamme beapmoeh	
-jurjiehtæjja	
-juvse	
-jåamoe	
-jåaskoedehtedh	
+jurjiehtæjja	kokki
+juvse	tuoremehu
+jåamoe	hapro | juomu
+jåaskoedehtedh	viiletää
 jåerhkedh	
-jånnga	
+jånnga	pöytäveitsi
 jårredh	
-jåvleaske	
-jåvlejïjje	
-jåvlelaavloe	
+jåvleaske	joulukuu
+jåvlejïjje	jouluyö
+jåvlelaavloe	joululaulu
 jåvli mænngan	
 jåvli åvtelen	
 jååktetje jïjjen	
 jæjsodh	
 jïekedh	
-jïermestalledh	
-jïermijes	
-jïjjedidh	
-jïjjesnjågloe	
-jïjledh	
+jïermestalledh	miettiä
+jïermijes	viisas
+jïjjedidh	yöpyä
+jïjjesnjågloe	lehtopöllö
+jïjledh	kirvellä
 jïjseme	
-jïlleskuvle	
-jöömmetje	
-kapteene	
-keebrege	
+jïlleskuvle	korkeakoupu
+jöömmetje	kaksonen
+kapteene	kapteeni
+keebrege	korppu
 klaapsaspaarra	
-klaeries	
+klaeries	kirkas
 klajkesidh	
-klajkodh	
-klodtje	
+klajkodh	kiekua | kukkua
+klodtje	aukko
 klååmsehth	
-klæhtoehtidh	
-kneekedh	
-knugkedh	
-konsulente	
-kontejnere	
-konvensjovne	
-kraavhtse	
-kraejedh	
-kraejhpies	
-kraesienjålhtja	
-kreadta	
-kreeke	
-kreemsedh	
-kristedh	
-kroenesaate	
-kruepieslaejpie	
-kråahpe	
+klæhtoehtidh	leikkiä
+kneekedh	jyrsiä
+knugkedh	hieroa
+konsulente	neuvonantaja | konsulentti
+kontejnere	kontti
+konvensjovne	konventio | sopimus
+kraavhtse	puuro
+kraejedh	röhkiä
+kraejhpies	kumpuileva
+kraesienjålhtja	heinäsirkka
+kreadta	kahvilisäke
+kreeke	eläin
+kreemsedh	tarttua
+kristedh	kastaa
+kroenesaate	vihannes
+kruepieslaejpie	tumma leipää
+kråahpe	keho
 kråavvoehrudtjen	
-krïevve	
-krïtnedh	
-kuvsjeplaane	
-kvæjta	
-kåale	
-kåarje	
-kåvrehts	
-kååpe	
+krïevve	poro
+krïtnedh	murista | äristä
+kuvsjeplaane	kurssisuunnitelma
+kvæjta	pallas | ruijanpallas
+kåale	kaali
+kåarje	kori
+kåvrehts	uninen
+kååpe	naisten takki
 laabjehtidh	
 laaje	
-laampe	
-laanteburrie	
-laantemuerjie	
-laavenjasse	
-laavkometjïehtjele	
-laemtjie	
+laampe	karitsa
+laanteburrie	maanviljeljiä
+laantemuerjie	metsämansikka
+laavenjasse	tehtävä
+laavkometjïehtjele	kylpyhuone
+laemtjie	ohjakset
 laemtjiestidh	
-laessie	
-lapte	
-lea	
-leahkoe	
-leaksoe	
-leamkedh	
-leamoestidh	
-learoegærja	
-learoeplaane	
-learoesoejkesje	
-learoevierhtie	
-learohke	
-learohkedåehkie	
-leatskodh	
-leekedh	
+laessie	kuorma
+lapte	vintti
+lea	olla
+leahkoe	poikkipuu
+leaksoe	läksy
+leamkedh	sulata
+leamoestidh	ryöpätä
+learoegærja	oppikirja
+learoeplaane	oppisuunnitelma
+learoesoejkesje	oppisuunnitelma
+learoevierhtie	oppineuvo
+learohke	oppilas
+learohkedåehkie	oppilasjoukku
+leatskodh	uppoa
+leekedh	teurastaa
 leekemebovtse	
-leekemebïjle	
-leesedh	
-leevege	
-libnjiedidh	
-lidtedh	
-liemme	
-lijhkiemåvhka	
-lijhkiesjåarhtoe	
-lijhkievaarjoe	
-lissie	
-lissiehtidh	
+leekemebïjle	teurastusauto
+leesedh	lukita
+leevege	neulanen
+libnjiedidh	haista
+lidtedh	metsästää
+liemme	lato
+lijhkiemåvhka	alushousut | pikkuhousut | pikkarit
+lijhkiesjåarhtoe	aluspaita
+lijhkievaarjoe	alusvaatteet
+lissie	lisäys
+lissiehtidh	lisätä
 loehke	
 loehkegierehtse	
-loejhmedh	
-loeve	
-loeves	
+loejhmedh	valita
+loeve	silmäluomi | luomi
+loeves	irtonainen
 loevesmiesie	
-lohkehtidh	
-lopmedoenehke	
-lopmefealloe	
-lovvehtidh	
+lohkehtidh	opettaa
+lopmedoenehke	lumikelkka
+lopmefealloe	lumilauta
+lovvehtidh	liottaa
 luehkedh	
-luemege	
-luhkieakte	
-luhkiegaektsie	
-luhkiegolme	
-luhkiegovhte	
-luhkiegöökte	
-luhkienieljie	
-luhkietjïjhtje	
-luhkieuktsie	
-luhkievïjhte	
-lustes	
-luvhtedh	
-luvlene	
-låabpoeh	
-låamma	
-låavtege	
+luemege	sopuli
+luhkieakte	yksitoisa
+luhkiegaektsie	kahdeksantoista
+luhkiegolme	kolmetoista
+luhkiegovhte	kuusitoista
+luhkiegöökte	kaksitoista
+luhkienieljie	neljätoista
+luhkietjïjhtje	seitsemäntoista
+luhkieuktsie	yksitoista
+luhkievïjhte	viisitoista
+lustes	hauska
+luvhtedh	täytyy
+luvlene	idässä | itä
+låabpoeh	hajoitettu
+låamma	tasku
+låavtege	teltta
 låemie	
 låesuve	
 lårhvoehbïenje	
 låssas	
-låvnadahke	
+låvnadahke	auringonnousu
 læstoe	
-lïemkeds	
-lïene	
-lïerehtidh	
+lïemkeds	leuto
+lïene	lämmin
+lïerehtidh	opettaa
 lïerhkelidh	
 lïhtsege	
-lïhtsestidh	
-lööbpedh	
-lööneme	
-maadthööhpehtimmie	
-maadtoe	
-maalestahke	
-maalle	
-maarhte	
-maehtehtje	
-maejstedh	
-maeksemekåarhte	
-man	
+lïhtsestidh	leikata
+lööbpedh	levittää
+lööneme	laina
+maadthööhpehtimmie	perusopetus
+maadtoe	alkuperä
+maalestahke	ateria
+maalle	malli
+maarhte	näätä
+maehtehtje	taitava
+maejstedh	maistaa
+maeksemekåarhte	maksukortti
+man	kuinka
 man båeries	
 man gaavhtan	
 man gellie	
@@ -665,73 +665,73 @@ man guhkiem
 man jïjnje	
 man stoerre	
 maskastimmien raajan	
-mastedh	
-mearhka	
-mearoegööleme	
+mastedh	sekoittua
+mearhka	sumu
+mearoegööleme	merikalastus
 measehke	
-meile	
+meile	sähköposti | maili
 miehtjiebasse	
-mieriesoejkesje	
-mietiebïegke	
+mieriesoejkesje	aikasuunnitelma
+mietiebïegke	myötätuuli
 mij dellie	
 mij faatoes	
 mij joem	
 mij vielie	
 mijjieh	
-minngehke	
-mobïjle	
-moehtegadtje	
-moeregaerie	
-moeretsöölhke	
-moevse	
-mohtedidh	
+minngehke	jälkijoukko
+mobïjle	kännykkä | matkapuhelin
+moehtegadtje	lumikko
+moeregaerie	puukulho
+moeretsöölhke	tikka
+moevse	lokki
+mohtedidh	vertailla
 mojhteladtedh	
 mojhteleslaakan	
-mojhtestehtedh	
-mojjehtidh	
-mojnestimmie	
-molledh	
-molsesovvedh	
+mojhtestehtedh	muistuttaa
+mojjehtidh	hymyillä
+mojnestimmie	arvoitus
+molledh	seurustella
+molsesovvedh	vaihtaa
 mov luvhtie	
-mubpiengïele	
-mueltie	
-muerjie	
+mubpiengïele	toinen kieli | vieraskieli
+mueltie	multa
+muerjie	marja
 mulliedidh	
-multie	
-murhkedh	
-måaladidh	
-måara	
-måarahtovvedh	
-måaskedh	
-måaskodh	
+multie	multa
+murhkedh	murskata
+måaladidh	maalata
+måara	iso luu
+måarahtovvedh	suuttua
+måaskedh	loukaantua
+måaskodh	loukaantua
 måedtieh såarhth	
-mårhkedh	
-måskoes	
-mænngese	
-mïele	
-mïjle	
-na	
+mårhkedh	tuhoutua
+måskoes	suljettu
+mænngese	taakse
+mïele	mieli
+mïjle	miili | 10 km | kymmenen kilometriä
+na	| melko
 naa guhkiem	
 naan aejkien	
-naapere	
+naapere	pora
 naemie	
-naestie	
-nahkere	
-najpetje	
-nalhke	
-namhpe	
-napkedh	
+naestie	tähti
+nahkere	väsymys
+najpetje	pieni veitsi
+nalhke	tyyny
+namhpe	poronmerkki
+napkedh	kulua
 nastedh	
-neebne	
-neeledh	
+neebne	kaima
+neeledh	hävetä
 nejpiensjapmere	
 nieskedh	
 nieskemegalte	
 nieskemeruevtie	
-nietsege	
-nihtedh	
+nietsege	sääriluu
+nihtedh	kieltää
 njaaka	
-njaalmeldh	
+njaalmeldh	suullinen
 njaalmeldhgïele	
 njaarege	
 njaarke	
