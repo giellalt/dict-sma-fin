@@ -886,373 +886,373 @@ saevegebiejjie	liputuspäivä
 saeviehtidh	heiluttaa
 sarhvegidh	
 sarve	hirvi
-seahkoe	
+seahkoe	sorkka
 seahkoemåara	
 seahkoevoeje	
-seammalaakan	
-searome	
+seammalaakan	samanlainen
+searome	poski
 seeptjedh	
 sermie	
 sesnie	
-siegkies	
+siegkies	laiha
 sieptie	
-sietedh	
-sieties	
-sigledh	
-sihtege	
+sietedh	keli
+sieties	makea
+sigledh	purjehtia
+sihtege	ahven
 sijjieh	
-sijjienomme	
+sijjienomme	paikannimi
 sisnjelen	
-sisvege	
+sisvege	sisältö
 sjaavodh	
 sjeavodslaakan	
-sjilkedh	
-sjilkehtimmie	
-sjoehkedidh	
-sjovnestidh	
+sjilkedh	sulata
+sjilkehtimmie
+sjoehkedidh	huokata
+sjovnestidh	palvella
 sjyjjedehtedh	
-sjyjjehke	
+sjyjjehke	liukas
 sjyjjesjidh	
-sjåarhta	
-sjïele	
+sjåarhta	paita
+sjïele	häälahja
 sjïjlelaejpie	
-sjöövelidh	
-sjöövememielhkie	
-skaale	
-skaanjedh	
+sjöövelidh	sekoittaa
+sjöövememielhkie	ternimaito
+skaale	kuori
+skaanjedh	kilistää
 skaavhtes	
-skaavtjoe	
+skaavtjoe	parta
 skeenedh	
 skeeredh	
 skeerestidh	
-skeerkedh	
-skierrie	
-skijre	
+skeerkedh	kirkastua
+skierrie	vaivaiskoivu
+skijre	harakka
 skilledh	
-skirhmedh	
-skirreduarsta	
+skirhmedh	tuhota
+skirreduarsta	kiirastorstai
 skitjskiestidh	
 skodth varki	
-skopmehke	
-skråavva	
+skopmehke	viita
+skråavva	kaulin
 skråevviestidh	
-skuehtiejaepie	
-skuehtiejaepiebiejjie	
-skylledh	
-skylleme	
+skuehtiejaepie	karkausvuosi
+skuehtiejaepiebiejjie	karkauspäivä
+skylledh	käydä ripillä
+skylleme	rippijuhla
 skåerrie	
-skååffedh	
-skïemmenidh	
-skïemtjelasse	
-skïerede	
+skååffedh	hankkia
+skïemmenidh	hävetä
+skïemtjelasse	sairaus
+skïerede	syyskuu
 skïeredh	
 skïeremesarva	
-skïhpe	
-slaahpoesoene	
-slaarve	
-slaarvestidh	
-slaarvestimmie	
-slajkedh	
-slearodh	
-sleebpedh	
+skïhpe	laiva
+slaahpoesoene	selkäsuoni
+slaarve	valhe
+slaarvestidh	juorua
+slaarvestimmie	juoru
+slajkedh	irtoa
+slearodh	heittää
+sleebpedh	kaataa
 sleegkedh	
 sleehpeldihkie	
 sleejedh	
-sliehtie-elmie	
-slovves	
-sluekieh	
-slyöbpedh	
-slyöhpedh	
+sliehtie-elmie	räntäsää
+slovves	katala
+sluekieh	teurastusjätteet
+slyöbpedh	välttää
+slyöhpedh	välttää
 slåavege	
-slïehtehke	
-smaahkodh	
-smaarege	
-smaarehtjïerte	
+slïehtehke	pulmunen
+smaahkodh	hakata
+smaarege	murre
+smaarehtjïerte	murre
 snarredh	
 sneehpeslaakan	
-snjipkedh	
-snjuhtjie	
-snovsedidh	
-snurke	
-snåhta	
-snööledh	
-snöölhke	
-soejkesje	
-soejkesjidh	
-soekse	
-soelkehtidh	
+snjipkedh	päästä
+snjuhtjie	kärkki
+snovsedidh	niistää nenää
+snurke	sika
+snåhta	teerinaaras
+snööledh	laidun
+snöölhke	susi
+soejkesje	suunnitelma | idea
+soejkesjidh	suunnitella
+soekse	toukka
+soelkehtidh	lohduttaa
 soen’åedtjie	
-soeskedh	
-soevestahke	
-sohte	
-sojjehtidh	
-sojjehtimmie	
-sommedh	
-soptsese	
-soptsestimmie	
-soptsestæjja	
-sovhte	
+soeskedh	purra
+soevestahke	savuliha
+sohte	epidemia
+sojjehtidh	taivuttaa
+sojjehtimmie	taivutus
+sommedh	kuiskata
+soptsese	kertomus
+soptsestimmie	lausunto
+soptsestæjja	kertoja
+sovhte	flunssa | nuha
 spaaneserehkere	
 spaenjietsåaka	
 sperniedidh	
-spååredh	
-spïele	
-staate	
-staehkie	
-staellie	
-staeriedidh	
-steeblege	
+spååredh	säästää
+spïele	soitin
+staate	valtio
+staehkie	heinäseiväs
+staellie	talli
+staeriedidh	oikoa | korjata
+steeblege	saapas
 stoenedh	
-stoerredigkie	
-stoerredålle	
-stoerregiebnie	
+stoerredigkie	suurkäräjät
+stoerredålle	suurtuli
+stoerregiebnie	suurkattila
 straavedh	
-stratjke	
-stråmhpoe	
+stratjke	ruisku
+stråmhpoe	pensas
 stråmhpoeraedtie	
-stræjjavoesse	
-ståante	
-ståapa	
+stræjjavoesse	juuttireppu
+ståante	hetki | tuokio
+ståapa	tupa | talo
 ståaradidh	
-stïelhke	
-stöörelgovvedh	
-sualadidh	
-suehpedebaelie	
-suehpiehtidh	
-suvhpie	
-suvtie	
+stïelhke	varsi
+stöörelgovvedh	häiriintyä
+sualadidh	varastaa
+suehpedebaelie	vasikoimisaika
+suehpiehtidh	vasikoida
+suvhpie	haapa | metsæhaapa
+suvtie	raate
 svaejlehke	
-svirrege	
-svååredh	
-svæjmoedidh	
-sygkeldidh	
-sygkesidh	
+svirrege	päästäinen
+svååredh	vastata
+svæjmoedidh	pyörtyä
+sygkeldidh	pyöräillä
+sygkesidh	tulla vedetyksi
 syhtjegh	
-syjjehtimmie	
-såahpodh	
-såajoe	
+syjjehtimmie	taivutus
+såahpodh	vasikoida
+såajoe	siipi
 såakelgidh	
-såaltje	
+såaltje	maine
 såataskidh	
-såekiegalte	
+såekiegalte	koivuhalko
 såeleme	
-såelie	
+såelie	oksa
 såevlie	
-sårkoe	
-såvnjodh	
-såvrodh	
+sårkoe	suru
+såvnjodh	ravistaa
+såvrodh	hapaantua
 sååketje	
 sååketjekraesie	
-sælta	
-sïejhme	
-sïerke	
+sælta	silli
+sïejhme	tavallinen
+sïerke	paju
 söökesmielhkie	
 söönedh	
-taale	
-tekste	
-telefovne	
-telefovnenummere	
-tjaalaldahke	
-tjaalaldihkie	
-tjaalege	
-tjaaleldahke	
-tjaaleldhgïele	
-tjaalesthtjomhpe	
+taale	luku
+tekste	teksti
+telefovne	puhelin
+telefovnenummere	puhelinnumero
+tjaalaldahke	kirjoitus
+tjaalaldihkie	kirjoitettu
+tjaalege	kirjoitus
+tjaaleldahke	kirjoitus
+tjaaleldhgïele	kirjakieli
+tjaalesthtjomhpe	tavu
 tjaalestidh	
-tjaavtese	
-tjaelije	
+tjaavtese	nousu
+tjaelije	kirjailija
 tjaevtedh	
 tjahtedh	
 tjaktje doekoe	
 tjaktjege	
 tjaktjelaante	
-tjalmese	
-tjarme	
-tjeakoes	
+tjalmese	verkkomaha
+tjarme	nyrkki
+tjeakoes	salainen
 tjeapetji	
-tjeavra	
+tjeavra	saukko
 tjerkie	
-tjiehpies	
+tjiehpies	kätevä
 tjiehpieslaakan	
-tjihtese	
+tjihtese	runo
 tjillege	
 tjimkedh	
 tjimkeslaakan	
 tjoejkedidh	
-tjoere	
-tjoevke	
-tjoevkedh	
-tjoevtje	
+tjoere	kärpänen
+tjoevke	valo
+tjoevkedh	loistaa
+tjoevtje	siika
 tjohtjedh	
 tjomhpe	
 tjomhpetje	
 tjonkedh	
-tjovle	
+tjovle	leninki | hame
 tjuatsajidh	
 tjuekie	
-tjuetsedh	
-tjulhte	
-tjulhtedh	
-tjurrie	
-tjåagka	
+tjuetsedh	sataa lunta
+tjulhte	seula
+tjulhtedh	seulata
+tjurrie	harjunselkä
+tjåagka	haarukka
 tjåagkodh	
 tjåalhte	
 tjåalhtetje	
-tjåanghkenidh	
-tjåanghkoetjïehtjele	
-tjåetskemes	
+tjåanghkenidh	kokoontua
+tjåanghkoetjïehtjele	kokoushuone
+tjåetskemes	kylmä
 tjåhkome	
 tjåånehtahke	
-tjååtsele	
+tjååtsele	sorsa
 tjæjnodh	
-tjïelhke	
-tjïelkestidh	
-tjïerte	
-tjïevhtje	
-tjïrredh	
-tjöölle	
-toelhke	
-tovme	
-traste	
+tjïelhke	kelkka
+tjïelkestidh	selittää
+tjïerte	ryhmä
+tjïevhtje	meriharakka
+tjïrredh	nokia
+tjöölle	vaaleansininen
+toelhke	tulkki
+tovme	tyhjä
+traste	rastas
 trimhkestidh	
-tryöjjadidh	
-tråahpe	
-trïengkestidh	
-tsaepmedh	
+tryöjjadidh	viihtyä
+tråahpe	raput | portaat
+trïengkestidh	olla renkinä
+tsaepmedh	lyödä
 tsagkeldhdueljie	
-tsagkeme	
+tsagkeme	kimpsut ja kampsut
 tsegkiedeakehke	
-tsiehkie	
+tsiehkie	tilanne
 tsietsedh	
-tsietsehthmuerjie	
-tsiptsedh	
-tsoepkenidh	
-tsuvvedh	
+tsietsehthmuerjie	vadelma | vattu
+tsiptsedh	purista
+tsoepkenidh	katketa
+tsuvvedh	ravata
 tsyögkesidh	
 tsåaka	
-tsåakodh	
+tsåakodh	putoa
 tsåalhkodh	
 tsåapkodh	
 tsåelhkielaejpie	
 tsåeptseles	
-tsïengele	
-tv-spïele	
-tåårske	
-tæhtjoe	
+tsïengele	tammikuu
+tv-spïele	tv-peli
+tåårske	turska
+tæhtjoe	katto
 tæjmosne båatam	
-töölledh	
-ujkierdidh	
-ulmie	
-unnebelåhkoegïele	
-ussjedimmie	
-vaajese	
+töölledh	kestää
+ujkierdidh	ulvoa
+ulmie	tavoite
+unnebelåhkoegïele	vähemmistäkieli
+ussjedimmie	ajatus
+vaajese	tarina
 vaanghka	
 vaanghkaklivvie	
 vaanghkamåara	
 vaarese	
-vaarhkedh	
-vaarjelidh	
+vaarhkedh	särkiä
+vaarjelidh	säilyttää
 vaeriej dubpelen	
 vaerieståapoe	
-vaestiedasse	
-valkedh	
+vaestiedasse	vastatus
+valkedh	lähteä
 valkedhokse	
 varkedh	
-veajalidh	
-veajedh	
-vealah	
+veajalidh	putoa
+veajedh	luistaa
+vealah	makaava
 vealmetje	
 veanasoene	
-veartene	
-vedtiestidh	
+veartene	maailma
+vedtiestidh	antaa
 veele	
-vervies	
+vervies	terve
 vestieslaakan	
-vetneme	
-vierhkieskaavtege	
+vetneme	majava
+vierhkieskaavtege	työkalupakki
 vierhtie	
-vierhtiedidh	
-vierhtiedimmie	
-vihtehks	
-vijrije	
-vijsies	
-voehpe	
-voehpealmetjh	
+vierhtiedidh	arvioida
+vierhtiedimmie	arviointi
+vihtehks	viisas
+vijrije	mestsästäjä
+vijsies	viisas
+voehpe	appiukko
+voehpealmetjh	appivanhemmat
 voejedaellie	
-voejedh	
-voelege	
+voejedh	uida
+voelege	olut
 voelkehtidh	
-voelpe	
-voerhtje	
+voelpe	ystävä
+voerhtje	varis
 voerkedahke	
 voestes gietjeste	
 voestesgïele	
-vokaale	
+vokaale	vokaali
 vuajnah tjaangh	
-vuajnajidh	
-vuaksa	
-vuanove	
+vuajnajidh	nähdä
+vuaksa	härkä | sonni
+vuanove	anoppi
 vuarhkemesarva	
 vuehtedh	
-vuejemelohkehtæjja	
+vuejemelohkehtæjja	ajo-opettaja
 vuekielïhtse	
 vuelie	
-vuelieraedtie	
-vuelkeme	
-vuerpie	
+vuelieraedtie	alareuna
+vuelkeme	matka
+vuerpie	arpa
 vuertieh ånnetji	
-vuhtsedh	
+vuhtsedh	laukata
 vyölkedidh	
-våajodh	
-våaroe	
+våajodh	uppoa
+våaroe	vuoro
 våatjodh	
-våhkoesoejkesje	
+våhkoesoejkesje	viikkosuunnitelma
 væjkeleslaakan	
 vïehkesadtedh	
-vïekesjidh	
-vïelletjh	
-vïenes	
-vïjve	
-vïrre	
-vïssjedh	
+vïekesjidh	punnita
+vïelletjh	veljekset
+vïenes	ystävällinen
+vïjve	vävy
+vïrre	veri
+vïssjedh	viitsiä
 vïssjeleslaakan	
-vïtnedh	
-vöönhtse	
-vöörhkedh	
-åabpedh	
-åabpetjh	
+vïtnedh	voittaa
+vöönhtse	kana
+vöörhkedh	piilota
+åabpedh	pelastaa
+åabpetjh	siskokset
 åadtjijebearkoe	
 åahpanadtedh	
-åarjelsaemiengïele	
+åarjelsaemiengïele	eteläsaamen kieli
 åarjene	
-åbrodh	
+åbrodh	sataa
 åejjiemoere	
-åejvieboelhke	
-åejviegïele	
-åejvieulmie	
+åejvieboelhke	pääosa
+åejviegïele	pääkieli
+åejvieulmie	päämäärä
 åelkies bielie	
-åemehke	
-åemie	
-åeniedidh	
-åeniedimmie	
+åemehke	vainaja
+åemie	vainaja
+åeniedidh	lyhentää
+åeniedimmie	lyhenne
 åeremesijjie	
-åerpele	
-åeruve	
-åesiestimmielæstoe	
+åerpele	serkku
+åeruve	orava
+åesiestimmielæstoe	kauppalista
 ålkode	
-ålkoelaante	
-ålkoeokse	
-ångkene	
-årromesijjie	
-åssjalommes	
-åvtebielie	
+ålkoelaante	ulkomaa
+ålkoeokse	ulko-ovi
+ångkene	lapsi
+årromesijjie	asuinpaikka
+åssjalommes	ajatus
+åvtebielie	etusivu
 åvtese	
 åvtesne	
 åvtesnuelie	
-åågkesjidh	
+åågkesjidh	haista | tuoksua
 ååjmedidh	
 ååjretje	
 ååjsehtalledh	
-åårke	
-ööhpehtimmiedirektoraate	
-öörnege	
+åårke	harju
+ööhpehtimmiedirektoraate	koulutusvirasto
+öörnege	järjestys
