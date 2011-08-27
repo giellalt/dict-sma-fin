@@ -39,7 +39,7 @@ baahkenidh	lämmetä
 baahkestjaetsie	lämminvesi
 baakoedåehkie	sanaluokka
 baakoegærja	sanakirja
-baakoelåhkoe	sanastå
+baakoelåhkoe	sanasto
 baakoelæstoe	sanalista
 baakoeraajroe	
 baakoetjïerte	sanaryhmä
@@ -276,7 +276,7 @@ gaaloe	kylmä sää
 gaaltije	lähde
 gaaltijejohketje	lähdepuro
 gaalve	
-gaanedidh	syleilä
+gaanedidh	syleillä
 gaaranasse	korppi
 gaaredh	
 gaarkoehtidh	
@@ -291,7 +291,7 @@ gabnjelidh	pelotella
 gadtere	
 gadtjeråtjka	
 gadtsese	
-gaejsie	vuorenhuipuu
+gaejsie	vuorenhuippu
 gaekere	poronkakka
 gaelmie	hauta
 gaelmiesijjie	hautapaikka
@@ -314,13 +314,13 @@ gaptjese
 garhpe	kuilu
 garhtse	hihna
 garkedh	
-garmerdidh	pröysteillä
+garmerdidh	pröystäillä
 garmeres	ylpeä
 garrelaejpie	näkkileipä
 garse	vesiputous
-gaskedh	sasamoida
+gaskedh	salamoida
 gaskesadtemegïele	kommunikointikieli
-gaskeviermie	internetti
+gaskeviermie	internetti | internet
 geahpoe	
 geajnoeraejkien	
 gearkeske	kivinen
@@ -372,7 +372,7 @@ golkedahke
 golkedh	
 golkehke	
 gorredidh	pelastaa
-govlesovvedh	kuullua
+govlesovvedh	kuulua
 govse	lehmä
 grammatihke	kielioppi
 gudtsien prïhtjegen åvteste	
@@ -388,7 +388,7 @@ gumsie	karhu
 gurhkedh	kaataa
 gurhkestidh	kaadella
 gurhtie	kuikka
-gurreme	kutoaminen
+gurreme	kutominen
 gurremeabpese	
 gurremetråajja	
 gurruve	
@@ -402,7 +402,7 @@ gåahta	karkki
 gåaroje	ompelija
 gåarome	
 gåaromedeerpegh	ompelutarvikkeet
-gåatomelaante	laidunta-alue
+gåatomelaante	laidunalue
 gåetehke	avomies | avovaimo
 gåetiegïele	kotikieli
 gåetiesjalja	piha
@@ -461,7 +461,7 @@ hojjedh	valita
 hopsedh	haista
 hujnies	surullinen
 hurrehke	
-hussege	vesi-itikkä
+hussege	vesi-itikka
 håagkstaavra	onki
 håhkoe	toivo
 håågkedidh	kalastaa
@@ -518,7 +518,7 @@ jurjiehtamme beapmoeh
 jurjiehtæjja	kokki
 juvse	tuoremehu
 jåamoe	hapro | juomu
-jåaskoedehtedh	viiletää
+jåaskoedehtedh	viilentää
 jåerhkedh	
 jånnga	pöytäveitsi
 jårredh	
@@ -536,7 +536,7 @@ jïjjedidh	yöpyä
 jïjjesnjågloe	lehtopöllö
 jïjledh	kirvellä
 jïjseme	
-jïlleskuvle	korkeakoupu
+jïlleskuvle	korkeakoulu
 jöömmetje	kaksonen
 kapteene	kapteeni
 keebrege	korppu
@@ -575,7 +575,7 @@ kååpe	naisten takki
 laabjehtidh	
 laaje	
 laampe	karitsa
-laanteburrie	maanviljeljiä
+laanteburrie	maanviljelijä
 laantemuerjie	metsämansikka
 laavenjasse	tehtävä
 laavkometjïehtjele	kylpyhuone
@@ -593,7 +593,7 @@ learoeplaane	oppisuunnitelma
 learoesoejkesje	oppisuunnitelma
 learoevierhtie	oppineuvo
 learohke	oppilas
-learohkedåehkie	oppilasjoukku
+learohkedåehkie	oppilasjoukko
 leatskodh	uppoa
 leekedh	teurastaa
 leekemebovtse	
@@ -620,7 +620,7 @@ lopmefealloe	lumilauta
 lovvehtidh	liottaa
 luehkedh	
 luemege	sopuli
-luhkieakte	yksitoisa
+luhkieakte	yksitoista
 luhkiegaektsie	kahdeksantoista
 luhkiegolme	kolmetoista
 luhkiegovhte	kuusitoista
@@ -632,7 +632,7 @@ luhkievïjhte	viisitoista
 lustes	hauska
 luvhtedh	täytyy
 luvlene	idässä | itä
-låabpoeh	hajoitettu
+låabpoeh	hajotettu
 låamma	tasku
 låavtege	teltta
 låemie	
@@ -702,8 +702,8 @@ murhkedh	murskata
 måaladidh	maalata
 måara	iso luu
 måarahtovvedh	suuttua
-måaskedh	loukaantua
-måaskodh	loukaantua
+måaskedh	loukkaantua
+måaskodh	loukkaantua
 måedtieh såarhth	
 mårhkedh	tuhoutua
 måskoes	suljettu
@@ -789,7 +789,7 @@ ohtsije	hakija
 oktebisnie	
 olle	
 organisasjovne	järjestö
-organiste	organisti
+organiste	urkuri
 orredaamehke	
 orredaaroengïele	nykynorja
 orreråantja	
@@ -851,8 +851,8 @@ råase	peura
 råatedh	
 råateme	ilves
 råavedh	
-rååpsedidh	punaistua
-råårhkesje	kuivukuusi
+rååpsedidh	punastua
+råårhkesje	kuivakuusi
 ræhka	
 rïeresjidh	pitää
 rïesedh	koristaa
@@ -971,7 +971,7 @@ smaarehtjïerte	murre
 snarredh	
 sneehpeslaakan	
 snjipkedh	päästä
-snjuhtjie	kärkki
+snjuhtjie	kärki
 snovsedidh	niistää nenää
 snurke	sika
 snåhta	teerinaaras
@@ -1019,7 +1019,7 @@ stöörelgovvedh	häiriintyä
 sualadidh	varastaa
 suehpedebaelie	vasikoimisaika
 suehpiehtidh	vasikoida
-suvhpie	haapa | metsæhaapa
+suvhpie	haapa | metsähaapa
 suvtie	raate
 svaejlehke	
 svirrege	päästäinen
@@ -1040,7 +1040,7 @@ såelie	oksa
 såevlie	
 sårkoe	suru
 såvnjodh	ravistaa
-såvrodh	hapaantua
+såvrodh	hapantua
 sååketje	
 sååketjekraesie	
 sælta	silli
@@ -1092,7 +1092,7 @@ tjuatsajidh
 tjuekie	
 tjuetsedh	sataa lunta
 tjulhte	seula
-tjulhtedh	seulata
+tjulhtedh	seulota
 tjurrie	harjunselkä
 tjåagka	haarukka
 tjåagkodh	
@@ -1143,7 +1143,7 @@ tæjmosne båatam
 töölledh	kestää
 ujkierdidh	ulvoa
 ulmie	tavoite
-unnebelåhkoegïele	vähemmistäkieli
+unnebelåhkoegïele	vähemmistökieli
 ussjedimmie	ajatus
 vaajese	tarina
 vaanghka	
@@ -1154,7 +1154,7 @@ vaarhkedh	särkiä
 vaarjelidh	säilyttää
 vaeriej dubpelen	
 vaerieståapoe	
-vaestiedasse	vastatus
+vaestiedasse	vastaus
 valkedh	lähteä
 valkedhokse	
 varkedh	
@@ -1174,7 +1174,7 @@ vierhtie
 vierhtiedidh	arvioida
 vierhtiedimmie	arviointi
 vihtehks	viisas
-vijrije	mestsästäjä
+vijrije	metsästäjä
 vijsies	viisas
 voehpe	appiukko
 voehpealmetjh	appivanhemmat
