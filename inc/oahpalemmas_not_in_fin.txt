@@ -734,158 +734,158 @@ njaaka
 njaalmeldh	suullinen
 njaalmeldhgïele	
 njaarege	
-njaarke	
-njaavhkodh	
+njaarke	saarento
+njaavhkodh	naukua
 njaelkieslaakan	
 njalkedh	
 njallemejuelkie	
 njallesbuejtie	
-njaltja	
-njealjehts	
-njelliestidh	
+njaltja	iho
+njealjehts	neljännes
+njelliestidh	nylkeä
 njeltedh	
-njevlie	
+njevlie	lima
 njilkehtidh	
-njimkedahke	
-njoere	
-njoktje	
-njorkedidh	
-njovhkedidh	
+njimkedahke	liima
+njoere	mehukas
+njoktje	maaliskuu
+njorkedidh	viheltää
+njovhkedidh	laulaa
 njuenehke	
-njålhtjodh	
-njæjhkodh	
+njålhtjodh	hypätä
+njæjhkodh	itkeä
 njïdtjele	
-noeredaltese	
-noereskuvle	
-noerhte	
+noeredaltese	yläaste
+noereskuvle	yläaste
+noerhte	pohjoinen
 noerhtene	
-noerhtesaemie	
-noerhtesaemiengïele	
+noerhtesaemie	pohjoissaamelainen
+noerhtesaemiengïele	pohjoissaamen kieli
 novh gujht	
 novh lea	
-nuhtjedh	
+nuhtjedh	käyttää
 numhtie	
-nyjsene	
-nyöjhkemehaamoe	
-nåajsan	
+nyjsene	nainen
+nyöjhkemehaamoe	kieltomuoto
+nåajsan	raskaana
 nåajtodh	
 nåakelaakan	
-nåalodh	
-nåejtie	
-nåekies	
-nårroe	
+nåalodh	puhua
+nåejtie	noita
+nåekies	huono
+nårroe	nyytti
 nårtodh	
 nåtsh	
 nåå nåå	
 nåå nåå dellie	
 nåålesidh	
-nænnoestidh	
+nænnoestidh	määrätä
 nïhpesjidh	
 nïmmehtsmoere	
 nïmmerh	
 nöökedh	
-obrijidh	
-ohtsije	
+obrijidh	sataa
+ohtsije	hakija
 oktebisnie	
 olle	
-organisasjovne	
-organiste	
+organisasjovne	järjestö
+organiste	organisti
 orredaamehke	
-orredaaroengïele	
+orredaaroengïele	nykynorja
 orreråantja	
 orrijimmie	
 ov nimhtie	
-ovmessie	
+ovmessie	erilainen
 paajsanidh	
-pahke	
-peanna	
-peannagåetie	
-pearalaejpie	
-pedagogihke	
-plaantege	
-plaerietjaeleme	
+pahke	pakata
+peanna	kynä
+peannagåetie	kynäkotelo
+pearalaejpie	perunaleipä
+pedagogihke	kasvatustiede
+plaantege	sekoitus
+plaerietjaeleme	lehtikirjoitus
 pleaksjode	
-plijrehtahke	
+plijrehtahke	koriste
 plåahkodh	
 praare deava	
-programme	
-prïhtjhvoesse	
-prïhtjhvoessetje	
-pååjketje	
+programme	ohjelma
+prïhtjhvoesse	kahvipussi
+prïhtjhvoessetje	kahvipussi
+pååjketje	pikkupoika
 raadtehts	
-raajedh	
-raajese	
-raajesetseegkeme	
-raajnevaarjoe	
+raajedh	lähettää
+raajese	lause
+raajesetseegkeme	lauseoppi
+raajnevaarjoe	sadevaatteet
 raame	
-raante	
-raarahtalledh	
+raante	peura
+raarahtalledh	neuvotella
 raarhkemestuhtje	
-raaste	
+raaste	raja
 raavtedh	
-raavtehtje	
-raavteres	
-radio	
+raavtehtje	voimakas
+raavteres	voimakas
+radio	radio
 raedtehke	
-raejkiebaenie	
-rahka	
-rahta	
+raejkiebaenie	reikähammas
+rahka	marraskuu
+rahta	kuusimetsä
 rajjadidh	
 rasse	
 reavsa	
 reehkedh	
 reektedh	
-reektehts	
-reeredh	
-rehkere	
-rektore	
+reektehts	rapporti
+reeredh	hallita
+rehkere	höylä
+rektore	rehtori
 restiedidh	
 rihkijahtjedh	
-rijredh	
+rijredh	ratsasta
 rohtedh	
-rutjkes	
+rutjkes	ruskea
 ryöjrehtidh	
-råakodh	
+råakodh	haukkua
 råanedh	
-råase	
+råase	peura
 råatedh	
-råateme	
+råateme	ilves
 råavedh	
-rååpsedidh	
-råårhkesje	
+rååpsedidh	punaistua
+råårhkesje	kuivukuusi
 ræhka	
-rïeresjidh	
-rïesedh	
-rïevtege	
-rïhkedahke	
-rïhkede	
+rïeresjidh	pitää
+rïesedh	koristaa
+rïevtege	koppakuoriainen
+rïhkedahke	kiima
+rïhkede	lokakuu
 rïhkijidh	
-rïhpesidh	
-rïjtedh	
+rïhpesidh	avautua
+rïjtedh	laitta
 röödtsedh	
-rööhtse	
-saadtege	
-saadteske	
+rööhtse	rotta
+saadtege	lähete
+saadteske	hiekkaranta
 saajkardahke	
 saajkardidh	
-saavredh	
-saavrehks	
-saedtiepaehpere	
+saavredh	harjoitella
+saavrehks	kestävä
+saedtiepaehpere	hiekkapaperi
 saejmie	
-saelhties	
+saelhties	suolattu
 saemesth amma	
-saemiedigkie	
-saemiedigkiepresidente	
-saemiengïele	
-saemienkultuvre	
-saemiensiebrie	
-saemienskuvle	
-saemienööhpehtimmie	
-saevege	
-saevegebiejjie	
-saeviehtidh	
+saemiedigkie	saamelaiskäräjät
+saemiedigkiepresidente	saamelaispresidentti
+saemiengïele	saamen kieli
+saemienkultuvre	saamen kulttuuri
+saemiensiebrie	saamelaisjärjestä
+saemienskuvle	saamelaiskoulu
+saemienööhpehtimmie	saamenopetus
+saevege	lippu
+saevegebiejjie	liputuspäivä
+saeviehtidh	heiluttaa
 sarhvegidh	
-sarve	
+sarve	hirvi
 seahkoe	
 seahkoemåara	
 seahkoevoeje	
