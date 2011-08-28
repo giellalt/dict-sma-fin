@@ -1,7 +1,7 @@
-aajmoen	
+aajmoen	henki | ajatus
 aajne kaarre	poikamies, vanhapoika	
-aajnehke	
-aakedh	
+aajnehke	ainokainen
+aakedh	häiritsemättä
 aalkoealmetje	alkoperäiskansa	
 aalkoekuvsje	alkeiskurssi
 aalkoeåålmege	alkuperäiskansa
@@ -13,13 +13,13 @@ aarhte	laji
 aarkebiejjie	arkipäivä
 aarpije	leski
 aassjoe	viha
-aatedh	
-aavoedidh	
+aatedh	aikoa
+aavoedidh	iloita
 abrodh	sataa
 aegkie	höyhen
 aejkiemierie	päivämäärä
 aelhkies	yksinkertainen
-aelhkieslaakan	
+aelhkieslaakan	yksinkertainen
 aelpies	halpa
 aeredh	estää
 aeredsbiejjie	aamupäivä
@@ -41,7 +41,7 @@ baakoedåehkie	sanaluokka
 baakoegærja	sanakirja
 baakoelåhkoe	sanasto
 baakoelæstoe	sanalista
-baakoeraajroe	
+baakoeraajroe	loru
 baakoetjïerte	sanaryhmä
 baakoeveeljeme	sanavalinta
 baalhkalissie	palkkalisä
@@ -50,11 +50,11 @@ baarhkoelaaje
 baarhkoevoesse	
 baarhkohke	kenkä
 baaroe	aalto
-baartesvåhkoe	
+baartesvåhkoe	pertunpäivä
 baataridh	paeta
 baataræjja	pakolainen
-baegkie	
-baektie	
+baegkie	päitset
+baektie	jylhä kallio
 baeniedåaktere	hammaslääkäri
 baenielaejkie	hammaslanka
 baenievaerhkie	hammassärky
@@ -69,42 +69,42 @@ barkoedåehkie	työryhmä
 barkoefaaleldahke	työtarjous
 barkoesijjie	työpaikka
 barkoesoejkesje	työsuunnitelma
-barkoestradtje	
+barkoestradtje	raadanta
 barkoevuekie	työtapa
-batjka	
+batjka	poronhäntä
 batnanidh	hukkua
 bealketje	peukalo
-bealloeråantjoe	
-beallohke	
-bearadidh	
+bealloeråantjoe	kellohärkä
+beallohke	kelloporo
+bearadidh	lähteä kantamaan
 bearjedsaerede	perjantai-aamu
-bearkoesnaejrie	
+bearkoesnaejrie	lihapala
 beeretje	nalle
 beetsehke	mäntymetsä
 bejhkedh	kakata
 beltedh	pelotella
 berkedh	kaivata
-bertie	
+bertie	puunraja
 biehtedh	pettää
-biejjege	
-biejjeste måbpan	
+biejjege	päivällä
+biejjeste måbpan	päivästä päivään
 biejjhguaka	auringonpaiste
 biejjiegærja	päiväkirja
-biejjielaemtjie	
-biekedh	
+biejjielaemtjie	auringonsäde
+biekedh	kahlata
 bieljehts	kuuro
-bieljiegietjie
+bieljiegietjie	korvankärki
 bielkie	peukalo
 bihtseds	katkera
 bijjiebaakoe	otsikko
-birhkehtidh	
+birhkehtidh	sirotella
 bissiebiejjie	pyhäpäivä
-bodte	
+bodte	hetki | tuokio
 boehtele	pullo
-boere	
+boere	lonkero
 bovtsealmetje	poronomistaja
-brorredh	
-buaradahke	
+brorredh	ryöpsähtää | kohista
+buaradahke	pouta
 buejtietsöötsege	talitintti
 buerie aerede	hyvää aamua
 buerie biejjie	hyvää päivää
@@ -115,15 +115,15 @@ buerkiestimmie	selitys
 buhtjedh	lypsätä
 buhtjiedidh	
 burhtje	purki
-burredh	
+burredh	levitellä
 bustetje	teelusikka
-butnedh	
+butnedh	kehrätä
 buvvedh	tappaa
-buvvie	
+buvvie	karjalauma
 byjrese	ympäristö
 byöredh	pitää
 båadtsoeh	alaston
-båajhtoeh	
+båajhtoeh	väärä
 båatsoe	poro
 båatsoeburrieskuvle	
 båatsoebïenje	porokoira
@@ -133,16 +133,16 @@ båatsoelaake	poronhoitolaki
 båejme	piekana
 båelmie	
 båelmiehtidh	
-båeltedh	
+båeltedh	polttaa | purra
 båervie	rasva
 båetskiesoene	
-bårrestovvedh	
+bårrestovvedh	nälkiintyä
 båskoe	pensas
 båssodh	puhaltaa
 båårhkesjidh	
 bååvteres	paksutukkainen
 bæhkasidh	
-bæjjese	
+bæjjese	ylös | ylöspäin
 bæjjesvåårte	
 bïegke raadtan	
 bïenghke	penkki
@@ -157,12 +157,12 @@ daablodh	pelata
 daabloe	lautapeli
 daabloebaakoe	pelisana
 daabloehtæjja	pelaaja
-daajh	
+daajh	aistit
 daajroe	tieto
 daaktedh	
 daaletje	tämänpäivänen
-daamehke	
-daamtaj	
+daamehke	kesyporo
+daamtaj	usein
 daan jaepien	
 daan jïjjen	
 daanhtsoehtidh	tanssia
@@ -177,27 +177,27 @@ daellie
 daelvie doekoe	
 daelviejuhteme	
 daenbien	
-dagkoe	
+dagkoe	siellä
 dajve	alue
 daktere	tytär
 daltedidh	
-daltese	
+daltese	taso
 dalvedh	
 damhkedh	
 dan man jïjnjem	
 dan mietie	
 dan soe	
 dangkodh	tilata
-dannasinie	
+dannasinie	sen takia
 darvodh	tervata
 dassedh	menettää
 dasselidh	menettää
 deakahgierehtse	
 dearkoes	hermostunut
 deejedh	sijoita
-deerjedh	
+deerjedh	saastaa
 dej åvteste	
-dejbeeli	
+dejbeeli	ennen vanhaa
 dejpeladtje	vanhanaikainen
 dielhtie	jäätikkö
 dierie	
@@ -208,8 +208,8 @@ digkiedimmielahtese
 direktööre	johtaja
 ditnie	tina
 doedtere	tunturi
-doeltehtidh	
-doeltijehtedh	
+doeltehtidh	kiehuttaa
+doeltijehtedh	kiehahtaa
 dom daam	
 domtese	tunne
 dorjehtæjja	näyttelijä
@@ -224,7 +224,7 @@ duvtedh	tukea
 duvtestahke	tuki
 duvvehke	kuikka
 dåahka	nukke
-dååsveridh	
+dååsveridh	käyttäytyä
 dæjmetje giesien	
 dïevedh	täytyä
 dïjnehke	sokeri
@@ -233,9 +233,9 @@ dïmpere	tukki
 döörhke	kaulus
 eadtjohkelaakan	
 ealjoeh	laiska
-eanghkoen	
+eanghkoen	tahallaan
 easadidh	nousta
-easkan	
+easkan	äsken
 eejhteghtjåanghkoe	vanhempainkokous
 eengkele	enkeli
 eksaamene	tentti
@@ -258,7 +258,7 @@ filme	elokuva
 firrelidh	ravistaa
 flyjjere	
 foeme	tuomi
-fuakedh	
+fuakedh	kyllästyä
 funhterdidh	miettiä
 færkasidh
 fïerhten biejjien	
@@ -270,7 +270,7 @@ gaajhkenjevlien	limainen
 gaajhtse	vuohi
 gaajpeles	kömpelö
 gaajsege	saniainen
-gaalehtjidh	
+gaalehtjidh	kahlia
 gaallohke	
 gaaloe	kylmä sää
 gaaltije	lähde
@@ -290,7 +290,7 @@ gaavnoes	oleva
 gabnjelidh	pelotella
 gadtere	
 gadtjeråtjka	
-gadtsese	
+gadtsese	kynsi
 gaejsie	vuorenhuippu
 gaekere	poronkakka
 gaelmie	hauta
@@ -308,12 +308,12 @@ galhkuve	loppu
 galkedh	pitää
 galme	kylmä
 gamte	leveä
-gapta	
-gaptese	
-gaptjese	
+gapta	saamenpuku
+gaptese	saamenpuku
+gaptjese	peitto
 garhpe	kuilu
 garhtse	hihna
-garkedh	
+garkedh	valua
 garmerdidh	pröystäillä
 garmeres	ylpeä
 garrelaejpie	näkkileipä
@@ -321,11 +321,11 @@ garse	vesiputous
 gaskedh	salamoida
 gaskesadtemegïele	kommunikointikieli
 gaskeviermie	internetti | internet
-geahpoe	
-geajnoeraejkien	
+geahpoe	eläinkeuhkot
+geajnoeraejkien	tietä pitkin
 gearkeske	kivinen
-gearodh	
-gebrie	
+gearodh	rakastua
+gebrie	kantohanki
 gedtie	villiporo
 geellege	vaimo
 geeremegåetie	vankila
