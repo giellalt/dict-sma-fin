@@ -60,3 +60,6 @@ baalte ___ sivulla | vieressä $ ohi
 
 Please keep it like that!
 
+Check double entries: see smafin-test-results.xml
+
+
