@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+   <file name="a_adv_smafin.xml">
+      <entries>
+         <counter total="2"/>
+      </entries>
+   </file>
+   <file name="a_n_smafin.xml">
+      <entries>
+         <counter total="6"/>
+      </entries>
+   </file>
+   <file name="a_smafin.xml">
+      <entries>
+         <counter total="152"/>
+         <twins>
+            <lemma>geerve</lemma>
+            <lemma>nahkeren</lemma>
+            <lemma>nænnoes</lemma>
+         </twins>
+      </entries>
+   </file>
+   <file name="adv_n_smafin.xml">
+      <entries>
+         <counter total="4"/>
+      </entries>
+   </file>
+   <file name="adv_smafin.xml">
+      <entries>
+         <counter total="130"/>
+         <twins>
+            <lemma>alvas</lemma>
+         </twins>
+      </entries>
+   </file>
+   <file name="mwe_smafin.xml">
+      <entries>
+         <counter total="44"/>
+      </entries>
+   </file>
+   <file name="n_smafin.xml">
+      <entries>
+         <counter total="949"/>
+         <twins>
+            <lemma>bajsjeme</lemma>
+         </twins>
+      </entries>
+   </file>
+   <file name="num_smafin.xml">
+      <entries>
+         <counter total="10"/>
+      </entries>
+   </file>
+   <file name="pron_smafin.xml">
+      <entries>
+         <counter total="9"/>
+      </entries>
+   </file>
+   <file name="prop_smafin.xml">
+      <entries>
+         <counter total="4"/>
+      </entries>
+   </file>
+   <file name="v_smafin.xml">
+      <entries>
+         <counter total="592"/>
+         <twins>
+            <lemma>goekedh</lemma>
+            <lemma>åajsodh</lemma>
+            <lemma>låevtedh</lemma>
+         </twins>
+      </entries>
+   </file>
+   <file name="v_v_smafin.xml">
+      <entries>
+         <counter total="2"/>
+      </entries>
+   </file>
+   <file name="xxx_smafin.xml">
+      <entries>
+         <counter total="692"/>
+      </entries>
+   </file>
+</test>
