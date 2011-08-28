@@ -62,6 +62,16 @@
    </e>
    <e>
       <lg>
+         <l pos="mwe">daan aereden</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">tänä aamuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="mwe">dan aereden</l>
       </lg>
       <mg>
@@ -107,6 +117,16 @@
       <mg>
          <tg>
             <t pos="xxx">sinne tänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="mwe">daan biejjien</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">tänään</t>
          </tg>
       </mg>
    </e>
