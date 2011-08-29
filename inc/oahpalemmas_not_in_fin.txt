@@ -383,7 +383,7 @@ guelhties	kylmä
 gueliejaevrie	kalajärvi
 guhkiesbuejtie	
 gujredh	ulvoa
-guktie gåarede	
+guktie gåarede	miten menee
 gumsie	karhu
 gurhkedh	kaataa
 gurhkestidh	kaadella
@@ -415,7 +415,7 @@ gåvles
 gåvnahtalledh	hyvästellä
 gåårestahke	ompelulanka
 gåårtenje	nauha | lanka
-gæjsa	
+gæjsa	kiisa
 gællasjidh	maata
 gælloeh	makaava
 gæmhpodh	taistella
@@ -429,15 +429,15 @@ gïelenjoelkedasse	kielisääntö
 gïeleööhpehtimmie	kieliopetus
 gïeltege	
 gïerene	kiiruna
-gïerestalledh	
-gïerestidh	
+gïerestalledh	lasketella mäkeä
+gïerestidh	laskea mäkeä
 gïerhgietjie	huippu
 gïeriesvoelpe	ystävä
 gïermesje	käärme
 gïerte	
 gïesedh	sitoa
 gïeteråantja	johtoporo
-gïethgierehtse	
+gïethgierehtse	ensimmäinen pulkka
 gïevehpluevie	suo?
 gïevehtidh	keinua
 gïjre doekoe	kevämmälle
@@ -839,7 +839,7 @@ reektehts	rapporti
 reeredh	hallita
 rehkere	höylä
 rektore	rehtori
-restiedidh	
+restiedidh	johtaa poro
 rihkijahtjedh	tulla kiimaan
 rijredh	ratsasta
 rohtedh	
@@ -935,7 +935,7 @@ skitjskiestidh
 skodth varki	kiirehdi
 skopmehke	viita
 skråavva	kaulin
-skråevviestidh	
+skråevviestidh	kaulia
 skuehtiejaepie	karkausvuosi
 skuehtiejaepiebiejjie	karkauspäivä
 skylledh	käydä ripillä
@@ -981,7 +981,7 @@ soejkesje	suunnitelma | idea
 soejkesjidh	suunnitella
 soekse	toukka
 soelkehtidh	lohduttaa
-soen’åedtjie	
+soen’åedtjie	selkäliha
 soeskedh	purra
 soevestahke	savuliha
 sohte	epidemia
@@ -993,7 +993,7 @@ soptsestimmie	lausunto
 soptsestæjja	kertoja
 sovhte	flunssa | nuha
 spaaneserehkere	höylä
-spaenjietsåaka	
+spaenjietsåaka	kalliomatalikko
 sperniedidh	potkia ja vastustella
 spååredh	säästää
 spïele	soitin
@@ -1248,7 +1248,7 @@ vöörhkedh	piilota
 åvtebielie	etusivu
 åvtese	eteenpäin
 åvtesne	ennen vanhaa
-åvtesnuelie	
+åvtesnuelie	poron etujalassa oleva liha
 åågkesjidh	haista | tuoksua
 ååjmedidh	pystyä | osata
 ååjretje	pieni airo
