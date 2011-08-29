@@ -144,7 +144,7 @@ bååvteres	paksutukkainen
 bæhkasidh	katketa
 bæjjese	ylös | ylöspäin
 bæjjesvåårte	vuorta kohti
-bïegke raadtan	
+bïegke raadtan	tuulen puolella
 bïenghke	penkki
 bïerje	kallio
 bïesedh	päästä
@@ -192,7 +192,7 @@ dannasinie	sen takia
 darvodh	tervata
 dassedh	menettää
 dasselidh	menettää
-deakahgierehtse	
+deakahgierehtse	telttatankojen pulkka
 dearkoes	hermostunut
 deejedh	sijoita
 deerjedh	saastaa
@@ -231,7 +231,7 @@ dïjnehke	sokeri
 dïjre	viesti
 dïmpere	tukki
 döörhke	kaulus
-eadtjohkelaakan	
+eadtjohkelaakan	innokkaasti | ahkerasti
 ealjoeh	laiska
 eanghkoen	tahallaan
 easadidh	nousta
@@ -375,7 +375,7 @@ gorredidh	pelastaa
 govlesovvedh	kuulua
 govse	lehmä
 grammatihke	kielioppi
-gudtsien prïhtjegen åvteste	
+gudtsien prïhtjegen åvteste	kiitos kahvista | kiitos kahvin edestä
 gudtsiestidh	kiittää
 guehperenlïetse	
 guektien haerien	kahteen osaan
@@ -389,18 +389,18 @@ gurhkedh	kaataa
 gurhkestidh	kaadella
 gurhtie	kuikka
 gurreme	kutominen
-gurremeabpese	
-gurremetråajja	
+gurremeabpese	villapusero
+gurremetråajja	villapaita
 gurruve	
-guvhkiehtidh	
-guvhkiehtæjja	
+guvhkiehtidh	kutsua poroa
+guvhkiehtæjja	poronkutsuja
 guvviedidh	piirtää
 gyhtjelasse	kysymys
 gyhtsele	etana
 gyvjeh	nopea
 gåahta	karkki
 gåaroje	ompelija
-gåarome	
+gåarome	sauma
 gåaromedeerpegh	ompelutarvikkeet
 gåatomelaante	laidunalue
 gåetehke	avomies | avovaimo
@@ -704,7 +704,7 @@ måara	iso luu
 måarahtovvedh	suuttua
 måaskedh	loukkaantua
 måaskodh	loukkaantua
-måedtieh såarhth	
+måedtieh såarhth	monenlaisia | monta lajia	
 mårhkedh	tuhoutua
 måskoes	suljettu
 mænngese	taakse
@@ -807,7 +807,7 @@ plaerietjaeleme	lehtikirjoitus
 pleaksjode	kaula ja rinta paljaana
 plijrehtahke	koriste
 plåahkodh	olla nauru herkässä
-praare deava	
+praare deava	jyrkkä mäki
 programme	ohjelma
 prïhtjhvoesse	kahvipussi
 prïhtjhvoessetje	kahvipussi
@@ -850,7 +850,7 @@ råanedh	olla nisällä
 råase	peura
 råatedh	paukkua
 råateme	ilves
-råavedh	
+råavedh	etsiä vaadinta
 rååpsedidh	punastua
 råårhkesje	kuivakuusi
 ræhka	olla kiimassa
@@ -993,7 +993,6 @@ soptsestimmie	lausunto
 soptsestæjja	kertoja
 sovhte	flunssa | nuha
 spaaneserehkere	höylä
-spaenjietsåaka	kalliomatalikko
 sperniedidh	potkia ja vastustella
 spååredh	säästää
 spïele	soitin
@@ -1063,7 +1062,7 @@ tjaavtese	nousu
 tjaelije	kirjailija
 tjaevtedh	kiivetä
 tjahtedh	ponnistaa
-tjaktje doekoe	
+tjaktje doekoe	syksymmälle
 tjaktjege	syksyllä
 tjaktjelaante	
 tjalmese	verkkomaha
@@ -1073,7 +1072,7 @@ tjeapetji	varovasti
 tjeavra	saukko
 tjerkie	
 tjiehpies	kätevä
-tjiehpieslaakan	
+tjiehpieslaakan	huolellisesti | varovasti | kunnolla
 tjihtese	runo
 tjillege	kili | vohla
 tjimkedh	kuormata
@@ -1114,7 +1113,7 @@ tjöölle	vaaleansininen
 toelhke	tulkki
 tovme	tyhjä
 traste	rastas
-trimhkestidh	
+trimhkestidh	räpäyttää
 tryöjjadidh	viihtyä
 tråahpe	raput | portaat
 trïengkestidh	olla renkinä
@@ -1167,7 +1166,7 @@ veartene	maailma
 vedtiestidh	antaa
 veele	vara
 vervies	terve
-vestieslaakan	
+vestieslaakan	rumasti | kamalasti
 vetneme	majava
 vierhkieskaavtege	työkalupakki
 vierhtie	maksuväline
@@ -1181,14 +1180,14 @@ voehpealmetjh	appivanhemmat
 voejedaellie	voirasia
 voejedh	uida
 voelege	olut
-voelkehtidh	
+voelkehtidh	viedä mukanaan
 voelpe	ystävä
 voerhtje	varis
 voerkedahke	
-voestes gietjeste	
+voestes gietjeste	alussa
 voestesgïele	äidinkieli | ensimmäinen kieli
 vokaale	vokaali
-vuajnah tjaangh	
+vuajnah tjaangh	tule sisään | tulkaa sisään
 vuajnajidh	nähdä
 vuaksa	härkä | sonni
 vuanove	anoppi
