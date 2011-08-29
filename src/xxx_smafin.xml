@@ -69,31 +69,31 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">aamhtsegïetedallije</l>
+         <l pos="n">aamhtsegïetedallije</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">virkailija</t>
+            <t pos="n">virkailija</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">aarh</l>
+         <l pos="a">aarh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">varhainen</t>
+            <t pos="a">varhainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">aareh</l>
+         <l pos="a">aareh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">varhainen</t>
+            <t pos="a">varhainen</t>
          </tg>
       </mg>
    </e>
@@ -103,31 +103,32 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">koko(nainen)</t>
+            <t pos="xxx">koko</t>
+            <t pos="xxx">kokonainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">aeblehts</l>
+         <l pos="a">aeblehts</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">laiska</t>
+            <t pos="a">laiska</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">aejlies</l>
+         <l pos="a">aejlies</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pyhä</t>
+            <t pos="a">pyhä</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="Böyd verbform NEG IMP">
       <lg>
          <l pos="xxx">aellieh</l>
       </lg>
@@ -187,12 +188,12 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">askedh</l>
+         <l pos="n">askedh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kuutamo</t>
-            <t pos="xxx">kuunloiste</t>
+            <t pos="n">kuutamo</t>
+            <t pos="n">kuunloiste</t>
          </tg>
       </mg>
    </e>
@@ -209,21 +210,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">baahkes</l>
+         <l pos="a">baahkes</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">lämmin</t>
+            <t pos="a">lämmin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">baahtjetje</l>
+         <l pos="n">baahtjetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pikkupoika</t>
+            <t pos="">pikkupoika</t>
          </tg>
       </mg>
    </e>
