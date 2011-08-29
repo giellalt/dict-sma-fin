@@ -1,13 +1,13 @@
 aajmoen	henki | ajatus
-aajne kaarre	poikamies, vanhapoika	
+aajne kaarre	poikamies, vanhapoika
 aajnehke	ainokainen
 aakedh	häiritsemättä
-aalkoealmetje	alkoperäiskansa	
+aalkoealmetje	alkoperäiskansa
 aalkoekuvsje	alkeiskurssi
 aalkoeåålmege	alkuperäiskansa
 aanjasoene	jalkajänne
-aarege	
-aarehkeaaltoe	
+aarege	raunio
+aarehkeaaltoe	alkuvuodesta synnyttanyt vaadin
 aarhskuvle	esikoulu
 aarhte	laji
 aarkebiejjie	arkipäivä
@@ -24,7 +24,7 @@ aelpies	halpa
 aeredh	estää
 aeredsbiejjie	aamupäivä
 aerhkie	poronraato
-aeriebielie	
+aeriebielie	nahan karvapuoli
 aerpie	perintö
 aesie	harju
 aeskie	aski
@@ -46,8 +46,8 @@ baakoetjïerte	sanaryhmä
 baakoeveeljeme	sanavalinta
 baalhkalissie	palkkalisä
 baanghke	pankki
-baarhkoelaaje	
-baarhkoevoesse	
+baarhkoelaaje	parkkivesi
+baarhkoevoesse	parkkireppu | XXX
 baarhkohke	kenkä
 baaroe	aalto
 baartesvåhkoe	pertunpäivä
@@ -110,10 +110,10 @@ buerie aerede	hyvää aamua
 buerie biejjie	hyvää päivää
 buerie iehkede	hyvää iltaa
 buerie jïjje	hyvää yötä
-buerie-buerebe	
+buerie-buerebe	yhä paremmin
 buerkiestimmie	selitys
 buhtjedh	lypsätä
-buhtjiedidh	
+buhtjiedidh	kiertää | vääntää
 burhtje	purki
 burredh	levitellä
 bustetje	teelusikka
@@ -125,31 +125,31 @@ byöredh	pitää
 båadtsoeh	alaston
 båajhtoeh	väärä
 båatsoe	poro
-båatsoeburrieskuvle	
+båatsoeburrieskuvle	poronhoitokoulu
 båatsoebïenje	porokoira
 båatsoedajve	poronhoitoalue
-båatsoejieleme	
+båatsoejieleme	poronhoitoelämä
 båatsoelaake	poronhoitolaki
 båejme	piekana
-båelmie	
+båelmie	kengänpaulanpää
 båelmiehtidh	
 båeltedh	polttaa | purra
 båervie	rasva
-båetskiesoene	
+båetskiesoene	nilkkasuoni
 bårrestovvedh	nälkiintyä
 båskoe	pensas
 båssodh	puhaltaa
-båårhkesjidh	
+båårhkesjidh	karvata | parkita
 bååvteres	paksutukkainen
-bæhkasidh	
+bæhkasidh	katketa
 bæjjese	ylös | ylöspäin
-bæjjesvåårte	
+bæjjesvåårte	vuorta kohti
 bïegke raadtan	
 bïenghke	penkki
 bïerje	kallio
 bïesedh	päästä
 bïevnese	tieto
-bïhtemoere	
+bïhtemoere	kuivatuskapula | nahan pingotinkapula
 bïjveles	lämmin
 bööredidh	kutsua
 böötedh	paikata
@@ -159,12 +159,12 @@ daabloebaakoe	pelisana
 daabloehtæjja	pelaaja
 daajh	aistit
 daajroe	tieto
-daaktedh	
+daaktedh	varttua | kypsyä | kovettua
 daaletje	tämänpäivänen
 daamehke	kesyporo
 daamtaj	usein
-daan jaepien	
-daan jïjjen	
+daan jaepien	tänä vuonna
+daan jïjjen	tänä yönä
 daanhtsoehtidh	tanssia
 daanjehtidh	hieroa
 daaresjidh	pahoinpidellä
@@ -172,21 +172,21 @@ daaroengïele	norjan kieli
 daasta	tähti
 daata	tieto
 daatoe	päivämäärä
-dabran	
-daellie	
-daelvie doekoe	
-daelviejuhteme	
-daenbien	
+dabran	tarttunut
+daellie	tiinu | rasia | aski
+daelvie doekoe	talvemmalle
+daelviejuhteme	talvimuutto
+daenbien	tänään
 dagkoe	siellä
 dajve	alue
 daktere	tytär
-daltedidh	
+daltedidh	poljeskella | poljeksia
 daltese	taso
-dalvedh	
-damhkedh	
-dan man jïjnjem	
-dan mietie	
-dan soe	
+dalvedh	esiintyä | tulla
+damhkedh	ilmaantua
+dan man jïjnjem	sen jälkeen
+dan mietie	sen jälkeen
+dan soe	aivan | täysin
 dangkodh	tilata
 dannasinie	sen takia
 darvodh	tervata
@@ -196,36 +196,36 @@ deakahgierehtse
 dearkoes	hermostunut
 deejedh	sijoita
 deerjedh	saastaa
-dej åvteste	
+dej åvteste	heidän takia | niiden takia
 dejbeeli	ennen vanhaa
 dejpeladtje	vanhanaikainen
 dielhtie	jäätikkö
-dierie	
+dierie	vahvike
 digkie	käräjät
 digkiedidh	keskustella
 digkiedimmie	keskustelu
-digkiedimmielahtese	
+digkiedimmielahtese	keskusteluvuoro | puheenvuoro
 direktööre	johtaja
 ditnie	tina
 doedtere	tunturi
 doeltehtidh	kiehuttaa
 doeltijehtedh	kiehahtaa
-dom daam	
+dom daam	sitä ja tätä
 domtese	tunne
 dorjehtæjja	näyttelijä
 dorjese	tuote
-dotnele	
-duelie vuajnah	
+dotnele	kaulanahka
+duelie vuajnah	ole hyvä | olkaa hyvät
 dulvie	tulva
-dunnie bealesne	
-dusnie daesnie	
+dunnie bealesne	siellä toisella puolella
+dusnie daesnie	siellä ja täällä
 duvrie	karhu
 duvtedh	tukea
 duvtestahke	tuki
 duvvehke	kuikka
 dåahka	nukke
 dååsveridh	käyttäytyä
-dæjmetje giesien	
+dæjmetje giesien	viime kesänä
 dïevedh	täytyä
 dïjnehke	sokeri
 dïjre	viesti
@@ -246,7 +246,7 @@ faageaamhtese	oppiaine
 faala	valas
 faaledh	tarjota
 faaleldahke	tarjous
-faamoeh tjöönghkedh	
+faamoeh tjöönghkedh	kerätä voimia
 faatna	väinönputki
 faerhmiestidh	halata
 fahkes	hereillä
@@ -256,13 +256,13 @@ feeredh	matkustaa
 fijrie	poikamies
 filme	elokuva
 firrelidh	ravistaa
-flyjjere	
+flyjjere	saamelaispäähineen nauha
 foeme	tuomi
 fuakedh	kyllästyä
 funhterdidh	miettiä
-færkasidh
-fïerhten biejjien	
-fïerhten iehkeden	
+færkasidh	sirotella
+fïerhten biejjien	joka päivä
+fïerhten iehkeden	joka ilta
 fïerpenroehtse	rätvänä
 fïrredh	ravistaa
 föörhkelh	nauru
@@ -271,25 +271,25 @@ gaajhtse	vuohi
 gaajpeles	kömpelö
 gaajsege	saniainen
 gaalehtjidh	kahlia
-gaallohke	
+gaallohke	kallokas | kallokkaat
 gaaloe	kylmä sää
 gaaltije	lähde
 gaaltijejohketje	lähdepuro
-gaalve	
+gaalve	kelohonka
 gaanedidh	syleillä
 gaaranasse	korppi
-gaaredh	
-gaarkoehtidh	
+gaaredh	sitoa monta asiaa
+gaarkoehtidh	kaapia
 gaarvanadtedh	häipyä
 gaarvanidh	häipyä
 gaase	hanhi
-gaatske	
+gaatske	vasta kastroitu härkä
 gaave	koukku
 gaavestidh	haukkua
 gaavnoes	oleva
 gabnjelidh	pelotella
 gadtere	
-gadtjeråtjka	
+gadtjeråtjka	poron takajalankynsien välissä oleva rakko
 gadtsese	kynsi
 gaejsie	vuorenhuippu
 gaekere	poronkakka
@@ -299,7 +299,7 @@ gaertienadtje	torppa
 gaertjies	ahdas
 gaessie	pihka
 gaetskedh	purra
-gaetskehke	
+gaetskehke	härkä ensimmäisen kastrointivuoden jälkeen
 gaevnie	lelu
 gahpedh	
 gajhkehtestedh	kuivata
@@ -330,10 +330,10 @@ gedtie	villiporo
 geellege	vaimo
 geeremegåetie	vankila
 geerjedh	ilo
-geesjelelaakan	
+geesjelelaakan	kunnolla
 geevledh	
-gellene lehkesne	
-gie dellie datne	
+gellene lehkesne	monella paikalla
+gie dellie datne	kuka sinä olet
 giefies	köyhä
 gieltegs	jännittävä
 gierehtse	pulkka
@@ -341,35 +341,35 @@ gierhkie	ahma
 gieriesvaejvie	rakkaussuru
 gieriesvoete	rakkaus
 giesememoere	
-giesemeruevtie	
-giesie doekoe	
+giesemeruevtie	kesämmälle
+giesie doekoe	kesämmälle
 giesie-eejehtimmie	kesäloma
 giesiebarkoe	kesätyö
-giesien	
-gievrie	
+giesien	vetää
+gievrie	saamelaisrumpu 
 gihtjedidh	kysyä
-gihtjesovvedh	
+gihtjesovvedh	tulla kysytyksi
 gilledh	
 gillehtidh	
 gilmehtahke	pakastin
 giltedh	kiiltää
 gipsedh	kipsata
 girmedh	kehua
-girtedh	
+girtedh	kaartaa
 girtiesijjie	lentokenttä
 girvene	halukas
 gitaare	kitara
 goejhke	koski
 goerehtalledh	haastatella
 goerehtalleme	haastattelu
-goerhtele	
+goerhtele	neljännes
 goerke	kurki
-goetsehtidh	
+goetsehtidh	ajaa takaa
 goetselidh	juosta
 goevte	helmikuu
 goevtesmoere	
-golkedahke	
-golkedh	
+golkedahke	kiima-ajan loppuvaihe
+golkedh	kiima-ajan loppuvaihe
 golkehke	
 gorredidh	pelastaa
 govlesovvedh	kuulua
@@ -378,11 +378,11 @@ grammatihke	kielioppi
 gudtsien prïhtjegen åvteste	
 gudtsiestidh	kiittää
 guehperenlïetse	
-guektien haerien	
+guektien haerien	kahteen osaan
 guelhties	kylmä
 gueliejaevrie	kalajärvi
 guhkiesbuejtie	
-gujredh	
+gujredh	ulvoa
 guktie gåarede	
 gumsie	karhu
 gurhkedh	kaataa
@@ -409,10 +409,10 @@ gåetiesjalja	piha
 gåffoeh	höyhen
 gåhtjodh	kutsua
 gålkoe	marraskuu
-gårroebielie	
-gårroeh bielie	
+gårroebielie	vasen puoli
+gårroeh bielie	vasen puoli
 gåvles	
-gåvnahtalledh	
+gåvnahtalledh	hyvästellä
 gåårestahke	ompelulanka
 gåårtenje	nauha | lanka
 gæjsa	
@@ -435,18 +435,18 @@ gïerhgietjie	huippu
 gïeriesvoelpe	ystävä
 gïermesje	käärme
 gïerte	
-gïesedh	
+gïesedh	sitoa
 gïeteråantja	johtoporo
 gïethgierehtse	
 gïevehpluevie	suo?
 gïevehtidh	keinua
-gïjre doekoe	
+gïjre doekoe	kevämmälle
 gïjrelaante	
-gïrse	
+gïrse	henkitorvi | putki | letku
 göögkeles	upea | mainio
-göökten harran	
+göökten harran	kahteen osaan
 gööles	kalaisa
-haelieh	
+haelieh	kuivatuskapulat | nahan pingotinkapulat
 haeliehtidh	lentää
 haerrie	harjus
 hajkedidh	juosta
@@ -456,36 +456,36 @@ heejle	kokonainen
 heevehtimmie	juhlinta
 hievnie	hämähäkki
 hievnieviermie	hämähäkinseiti
-hijven hov	
+hijven hov	se on hyvä | hyvä on
 hojjedh	valita
 hopsedh	haista
 hujnies	surullinen
-hurrehke	
+hurrehke	urakka
 hussege	vesi-itikka
 håagkstaavra	onki
 håhkoe	toivo
 håågkedidh	kalastaa
 håålesjidh	
 hælloe	hylly
-iehkeden	
+iehkeden	ilta
 iehtsedh	rakastaa
 iehtseles	rakastettu
-ierie	
+ierie	tehtävä | asia
 ihkuve	ikuinen
 ij	ei
-ij åejjieh vielie guedtieh	
-jaa hævvi	
+ij åejjieh vielie guedtieh	päähän ei mahdu enää
+jaa hævvi	tietysti | niin tietysti
 jaame	kuollut
 jaehkedh	uskoa
 jaemedh	kuolla
 jaemielidh	kuolla
-jallese	
+jallese	länteen | lännempänä
 jarkedh	kääntyä
 jarkelidh	kääntää
 jarnge	keskus
 jeahna	jättiläinen
 jeanoe	joki
-jearja	
+jearja	pohjansinivalvatti
 jearmijes	järkevä
 jearsoes	turvallinen
 jeeluve	pääoma
@@ -496,10 +496,10 @@ jielemeguvvie	elokuva
 jiesie	
 jievege	matto
 jihtseles	tiivis
-jillieraedtie	
+jillieraedtie	länsipuoli
 jimhkelidh	tuhota
 jipse	kipsi
-jirredeaereden	
+jirredeaereden	huomenna aamulla
 johke	puro | joki
 johkebealam	joenreuna
 johkenjaelmie	joensuu
@@ -510,42 +510,42 @@ juakasovvedh	jakaantua
 juelkiebielie	
 juelkietjengkere	jalkapallo
 jueskiedahke	jääkaappi
-juhteme	
+juhteme	muutto
 julevsaemie	luulajansaamelainen
 julevsaemiengïele	luulajansaamen kieli
 jupmele	jumala
-jurjiehtamme beapmoeh	
+jurjiehtamme beapmoeh	valmiiksi tehty ruoka
 jurjiehtæjja	kokki
 juvse	tuoremehu
 jåamoe	hapro | juomu
 jåaskoedehtedh	viilentää
-jåerhkedh	
+jåerhkedh	pidentää
 jånnga	pöytäveitsi
-jårredh	
+jårredh	pyöriä | tanssia
 jåvleaske	joulukuu
 jåvlejïjje	jouluyö
 jåvlelaavloe	joululaulu
-jåvli mænngan	
-jåvli åvtelen	
-jååktetje jïjjen	
-jæjsodh	
-jïekedh	
+jåvli mænngan	joulun jälkeen
+jåvli åvtelen	ennen joulua
+jååktetje jïjjen	eilisestä yöstä
+jæjsodh	huurtua
+jïekedh	olla vesitiivis
 jïermestalledh	miettiä
 jïermijes	viisas
 jïjjedidh	yöpyä
 jïjjesnjågloe	lehtopöllö
 jïjledh	kirvellä
-jïjseme	
+jïjseme	huurre | kuura
 jïlleskuvle	korkeakoulu
 jöömmetje	kaksonen
 kapteene	kapteeni
 keebrege	korppu
-klaapsaspaarra	
+klaapsaspaarra	kuivatuskapula | nahan pingotinkapula
 klaeries	kirkas
-klajkesidh	
+klajkesidh	kiekua | jankuttaa |maasata 
 klajkodh	kiekua | kukkua
 klodtje	aukko
-klååmsehth	
+klååmsehth	puuskainen tuuli
 klæhtoehtidh	leikkiä
 kneekedh	jyrsiä
 knugkedh	hieroa
@@ -563,7 +563,7 @@ kristedh	kastaa
 kroenesaate	vihannes
 kruepieslaejpie	tumma leipää
 kråahpe	keho
-kråavvoehrudtjen	
+kråavvoehrudtjen	kyyryselkäinen
 krïevve	poro
 krïtnedh	murista | äristä
 kuvsjeplaane	kurssisuunnitelma
@@ -573,7 +573,7 @@ kåarje	kori
 kåvrehts	uninen
 kååpe	naisten takki
 laabjehtidh	
-laaje	
+laaje	parkkivesi
 laampe	karitsa
 laanteburrie	maanviljelijä
 laantemuerjie	metsämansikka
@@ -608,12 +608,12 @@ lijhkiesjåarhtoe	aluspaita
 lijhkievaarjoe	alusvaatteet
 lissie	lisäys
 lissiehtidh	lisätä
-loehke	
-loehkegierehtse	
+loehke	umpikelkka
+loehkegierehtse	umpikelkka
 loejhmedh	valita
 loeve	silmäluomi | luomi
 loeves	irtonainen
-loevesmiesie	
+loevesmiesie	vasikka ilman äitiä
 lohkehtidh	opettaa
 lopmedoenehke	lumikelkka
 lopmefealloe	lumilauta
@@ -635,10 +635,10 @@ luvlene	idässä | itä
 låabpoeh	hajotettu
 låamma	tasku
 låavtege	teltta
-låemie	
-låesuve	
+låemie	niitty
+låesuve	vasta | vihta
 lårhvoehbïenje	
-låssas	
+låssas	näennäisesti
 låvnadahke	auringonnousu
 læstoe	
 lïemkeds	leuto
@@ -658,25 +658,25 @@ maehtehtje	taitava
 maejstedh	maistaa
 maeksemekåarhte	maksukortti
 man	kuinka
-man båeries	
-man gaavhtan	
-man gellie	
-man guhkiem	
-man jïjnje	
-man stoerre	
+man båeries	kuinka vanha
+man gaavhtan	minkä takia
+man gellie	kuinka paljon
+man guhkiem	kuinka pitkä
+man jïjnje	kuinka paljon
+man stoerre	kuinka iso
 maskastimmien raajan	
 mastedh	sekoittua
 mearhka	sumu
 mearoegööleme	merikalastus
-measehke	
+measehke	vasan nahka
 meile	sähköposti | maili
 miehtjiebasse	
 mieriesoejkesje	aikasuunnitelma
 mietiebïegke	myötätuuli
-mij dellie	
-mij faatoes	
+mij dellie	entäs sitten
+mij faatoes	mikä on hätänä
 mij joem	
-mij vielie	
+mij vielie	mitä vielä
 mijjieh	me
 minngehke	jälkijoukko
 mobïjle	kännykkä | matkapuhelin
@@ -685,18 +685,18 @@ moeregaerie	puukulho
 moeretsöölhke	tikka
 moevse	lokki
 mohtedidh	vertailla
-mojhteladtedh	
-mojhteleslaakan	
+mojhteladtedh	yrittää muistaa monia asioita
+mojhteleslaakan	huolellisesti 
 mojhtestehtedh	muistuttaa
 mojjehtidh	hymyillä
 mojnestimmie	arvoitus
 molledh	seurustella
 molsesovvedh	vaihtaa
-mov luvhtie	
+mov luvhtie	minun luota | minulta
 mubpiengïele	toinen kieli | vieraskieli
 mueltie	multa
 muerjie	marja
-mulliedidh	
+mulliedidh	mennä pilveen
 multie	multa
 murhkedh	murskata
 måaladidh	maalata
@@ -711,8 +711,8 @@ mænngese	taakse
 mïele	mieli
 mïjle	miili | 10 km | kymmenen kilometriä
 na	| melko
-naa guhkiem	
-naan aejkien	
+naa guhkiem	aika kauan
+naan aejkien	pari kertaa
 naapere	pora
 naemie	
 naestie	tähti
@@ -724,22 +724,22 @@ napkedh	kulua
 nastedh	
 neebne	kaima
 neeledh	hävetä
-nejpiensjapmere	
+nejpiensjapmere	hamara | veitsen selkä
 nieskedh	
 nieskemegalte	
 nieskemeruevtie	
 nietsege	sääriluu
 nihtedh	kieltää
-njaaka	
+njaaka	hiiviskella
 njaalmeldh	suullinen
 njaalmeldhgïele	puhekieli
-njaarege	
+njaarege	kaulaliha
 njaarke	saarento
 njaavhkodh	naukua
-njaelkieslaakan	
-njalkedh	
-njallemejuelkie	
-njallesbuejtie	
+njaelkieslaakan	hyvin | mukavasti
+njalkedh	hyvin | mukavasti
+njallemejuelkie	nyljetty jalka
+njallesbuejtie	selkärasva
 njaltja	iho
 njealjehts	neljännes
 njelliestidh	nylkeä
@@ -751,24 +751,24 @@ njoere	mehukas
 njoktje	maaliskuu
 njorkedidh	viheltää
 njovhkedidh	laulaa
-njuenehke	
+njuenehke	etujoukko
 njålhtjodh	hypätä
 njæjhkodh	itkeä
-njïdtjele	
+njïdtjele	hyvä pihka
 noeredaltese	yläaste
 noereskuvle	yläaste
 noerhte	pohjoinen
 noerhtene	pohjoisessa
 noerhtesaemie	pohjoissaamelainen
 noerhtesaemiengïele	pohjoissaamen kieli
-novh gujht	
-novh lea	
+novh gujht	aivan | kyllä | joo
+novh lea	näin on
 nuhtjedh	käyttää
 numhtie	näin | sillä tavalla
 nyjsene	nainen
 nyöjhkemehaamoe	kieltomuoto
 nåajsan	raskaana
-nåajtodh	
+nåajtodh	ennustaa | taikoa | kirota
 nåakelaakan	huonosti
 nåalodh	puhua
 nåejtie	noita
@@ -776,27 +776,27 @@ nåekies	huono
 nårroe	nyytti
 nårtodh	suostua
 nåtsh	miten
-nåå nåå	
-nåå nåå dellie	
-nåålesidh	
+nåå nåå	näkemiin | hyvästi
+nåå nåå dellie	näkemiin | hyvästi
+nåålesidh	irtoa
 nænnoestidh	määrätä
-nïhpesjidh	
-nïmmehtsmoere	
+nïhpesjidh	kastroida | katketa
+nïmmehtsmoere	näsiäkasvi
 nïmmerh	ohutsuoli
-nöökedh	
+nöökedh	olla tyytyväinen
 obrijidh	sataa
 ohtsije	hakija
 oktebisnie	yksinoleskelu
-olle	
+olle	olas | suksen pohjan ura
 organisasjovne	järjestö
 organiste	urkuri
 orredaamehke	
 orredaaroengïele	nykynorja
 orreråantja	
 orrijimmie	päätäjäiset
-ov nimhtie	
+ov nimhtie	näin | sillä tavalla
 ovmessie	erilainen
-paajsanidh	
+paajsanidh	piileskellä
 pahke	pakata
 peanna	kynä
 peannagåetie	kynäkotelo
@@ -804,9 +804,9 @@ pearalaejpie	perunaleipä
 pedagogihke	kasvatustiede
 plaantege	sekoitus
 plaerietjaeleme	lehtikirjoitus
-pleaksjode	
+pleaksjode	kaula ja rinta paljaana
 plijrehtahke	koriste
-plåahkodh	
+plåahkodh	olla nauru herkässä
 praare deava	
 programme	ohjelma
 prïhtjhvoesse	kahvipussi
@@ -817,7 +817,7 @@ raajedh	lähettää
 raajese	lause
 raajesetseegkeme	lauseoppi
 raajnevaarjoe	sadevaatteet
-raame	
+raame	jyrkkä rinne
 raante	peura
 raarahtalledh	neuvotella
 raarhkemestuhtje	
@@ -830,50 +830,50 @@ raedtehke
 raejkiebaenie	reikähammas
 rahka	marraskuu
 rahta	kuusimetsä
-rajjadidh	
+rajjadidh	metelöidä | pitää hauskaa
 rasse	tihkusade
-reavsa	
-reehkedh	
-reektedh	
+reavsa	imusolmuke
+reehkedh	haravoida
+reektedh	oikaista
 reektehts	rapporti
 reeredh	hallita
 rehkere	höylä
 rektore	rehtori
 restiedidh	
-rihkijahtjedh	
+rihkijahtjedh	tulla kiimaan
 rijredh	ratsasta
 rohtedh	
 rutjkes	ruskea
 ryöjrehtidh	
 råakodh	haukkua
-råanedh	
+råanedh	olla nisällä
 råase	peura
 råatedh	paukkua
 råateme	ilves
 råavedh	
 rååpsedidh	punastua
 råårhkesje	kuivakuusi
-ræhka	
+ræhka	olla kiimassa
 rïeresjidh	pitää
 rïesedh	koristaa
 rïevtege	koppakuoriainen
 rïhkedahke	kiima
 rïhkede	lokakuu
-rïhkijidh	
+rïhkijidh	tulla kiimaan
 rïhpesidh	avautua
 rïjtedh	laitta
 röödtsedh	möyriä
 rööhtse	rotta
 saadtege	lähete
 saadteske	hiekkaranta
-saajkardahke	
+saajkardahke	kuivatuskapula | nahan pingotinkapula
 saajkardidh	
 saavredh	harjoitella
 saavrehks	kestävä
 saedtiepaehpere	hiekkapaperi
-saejmie	
+saejmie	sauma
 saelhties	suolattu
-saemesth amma	
+saemesth amma	puhua saamea
 saemiedigkie	saamelaiskäräjät
 saemiedigkiepresidente	saamelaispresidentti
 saemiengïele	saamen kieli
@@ -892,7 +892,7 @@ seahkoevoeje
 seammalaakan	samanlainen
 searome	poski
 seeptjedh	
-sermie	
+sermie	ryteikkö | pöheikkö
 sesnie	
 siegkies	laiha
 sieptie	syöte
@@ -900,7 +900,7 @@ sietedh	keli
 sieties	makea
 sigledh	purjehtia
 sihtege	ahven
-sijjieh	
+sijjieh	teroittaa
 sijjienomme	paikannimi
 sisnjelen	sisällä
 sisvege	sisältö
@@ -910,12 +910,12 @@ sjilkedh	sulata
 sjilkehtimmie	sulatettu
 sjoehkedidh	huokata
 sjovnestidh	palvella
-sjyjjedehtedh	
+sjyjjedehtedh	silittää
 sjyjjehke	liukas
 sjyjjesjidh	tasoittaa
 sjåarhta	paita
 sjïele	häälahja
-sjïjlelaejpie	
+sjïjlelaejpie	tikkuleipä
 sjöövelidh	sekoittaa
 sjöövememielhkie	ternimaito
 skaale	kuori
@@ -923,7 +923,7 @@ skaanjedh	kilistää
 skaavhtes	
 skaavtjoe	parta
 skeenedh	nuolla
-skeeredh	
+skeeredh	hangata sarvet | vähenevä kuu
 skeerestidh	
 skeerkedh	kirkastua
 skierrie	vaivaiskoivu
@@ -932,7 +932,7 @@ skilledh
 skirhmedh	tuhota
 skirreduarsta	kiirastorstai
 skitjskiestidh	
-skodth varki	
+skodth varki	kiirehdi
 skopmehke	viita
 skråavva	kaulin
 skråevviestidh	
@@ -957,19 +957,19 @@ slearodh	heittää
 sleebpedh	kaataa
 sleegkedh	
 sleehpeldihkie	
-sleejedh	
+sleejedh	niittää
 sliehtie-elmie	räntäsää
 slovves	katala
 sluekieh	teurastusjätteet
 slyöbpedh	välttää
 slyöhpedh	välttää
-slåavege	
+slåavege	selkäsauna
 slïehtehke	pulmunen
 smaahkodh	hakata
-smaarege	murre
+smaarege	murrede
 smaarehtjïerte	murre
-snarredh	
-sneehpeslaakan	
+snarredh	rypyttää
+sneehpeslaakan	nopeasti
 snjipkedh	päästä
 snjuhtjie	kärki
 snovsedidh	niistää nenää
@@ -992,9 +992,9 @@ soptsese	kertomus
 soptsestimmie	lausunto
 soptsestæjja	kertoja
 sovhte	flunssa | nuha
-spaaneserehkere	
+spaaneserehkere	höylä
 spaenjietsåaka	
-sperniedidh	
+sperniedidh	potkia ja vastustella
 spååredh	säästää
 spïele	soitin
 staate	valtio
@@ -1006,14 +1006,14 @@ stoenedh
 stoerredigkie	suurkäräjät
 stoerredålle	suurtuli
 stoerregiebnie	suurkattila
-straavedh	
+straavedh	olla huolestunut | epäillä
 stratjke	ruisku
 stråmhpoe	pensas
 stråmhpoeraedtie	
 stræjjavoesse	juuttireppu
 ståante	hetki | tuokio
 ståapa	tupa | talo
-ståaradidh	
+ståaradidh	pärjätä
 stïelhke	varsi
 stöörelgovvedh	häiriintyä
 sualadidh	varastaa
@@ -1027,13 +1027,13 @@ svååredh	vastata
 svæjmoedidh	pyörtyä
 sygkeldidh	pyöräillä
 sygkesidh	tulla vedetyksi
-syhtjegh	
+syhtjegh	Karlsvogna
 syjjehtimmie	taivutus
 såahpodh	vasikoida
 såajoe	siipi
-såakelgidh	
+såakelgidh	piimittyä
 såaltje	maine
-såataskidh	
+såataskidh	hukkua jäihin
 såekiegalte	koivuhalko
 såeleme	
 såelie	oksa
@@ -1061,7 +1061,7 @@ tjaalesthtjomhpe	tavu
 tjaalestidh	
 tjaavtese	nousu
 tjaelije	kirjailija
-tjaevtedh	
+tjaevtedh	kiivetä
 tjahtedh	ponnistaa
 tjaktje doekoe	
 tjaktjege	syksyllä
@@ -1075,20 +1075,20 @@ tjerkie
 tjiehpies	kätevä
 tjiehpieslaakan	
 tjihtese	runo
-tjillege	
-tjimkedh	
-tjimkeslaakan	
-tjoejkedidh	
+tjillege	kili | vohla
+tjimkedh	kuormata
+tjimkeslaakan	kovasti | kaikin voimin
+tjoejkedidh	hiihdellä
 tjoere	kärpänen
 tjoevke	valo
 tjoevkedh	loistaa
 tjoevtje	siika
-tjohtjedh	
-tjomhpe	
-tjomhpetje	
-tjonkedh	
+tjohtjedh	himota | pyrkiä
+tjomhpe	nippu
+tjomhpetje	pieni nippu
+tjonkedh	purkata | siivota
 tjovle	leninki | hame
-tjuatsajidh	
+tjuatsajidh	alkaa sataa lunta
 tjuekie	
 tjuetsedh	sataa lunta
 tjulhte	seula
@@ -1097,14 +1097,14 @@ tjurrie	harjunselkä
 tjåagka	haarukka
 tjåagkodh	
 tjåalhte	kukkula
-tjåalhtetje	
+tjåalhtetje	pieni kukkula | kukkula
 tjåanghkenidh	kokoontua
 tjåanghkoetjïehtjele	kokoushuone
 tjåetskemes	kylmä
 tjåhkome	
-tjåånehtahke	
+tjåånehtahke	jarruporo
 tjååtsele	sorsa
-tjæjnodh	
+tjæjnodh	saada ummetus
 tjïelhke	kelkka
 tjïelkestidh	selittää
 tjïerte	ryhmä
@@ -1129,30 +1129,30 @@ tsiptsedh	purista
 tsoepkenidh	katketa
 tsuvvedh	ravata
 tsyögkesidh	
-tsåaka	
+tsåaka	matalikko
 tsåakodh	putoa
-tsåalhkodh	
-tsåapkodh	
-tsåelhkielaejpie	
+tsåalhkodh	nokkia
+tsåapkodh	katkoa
+tsåelhkielaejpie	linnunruoka
 tsåeptseles	
 tsïengele	tammikuu
 tv-spïele	tv-peli
 tåårske	turska
 tæhtjoe	katto
-tæjmosne båatam	
+tæjmosne båatam	tulen tunnin kuluttua
 töölledh	kestää
 ujkierdidh	ulvoa
 ulmie	tavoite
 unnebelåhkoegïele	vähemmistökieli
 ussjedimmie	ajatus
 vaajese	tarina
-vaanghka	
+vaanghka	poron takajalan liha
 vaanghkaklivvie	
 vaanghkamåara	
-vaarese	
+vaarese	sarka
 vaarhkedh	särkiä
 vaarjelidh	säilyttää
-vaeriej dubpelen	
+vaeriej dubpelen	vuoren takana
 vaerieståapoe	erätupa
 vaestiedasse	vastaus
 valkedh	lähteä
@@ -1161,7 +1161,7 @@ varkedh	piristyä
 veajalidh	putoa
 veajedh	luistaa
 vealah	makaava
-vealmetje	
+vealmetje	vuoma
 veanasoene	
 veartene	maailma
 vedtiestidh	antaa
@@ -1170,7 +1170,7 @@ vervies	terve
 vestieslaakan	
 vetneme	majava
 vierhkieskaavtege	työkalupakki
-vierhtie	
+vierhtie	maksuväline
 vierhtiedidh	arvioida
 vierhtiedimmie	arviointi
 vihtehks	viisas
@@ -1178,7 +1178,7 @@ vijrije	metsästäjä
 vijsies	viisas
 voehpe	appiukko
 voehpealmetjh	appivanhemmat
-voejedaellie	
+voejedaellie	voirasia
 voejedh	uida
 voelege	olut
 voelkehtidh	
@@ -1193,22 +1193,22 @@ vuajnajidh	nähdä
 vuaksa	härkä | sonni
 vuanove	anoppi
 vuarhkemesarva	
-vuehtedh	
+vuehtedh	jäljittää
 vuejemelohkehtæjja	ajo-opettaja
-vuekielïhtse	
+vuekielïhtse	tavan adverbiaali
 vuelie	joiku | melodia
 vuelieraedtie	alareuna
 vuelkeme	matka
 vuerpie	arpa
-vuertieh ånnetji	
+vuertieh ånnetji	odota vähän
 vuhtsedh	laukata
-vyölkedidh	
+vyölkedidh	kalveta
 våajodh	uppoa
 våaroe	vuoro
 våatjodh	
 våhkoesoejkesje	viikkosuunnitelma
-væjkeleslaakan	
-vïehkesadtedh	
+væjkeleslaakan	taitavasti
+vïehkesadtedh	auttaa toisiaan
 vïekesjidh	punnita
 vïelletjh	veljekset
 vïenes	ystävällinen
@@ -1221,7 +1221,7 @@ vöönhtse	kana
 vöörhkedh	piilota
 åabpedh	pelastaa
 åabpetjh	siskokset
-åadtjijebearkoe	
+åadtjijebearkoe	luuton liha
 åahpanadtedh	tutustua
 åarjelsaemiengïele	eteläsaamen kieli
 åarjene	etelässä
@@ -1230,12 +1230,12 @@ vöörhkedh	piilota
 åejvieboelhke	pääosa
 åejviegïele	pääkieli
 åejvieulmie	päämäärä
-åelkies bielie	
+åelkies bielie	oikea puoli
 åemehke	vainaja
 åemie	vainaja
 åeniedidh	lyhentää
 åeniedimmie	lyhenne
-åeremesijjie	
+åeremesijjie	nukkumispaikka | asuinpaikka
 åerpele	serkku
 åeruve	orava
 åesiestimmielæstoe	kauppalista
@@ -1252,7 +1252,7 @@ vöörhkedh	piilota
 åågkesjidh	haista | tuoksua
 ååjmedidh	pystyä | osata
 ååjretje	pieni airo
-ååjsehtalledh	
+ååjsehtalledh	luovuttaa, joutua luovuttamaan väsyttyään
 åårke	harju
 ööhpehtimmiedirektoraate	koulutusvirasto
 öörnege	järjestys
