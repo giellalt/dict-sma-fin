@@ -350,7 +350,7 @@ gievrie	saamelaisrumpu
 gihtjedidh	kysyä
 gihtjesovvedh	tulla kysytyksi
 gilledh	
-gillehtidh	
+gillehtidh	ruokkia
 gilmehtahke	pakastin
 giltedh	kiiltää
 gipsedh	kipsata
@@ -370,7 +370,7 @@ goevte	helmikuu
 goevtesmoere	
 golkedahke	kiima-ajan loppuvaihe
 golkedh	kiima-ajan loppuvaihe
-golkehke	
+golkehke	kulvakko | rykimän uuvuttama hirvas
 gorredidh	pelastaa
 govlesovvedh	kuulua
 govse	lehmä
@@ -391,7 +391,7 @@ gurhtie	kuikka
 gurreme	kutominen
 gurremeabpese	villapusero
 gurremetråajja	villapaita
-gurruve	
+gurruve	kieretty nauha
 guvhkiehtidh	kutsua poroa
 guvhkiehtæjja	poronkutsuja
 guvviedidh	piirtää
@@ -427,21 +427,21 @@ gïeledajve	kielialue
 gïelejarnge	kieliopetus
 gïelenjoelkedasse	kielisääntö
 gïeleööhpehtimmie	kieliopetus
-gïeltege	
+gïeltege	syvin jänne poron takajalassa | jänne poron takajalassa | jänne
 gïerene	kiiruna
 gïerestalledh	lasketella mäkeä
 gïerestidh	laskea mäkeä
 gïerhgietjie	huippu
 gïeriesvoelpe	ystävä
 gïermesje	käärme
-gïerte	
+gïerte	erotusaita
 gïesedh	sitoa
 gïeteråantja	johtoporo
 gïethgierehtse	ensimmäinen pulkka
 gïevehpluevie	suo?
 gïevehtidh	keinua
 gïjre doekoe	kevämmälle
-gïjrelaante	
+gïjrelaante	kesämaa
 gïrse	henkitorvi | putki | letku
 göögkeles	upea | mainio
 göökten harran	kahteen osaan
@@ -580,7 +580,7 @@ laantemuerjie	metsämansikka
 laavenjasse	tehtävä
 laavkometjïehtjele	kylpyhuone
 laemtjie	ohjakset
-laemtjiestidh	
+laemtjiestidh	valjastaa
 laessie	kuorma
 lapte	vintti
 lea	olla
@@ -596,7 +596,7 @@ learohke	oppilas
 learohkedåehkie	oppilasjoukko
 leatskodh	uppoa
 leekedh	teurastaa
-leekemebovtse	
+leekemebovtse	teurasporo
 leekemebïjle	teurastusauto
 leesedh	lukita
 leevege	neulanen
@@ -670,7 +670,7 @@ mearhka	sumu
 mearoegööleme	merikalastus
 measehke	vasan nahka
 meile	sähköposti | maili
-miehtjiebasse	
+miehtjiebasse	taemmaksi
 mieriesoejkesje	aikasuunnitelma
 mietiebïegke	myötätuuli
 mij dellie	entäs sitten
@@ -704,7 +704,7 @@ måara	iso luu
 måarahtovvedh	suuttua
 måaskedh	loukkaantua
 måaskodh	loukkaantua
-måedtieh såarhth	monenlaisia | monta lajia	
+måedtieh såarhth	monenlaisia | monta lajia
 mårhkedh	tuhoutua
 måskoes	suljettu
 mænngese	taakse
@@ -714,7 +714,7 @@ na	| melko
 naa guhkiem	aika kauan
 naan aejkien	pari kertaa
 naapere	pora
-naemie	
+naemie	sarvinahka
 naestie	tähti
 nahkere	väsymys
 najpetje	pieni veitsi
@@ -822,7 +822,7 @@ raante	peura
 raarahtalledh	neuvotella
 raarhkemestuhtje	
 raaste	raja
-raavtedh	
+raavtedh	kyllästyä
 raavtehtje	voimakas
 raavteres	voimakas
 radio	radio
@@ -839,7 +839,7 @@ reektehts	rapporti
 reeredh	hallita
 rehkere	höylä
 rektore	rehtori
-restiedidh	johtaa poro
+restiedidh	ajaa poroa | johtaa poroa
 rihkijahtjedh	tulla kiimaan
 rijredh	ratsasta
 rohtedh	
@@ -884,16 +884,16 @@ saemienööhpehtimmie	saamenopetus
 saevege	lippu
 saevegebiejjie	liputuspäivä
 saeviehtidh	heiluttaa
-sarhvegidh	
+sarhvegidh	tulla risaiseksi
 sarve	hirvi
 seahkoe	sorkka
-seahkoemåara	
+seahkoemåara	sorkan iso luu
 seahkoevoeje	
 seammalaakan	samanlainen
 searome	poski
 seeptjedh	
 sermie	ryteikkö | pöheikkö
-sesnie	
+sesnie	sisna
 siegkies	laiha
 sieptie	syöte
 sietedh	keli
@@ -920,15 +920,15 @@ sjöövelidh	sekoittaa
 sjöövememielhkie	ternimaito
 skaale	kuori
 skaanjedh	kilistää
-skaavhtes	
+skaavhtes	kulmikas
 skaavtjoe	parta
 skeenedh	nuolla
 skeeredh	hangata sarvet | vähenevä kuu
-skeerestidh	
+skeerestidh	lakaista
 skeerkedh	kirkastua
 skierrie	vaivaiskoivu
 skijre	harakka
-skilledh	
+skilledh	ojentaa jalat
 skirhmedh	tuhota
 skirreduarsta	kiirastorstai
 skitjskiestidh	
@@ -940,7 +940,7 @@ skuehtiejaepie	karkausvuosi
 skuehtiejaepiebiejjie	karkauspäivä
 skylledh	käydä ripillä
 skylleme	rippijuhla
-skåerrie	
+skåerrie	parkittu nahka
 skååffedh	hankkia
 skïemmenidh	hävetä
 skïemtjelasse	sairaus
@@ -1040,8 +1040,8 @@ såevlie	jääloska
 sårkoe	suru
 såvnjodh	ravistaa
 såvrodh	hapantua
-sååketje	
-sååketjekraesie	
+sååketje	siniyökönlehti
+sååketjekraesie	siniyökönlehti
 sælta	silli
 sïejhme	tavallinen
 sïerke	paju
@@ -1064,7 +1064,7 @@ tjaevtedh	kiivetä
 tjahtedh	ponnistaa
 tjaktje doekoe	syksymmälle
 tjaktjege	syksyllä
-tjaktjelaante	
+tjaktjelaante	syysmaa
 tjalmese	verkkomaha
 tjarme	nyrkki
 tjeakoes	salainen
