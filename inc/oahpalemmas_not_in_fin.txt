@@ -1183,7 +1183,7 @@ voelege	olut
 voelkehtidh	viedä mukanaan
 voelpe	ystävä
 voerhtje	varis
-voerkedahke	
+voerkedahke	sarvienlähtöaika
 voestes gietjeste	alussa
 voestesgïele	äidinkieli | ensimmäinen kieli
 vokaale	vokaali
@@ -1191,7 +1191,7 @@ vuajnah tjaangh	tule sisään | tulkaa sisään
 vuajnajidh	nähdä
 vuaksa	härkä | sonni
 vuanove	anoppi
-vuarhkemesarva	
+vuarhkemesarva	sarvensa pudottanut hirvas
 vuehtedh	jäljittää
 vuejemelohkehtæjja	ajo-opettaja
 vuekielïhtse	tavan adverbiaali
@@ -1204,7 +1204,7 @@ vuhtsedh	laukata
 vyölkedidh	kalveta
 våajodh	uppoa
 våaroe	vuoro
-våatjodh	
+våatjodh	(rasvasta) kohota pinnalle
 våhkoesoejkesje	viikkosuunnitelma
 væjkeleslaakan	taitavasti
 vïehkesadtedh	auttaa toisiaan
