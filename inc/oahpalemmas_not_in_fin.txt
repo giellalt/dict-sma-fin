@@ -377,11 +377,11 @@ govse	lehmä
 grammatihke	kielioppi
 gudtsien prïhtjegen åvteste	kiitos kahvista | kiitos kahvin edestä
 gudtsiestidh	kiittää
-guehperenlïetse	
+guehperenlïetse	poron sorkkien kopse
 guektien haerien	kahteen osaan
 guelhties	kylmä
 gueliejaevrie	kalajärvi
-guhkiesbuejtie	
+guhkiesbuejtie	teurastuksesta: paksusuolen sisin osa
 gujredh	ulvoa
 guktie gåarede	miten menee
 gumsie	karhu
@@ -411,7 +411,7 @@ gåhtjodh	kutsua
 gålkoe	marraskuu
 gårroebielie	vasen puoli
 gårroeh bielie	vasen puoli
-gåvles	
+gåvles	(kengän, repun,  komsion) kiinnityslenkki
 gåvnahtalledh	hyvästellä
 gåårestahke	ompelulanka
 gåårtenje	nauha | lanka
@@ -465,7 +465,7 @@ hussege	vesi-itikka
 håagkstaavra	onki
 håhkoe	toivo
 håågkedidh	kalastaa
-håålesjidh	
+håålesjidh	kapuloida poronnahat maahan kuivattaviksi
 hælloe	hylly
 iehkeden	ilta
 iehtsedh	rakastaa
@@ -490,10 +490,10 @@ jearmijes	järkevä
 jearsoes	turvallinen
 jeeluve	pääoma
 jemhkelde	pimeys
-jestiehtidh	
+jestiehtidh	tykytellä vaatimen utareita, jotta niistä tulisi maitoa
 jiehtege	lause
 jielemeguvvie	elokuva
-jiesie	
+jiesie	pyöreä karvakerros poron takajalassa polvitaipeen sisäpuolella
 jievege	matto
 jihtseles	tiivis
 jillieraedtie	länsipuoli
@@ -505,9 +505,9 @@ johkebealam	joenreuna
 johkenjaelmie	joensuu
 jorkesidh	muuttua
 jorkestimmie	muutos
-jovjeråtnoe	
+jovjeråtnoe	vaaleanharmaa vaadin
 juakasovvedh	jakaantua
-juelkiebielie	
+juelkiebielie	poronnahan etujalkojen reiät
 juelkietjengkere	jalkapallo
 jueskiedahke	jääkaappi
 juhteme	muutto
@@ -572,7 +572,7 @@ kåale	kaali
 kåarje	kori
 kåvrehts	uninen
 kååpe	naisten takki
-laabjehtidh	
+laabjehtidh	kävellä märissä kengissä
 laaje	parkkivesi
 laampe	karitsa
 laanteburrie	maanviljelijä
@@ -618,7 +618,7 @@ lohkehtidh	opettaa
 lopmedoenehke	lumikelkka
 lopmefealloe	lumilauta
 lovvehtidh	liottaa
-luehkedh	
+luehkedh	kutoa kengännauhaa
 luemege	sopuli
 luhkieakte	yksitoista
 luhkiegaektsie	kahdeksantoista
@@ -637,7 +637,7 @@ låamma	tasku
 låavtege	teltta
 låemie	niitty
 låesuve	vasta | vihta
-lårhvoehbïenje	
+lårhvoehbïenje	karvainen koira
 låssas	näennäisesti
 låvnadahke	auringonnousu
 læstoe	
@@ -645,7 +645,7 @@ lïemkeds	leuto
 lïene	lämmin
 lïerehtidh	opettaa
 lïerhkelidh	
-lïhtsege	
+lïhtsege	selkäranka  lihoineen
 lïhtsestidh	leikata
 lööbpedh	levittää
 lööneme	laina
@@ -725,9 +725,9 @@ nastedh
 neebne	kaima
 neeledh	hävetä
 nejpiensjapmere	hamara | veitsen selkä
-nieskedh	
+nieskedh	näskätä | kaapia
 nieskemegalte	
-nieskemeruevtie	
+nieskemeruevtie	näskäin | kaavin nahan kaapimiseen
 nietsege	sääriluu
 nihtedh	kieltää
 njaaka	hiiviskella
@@ -743,7 +743,7 @@ njallesbuejtie	selkärasva
 njaltja	iho
 njealjehts	neljännes
 njelliestidh	nylkeä
-njeltedh	
+njeltedh	poistaa karvat, nivottaa
 njevlie	lima
 njilkehtidh	
 njimkedahke	liima
@@ -790,9 +790,9 @@ oktebisnie	yksinoleskelu
 olle	olas | suksen pohjan ura
 organisasjovne	järjestö
 organiste	urkuri
-orredaamehke	
+orredaamehke	vasta kesytetty poro
 orredaaroengïele	nykynorja
-orreråantja	
+orreråantja	vasta kastroitu härkä
 orrijimmie	päätäjäiset
 ov nimhtie	näin | sillä tavalla
 ovmessie	erilainen
@@ -812,7 +812,7 @@ programme	ohjelma
 prïhtjhvoesse	kahvipussi
 prïhtjhvoessetje	kahvipussi
 pååjketje	pikkupoika
-raadtehts	
+raadtehts	ulkosuoli, jolla on juokseva sisältö
 raajedh	lähettää
 raajese	lause
 raajesetseegkeme	lauseoppi
@@ -820,7 +820,7 @@ raajnevaarjoe	sadevaatteet
 raame	jyrkkä rinne
 raante	peura
 raarahtalledh	neuvotella
-raarhkemestuhtje	
+raarhkemestuhtje	erotettava poro
 raaste	raja
 raavtedh	kyllästyä
 raavtehtje	voimakas
@@ -842,9 +842,9 @@ rektore	rehtori
 restiedidh	ajaa poroa | johtaa poroa
 rihkijahtjedh	tulla kiimaan
 rijredh	ratsasta
-rohtedh	
+rohtedh	yhtäkkiä alkaa olla erittäin huono ilma
 rutjkes	ruskea
-ryöjrehtidh	
+ryöjrehtidh	varustaa matkalle
 råakodh	haukkua
 råanedh	olla nisällä
 råase	peura
@@ -867,7 +867,7 @@ rööhtse	rotta
 saadtege	lähete
 saadteske	hiekkaranta
 saajkardahke	kuivatuskapula | nahan pingotinkapula
-saajkardidh	
+saajkardidh	kapuloida nahan sivut kuivatuskapulan avulla
 saavredh	harjoitella
 saavrehks	kestävä
 saedtiepaehpere	hiekkapaperi
@@ -888,7 +888,7 @@ sarhvegidh	tulla risaiseksi
 sarve	hirvi
 seahkoe	sorkka
 seahkoemåara	sorkan iso luu
-seahkoevoeje	
+seahkoevoeje	koparoista keitetty rasva
 seammalaakan	samanlainen
 searome	poski
 seeptjedh	
@@ -931,7 +931,7 @@ skijre	harakka
 skilledh	ojentaa jalat
 skirhmedh	tuhota
 skirreduarsta	kiirastorstai
-skitjskiestidh	
+skitjskiestidh	nauraa isosti ja paljon
 skodth varki	kiirehdi
 skopmehke	viita
 skråavva	kaulin
@@ -1020,7 +1020,7 @@ suehpedebaelie	vasikoimisaika
 suehpiehtidh	vasikoida
 suvhpie	haapa | metsähaapa
 suvtie	raate
-svaejlehke	
+svaejlehke	pailakka | edellisenä vuonna kuohittu urosporo, jota ei ole vielä opetettu
 svirrege	päästäinen
 svååredh	vastata
 svæjmoedidh	pyörtyä
@@ -1088,7 +1088,7 @@ tjomhpetje	pieni nippu
 tjonkedh	purkata | siivota
 tjovle	leninki | hame
 tjuatsajidh	alkaa sataa lunta
-tjuekie	
+tjuekie	(pään, ihon, rungon, metsän) paljas kohta
 tjuetsedh	sataa lunta
 tjulhte	seula
 tjulhtedh	seulota
@@ -1146,8 +1146,8 @@ unnebelåhkoegïele	vähemmistökieli
 ussjedimmie	ajatus
 vaajese	tarina
 vaanghka	poron takajalan liha
-vaanghkaklivvie	
-vaanghkamåara	
+vaanghkaklivvie	polvitaipeen nivel
+vaanghkamåara	poron polvitaipeen iso luu
 vaarese	sarka
 vaarhkedh	särkiä
 vaarjelidh	säilyttää
