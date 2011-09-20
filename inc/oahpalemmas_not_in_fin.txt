@@ -132,7 +132,7 @@ båatsoejieleme	poronhoitoelämä
 båatsoelaake	poronhoitolaki
 båejme	piekana
 båelmie	kengänpaulanpää
-båelmiehtidh	
+båelmiehtidh	palmikoida paulan kapea osa  
 båeltedh	polttaa | purra
 båervie	rasva
 båetskiesoene	nilkkasuoni
@@ -288,7 +288,7 @@ gaave	koukku
 gaavestidh	haukkua
 gaavnoes	oleva
 gabnjelidh	pelotella
-gadtere	
+gadtere	 poron jalkojen iho, ydinluu tai jäntee
 gadtjeråtjka	poron takajalankynsien välissä oleva rakko
 gadtsese	kynsi
 gaejsie	vuorenhuippu
@@ -301,7 +301,7 @@ gaessie	pihka
 gaetskedh	purra
 gaetskehke	härkä ensimmäisen kastrointivuoden jälkeen
 gaevnie	lelu
-gahpedh	
+gahpedh	 (porosta) nousta kahdelle jalalle
 gajhkehtestedh	kuivata
 gajpe	hattu
 galhkuve	loppu
@@ -331,7 +331,7 @@ geellege	vaimo
 geeremegåetie	vankila
 geerjedh	ilo
 geesjelelaakan	kunnolla
-geevledh	
+geevledh	 leikata etu- ja takasäärien nahat teurastetusta porosta | kirkua, kiljua
 gellene lehkesne	monella paikalla
 gie dellie datne	kuka sinä olet
 giefies	köyhä
@@ -340,7 +340,7 @@ gierehtse	pulkka
 gierhkie	ahma
 gieriesvaejvie	rakkaussuru
 gieriesvoete	rakkaus
-giesememoere	
+giesememoere	nahanpehmityspuu
 giesemeruevtie	kesämmälle
 giesie doekoe	kesämmälle
 giesie-eejehtimmie	kesäloma
@@ -349,7 +349,7 @@ giesien	vetää
 gievrie	saamelaisrumpu 
 gihtjedidh	kysyä
 gihtjesovvedh	tulla kysytyksi
-gilledh	
+gilledh	asettua makuulle (eläimestä)
 gillehtidh	ruokkia
 gilmehtahke	pakastin
 giltedh	kiiltää
@@ -367,7 +367,7 @@ goerke	kurki
 goetsehtidh	ajaa takaa
 goetselidh	juosta
 goevte	helmikuu
-goevtesmoere	
+goevtesmoere	nahan pingotuspuu
 golkedahke	kiima-ajan loppuvaihe
 golkedh	kiima-ajan loppuvaihe
 golkehke	kulvakko | rykimän uuvuttama hirvas
@@ -640,11 +640,11 @@ låesuve	vasta | vihta
 lårhvoehbïenje	karvainen koira
 låssas	näennäisesti
 låvnadahke	auringonnousu
-læstoe	
+læstoe	saamenpuvun hameessa oleva nauha
 lïemkeds	leuto
 lïene	lämmin
 lïerehtidh	opettaa
-lïerhkelidh	
+lïerhkelidh	ajaa poroelo alas tunturilta tiettyyn paikkaan
 lïhtsege	selkäranka  lihoineen
 lïhtsestidh	leikata
 lööbpedh	levittää
@@ -664,7 +664,7 @@ man gellie	kuinka paljon
 man guhkiem	kuinka pitkä
 man jïjnje	kuinka paljon
 man stoerre	kuinka iso
-maskastimmien raajan	
+maskastimmien raajan	siihen asti, että kaikki mitä on jäljellä on rypyttää ja ommella yläosan kiinni
 mastedh	sekoittua
 mearhka	sumu
 mearoegööleme	merikalastus
@@ -675,7 +675,7 @@ mieriesoejkesje	aikasuunnitelma
 mietiebïegke	myötätuuli
 mij dellie	entäs sitten
 mij faatoes	mikä on hätänä
-mij joem	
+mij joem	jokin
 mij vielie	mitä vielä
 mijjieh	me
 minngehke	jälkijoukko
@@ -721,12 +721,12 @@ najpetje	pieni veitsi
 nalhke	tyyny
 namhpe	poronmerkki
 napkedh	kulua
-nastedh	
+nastedh	siirtää puita lähemmäs toisiaan nuotiossa | kohentaa tulta
 neebne	kaima
 neeledh	hävetä
 nejpiensjapmere	hamara | veitsen selkä
 nieskedh	näskätä | kaapia
-nieskemegalte	
+nieskemegalte	aavin, jota käytetään nahan kaapimiseen
 nieskemeruevtie	näskäin | kaavin nahan kaapimiseen
 nietsege	sääriluu
 nihtedh	kieltää
@@ -745,7 +745,7 @@ njealjehts	neljännes
 njelliestidh	nylkeä
 njeltedh	poistaa karvat, nivottaa
 njevlie	lima
-njilkehtidh	
+njilkehtidh	karvata | poistaa karvat nahasta
 njimkedahke	liima
 njoere	mehukas
 njoktje	maaliskuu
@@ -826,7 +826,7 @@ raavtedh	kyllästyä
 raavtehtje	voimakas
 raavteres	voimakas
 radio	radio
-raedtehke	
+raedtehke	koira, joka on taitava vahtimaan porotokan reunaa
 raejkiebaenie	reikähammas
 rahka	marraskuu
 rahta	kuusimetsä
@@ -891,7 +891,7 @@ seahkoemåara	sorkan iso luu
 seahkoevoeje	koparoista keitetty rasva
 seammalaakan	samanlainen
 searome	poski
-seeptjedh	
+seeptjedh	valmistella muuttoreitti
 sermie	ryteikkö | pöheikkö
 sesnie	sisna
 siegkies	laiha
@@ -946,7 +946,7 @@ skïemmenidh	hävetä
 skïemtjelasse	sairaus
 skïerede	syyskuu
 skïeredh	kiimaaika
-skïeremesarva	
+skïeremesarva	sarvensa menettänyt urosporo
 skïhpe	laiva
 slaahpoesoene	selkäsuoni
 slaarve	valhe
@@ -955,8 +955,8 @@ slaarvestimmie	juoru
 slajkedh	irtoa
 slearodh	heittää
 sleebpedh	kaataa
-sleegkedh	
-sleehpeldihkie	
+sleegkedh	 laittaa maahan (merkattava vasikka tai kuohittava urosporo)
+sleehpeldihkie	lyhyistä selkäjänteistä kehrätty
 sleejedh	niittää
 sliehtie-elmie	räntäsää
 slovves	katala
@@ -1001,14 +1001,14 @@ staehkie	heinäseiväs
 staellie	talli
 staeriedidh	oikoa | korjata
 steeblege	saapas
-stoenedh	
+stoenedh	(eläimistä) lähteä uimaan
 stoerredigkie	suurkäräjät
 stoerredålle	suurtuli
 stoerregiebnie	suurkattila
 straavedh	olla huolestunut | epäillä
 stratjke	ruisku
 stråmhpoe	pensas
-stråmhpoeraedtie	
+stråmhpoeraedtie	pensaikon reuna
 stræjjavoesse	juuttireppu
 ståante	hetki | tuokio
 ståapa	tupa | talo
@@ -1034,7 +1034,7 @@ såakelgidh	piimittyä
 såaltje	maine
 såataskidh	hukkua jäihin
 såekiegalte	koivuhalko
-såeleme	
+såeleme	sarven alku
 såelie	oksa
 såevlie	jääloska
 sårkoe	suru
@@ -1045,8 +1045,8 @@ sååketjekraesie	siniyökönlehti
 sælta	silli
 sïejhme	tavallinen
 sïerke	paju
-söökesmielhkie	
-söönedh	
+söökesmielhkie	viili
+söönedh	kiskoa suonia poron jalasta
 taale	luku
 tekste	teksti
 telefovne	puhelin
@@ -1057,7 +1057,7 @@ tjaalege	kirjoitus
 tjaaleldahke	kirjoitus
 tjaaleldhgïele	kirjakieli
 tjaalesthtjomhpe	tavu
-tjaalestidh	
+tjaalestidh	viiltää nahka nylkemisen aikana
 tjaavtese	nousu
 tjaelije	kirjailija
 tjaevtedh	kiivetä
@@ -1070,7 +1070,7 @@ tjarme	nyrkki
 tjeakoes	salainen
 tjeapetji	varovasti
 tjeavra	saukko
-tjerkie	
+tjerkie	 iho, joka on poron sorkan puoliskojen välissä
 tjiehpies	kätevä
 tjiehpieslaakan	huolellisesti | varovasti | kunnolla
 tjihtese	runo
@@ -1094,13 +1094,13 @@ tjulhte	seula
 tjulhtedh	seulota
 tjurrie	harjunselkä
 tjåagka	haarukka
-tjåagkodh	
+tjåagkodh	 leikata, kaapia tai hakata puukon terällä | kaapia (puusta kuorta) veitsellä
 tjåalhte	kukkula
 tjåalhtetje	pieni kukkula | kukkula
 tjåanghkenidh	kokoontua
 tjåanghkoetjïehtjele	kokoushuone
 tjåetskemes	kylmä
-tjåhkome	
+tjåhkome	kampa, jolla kammataan kenkäheinää
 tjåånehtahke	jarruporo
 tjååtsele	sorsa
 tjæjnodh	saada ummetus
@@ -1118,22 +1118,22 @@ tryöjjadidh	viihtyä
 tråahpe	raput | portaat
 trïengkestidh	olla renkinä
 tsaepmedh	lyödä
-tsagkeldhdueljie	
+tsagkeldhdueljie	puukapulalla kireäksi pingotettu nahka
 tsagkeme	kimpsut ja kampsut
-tsegkiedeakehke	
+tsegkiedeakehke	haarapuu kodassa
 tsiehkie	tilanne
-tsietsedh	
+tsietsedh	maistua kitkerästi
 tsietsehthmuerjie	vadelma | vattu
 tsiptsedh	purista
 tsoepkenidh	katketa
 tsuvvedh	ravata
-tsyögkesidh	
+tsyögkesidh	 nousta pystyyn (karvat, kun koira hermostuu)
 tsåaka	matalikko
 tsåakodh	putoa
 tsåalhkodh	nokkia
 tsåapkodh	katkoa
 tsåelhkielaejpie	linnunruoka
-tsåeptseles	
+tsåeptseles	paikallaan pysyvä, rauhallinen, koossa oleva (poroelosta)
 tsïengele	tammikuu
 tv-spïele	tv-peli
 tåårske	turska
@@ -1155,13 +1155,13 @@ vaeriej dubpelen	vuoren takana
 vaerieståapoe	erätupa
 vaestiedasse	vastaus
 valkedh	lähteä
-valkedhokse	
+valkedhokse	suuri aukko poroaidassa
 varkedh	piristyä
 veajalidh	putoa
 veajedh	luistaa
 vealah	makaava
 vealmetje	vuoma
-veanasoene	
+veanasoene	takareisiluun jänne, jossa on luunappi
 veartene	maailma
 vedtiestidh	antaa
 veele	vara
@@ -1225,7 +1225,7 @@ vöörhkedh	piilota
 åarjelsaemiengïele	eteläsaamen kieli
 åarjene	etelässä
 åbrodh	sataa
-åejjiemoere	
+åejjiemoere	etummainen kapuloista, joihin nahka pingotetaan
 åejvieboelhke	pääosa
 åejviegïele	pääkieli
 åejvieulmie	päämäärä
