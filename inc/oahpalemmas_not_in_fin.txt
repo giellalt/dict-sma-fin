@@ -47,7 +47,7 @@ baakoeveeljeme	sanavalinta
 baalhkalissie	palkkalisä
 baanghke	pankki
 baarhkoelaaje	parkkivesi
-baarhkoevoesse	parkkireppu | XXX
+baarhkoevoesse	parkkireppu | XXX
 baarhkohke	kenkä
 baaroe	aalto
 baartesvåhkoe	pertunpäivä
@@ -173,7 +173,7 @@ daasta	tähti
 daata	tieto
 daatoe	päivämäärä
 dabran	tarttunut
-daellie	tiinu | rasia | aski
+daellie	tiinu | rasia | aski
 daelvie doekoe	talvemmalle
 daelviejuhteme	talvimuutto
 daenbien	tänään
@@ -442,8 +442,8 @@ gïevehpluevie	suo?
 gïevehtidh	keinua
 gïjre doekoe	kevämmälle
 gïjrelaante	kesämaa
-gïrse	henkitorvi | putki | letku
-göögkeles	upea | mainio
+gïrse	henkitorvi | putki | letku
+göögkeles	upea | mainio
 göökten harran	kahteen osaan
 gööles	kalaisa
 haelieh	kuivatuskapulat | nahan pingotinkapulat
@@ -456,7 +456,7 @@ heejle	kokonainen
 heevehtimmie	juhlinta
 hievnie	hämähäkki
 hievnieviermie	hämähäkinseiti
-hijven hov	se on hyvä | hyvä on
+hijven hov	se on hyvä | hyvä on
 hojjedh	valita
 hopsedh	haista
 hujnies	surullinen
@@ -470,7 +470,7 @@ hælloe	hylly
 iehkeden	ilta
 iehtsedh	rakastaa
 iehtseles	rakastettu
-ierie	tehtävä | asia
+ierie	tehtävä | asia
 ihkuve	ikuinen
 ij	ei
 ij åejjieh vielie guedtieh	päähän ei mahdu enää
@@ -535,7 +535,7 @@ jïermijes	viisas
 jïjjedidh	yöpyä
 jïjjesnjågloe	lehtopöllö
 jïjledh	kirvellä
-jïjseme	huurre | kuura
+jïjseme	huurre | kuura
 jïlleskuvle	korkeakoulu
 jöömmetje	kaksonen
 kapteene	kapteeni
@@ -611,7 +611,7 @@ lissiehtidh	lisätä
 loehke	umpikelkka
 loehkegierehtse	umpikelkka
 loejhmedh	valita
-loeve	silmäluomi | luomi
+loeve	silmäluomi | luomi
 loeves	irtonainen
 loevesmiesie	vasikka ilman äitiä
 lohkehtidh	opettaa
@@ -645,7 +645,7 @@ lïemkeds	leuto
 lïene	lämmin
 lïerehtidh	opettaa
 lïerhkelidh	ajaa poroelo alas tunturilta tiettyyn paikkaan
-lïhtsege	selkäranka  lihoineen
+lïhtsege	selkäranka  lihoineen
 lïhtsestidh	leikata
 lööbpedh	levittää
 lööneme	laina
@@ -669,7 +669,7 @@ mastedh	sekoittua
 mearhka	sumu
 mearoegööleme	merikalastus
 measehke	vasan nahka
-meile	sähköposti | maili
+meile	sähköposti | maili
 miehtjiebasse	taemmaksi
 mieriesoejkesje	aikasuunnitelma
 mietiebïegke	myötätuuli
@@ -693,7 +693,7 @@ mojnestimmie	arvoitus
 molledh	seurustella
 molsesovvedh	vaihtaa
 mov luvhtie	minun luota | minulta
-mubpiengïele	toinen kieli | vieraskieli
+mubpiengïele	toinen kieli | vieraskieli
 mueltie	multa
 muerjie	marja
 mulliedidh	mennä pilveen
@@ -761,7 +761,7 @@ noerhte	pohjoinen
 noerhtene	pohjoisessa
 noerhtesaemie	pohjoissaamelainen
 noerhtesaemiengïele	pohjoissaamen kieli
-novh gujht	aivan | kyllä | joo
+novh gujht	aivan | kyllä | joo
 novh lea	näin on
 nuhtjedh	käyttää
 numhtie	näin | sillä tavalla
@@ -794,7 +794,7 @@ orredaamehke	vasta kesytetty poro
 orredaaroengïele	nykynorja
 orreråantja	vasta kastroitu härkä
 orrijimmie	päätäjäiset
-ov nimhtie	näin | sillä tavalla
+ov nimhtie	näin | sillä tavalla
 ovmessie	erilainen
 paajsanidh	piileskellä
 pahke	pakata
@@ -830,7 +830,7 @@ raedtehke	koira, joka on taitava vahtimaan porotokan reunaa
 raejkiebaenie	reikähammas
 rahka	marraskuu
 rahta	kuusimetsä
-rajjadidh	metelöidä | pitää hauskaa
+rajjadidh	metelöidä | pitää hauskaa
 rasse	tihkusade
 reavsa	imusolmuke
 reehkedh	haravoida
@@ -1018,7 +1018,7 @@ stöörelgovvedh	häiriintyä
 sualadidh	varastaa
 suehpedebaelie	vasikoimisaika
 suehpiehtidh	vasikoida
-suvhpie	haapa | metsähaapa
+suvhpie	haapa | metsähaapa
 suvtie	raate
 svaejlehke	pailakka | edellisenä vuonna kuohittu urosporo, jota ei ole vielä opetettu
 svirrege	päästäinen
@@ -1096,7 +1096,7 @@ tjurrie	harjunselkä
 tjåagka	haarukka
 tjåagkodh	 leikata, kaapia tai hakata puukon terällä | kaapia (puusta kuorta) veitsellä
 tjåalhte	kukkula
-tjåalhtetje	pieni kukkula | kukkula
+tjåalhtetje	pieni kukkula | kukkula
 tjåanghkenidh	kokoontua
 tjåanghkoetjïehtjele	kokoushuone
 tjåetskemes	kylmä
