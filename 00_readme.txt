@@ -27,7 +27,7 @@ in most of cases the pos values are the same. --> DONE
 TODO:
  - check and correct pos values for the ambiguous pos: e.g., pos="a_n"
  - check and if needed correct pos values in both l and t elements
-
+   --> DONE by Trond
 
 II. cleanup entries
 
