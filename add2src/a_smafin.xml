@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="a">aelhkies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">yksinkertainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">aelpies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">halpa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">baetjkies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">katkera</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">bieljehts</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kuuro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">bihtseds</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">katkera</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">båadtsoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">alaston</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">båajhtoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">väärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">bååvteres</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">paksutukkainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">bïjveles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">lämmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">dearkoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">hermostunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">dejpeladtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">vanhanaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ealjoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">laiska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">fahkes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">hereillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">feejjen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">iloinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gaajhkenjevlien</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">limainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gaajpeles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kömpelö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gaavnoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gaertjies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ahdas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">galme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kylmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gamte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">leveä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">garmeres</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ylpeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gearkeske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">giefies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">köyhä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gieltegs</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">jännittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">girvene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">halukas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">guelhties</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kylmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gyvjeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">nopea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gåffoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">höyhen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gælloeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">makaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">göögkeles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">upea</t>
+            <t pos="a">mainio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gööles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kalaisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">heejle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kokonainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">hujnies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">surullinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">iehtseles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">rakastettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jaame</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kuollut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jearmijes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">järkevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jearsoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">turvallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jihtseles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">tiivis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jïermijes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">viisas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">klaeries</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kirkas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kraejhpies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kumpuileva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kåvrehts</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">uninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">loeves</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">irtonainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">lustes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">hauska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">låabpoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">hajotettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">lïemkeds</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">leuto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">lïene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">lämmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">maehtehtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">taitava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">måskoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">suljettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">njaalmeldh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">suullinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">njoere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">mehukas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">nåajsan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">raskaana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">nåekies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">huono</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ovmessie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">erilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">raavtehtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">voimakas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">raavteres</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">voimakas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">rutjkes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ruskea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">saavrehks</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kestävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">saelhties</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">suolattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">siegkies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">laiha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">sieties</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">makea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">sjyjjehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">liukas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">skaavhtes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kulmikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">sleehpeldihkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">lyhyistä selkäjänteistä kehrätty</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">slovves</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">katala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">sïejhme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">tavallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjaalaldihkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kirjoitettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjeakoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">salainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjiehpies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kätevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjåetskemes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kylmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjöölle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">vaaleansininen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tovme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">tyhjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tsåeptseles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">paikallaan pysyvä, rauhallinen, koossa oleva (poroelosta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vealah</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">makaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vervies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">terve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vihtehks</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">viisas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vijsies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">viisas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vïenes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">ystävällinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">åemie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">vainaja</t>
+         </tg>
+      </mg>
+   </e>
+</r>

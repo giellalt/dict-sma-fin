@@ -1,0 +1,6855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="n">aajnehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ainokainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aalkoealmetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">alkoperäiskansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aalkoekuvsje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">alkeiskurssi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aalkoeåålmege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">alkuperäiskansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aanjasoene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jalkajänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aarege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">raunio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aarhskuvle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">esikoulu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aarhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">laji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aarkebiejjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">arkipäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aarpije</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">leski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aassjoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">viha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aegkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">höyhen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aejkiemierie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">päivämäärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aeredsbiejjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aamupäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aerhkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronraato</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aeriebielie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nahan karvapuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aerpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">perintö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aesie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">harju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aeskie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aktentaale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">yksikkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">alma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">mies</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ammesgïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vieraskieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">appelsijnejuvse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">appelsiinimehu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">artihkele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">artikkeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">askedibie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuutamo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">attribudte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">attribuutti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baahkestjaetsie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lämminvesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baakoedåehkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sanaluokka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baakoegærja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sanakirja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baakoelåhkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sanasto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baakoelæstoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sanalista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baakoeraajroe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">loru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baakoetjïerte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sanaryhmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baakoeveeljeme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sanavalinta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baalhkalissie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">palkkalisä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baanghke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pankki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baarhkoelaaje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">parkkivesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baarhkoevoesse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">parkkireppu</t>
+            <t pos="n">XXX</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baarhkohke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kenkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baaroe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aalto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baartesvåhkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pertunpäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baataræjja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pakolainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baegkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">päitset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baektie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jylhä kallio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baeniedåaktere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hammaslääkäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baenielaejkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hammaslanka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baenievaerhkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hammassärky</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baevtieguedteme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vasikointiaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baevtieskïeredahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kiima-aika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">mäki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">balhka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nappi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baltastæjja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kummitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">barkoedåehkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">työryhmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">barkoefaaleldahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">työtarjous</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">barkoesijjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">työpaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">barkoesoejkesje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">työsuunnitelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">barkoestradtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">raadanta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">barkoevuekie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">työtapa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">batjka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronhäntä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bealketje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">peukalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bealloeråantjoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kellohärkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">beallohke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kelloporo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bearjedsaerede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">perjantai-aamu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bearkoesnaejrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lihapala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">beeretje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nalle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">beetsehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">mäntymetsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bertie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puunraja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">biejjhguaka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">auringonpaiste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">biejjiegærja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">päiväkirja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">biejjielaemtjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">auringonsäde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bieljiegietjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">korvankärki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bielkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">peukalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bijjiebaakoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">otsikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bissiebiejjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pyhäpäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bodte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hetki</t>
+            <t pos="n">tuokio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">boehtele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pullo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">boere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lonkero</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bovtsealmetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronomistaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">buaradahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pouta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">buejtietsöötsege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">talitintti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">buerkiestimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">selitys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">burhtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">purki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bustetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">teelusikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">buvvie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">karjalauma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">byjrese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ympäristö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båatsoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båatsoeburrieskuvle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronhoitokoulu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båatsoebïenje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">porokoira</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båatsoedajve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronhoitoalue</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båatsoejieleme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronhoitoelämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båatsoelaake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronhoitolaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båejme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">piekana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båelmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kengänpaulanpää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båervie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rasva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båetskiesoene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nilkkasuoni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">båskoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pensas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bïenghke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">penkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bïerje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kallio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bïevnese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tieto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bïhtemoere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuivatuskapula</t>
+            <t pos="n">nahan pingotinkapula</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daabloe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lautapeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daabloebaakoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pelisana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daabloehtæjja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pelaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daajh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aistit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daajroe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tieto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daamehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kesyporo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daaroengïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">norjan kieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daasta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tähti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daata</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tieto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daatoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">päivämäärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daellie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tiinu</t>
+            <t pos="n">rasia</t>
+            <t pos="n">aski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daelviejuhteme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">talvimuutto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dajve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">alue</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daktere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tytär</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">daltese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">taso</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">deakahgierehtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">telttatankojen pulkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dielhtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jäätikkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dierie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vahvike</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">digkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">käräjät</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">digkiedimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">keskustelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">digkiedimmielahtese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">keskusteluvuoro</t>
+            <t pos="n">puheenvuoro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">direktööre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">johtaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ditnie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">doedtere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tunturi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">domtese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tunne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dorjehtæjja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">näyttelijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dorjese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tuote</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dotnele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kaulanahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dulvie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tulva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">duvrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">karhu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">duvtestahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tuki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">duvvehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dåahka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nukke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dïjnehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sokeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dïjre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">viesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">dïmpere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tukki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">döörhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kaulus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eejhteghtjåanghkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vanhempainkokous</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eengkele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">enkeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eksaamene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">elkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">faadta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">polttopuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">faage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oppiaine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">faageaamhtese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oppiaine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">faala</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">valas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">faaleldahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tarjous</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">faatna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">väinönputki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fijrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poikamies</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">filme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">elokuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">flyjjere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamelaispäähineen nauha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">foeme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tuomi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fïerpenroehtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rätvänä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">föörhkelh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nauru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaajhtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vuohi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaajsege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saniainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaallohke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kallokas</t>
+            <t pos="n">kallokkaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaaloe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kylmä sää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaaltije</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lähde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaaltijejohketje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lähdepuro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaalve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kelohonka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaaranasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">korppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaase</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hanhi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaatske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vasta kastroitu härkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaave</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">koukku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gadtere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poron jalkojen iho, ydinluu tai jäntee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gadtjeråtjka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poron takajalankynsien välissä oleva rakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gadtsese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kynsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaejsie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vuorenhuippu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaekere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronkakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaelmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hauta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaelmiesijjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hautapaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaertienadtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">torppa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaessie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pihka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaetskehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">härkä ensimmäisen kastrointivuoden jälkeen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gajpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">galhkuve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">loppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gapta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamenpuku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaptese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamenpuku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaptjese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">peitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">garhpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuilu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">garhtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hihna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">garrelaejpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">näkkileipä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">garse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vesiputous</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaskesadtemegïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kommunikointikieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaskeviermie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">internetti</t>
+            <t pos="n">internet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">geahpoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">eläinkeuhkot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gebrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kantohanki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gedtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">villiporo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">geeremegåetie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vankila</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gierehtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pulkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gierhkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ahma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gieriesvaejvie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rakkaussuru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gieriesvoete</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rakkaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">giesememoere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nahanpehmityspuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">giesemeruevtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kesämmälle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">giesie-eejehtimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kesäloma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">giesiebarkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kesätyö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gievrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamelaisrumpu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gilmehtahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pakastin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">girtiesijjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lentokenttä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gitaare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kitara</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goejhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">koski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goerehtalleme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">haastattelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goerhtele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">neljännes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goerke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kurki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goevte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">helmikuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goevtesmoere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nahan pingotuspuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">golkedahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kiima-ajan loppuvaihe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">golkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kiima-ajan loppuvaihe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">golkehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kulvakko</t>
+            <t pos="n">rykimän uuvuttama hirvas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">govse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lehmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">grammatihke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kielioppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">guehperenlïetse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poron sorkkien kopse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gueliejaevrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kalajärvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">guhkiesbuejtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">teurastuksesta: paksusuolen sisin osa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gumsie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">karhu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gurhtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gurreme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kutominen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gurremeabpese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">villapusero</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gurremetråajja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">villapaita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gurruve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kieretty nauha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">guvhkiehtæjja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronkutsuja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gyhtjelasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kysymys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gyhtsele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">etana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåahta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">karkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåaroje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ompelija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåarome</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sauma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåaromedeerpegh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ompelutarvikkeet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåatomelaante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">laidunalue</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåetehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">avomies</t>
+            <t pos="n">avovaimo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåetiegïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kotikieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåetiesjalja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">piha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gålkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">marraskuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåvles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">(kengän, repun, komsion) kiinnityslenkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåårestahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ompelulanka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåårtenje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nauha</t>
+            <t pos="n">lanka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gæjsa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kiisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gæmhpome</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">taistelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vaadin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïelebiesie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kielipesä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïeledajve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kielialue</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïelejarnge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kieliopetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïelenjoelkedasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kielisääntö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïeleööhpehtimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kieliopetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïeltege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">syvin jänne poron takajalassa</t>
+            <t pos="n">jänne poron takajalassa</t>
+            <t pos="n">jänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïerene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kiiruna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïerhgietjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">huippu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïeriesvoelpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ystävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïermesje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">käärme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïerte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">erotusaita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïeteråantja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">johtoporo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïethgierehtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ensimmäinen pulkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïevehpluevie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">suo?</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïjrelaante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kesämaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gïrse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">henkitorvi</t>
+            <t pos="n">putki</t>
+            <t pos="n">letku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">haelieh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuivatuskapulat</t>
+            <t pos="n">nahan pingotinkapulat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">haerrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">harjus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">heamture</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tarina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">heevehtimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">juhlinta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hievnie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hämähäkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hievnieviermie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hämähäkinseiti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hurrehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">urakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hussege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vesi-itikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">håagkstaavra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">onki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">håhkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">toivo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hælloe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hylly</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ierie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tehtävä</t>
+            <t pos="n">asia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ihkuve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ikuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jarnge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">keskus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jeahna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jättiläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jeanoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">joki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jearja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pohjansinivalvatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jeeluve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pääoma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jemhkelde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pimeys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiehtege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lause</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jielemeguvvie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">elokuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiesie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pyöreä karvakerros poron takajalassa polvitaipeen sisäpuolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jillieraedtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">länsipuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jipse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kipsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">johke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puro</t>
+            <t pos="n">joki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">johkenjaelmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">joensuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jorkestimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">muutos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jovjeråtnoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vaaleanharmaa vaadin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juelkiebielie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronnahan etujalkojen reiät</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juelkietjengkere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jalkapallo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jueskiedahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jääkaappi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juhteme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">muutto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">julevsaemie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">luulajansaamelainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">julevsaemiengïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">luulajansaamen kieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jupmele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jumala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jurjiehtæjja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juvse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tuoremehu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jåamoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hapro</t>
+            <t pos="n">juomu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jånnga</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pöytäveitsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jåvleaske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">joulukuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jåvlejïjje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jouluyö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jåvlelaavloe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">joululaulu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jïjjesnjågloe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lehtopöllö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jïjseme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">huurre</t>
+            <t pos="n">kuura</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jïlleskuvle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">korkeakoulu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jöömmetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kaksonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kapteene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kapteeni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">keebrege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">korppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">klaapsaspaarra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuivatuskapula</t>
+            <t pos="n">nahan pingotinkapula</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">klodtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">klååmsehth</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puuskainen tuuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">konsulente</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">neuvonantaja</t>
+            <t pos="n">konsulentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kontejnere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kontti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">konvensjovne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">konventio</t>
+            <t pos="n">sopimus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kraavhtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puuro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kraesienjålhtja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">heinäsirkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kreadta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kahvilisäke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kreeke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">eläin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kroenesaate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vihannes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kruepieslaejpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tumma leipää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kråahpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">keho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">krïevve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuvsjeplaane</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kurssisuunnitelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kvæjta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pallas</t>
+            <t pos="n">ruijanpallas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kåale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kåarje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kori</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kååpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">naisten takki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laaje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">parkkivesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laampe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">karitsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laanteburrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">maanviljelijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laantemuerjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">metsämansikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laavenjasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tehtävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laavkometjïehtjele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kylpyhuone</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laemtjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ohjakset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laessie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuorma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lapte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vintti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leahkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poikkipuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leaksoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">läksy</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">learoegærja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oppikirja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">learoeplaane</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oppisuunnitelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">learoesoejkesje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oppisuunnitelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">learoevierhtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oppineuvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">learohke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oppilas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">learohkedåehkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oppilasjoukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leekemebovtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">teurasporo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leekemebïjle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">teurastusauto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leevege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">neulanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liemme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lato</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lijhkiemåvhka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">alushousut</t>
+            <t pos="n">pikkuhousut</t>
+            <t pos="n">pikkarit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lijhkiesjåarhtoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aluspaita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lissie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lisäys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">loehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">umpikelkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">loehkegierehtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">umpikelkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">loeve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">silmäluomi</t>
+            <t pos="n">luomi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">loevesmiesie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vasikka ilman äitiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lopmedoenehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lumikelkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lopmefealloe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lumilauta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luemege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sopuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">låavtege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">teltta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">låemie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">niitty</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">låesuve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vasta</t>
+            <t pos="n">vihta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lårhvoehbïenje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">karvainen koira</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">låvnadahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">auringonnousu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">læstoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamenpuvun hameessa oleva nauha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lïhtsege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">selkäranka lihoineen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lööneme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">laina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maadthööhpehtimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">perusopetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maadtoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">alkuperä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maalestahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ateria</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maalle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">malli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maarhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">näätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maeksemekåarhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">maksukortti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mearhka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sumu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mearoegööleme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">merikalastus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">measehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vasan nahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">meile</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sähköposti</t>
+            <t pos="n">maili</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mieriesoejkesje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aikasuunnitelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mietiebïegke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">myötätuuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">minngehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jälkijoukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mobïjle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kännykkä</t>
+            <t pos="n">matkapuhelin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">moehtegadtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lumikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">moeregaerie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puukulho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">moeretsöölhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">moevse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mojnestimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">arvoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mubpiengïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">toinen kieli</t>
+            <t pos="n">vieraskieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mueltie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">multa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muerjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">marja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">multie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">multa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">måara</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">iso luu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">mieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mïjle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">miili</t>
+            <t pos="n">10 km</t>
+            <t pos="n">kymmenen kilometriä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">naapere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pora</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">naemie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sarvinahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">naestie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tähti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nahkere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">väsymys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">najpetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pieni veitsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nalhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tyyny</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">namhpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poronmerkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">neebne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kaima</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nejpiensjapmere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hamara</t>
+            <t pos="n">veitsen selkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nieskemegalte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">aavin, jota käytetään nahan kaapimiseen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nieskemeruevtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">näskäin</t>
+            <t pos="n">kaavin nahan kaapimiseen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njaaka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hiiviskella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njaalmeldhgïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puhekieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njaarege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kaulaliha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njaarke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saarento</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njallemejuelkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nyljetty jalka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njallesbuejtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">selkärasva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njaltja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">iho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njealjehts</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">neljännes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njevlie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lima</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njimkedahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">liima</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njoktje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">maaliskuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njuenehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">etujoukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njïdtjele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hyvä pihka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">noeredaltese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">yläaste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">noereskuvle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">yläaste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">noerhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pohjoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">noerhtesaemie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pohjoissaamelainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">noerhtesaemiengïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pohjoissaamen kieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nyjsene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nyöjhkemehaamoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kieltomuoto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nåejtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">noita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nårroe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nyytti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nïmmehtsmoere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">näsiäkasvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nïmmerh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ohutsuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ohtsije</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hakija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">organisasjovne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">järjestö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">organiste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">urkuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">orredaamehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vasta kesytetty poro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">orredaaroengïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nykynorja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">orreråantja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vasta kastroitu härkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">orrijimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">päätäjäiset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peanna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kynä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peannagåetie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kynäkotelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pearalaejpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">perunaleipä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pedagogihke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kasvatustiede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">plaantege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sekoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">plaerietjaeleme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lehtikirjoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">plijrehtahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">koriste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">programme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ohjelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">prïhtjhvoesse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kahvipussi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">prïhtjhvoessetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kahvipussi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pååjketje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pikkupoika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raadtehts</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ulkosuoli, jolla on juokseva sisältö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raajese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lause</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raajesetseegkeme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lauseoppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raajnevaarjoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sadevaatteet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raame</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jyrkkä rinne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">peura</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raarhkemestuhtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">erotettava poro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">raja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">radio</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">radio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raedtehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">koira, joka on taitava vahtimaan porotokan reunaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raejkiebaenie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">reikähammas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rahka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">marraskuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rahta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuusimetsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tihkusade</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">reavsa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">imusolmuke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rehkere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">höylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rektore</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rehtori</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">råase</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">peura</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">råateme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ilves</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">råårhkesje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuivakuusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ræhka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">olla kiimassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rïevtege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">koppakuoriainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rïhkedahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kiima</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rïhkede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lokakuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rööhtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rotta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saadtege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lähete</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saadteske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hiekkaranta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saajkardahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuivatuskapula</t>
+            <t pos="n">nahan pingotinkapula</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saedtiepaehpere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hiekkapaperi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saejmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sauma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saemiedigkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamelaiskäräjät</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saemiedigkiepresidente</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamelaispresidentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saemiengïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamen kieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saemienkultuvre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamen kulttuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saemiensiebrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamelaisjärjestä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saemienskuvle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamelaiskoulu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saemienööhpehtimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saamenopetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saevege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lippu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saevegebiejjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">liputuspäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sarve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hirvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">seahkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sorkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">seahkoemåara</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sorkan iso luu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">seahkoevoeje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">koparoista keitetty rasva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">searome</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sermie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ryteikkö</t>
+            <t pos="n">pöheikkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sesnie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sisna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sieptie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">syöte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sihtege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ahven</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sijjienomme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">paikannimi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sisvege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sisältö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sjilkehtimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sulatettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sjåarhta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">paita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sjïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">häälahja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sjïjlelaejpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tikkuleipä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sjöövememielhkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ternimaito</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skaale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kuori</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skaavtjoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">parta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skierrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vaivaiskoivu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skijre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">harakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skirreduarsta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kiirastorstai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skopmehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">viita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skråavva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kaulin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skuehtiejaepie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">karkausvuosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skuehtiejaepiebiejjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">karkauspäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skylleme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rippijuhla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skåerrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">parkittu nahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skïemtjelasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sairaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skïerede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">syyskuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skïeremesarva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sarvensa menettänyt urosporo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skïhpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">laiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">slaahpoesoene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">selkäsuoni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">slaarve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">valhe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">slaarvestimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">juoru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sliehtie-elmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">räntäsää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sluekieh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">teurastusjätteet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">slåavege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">selkäsauna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">smaarege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">murrede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">smaarehtjïerte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">murre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">snjuhtjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kärki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">snurke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">snåhta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">teerinaaras</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">snöölhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">susi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soejkesje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">suunnitelma</t>
+            <t pos="n">idea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soekse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">toukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soen’åedtjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">selkäliha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soevestahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">savuliha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sohte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">epidemia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sojjehtimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">taivutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soptsese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kertomus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soptsestimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lausunto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soptsestæjja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kertoja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sovhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">flunssa</t>
+            <t pos="n">nuha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">spaaneserehkere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">höylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">spïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">soitin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">staate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">valtio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">staehkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">heinäseiväs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">staellie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">talli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">steeblege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saapas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stoerredigkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">suurkäräjät</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stoerredålle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">suurtuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stoerregiebnie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">suurkattila</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stratjke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ruisku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stråmhpoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pensas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stråmhpoeraedtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pensaikon reuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stræjjavoesse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">juuttireppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ståante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hetki</t>
+            <t pos="n">tuokio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ståapa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tupa</t>
+            <t pos="n">talo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stïelhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">varsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suehpedebaelie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vasikoimisaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suvhpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">haapa</t>
+            <t pos="n">metsähaapa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suvtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">raate</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">svaejlehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pailakka</t>
+            <t pos="n">edellisenä vuonna kuohittu urosporo, jota ei ole vielä opetettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">svirrege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">päästäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">syhtjegh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">Karlsvogna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">syjjehtimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">taivutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">såajoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">siipi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">såaltje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">maine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">såekiegalte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">koivuhalko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">såeleme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sarven alku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">såelie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oksa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">såevlie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jääloska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sårkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">suru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sælta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">silli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sïerke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">paju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">söökesmielhkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">viili</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">taale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">luku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tekste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">teksti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">telefovne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puhelin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">telefovnenummere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puhelinnumero</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaalaldahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kirjoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaalege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kirjoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaaleldhgïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kirjakieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaalesthtjomhpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tavu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaavtese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nousu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaelije</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kirjailija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaktjelaante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">syysmaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjalmese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">verkkomaha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjarme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nyrkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjeavra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">saukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjerkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">iho, joka on poron sorkan puoliskojen välissä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjihtese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">runo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjillege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kili</t>
+            <t pos="n">vohla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjoere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kärpänen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjoevke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">valo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjoevtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">siika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjomhpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nippu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjomhpetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pieni nippu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjovle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">leninki</t>
+            <t pos="n">hame</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjuekie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">(pään, ihon, rungon, metsän) paljas kohta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjulhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">seula</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjurrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">harjunselkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjåagka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">haarukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjåalhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kukkula</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjåalhtetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pieni kukkula</t>
+            <t pos="n">kukkula</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjåanghkoetjïehtjele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kokoushuone</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjåhkome</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kampa, jolla kammataan kenkäheinää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjåånehtahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jarruporo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjååtsele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sorsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjïelhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kelkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjïerte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ryhmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjïevhtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">meriharakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">toelhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tulkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tråahpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">raput</t>
+            <t pos="n">portaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsagkeldhdueljie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">puukapulalla kireäksi pingotettu nahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsagkeme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kimpsut ja kampsut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsegkiedeakehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">haarapuu kodassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsiehkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tilanne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsietsehthmuerjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vadelma</t>
+            <t pos="n">vattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsåaka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">matalikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsåelhkielaejpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">linnunruoka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsïengele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tammikuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tv-spïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tv-peli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tåårske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">turska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tæhtjoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">katto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ulmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tavoite</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">unnebelåhkoegïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vähemmistökieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ussjedimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ajatus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaajese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tarina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaanghka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poron takajalan liha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaanghkaklivvie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">polvitaipeen nivel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaanghkamåara</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poron polvitaipeen iso luu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaarese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sarka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaerieståapoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">erätupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaestiedasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vastaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">valkedhokse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">suuri aukko poroaidassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vealmetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vuoma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">veanasoene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">takareisiluun jänne, jossa on luunappi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">veartene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">maailma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vetneme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">majava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vierhkieskaavtege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">työkalupakki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vierhtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">maksuväline</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vierhtiedimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">arviointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vijrije</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">metsästäjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">voehpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">appiukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">voehpealmetjh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">appivanhemmat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">voejedaellie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">voirasia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">voelege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">olut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">voelpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ystävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">voerhtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">varis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">voestesgïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">äidinkieli</t>
+            <t pos="n">ensimmäinen kieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vokaale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vokaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuaksa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">härkä</t>
+            <t pos="n">sonni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuanove</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">anoppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuarhkemesarva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sarvensa pudottanut hirvas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuejemelohkehtæjja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ajo-opettaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuekielïhtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tavan adverbiaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuelie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">joiku</t>
+            <t pos="n">melodia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuelieraedtie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">alareuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuelkeme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">matka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuerpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">arpa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">våaroe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vuoro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">våhkoesoejkesje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">viikkosuunnitelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vïelletjh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">veljekset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vïjve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vävy</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vïrre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">veri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vöönhtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åabpetjh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">siskokset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åadtjijebearkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">luuton liha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åarjelsaemiengïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">eteläsaamen kieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åejjiemoere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">etummainen kapuloista, joihin nahka pingotetaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åejvieboelhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pääosa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åejviegïele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pääkieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åejvieulmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">päämäärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åemehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vainaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åeniedimmie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lyhenne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åeremesijjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">nukkumispaikka</t>
+            <t pos="n">asuinpaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åerpele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">serkku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åeruve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">orava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åesiestimmielæstoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kauppalista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ålkoelaante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ulkomaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ålkoeokse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ulko-ovi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ångkene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lapsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">årromesijjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">asuinpaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åssjalommes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ajatus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åvtebielie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">etusivu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åvtesnuelie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">poron etujalassa oleva liha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ååjretje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pieni airo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åårke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">harju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ööhpehtimmiedirektoraate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">koulutusvirasto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">öörnege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">järjestys</t>
+         </tg>
+      </mg>
+   </e>
+</r>

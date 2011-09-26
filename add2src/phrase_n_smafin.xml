@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="phrase_n">aajne kaarre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">poikamies, vanhapoika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_n">gårroeh bielie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">vasen puoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_n">jurjiehtamme beapmoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">valmiiksi tehty ruoka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_n">måedtieh såarhth</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">monenlaisia</t>
+            <t pos="phrase_n">monta lajia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_n">praare deava</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">jyrkkä mäki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_n">åelkies bielie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">oikea puoli</t>
+         </tg>
+      </mg>
+   </e>
+</r>

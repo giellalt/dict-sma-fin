@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="num">luhkieakte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">yksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">luhkiegaektsie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kahdeksantoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">luhkiegolme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kolmetoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">luhkiegovhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kuusitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">luhkiegöökte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">kaksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">luhkienieljie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">neljätoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">luhkietjïjhtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">seitsemäntoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">luhkieuktsie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">yksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">luhkievïjhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num">viisitoista</t>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,3494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="v">aatedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aikoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">aavoedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">iloita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">abrodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">aeredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">estää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baahkenidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lämmetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baataridh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paeta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baersieldidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">synnyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">batnanidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bearadidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lähteä kantamaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bejhkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kakata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beltedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pelotella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">berkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaivata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">biehtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">biekedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kahlata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">birhkehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sirotella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">brorredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ryöpsähtää</t>
+            <t pos="v">kohista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buhtjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lypsätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buhtjiedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiertää</t>
+            <t pos="v">vääntää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">burredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">levitellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">butnedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kehrätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buvvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tappaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">byöredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pitää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">båelmiehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">palmikoida paulan kapea osa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">båeltedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">polttaa</t>
+            <t pos="v">purra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bårrestovvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nälkiintyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">båssodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puhaltaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">båårhkesjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">karvata</t>
+            <t pos="v">parkita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bæhkasidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">katketa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bïesedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">päästä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bööredidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kutsua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">böötedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paikata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">daablodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pelata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">daaktedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varttua</t>
+            <t pos="v">kypsyä</t>
+            <t pos="v">kovettua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">daanhtsoehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tanssia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">daanjehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hieroa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">daaresjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pahoinpidellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">daltedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">poljeskella</t>
+            <t pos="v">poljeksia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dalvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">esiintyä</t>
+            <t pos="v">tulla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">damhkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ilmaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dangkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tilata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">darvodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tervata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dassedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">menettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dasselidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">menettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">deejedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sijoita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">deerjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">digkiedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">keskustella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doeltehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiehuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">doeltijehtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiehahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duvtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tukea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dååsveridh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käyttäytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dïevedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">täytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">easadidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nousta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">faaledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarjota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">faerhmiestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">halata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">feeledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">matkustaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">feeredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">matkustaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">firrelidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ravistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fuakedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kyllästyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">funhterdidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">miettiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">færkasidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sirotella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fïrredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ravistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaalehtjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kahlia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaanedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">syleillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaaredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sitoa monta asiaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaarkoehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaapia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaarvanadtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">häipyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaarvanidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">häipyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaavestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gabnjelidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pelotella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaetskedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">purra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gahpedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">(porosta) nousta kahdelle jalalle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gajhkehtestedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuivata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">galkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pitää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">garkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">garmerdidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pröystäillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gaskedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">salamoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gearodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rakastua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geerjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ilo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geevledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leikata etu- ja takasäärien nahat teurastetusta porosta</t>
+            <t pos="v">kirkua, kiljua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gihtjedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kysyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gihtjesovvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulla kysytyksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gilledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">asettua makuulle (eläimestä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gillehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ruokkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">giltedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiiltää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gipsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kipsata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">girmedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kehua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">girtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaartaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goerehtalledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haastatella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goetsehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ajaa takaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">goetselidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juosta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gorredidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pelastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">govlesovvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuulua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gudtsiestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gujredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ulvoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gurhkestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaadella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guvhkiehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kutsua poroa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">guvviedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piirtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gåhtjodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kutsua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gåvnahtalledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hyvästellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gællasjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gæmhpodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">taistella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gærrodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kirota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gïerestalledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lasketella mäkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gïerestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laskea mäkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gïesedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sitoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gïevehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">keinua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">haeliehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lentää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hajkedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juosta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hajkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hojjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hopsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">håågkedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kalastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">håålesjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kapuloida poronnahat maahan kuivattaviksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">iehtsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rakastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ij</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ei</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jaehkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uskoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jaemedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuolla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jaemielidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuolla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jarkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kääntyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jarkelidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kääntää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jestiehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tykytellä vaatimen utareita, jotta niistä tulisi maitoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jimhkelidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuhota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jorkesidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">muuttua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">juakasovvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jakaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jåaskoedehtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">viilentää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jåerhkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pidentää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jårredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyöriä</t>
+            <t pos="v">tanssia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jæjsodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huurtua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jïekedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">olla vesitiivis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jïermestalledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">miettiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jïjjedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">yöpyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jïjledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kirvellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klajkesidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiekua</t>
+            <t pos="v">jankuttaa</t>
+            <t pos="v">maasata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klajkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiekua</t>
+            <t pos="v">kukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klæhtoehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leikkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kneekedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jyrsiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knugkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hieroa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kraejedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">röhkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kreemsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tarttua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kristedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">krïtnedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">murista</t>
+            <t pos="v">äristä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">laabjehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kävellä märissä kengissä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">laemtjiestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valjastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lea</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">olla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leamkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sulata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leamoestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ryöpätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leatskodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uppoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leekedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">teurastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leesedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lukita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">libnjiedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lidtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">metsästää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lissiehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lisätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">loejhmedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lohkehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">opettaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lovvehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">liottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luehkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kutoa kengännauhaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luvhtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">täytyy</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lïerehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">opettaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lïerhkelidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ajaa poroelo alas tunturilta tiettyyn paikkaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lïhtsestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leikata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lööbpedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">levittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">maejstedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mastedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sekoittua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mohtedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vertailla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mojhteladtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">yrittää muistaa monia asioita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mojhtestehtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">muistuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mojjehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hymyillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">molledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seurustella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">molsesovvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaihtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mulliedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mennä pilveen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">murhkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">murskata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måaladidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maalata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måarahtovvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suuttua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måaskedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">loukkaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måaskodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">loukkaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mårhkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuhoutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">napkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kulua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nastedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">siirtää puita lähemmäs toisiaan nuotiossa</t>
+            <t pos="v">kohentaa tulta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">neeledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hävetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nieskedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">näskätä</t>
+            <t pos="v">kaapia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nihtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kieltää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njaavhkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">naukua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njalkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hyvin</t>
+            <t pos="v">mukavasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njelliestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nylkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njeltedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">poistaa karvat, nivottaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njilkehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">karvata</t>
+            <t pos="v">poistaa karvat nahasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njorkedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">viheltää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njovhkedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laulaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njålhtjodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hypätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">njæjhkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">itkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nuhtjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nåajtodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ennustaa</t>
+            <t pos="v">taikoa</t>
+            <t pos="v">kirota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nåalodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">puhua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nårtodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suostua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nåålesidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">irtoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nænnoestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">määrätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nïhpesjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kastroida</t>
+            <t pos="v">katketa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nöökedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">olla tyytyväinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">obrijidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">paajsanidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piileskellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">plåahkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">olla nauru herkässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">raajedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lähettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">raarahtalledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">neuvotella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">raavtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kyllästyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rajjadidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">metelöidä</t>
+            <t pos="v">pitää hauskaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">reehkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haravoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">reektedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">oikaista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">reeredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hallita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">restiedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ajaa poroa</t>
+            <t pos="v">johtaa poroa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rihkijahtjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulla kiimaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rijredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ratsasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rohtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">yhtäkkiä alkaa olla erittäin huono ilma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ryöjrehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varustaa matkalle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">råakodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">råanedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">olla nisällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">råatedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">paukkua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">råavedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">etsiä vaadinta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rååpsedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">punastua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rïeresjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pitää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rïesedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">koristaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rïhkijidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulla kiimaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rïhpesidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">avautua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rïjtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laitta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">röödtsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">möyriä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">saajkardidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kapuloida nahan sivut kuivatuskapulan avulla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">saavredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">harjoitella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">saeviehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heiluttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sarhvegidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulla risaiseksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">seeptjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">valmistella muuttoreitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sietedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">keli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sigledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">purjehtia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjaavodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiljaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjilkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sulata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjoehkedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huokata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjovnestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">palvella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjyjjedehtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">silittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjyjjesjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tasoittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjöövelidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sekoittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skaanjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kilistää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skeenedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nuolla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skeeredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hangata sarvet</t>
+            <t pos="v">vähenevä kuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skeerestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lakaista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skeerkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kirkastua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skilledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ojentaa jalat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skirhmedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuhota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skitjskiestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nauraa isosti ja paljon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skråevviestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaulia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skylledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">käydä ripillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skååffedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hankkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skïemmenidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hävetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skïeredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiimaaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slaarvestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juorua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slajkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">irtoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slearodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sleebpedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kaataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sleegkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laittaa maahan (merkattava vasikka tai kuohittava urosporo)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sleejedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">niittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slyöbpedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">välttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slyöhpedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">välttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smaahkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hakata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snarredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rypyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snjipkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">päästä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snovsedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">niistää nenää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snööledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laidun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">soejkesjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suunnitella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">soelkehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lohduttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">soeskedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">purra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sojjehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">taivuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sommedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuiskata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sperniedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">potkia ja vastustella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spååredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">säästää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">staeriedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">oikoa</t>
+            <t pos="v">korjata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stoenedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">(eläimistä) lähteä uimaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">straavedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">olla huolestunut</t>
+            <t pos="v">epäillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ståaradidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pärjätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stöörelgovvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">häiriintyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sualadidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suehpiehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vasikoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svååredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vastata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svæjmoedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyörtyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sygkeldidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pyöräillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sygkesidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tulla vedetyksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">såahpodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vasikoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">såakelgidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piimittyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">såataskidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hukkua jäihin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">såvnjodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ravistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">såvrodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hapantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">söönedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiskoa suonia poron jalasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjaalestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">viiltää nahka nylkemisen aikana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjaevtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kiivetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjahtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ponnistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjimkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kuormata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjoejkedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hiihdellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjoevkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">loistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjohtjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">himota</t>
+            <t pos="v">pyrkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjonkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">purkata</t>
+            <t pos="v">siivota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjuatsajidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">alkaa sataa lunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjuetsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sataa lunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjulhtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seulota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjåagkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leikata, kaapia tai hakata puukon terällä</t>
+            <t pos="v">kaapia (puusta kuorta) veitsellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjåanghkenidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kokoontua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjæjnodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saada ummetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjïelkestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">selittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjïrredh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nokia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">trimhkestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">räpäyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tryöjjadidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">viihtyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">trïengkestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">olla renkinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsaepmedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lyödä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsietsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maistua kitkerästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsiptsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">purista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsoepkenidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">katketa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsuvvedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ravata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsyögkesidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nousta pystyyn (karvat, kun koira hermostuu)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsåakodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">putoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsåalhkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nokkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tsåapkodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">katkoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">töölledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kestää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ujkierdidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ulvoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vaarhkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">särkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vaarjelidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">säilyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">valkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lähteä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">varkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piristyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">veajalidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">putoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">veajedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">luistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vedtiestidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">antaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vierhtiedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">arvioida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">voejedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">voelkehtidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">viedä mukanaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuajnajidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nähdä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuehtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jäljittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuhtsedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laukata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vyölkedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">kalveta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">våajodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uppoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">våatjodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">(rasvasta) kohota pinnalle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vïehkesadtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">auttaa toisiaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vïekesjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">punnita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vïssjedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">viitsiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vïtnedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vöörhkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">piilota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">åabpedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pelastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">åahpanadtedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tutustua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">åbrodh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">åeniedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lyhentää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">åågkesjidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haista</t>
+            <t pos="v">tuoksua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ååjmedidh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pystyä</t>
+            <t pos="v">osata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ååjsehtalledh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">luovuttaa, joutua luovuttamaan väsyttyään</t>
+         </tg>
+      </mg>
+   </e>
+</r>

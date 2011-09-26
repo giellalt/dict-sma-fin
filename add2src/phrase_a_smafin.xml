@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="phrase_a">hijven hov</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_a">se on hyvä</t>
+            <t pos="phrase_a">hyvä on</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_a">man båeries</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_a">kuinka vanha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_a">man stoerre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_a">kuinka iso</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_a">mij faatoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_a">mikä on hätänä</t>
+         </tg>
+      </mg>
+   </e>
+</r>

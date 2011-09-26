@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="pron">mijjieh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">me</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">sijjieh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">teroittaa</t>
+         </tg>
+      </mg>
+   </e>
+</r>

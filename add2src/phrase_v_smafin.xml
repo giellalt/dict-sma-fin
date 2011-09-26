@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="phrase_v">faamoeh tjöönghkedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">kerätä voimia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_v">ij åejjieh vielie guedtieh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">päähän ei mahdu enää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_v">saemesth amma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">puhua saamea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_v">skodth varki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">kiirehdi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_v">tæjmosne båatam</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_v">tulen tunnin kuluttua</t>
+         </tg>
+      </mg>
+   </e>
+</r>
