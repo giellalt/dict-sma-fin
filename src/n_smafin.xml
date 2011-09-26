@@ -6465,6 +6465,17 @@
    </e>
    <e>
       <lg>
+         <l pos="n">reaktoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">oikeus</t>
+            <t pos="n">totuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="n">reakedsbiejjie</l>
       </lg>
       <mg>
@@ -9965,6 +9976,16 @@
       <mg>
          <tg>
             <t pos="n">kasvot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maaje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">etäisyys</t>
          </tg>
       </mg>
    </e>

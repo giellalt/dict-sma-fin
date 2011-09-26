@@ -1444,4 +1444,26 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="adv">reaktoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">totta</t>
+            <t pos="adv">oikein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">maaje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tosin</t>
+            <t pos="adv">vaikkakin</t>
+         </tg>
+      </mg>
+   </e>
 </r>
