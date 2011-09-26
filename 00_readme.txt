@@ -72,8 +72,33 @@ Note: Although Trond claimed that there is no need to have pos in the csv file,
 
 
 2. Check double entries: see smafin-test-results.xml
-   and also for the files in add2src files.
-   Cip will generate the test files in a short while.
+
+Example from smafin-test-results.xml
+
+   <file name="a_smafin.xml">
+      <entries>
+         <counter total="159"/>
+         <twins>
+            <lemma>geerve</lemma>
+            <lemma>nahkeren</lemma>
+            <lemma>nænnoes</lemma>
+         </twins>
+      </entries>
+   </file>
 
 
+3. resolve the pos ambiguity in the add2src dir: a_adv_smafin.xml
+
+<r>
+   <e>
+      <lg>
+         <l pos="a_adv">daaletje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a_adv">tämänpäivänen</t>
+         </tg>
+      </mg>
+   </e>
+</r>
 
