@@ -1614,4 +1614,65 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="a">baahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">lämmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">buerie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">hyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">lovve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">märkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">snjaltje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">kulunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jovje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">vaaleanharmaa</t>
+            <t pos="a">vaalean harmaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">plïehtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">laakea</t>
+         </tg>
+      </mg>
+   </e>
 </r>

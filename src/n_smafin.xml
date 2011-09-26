@@ -471,6 +471,16 @@
    </e>
    <e>
       <lg>
+         <l pos="n">baahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lämmin sää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="n">baahkoe</l>
       </lg>
       <mg>
@@ -9986,6 +9996,56 @@
       <mg>
          <tg>
             <t pos="n">etäisyys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">buerie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">hyve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lovve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">poron lepoaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">snjaltje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">heinäkuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jovje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">vaaleanharmaa poro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">plïehtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">laakea paikka</t>
          </tg>
       </mg>
    </e>
