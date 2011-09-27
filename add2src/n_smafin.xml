@@ -6852,4 +6852,165 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="n">aarehkeaaltoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">alkuvuodesta synnyttanyt vaadin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gaevnie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">lelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">geellege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vaimo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gårroebielie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="phrase_n">vasen puoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jievege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">matto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lijhkievaarjoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">alusvaatteet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">låamma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tasku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nietsege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sääriluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">olle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">olas</t>
+            <t pos="phrase_n">suksen pohjan ura</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">reektehts</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rapporti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">slïehtehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pulmunen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sååketje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">siniyökönlehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sååketjekraesie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">siniyökönlehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaaleldahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kirjoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">traste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rastas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">voerkedahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sarvienlähtöaika</t>
+         </tg>
+      </mg>
+   </e>
 </r>

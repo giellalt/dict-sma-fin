@@ -791,4 +791,16 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="a">daaletje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t stat="pref" pos="a">moderni</t>
+            <t stat="pref" pos="a">nykyaikainen</t>
+            <t stat="pref" pos="a">tämänpäivänen</t>
+         </tg>
+      </mg>
+   </e>
 </r>
