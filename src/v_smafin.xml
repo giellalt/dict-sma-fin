@@ -1850,23 +1850,14 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e >
       <lg>
          <l pos="v">goekedh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">paistaa (aurinko, kuu)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">goekedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">päivänpaiste</t>
+           <re>auringosta tai kuusta</re>
+            <t pos="v">paistaa</t>
          </tg>
       </mg>
    </e>
@@ -2432,17 +2423,6 @@
    <e>
       <lg>
          <l pos="v">håajsodh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">kyetä</t>
-            <t pos="v">jaksaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">åajsodh</l>
       </lg>
       <mg>
          <tg>
@@ -3194,7 +3174,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="done">
       <lg>
          <l pos="v">låevtedh</l>
       </lg>
@@ -3204,11 +3184,6 @@
             <t pos="v">iskeä</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">låevtedh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">kattaa</t>
@@ -6396,14 +6371,14 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="done">
       <lg>
          <l pos="v">åajsodh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">jaksaa</t>
             <t pos="v">kyetä</t>
+            <t pos="v">jaksaa</t>
          </tg>
       </mg>
    </e>
