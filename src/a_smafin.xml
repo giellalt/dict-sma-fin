@@ -389,7 +389,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="a">huono (säästä)</t>
+	 <re>säästä</re>
+            <t pos="a">huono</t>
          </tg>
       </mg>
       <mg>
@@ -397,11 +398,6 @@
             <t pos="a">vaikea</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">geerve</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">aikuinen</t>
