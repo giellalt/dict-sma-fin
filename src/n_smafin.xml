@@ -671,16 +671,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">bajsjeme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">käytävä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">baltehke</l>
       </lg>
       <mg>
@@ -871,13 +861,18 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="done">
       <lg>
          <l pos="n">bajsjeme</l>
       </lg>
       <mg>
          <tg>
             <t pos="n">oviaukon molemmin puolin oleva tila kodassa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">käytävä</t>
          </tg>
       </mg>
    </e>
