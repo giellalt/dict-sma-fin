@@ -69,36 +69,7 @@ Note: Although Trond claimed that there is no need to have pos in the csv file,
       there has been an xxx_smafin.xml file generated, and this means that no pos values
       have been found in the smanob files. Why?
 
+2. Check double entries: see smafin-test-results.xml ==> done
 
 
-2. Check double entries: see smafin-test-results.xml
-
-Example from smafin-test-results.xml
-
-   <file name="a_smafin.xml">
-      <entries>
-         <counter total="159"/>
-         <twins>
-            <lemma>geerve</lemma>
-            <lemma>nahkeren</lemma>
-            <lemma>nænnoes</lemma>
-         </twins>
-      </entries>
-   </file>
-
-
-3. resolve the pos ambiguity in the add2src dir: a_adv_smafin.xml
-
-<r>
-   <e>
-      <lg>
-         <l pos="a_adv">daaletje</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a_adv">tämänpäivänen</t>
-         </tg>
-      </mg>
-   </e>
-</r>
-
+3. resolve the pos ambiguity in the add2src dir: a_adv_smafin.xml ==> done
