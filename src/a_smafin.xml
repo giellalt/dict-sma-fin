@@ -900,35 +900,29 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="done">
       <lg>
          <l pos="a">nahkeren</l>
       </lg>
       <mg>
          <tg>
+            <t pos="a">väsynyt</t>
             <t pos="a">uninen</t>
-            <t pos="a">väsynyt</t>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="a">nahkeren</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">väsynyt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+   <e oa_unif="done">
       <lg>
          <l pos="a">nænnoes</l>
       </lg>
       <mg>
          <tg>
-            <t pos="a">vahva</t>
             <t pos="a">luja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">vahva</t>
          </tg>
       </mg>
    </e>
@@ -993,17 +987,6 @@
          <tg>
             <t pos="a">likainen</t>
             <t pos="a">roskainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">nænnoes</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">vahva</t>
-            <t pos="a">voimakas</t>
          </tg>
       </mg>
    </e>
