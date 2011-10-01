@@ -73,3 +73,29 @@ Note: Although Trond claimed that there is no need to have pos in the csv file,
 
 
 3. resolve the pos ambiguity in the add2src dir: a_adv_smafin.xml ==> done
+
+=============
+Unification: smafin dict files with smanob oahpa files
+
+a. the entry in the oahpa file has more than one meaning group
+   ==> marking for manual desambiguation by
+       oa_unify="todo" (which has to be change after unification into
+       oa_unify="done")
+
+b. the entry in the smafin-dict file has more than one t-element:
+   ==> take the first and mark it with stat="pref"
+       (a manuall check would be strongly recomended)
+
+   <e>
+      <lg>
+         <l pos="a">göögkeles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a">upea</t>
+            <t pos="a">mainio</t>
+         </tg>
+      </mg>
+   </e>
+
+
