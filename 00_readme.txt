@@ -135,7 +135,9 @@ n_smanob.xml:
    automatically ==> done
 src>grep _FIN n_smanob.xml | wc -l 
      526
-  manually ==> todo
+  manually ==> done
+  
+  
 NB: first, solve the entries flagged for manual unification and
     if there would be still non-translated entries after that
     this should be checked with the entries with pos xxx
