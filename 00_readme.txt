@@ -143,3 +143,9 @@ NB: first, solve the entries flagged for manual unification and
     this should be checked with the entries with pos xxx
     in the smafin/src dir.
 
+v_smanob.xml:
+   automatically ==> done
+src>grep _FIN v_smanob.xml | wc -l 
+     464
+  manually ==> todo
+
