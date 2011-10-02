@@ -112,13 +112,13 @@ adv_smanob.xml:
    automatically ==> done
 src>grep _FIN adv_smanob.xml | wc -l
       13
-  manually ==> todo
+  manually ==> done
 
 multiword_smanob.xml:
    automatically ==> done
 src>grep _FIN multiword_smanob.xml | wc -l 
        2
-  manually ==> todo
+  manually ==> done
 
 num_smanob.xml:
    automatically ==> done
