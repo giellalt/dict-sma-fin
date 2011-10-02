@@ -104,8 +104,5 @@ Entries to be fixed manually are marked as agreed with the flag oa_unif="todo".
 
 src>grep _FIN a_smanob.xml | wc -l 
       56
-
-
- 
-
+ a_smanob.xml ==> done
 
