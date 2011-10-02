@@ -120,4 +120,9 @@ src>grep _FIN multiword_smanob.xml | wc -l
        2
   manually ==> todo
 
+num_smanob.xml:
+   automatically ==> done
+src>grep _FIN num_smanob.xml | wc -l
+       0
+  manually ==> done
 
