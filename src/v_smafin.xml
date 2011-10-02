@@ -4,7 +4,7 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../../scripts/gt_dictionary.dtd">
 <r>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v" hid="1">govledh</l>
       </lg>
@@ -14,7 +14,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v" hid="2">govledh</l>
       </lg>
@@ -44,7 +44,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">aatskadidh</l>
       </lg>
@@ -76,7 +76,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">aerviedidh</l>
       </lg>
@@ -119,7 +119,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">asvedidh</l>
       </lg>
@@ -130,7 +130,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">baahkedidh</l>
       </lg>
@@ -140,7 +140,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">baahtsedh</l>
       </lg>
@@ -150,7 +150,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">baajedh</l>
       </lg>
@@ -213,7 +213,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">baeledh</l>
       </lg>
@@ -268,7 +268,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">berkiestidh</l>
       </lg>
@@ -279,7 +279,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">bertedh</l>
       </lg>
@@ -334,7 +334,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">biestedh</l>
       </lg>
@@ -397,7 +397,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">bihkedh</l>
       </lg>
@@ -413,7 +413,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">bïhkedidh</l>
       </lg>
@@ -424,7 +424,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">bijredh</l>
       </lg>
@@ -475,7 +475,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">binhtedh</l>
       </lg>
@@ -491,7 +491,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">bissedh</l>
       </lg>
@@ -573,7 +573,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">buektedh</l>
       </lg>
@@ -594,7 +594,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">bueledh</l>
       </lg>
@@ -614,7 +614,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">bööredh</l>
       </lg>
@@ -772,7 +772,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">damtedh</l>
       </lg>
@@ -916,7 +916,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">dievhtedh</l>
       </lg>
@@ -938,7 +938,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">dïjmedh</l>
       </lg>
@@ -948,7 +948,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">dïjpedh</l>
       </lg>
@@ -1005,7 +1005,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">doeredh</l>
       </lg>
@@ -1036,7 +1036,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">domtedh</l>
       </lg>
@@ -1071,7 +1071,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">dåajodh</l>
       </lg>
@@ -1092,7 +1092,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">dåalvodh</l>
       </lg>
@@ -1118,7 +1118,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">dåastoehtidh</l>
       </lg>
@@ -1151,7 +1151,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">dåvvodh</l>
       </lg>
@@ -1171,7 +1171,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">edtjedh</l>
       </lg>
@@ -1187,7 +1187,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">eejehtalledh</l>
       </lg>
@@ -1198,7 +1198,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">eejehtidh</l>
       </lg>
@@ -1317,7 +1317,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gaahpasjidh</l>
       </lg>
@@ -1332,7 +1332,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gaahtjedh</l>
       </lg>
@@ -1357,7 +1357,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gaamhparidh</l>
       </lg>
@@ -1389,7 +1389,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gaarkasidh</l>
       </lg>
@@ -1422,7 +1422,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gaavnedh</l>
       </lg>
@@ -1443,7 +1443,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gabpeldidh</l>
       </lg>
@@ -1474,7 +1474,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gaegniedidh</l>
       </lg>
@@ -1522,7 +1522,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gahtjehtidh</l>
       </lg>
@@ -1611,7 +1611,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gaptjedh</l>
       </lg>
@@ -1642,7 +1642,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">geelkedh</l>
       </lg>
@@ -1674,7 +1674,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gelmedh</l>
       </lg>
@@ -1689,7 +1689,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gïebredh</l>
       </lg>
@@ -1711,7 +1711,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gïehtelidh</l>
       </lg>
@@ -1818,7 +1818,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">goedtehtjidh</l>
       </lg>
@@ -1861,7 +1861,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">goeredh</l>
       </lg>
@@ -1881,7 +1881,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">goetsedh</l>
       </lg>
@@ -1902,7 +1902,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">goevledh</l>
       </lg>
@@ -1924,7 +1924,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">golteladtedh</l>
       </lg>
@@ -1935,7 +1935,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">goltelidh</l>
       </lg>
@@ -1945,7 +1945,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">govlehtidh</l>
       </lg>
@@ -1975,7 +1975,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">guarkedh</l>
       </lg>
@@ -1985,7 +1985,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">guedtedh</l>
       </lg>
@@ -2021,7 +2021,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gurredh</l>
       </lg>
@@ -2083,7 +2083,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gævnjoestidh</l>
       </lg>
@@ -2154,7 +2154,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gåaradidh</l>
       </lg>
@@ -2166,7 +2166,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">gåarodh</l>
       </lg>
@@ -2270,7 +2270,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">haajpanidh</l>
       </lg>
@@ -2302,7 +2302,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">hajkedh</l>
       </lg>
@@ -2317,7 +2317,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">hajkelidh</l>
       </lg>
@@ -2431,7 +2431,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">håalodh</l>
       </lg>
@@ -2442,7 +2442,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">illedh</l>
       </lg>
@@ -2464,7 +2464,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">jaksedh</l>
       </lg>
@@ -2475,7 +2475,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">jarkoestidh</l>
       </lg>
@@ -2532,7 +2532,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">jijhtedh</l>
       </lg>
@@ -2543,7 +2543,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">jïjjehtovvedh</l>
       </lg>
@@ -2620,7 +2620,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">juekedh</l>
       </lg>
@@ -2630,7 +2630,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">juhtedh</l>
       </lg>
@@ -2642,7 +2642,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">jurjiehtidh</l>
       </lg>
@@ -2654,7 +2654,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">jöörtedh</l>
       </lg>
@@ -2666,7 +2666,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">jåhtajidh</l>
       </lg>
@@ -2728,7 +2728,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">kroehkedh</l>
       </lg>
@@ -2790,7 +2790,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">laavkodh</l>
       </lg>
@@ -2867,7 +2867,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">latjkedh</l>
       </lg>
@@ -2877,7 +2877,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">leejjedh</l>
       </lg>
@@ -2897,7 +2897,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">leeredh</l>
       </lg>
@@ -2999,7 +2999,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">loevenidh</l>
       </lg>
@@ -3040,7 +3040,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">luajhtadidh</l>
       </lg>
@@ -3122,7 +3122,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">lööpkedh</l>
       </lg>
@@ -3262,7 +3262,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">marngestidh</l>
       </lg>
@@ -3305,7 +3305,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">miedtedh</l>
       </lg>
@@ -3353,7 +3353,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">mïnnedh</l>
       </lg>
@@ -3389,7 +3389,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">mojhtelidh</l>
       </lg>
@@ -3522,7 +3522,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">naavjodh</l>
       </lg>
@@ -3628,7 +3628,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">njeajkedh</l>
       </lg>
@@ -3639,7 +3639,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">njelledh</l>
       </lg>
@@ -3654,7 +3654,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">njilledh</l>
       </lg>
@@ -3670,7 +3670,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">njoetsedh</l>
       </lg>
@@ -3726,7 +3726,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">njåalodh</l>
       </lg>
@@ -3736,7 +3736,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">noeledh</l>
       </lg>
@@ -3749,7 +3749,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">noelestidh</l>
       </lg>
@@ -3779,7 +3779,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">nossedh</l>
       </lg>
@@ -3790,7 +3790,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">nyöjhkedh</l>
       </lg>
@@ -3805,7 +3805,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">nööredh</l>
       </lg>
@@ -3826,7 +3826,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">nåhtadidh</l>
       </lg>
@@ -3841,7 +3841,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">ohtsedh</l>
       </lg>
@@ -3852,7 +3852,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">ohtsedidh</l>
       </lg>
@@ -3873,7 +3873,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">orrijidh</l>
       </lg>
@@ -3909,7 +3909,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">peehkedh</l>
       </lg>
@@ -3930,7 +3930,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">provhkedh</l>
       </lg>
@@ -4029,7 +4029,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">rahtjedh</l>
       </lg>
@@ -4059,7 +4059,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">reejnedh</l>
       </lg>
@@ -4074,7 +4074,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">reejredh</l>
       </lg>
@@ -4156,7 +4156,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">ryöhkedh</l>
       </lg>
@@ -4253,7 +4253,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">saehtedh</l>
       </lg>
@@ -4320,7 +4320,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">seedtedh</l>
       </lg>
@@ -4351,7 +4351,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">sigkedh</l>
       </lg>
@@ -4361,7 +4361,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">sigkestidh</l>
       </lg>
@@ -4424,7 +4424,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">sjïdtedh</l>
       </lg>
@@ -4474,7 +4474,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">sjæjsjalidh</l>
       </lg>
@@ -4507,7 +4507,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">skarredh</l>
       </lg>
@@ -4548,7 +4548,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">skovhtjedh</l>
       </lg>
@@ -4590,7 +4590,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">skubpedh</l>
       </lg>
@@ -4679,7 +4679,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">slognestidh</l>
       </lg>
@@ -4740,7 +4740,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">soevestehtedh</l>
       </lg>
@@ -4750,7 +4750,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">soevestidh</l>
       </lg>
@@ -4771,7 +4771,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">sojjedh</l>
       </lg>
@@ -4812,7 +4812,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">sovmedh</l>
       </lg>
@@ -4884,7 +4884,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">steeredh</l>
       </lg>
@@ -4905,7 +4905,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">stilledh</l>
       </lg>
@@ -4927,7 +4927,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">straavvedh</l>
       </lg>
@@ -5000,7 +5000,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">sveehkestidh</l>
       </lg>
@@ -5089,7 +5089,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">sååjhtedh</l>
       </lg>
@@ -5151,7 +5151,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tjaangedh</l>
       </lg>
@@ -5167,7 +5167,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tjaeledh</l>
       </lg>
@@ -5228,7 +5228,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tjïektjedh</l>
       </lg>
@@ -5269,7 +5269,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tjirkedh</l>
       </lg>
@@ -5284,7 +5284,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tjoehpedh</l>
       </lg>
@@ -5464,7 +5464,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tjåadtjodh</l>
       </lg>
@@ -5510,7 +5510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tjåegkedh</l>
       </lg>
@@ -5569,7 +5569,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tsaekedh</l>
       </lg>
@@ -5592,7 +5592,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tsagkedh</l>
       </lg>
@@ -5614,7 +5614,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tseegkedh</l>
       </lg>
@@ -5627,7 +5627,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">tsööpkedh</l>
       </lg>
@@ -5659,7 +5659,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">ussjedidh</l>
       </lg>
@@ -5670,7 +5670,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">utnedh</l>
       </lg>
@@ -5714,7 +5714,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vaaksjodh</l>
       </lg>
@@ -5748,7 +5748,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vaasedh</l>
       </lg>
@@ -5763,7 +5763,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vaedtsedh</l>
       </lg>
@@ -5800,7 +5800,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vaesedh</l>
       </lg>
@@ -5858,7 +5858,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">veasodh</l>
       </lg>
@@ -5899,7 +5899,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">viedtedh</l>
       </lg>
@@ -5946,7 +5946,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vïenhtedh</l>
       </lg>
@@ -5978,7 +5978,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">viertedh</l>
       </lg>
@@ -6019,7 +6019,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vïjlelidh</l>
       </lg>
@@ -6060,7 +6060,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vïssjehtovvedh</l>
       </lg>
@@ -6070,7 +6070,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vitnedh</l>
       </lg>
@@ -6102,7 +6102,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">voejhkelidh</l>
       </lg>
@@ -6167,7 +6167,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vuartasjidh</l>
       </lg>
@@ -6187,7 +6187,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vuejnedh</l>
       </lg>
@@ -6207,7 +6207,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vuertedh</l>
       </lg>
@@ -6217,7 +6217,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">vueptiestidh</l>
       </lg>
@@ -6300,7 +6300,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">öörnedh</l>
       </lg>
@@ -6382,7 +6382,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">åarajidh</l>
       </lg>
@@ -6402,7 +6402,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">åesiestidh</l>
       </lg>
@@ -6427,7 +6427,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e oa_unif="todo">
       <lg>
          <l pos="v">årrodh</l>
       </lg>
