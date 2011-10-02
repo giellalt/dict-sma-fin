@@ -99,6 +99,11 @@ b. the entry in the smafin-dict file has more than one t-element:
    </e>
 
 
+NB: Please, take care of the content of the fin translations in the unified smanob oahpa files
+    before reversion to finsma!
+Ex. : <t pos="n" stat="pref" tcomm="no">(kengän, repun, komsion) kiinnityslenkki</t>
+ 
+
 The automatic unification of adj from both add2src and src dirs is done.
 Entries to be fixed manually are marked as agreed with the flag oa_unif="todo".
 
@@ -125,4 +130,14 @@ num_smanob.xml:
 src>grep _FIN num_smanob.xml | wc -l
        0
   manually ==> done
+
+n_smanob.xml:
+   automatically ==> done
+src>grep _FIN n_smanob.xml | wc -l 
+     526
+  manually ==> todo
+NB: first, solve the entries flagged for manual unification and
+    if there would be still non-translated entries after that
+    this should be checked with the entries with pos xxx
+    in the smafin/src dir.
 
