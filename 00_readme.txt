@@ -102,7 +102,15 @@ b. the entry in the smafin-dict file has more than one t-element:
 The automatic unification of adj from both add2src and src dirs is done.
 Entries to be fixed manually are marked as agreed with the flag oa_unif="todo".
 
+a_smanob.xml:
+  automatically ==> done
 src>grep _FIN a_smanob.xml | wc -l 
       56
- a_smanob.xml ==> done
+  manually ==> done
+
+adv_smanob.xml: 
+   automatically ==> done
+src>grep _FIN adv_smanob.xml | wc -l
+      13
+  manually ==> todo
 
