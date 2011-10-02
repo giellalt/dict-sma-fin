@@ -417,6 +417,7 @@
             <t pos="n">kengän läppä</t>
          </tg>
       </mg>
+   </e>
    <e>
       <lg>
          <l pos="n">amhkedh</l>
@@ -4823,7 +4824,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif=d>
+   <e oa_unif="done">
       <lg>
          <l pos="n">liemkede</l>
       </lg>
