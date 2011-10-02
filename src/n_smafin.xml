@@ -14,7 +14,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">aahka</l>
       </lg>
@@ -34,7 +34,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">aajja</l>
       </lg>
@@ -74,7 +74,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">aajroe</l>
       </lg>
@@ -155,7 +155,7 @@
          </tg>
       </mg>
    </e>
-   <e  oa_unif="todo" note="USIKKER">
+   <e  oa_unif="done">
       <lg>
          <l pos="n">aamhtese</l>
       </lg>
@@ -196,7 +196,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">aate</l>
       </lg>
@@ -311,7 +311,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">aejkie</l>
       </lg>
@@ -408,26 +408,15 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">altese</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">hänen</t>
+            <t pos="n">kengän läppä</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t pos="n">heidän</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">nsa</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="n">amhkedh</l>
@@ -438,7 +427,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">aske</l>
       </lg>
@@ -479,7 +468,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">baahkoe</l>
       </lg>
@@ -489,7 +478,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">baahtje</l>
       </lg>
@@ -499,7 +488,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">baahtsege</l>
       </lg>
@@ -524,7 +513,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">baakoe</l>
       </lg>
@@ -534,7 +523,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">baalhka</l>
       </lg>
@@ -554,7 +543,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">baarhkoe</l>
       </lg>
@@ -589,7 +578,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">badtja</l>
       </lg>
@@ -639,7 +628,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">baernie</l>
       </lg>
@@ -888,7 +877,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">betnie</l>
       </lg>
@@ -918,7 +907,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">biehkie</l>
       </lg>
@@ -929,7 +918,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">biejjie</l>
       </lg>
@@ -951,7 +940,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">bielie</l>
       </lg>
@@ -991,7 +980,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">biesie</l>
       </lg>
@@ -1144,7 +1133,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">boelhke</l>
       </lg>
@@ -1157,7 +1146,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">boelhketje</l>
       </lg>
@@ -1178,7 +1167,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">boelve</l>
       </lg>
@@ -1229,7 +1218,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">bovtse</l>
       </lg>
@@ -1320,7 +1309,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">bægkah</l>
       </lg>
@@ -1383,7 +1372,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">båanta</l>
       </lg>
@@ -1446,7 +1435,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">båetskie</l>
       </lg>
@@ -1488,7 +1477,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">daalhkesh</l>
       </lg>
@@ -1499,7 +1488,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">daarhve</l>
       </lg>
@@ -1514,7 +1503,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">daaroe</l>
       </lg>
@@ -1541,7 +1530,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">daelhkie</l>
       </lg>
@@ -1577,7 +1566,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">daevere</l>
       </lg>
@@ -1649,7 +1638,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">dealoe</l>
       </lg>
@@ -1664,7 +1653,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">deava</l>
       </lg>
@@ -1675,7 +1664,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">deere</l>
       </lg>
@@ -1850,7 +1839,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">dåehkie</l>
       </lg>
@@ -1934,7 +1923,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">eatneme</l>
       </lg>
@@ -1964,7 +1953,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">eejehtimmie</l>
       </lg>
@@ -1984,7 +1973,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">elmie</l>
       </lg>
@@ -2009,7 +1998,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">faamoe</l>
       </lg>
@@ -2080,7 +2069,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">fiejlie</l>
       </lg>
@@ -2133,7 +2122,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gaahkoe</l>
       </lg>
@@ -2184,7 +2173,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gaalloe</l>
       </lg>
@@ -2266,7 +2255,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gaasije</l>
       </lg>
@@ -2469,7 +2458,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gaskebiejjie</l>
       </lg>
@@ -2555,7 +2544,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">geelle</l>
       </lg>
@@ -2648,7 +2637,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gïele</l>
       </lg>
@@ -2679,7 +2668,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gierkie</l>
       </lg>
@@ -2740,7 +2729,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gievlie</l>
       </lg>
@@ -2750,7 +2739,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gïhpe</l>
       </lg>
@@ -2820,7 +2809,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gïpte</l>
       </lg>
@@ -2840,7 +2829,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gïrre</l>
       </lg>
@@ -2881,7 +2870,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">goelke</l>
       </lg>
@@ -2975,7 +2964,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">goeve</l>
       </lg>
@@ -3015,7 +3004,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">guehpere</l>
       </lg>
@@ -3030,7 +3019,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">guejmie</l>
       </lg>
@@ -3126,7 +3115,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">guessie</l>
       </lg>
@@ -3136,7 +3125,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">guevtele</l>
       </lg>
@@ -3151,7 +3140,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">guksie</l>
       </lg>
@@ -3312,7 +3301,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gåaltoe</l>
       </lg>
@@ -3327,7 +3316,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gåaltoehovme</l>
       </lg>
@@ -3337,7 +3326,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gåamalohke</l>
       </lg>
@@ -3379,7 +3368,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gåeskie</l>
       </lg>
@@ -3399,7 +3388,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gåetie</l>
       </lg>
@@ -3467,7 +3456,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gåmma</l>
       </lg>
@@ -3482,7 +3471,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gåmpoe</l>
       </lg>
@@ -3492,7 +3481,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">gåptoe</l>
       </lg>
@@ -3544,7 +3533,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">haepkie</l>
       </lg>
@@ -3850,7 +3839,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">ietnie</l>
       </lg>
@@ -4001,7 +3990,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">jïjjegåårtese</l>
       </lg>
@@ -4036,7 +4025,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">jïjse</l>
       </lg>
@@ -4270,7 +4259,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">kaarre</l>
       </lg>
@@ -4310,7 +4299,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">klaase</l>
       </lg>
@@ -4340,7 +4329,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">klovse</l>
       </lg>
@@ -4594,7 +4583,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">laante</l>
       </lg>
@@ -4605,7 +4594,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">laatege</l>
       </lg>
@@ -4620,7 +4609,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">laavkome</l>
       </lg>
@@ -4723,7 +4712,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">laevie</l>
       </lg>
@@ -4734,7 +4723,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">laeviehkadtjh</l>
       </lg>
@@ -4824,7 +4813,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">lïeme</l>
       </lg>
@@ -4834,7 +4823,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif=d>
       <lg>
          <l pos="n">liemkede</l>
       </lg>
@@ -4870,7 +4859,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">lihtie</l>
       </lg>
@@ -4890,7 +4879,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">lïhtse</l>
       </lg>
@@ -4902,7 +4891,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">lijnie</l>
       </lg>
@@ -5003,7 +4992,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">luhpie</l>
       </lg>
@@ -5019,7 +5008,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">luste</l>
       </lg>
@@ -5044,7 +5033,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">lööhpe</l>
       </lg>
@@ -5064,7 +5053,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">löövje</l>
       </lg>
@@ -5095,7 +5084,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">låhkoe</l>
       </lg>
@@ -5125,7 +5114,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">maadteraahka</l>
       </lg>
@@ -5135,7 +5124,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">maadteraajja</l>
       </lg>
@@ -5177,7 +5166,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">maajke</l>
       </lg>
@@ -5198,7 +5187,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">maake</l>
       </lg>
@@ -5209,7 +5198,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">maaketje</l>
       </lg>
@@ -5290,7 +5279,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">maelie</l>
       </lg>
@@ -5356,7 +5345,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">mïelke</l>
       </lg>
@@ -5366,7 +5355,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">mïerhke</l>
       </lg>
@@ -5397,7 +5386,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">mïetske</l>
       </lg>
@@ -5428,7 +5417,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">minngiegietjie</l>
       </lg>
@@ -5458,7 +5447,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">moehrele</l>
       </lg>
@@ -5468,7 +5457,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">moenjehth</l>
       </lg>
@@ -5478,7 +5467,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">moere</l>
       </lg>
@@ -5520,7 +5509,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">muahra</l>
       </lg>
@@ -5581,7 +5570,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">måaroe</l>
       </lg>
@@ -5656,7 +5645,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">naehkie</l>
       </lg>
@@ -5703,7 +5692,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">neapede</l>
       </lg>
@@ -5723,7 +5712,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">nïere</l>
       </lg>
@@ -5733,7 +5722,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">nïejte</l>
       </lg>
@@ -5753,7 +5742,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">niestie</l>
       </lg>
@@ -5799,7 +5788,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">njaelmie</l>
       </lg>
@@ -5809,7 +5798,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">njamma</l>
       </lg>
@@ -5871,7 +5860,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="s">
       <lg>
          <l pos="n">njuenie</l>
       </lg>
@@ -5896,7 +5885,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">njæssoe</l>
       </lg>
@@ -5906,7 +5895,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">njåemele</l>
       </lg>
@@ -5957,7 +5946,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">nuepie</l>
       </lg>
@@ -6019,7 +6008,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="n">
       <lg>
          <l pos="n">okse</l>
       </lg>
@@ -6129,7 +6118,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">plaerie</l>
       </lg>
@@ -6359,7 +6348,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">raedtie</l>
       </lg>
@@ -6442,7 +6431,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">reagka</l>
       </lg>
@@ -6559,7 +6548,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">roehtse</l>
       </lg>
@@ -6620,7 +6609,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">ruevtie</l>
       </lg>
@@ -6640,7 +6629,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">ruffie</l>
       </lg>
@@ -6826,7 +6815,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">saejrie</l>
       </lg>
@@ -6837,7 +6826,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">saelhtie</l>
       </lg>
@@ -6928,7 +6917,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">seasa</l>
       </lg>
@@ -7000,7 +6989,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">sijhtie</l>
       </lg>
@@ -7038,7 +7027,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">sïlle</l>
       </lg>
@@ -7103,7 +7092,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">sjeltie</l>
       </lg>
@@ -7374,7 +7363,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">skåaknge</l>
       </lg>
@@ -7485,7 +7474,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">snaejrie</l>
       </lg>
@@ -7496,7 +7485,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">snjarhtja</l>
       </lg>
@@ -7592,7 +7581,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">soene</l>
       </lg>
@@ -7802,7 +7791,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">stuhtje</l>
       </lg>
@@ -7818,7 +7807,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">stujmie</l>
       </lg>
@@ -7829,7 +7818,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">ståamhpe</l>
       </lg>
@@ -7839,7 +7828,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">ståapoe</l>
       </lg>
@@ -7850,9 +7839,9 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
-         <l pos="n">ståvroe</l>
+         <l pos="n">d</l>
       </lg>
       <mg>
          <tg>
@@ -7870,7 +7859,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">suaja</l>
       </lg>
@@ -7885,7 +7874,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">suehpede</l>
       </lg>
@@ -7920,7 +7909,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">suejnie</l>
       </lg>
@@ -8053,7 +8042,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">såara</l>
       </lg>
@@ -8204,7 +8193,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">tjahta</l>
       </lg>
@@ -8264,7 +8253,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">tjaste</l>
       </lg>
@@ -8424,7 +8413,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">tjiehtjere</l>
       </lg>
@@ -8490,7 +8479,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">tjietsie</l>
       </lg>
@@ -8530,7 +8519,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">tjoeje</l>
       </lg>
@@ -8744,7 +8733,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">tjåenieh</l>
       </lg>
@@ -8754,7 +8743,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">tjåervie</l>
       </lg>
@@ -8910,7 +8899,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">tsegkie</l>
       </lg>
@@ -9107,7 +9096,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">vaejvie</l>
       </lg>
@@ -9119,7 +9108,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">vaejsjie</l>
       </lg>
@@ -9141,7 +9130,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">vaeknie</l>
       </lg>
@@ -9161,7 +9150,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">vaerie</l>
       </lg>
@@ -9182,7 +9171,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">veadta</l>
       </lg>
@@ -9202,7 +9191,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">vearelde</l>
       </lg>
@@ -9270,7 +9259,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">viehkie</l>
       </lg>
@@ -9333,7 +9322,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">vïernge</l>
       </lg>
@@ -9378,7 +9367,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">vijne</l>
       </lg>
@@ -9454,7 +9443,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">voene</l>
       </lg>
@@ -9569,7 +9558,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">vuekie</l>
       </lg>
@@ -9643,7 +9632,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">våarhkoe</l>
       </lg>
@@ -9784,7 +9773,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">åeksie</l>
       </lg>
@@ -9794,7 +9783,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">åelkie</l>
       </lg>
@@ -9834,7 +9823,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">åerie</l>
       </lg>
@@ -9864,7 +9853,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">åesie</l>
       </lg>
@@ -9993,7 +9982,7 @@
          </tg>
       </mg>
    </e>
-   <e oa_unif="todo">
+   <e oa_unif="done">
       <lg>
          <l pos="n">buerie</l>
       </lg>
