@@ -149,3 +149,7 @@ src>grep _FIN v_smanob.xml | wc -l
      464
   manually ==> todo
 
+prop_smanob ==> done
+
+
+ 
