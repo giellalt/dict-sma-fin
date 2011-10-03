@@ -151,5 +151,14 @@ src>grep _FIN v_smanob.xml | wc -l
 
 prop_smanob ==> done
 
+(I don't know how relevant these translations are but since swe has
+been also translated I considered also the noleksa-file when unifying
+data from smafin dict.)
+
+noleksa_adv_smanob.xml:
+   automatically ==> done
+src>grep _FIN noleksa_adv_smanob.xml | wc -l 
+      22
+  manually ==> todo
 
  
