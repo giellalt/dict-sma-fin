@@ -147,7 +147,7 @@ v_smanob.xml:
    automatically ==> done
 src>grep _FIN v_smanob.xml | wc -l 
      464
-  manually ==> todo
+  manually ==> done
 
 prop_smanob ==> done
 
