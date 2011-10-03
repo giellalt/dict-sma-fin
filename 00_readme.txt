@@ -159,6 +159,6 @@ noleksa_adv_smanob.xml:
    automatically ==> done
 src>grep _FIN noleksa_adv_smanob.xml | wc -l 
       22
-  manually ==> todo
+  manually ==> done
 
  
