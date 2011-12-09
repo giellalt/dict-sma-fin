@@ -16,11 +16,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">aehtjebe</l>
+         <l pos="n">aehtjebe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">heidän isänsä</t>
+            <t pos="n">heidän isänsä</t>
          </tg>
       </mg>
    </e>
@@ -47,23 +47,23 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">aamhtse</l>
+         <l pos="n">aamhtse</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">asia</t>
-            <t pos="xxx">aihe</t>
+            <t pos="n">asia</t>
+            <t pos="n">aihe</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">aamhte</l>
+         <l pos="n">aamhte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">asia</t>
-            <t pos="xxx">aihe</t>
+            <t pos="n">asia</t>
+            <t pos="n">aihe</t>
          </tg>
       </mg>
    </e>
@@ -230,11 +230,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">baakohth</l>
+         <l pos="n">baakohth</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">sanaton</t>
+            <t pos="n">sanaton</t>
          </tg>
       </mg>
    </e>
@@ -279,23 +279,23 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">bådtja</l>
+         <l pos="n">bådtja</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">voide</t>
+            <t pos="n">voide</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">baerehke</l>
+         <l pos="n">baerehke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">aurinkoinen rinne</t>
-            <t pos="xxx">auringonpuoli</t>
-            <t pos="xxx">auringonpaiste</t>
+            <t pos="n">aurinkoinen rinne</t>
+            <t pos="n">auringonpuoli</t>
+            <t pos="n">auringonpaiste</t>
          </tg>
       </mg>
    </e>
@@ -311,12 +311,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">balka</l>
+         <l pos="n">balka</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kenkäheinäpunos</t>
-            <t pos="xxx">jossa on useita sormauksia</t>
+            <t pos="n">kenkäheinäpunosn jossa on useita sormauksia</t>
          </tg>
       </mg>
    </e>
@@ -359,12 +358,12 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">beapmoejurjiehtæjja</l>
+         <l pos="n">beapmoejurjiehtæjja</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kokki</t>
-            <t pos="xxx">keittäjä</t>
+            <t pos="n">kokki</t>
+            <t pos="n">keittäjä</t>
          </tg>
       </mg>
    </e>
@@ -421,23 +420,23 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">bïegketje</l>
+         <l pos="n">bïegketje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tuulenvire</t>
+            <t pos="n">tuulenvire</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">biejjienbaerehke</l>
+         <l pos="n">biejjienbaerehke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">aurinkoinen rinne</t>
-            <t pos="xxx">auringonpuoli</t>
-            <t pos="xxx">auringonpaiste</t>
+            <t pos="n">aurinkoinen rinne</t>
+            <t pos="n">auringonpuoli</t>
+            <t pos="n">auringonpaiste</t>
          </tg>
       </mg>
    </e>
@@ -485,11 +484,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">bïjlevuejemelohkehtæjja</l>
+         <l pos="n">bïjlevuejemelohkehtæjja</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">autokoulun opettaja</t>
+            <t pos="n">autokoulun opettaja</t>
          </tg>
       </mg>
    </e>
@@ -526,11 +525,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">bissemevuebnie</l>
+         <l pos="n">bissemevuebnie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">paistouuni</t>
+            <t pos="n">paistouuni</t>
          </tg>
       </mg>
    </e>
@@ -548,11 +547,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">blomma</l>
+         <l pos="n">blomma</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kukka(nen)</t>
+            <t pos="n">kukka(nen)</t>
          </tg>
       </mg>
    </e>
@@ -579,11 +578,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">boenge</l>
+         <l pos="n">boenge</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">povi</t>
+            <t pos="n">povi</t>
          </tg>
       </mg>
    </e>
@@ -599,11 +598,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">bovtsebïenje</l>
+         <l pos="n">bovtsebïenje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">porokoira</t>
+            <t pos="n">porokoira</t>
          </tg>
       </mg>
    </e>
@@ -661,32 +660,32 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">bullere</l>
+         <l pos="n">bullere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pallero</t>
-            <t pos="xxx">pallo</t>
+            <t pos="n">pallero</t>
+            <t pos="n">pallo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">byjreske</l>
+         <l pos="n">byjreske</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ympäristö</t>
+            <t pos="n">ympäristö</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">byöpmedimmie</l>
+         <l pos="n">byöpmedimmie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ruoka</t>
+            <t pos="n">ruoka</t>
          </tg>
       </mg>
    </e>
@@ -702,21 +701,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">bæjhpa</l>
+         <l pos="n">bæjhpa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">piippu</t>
+            <t pos="n">piippu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">bæjhpoe</l>
+         <l pos="n">bæjhpoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">piippu</t>
+            <t pos="n">piippu</t>
          </tg>
       </mg>
    </e>
@@ -838,22 +837,22 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">daatje</l>
+         <l pos="n">daatje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">norjalainen</t>
-            <t pos="xxx">ruotsalainen</t>
+            <t pos="n">norjalainen</t>
+            <t pos="n">ruotsalainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">daatore</l>
+         <l pos="n">daatore</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tietokone</t>
+            <t pos="n">tietokone</t>
          </tg>
       </mg>
    </e>
@@ -1015,21 +1014,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">deavabaahkoe</l>
+         <l pos="n">deavabaahkoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">mäenrinne</t>
+            <t pos="n">mäenrinne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">deavetje</l>
+         <l pos="n">deavetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pieni kumpu</t>
+            <t pos="n">pieni kumpu</t>
          </tg>
       </mg>
    </e>
@@ -1157,11 +1156,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">dïmperebuvrie</l>
+         <l pos="n">dïmperebuvrie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">puuvaja</t>
+            <t pos="n">puuvaja</t>
          </tg>
       </mg>
    </e>
@@ -1275,11 +1274,11 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">dovtesgierkie</l>
+         <l pos="n">dovtesgierkie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tukikivi</t>
+            <t pos="n">tukikivi</t>
          </tg>
       </mg>
    </e>
@@ -1392,12 +1391,12 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">dööpmehtæjja</l>
+         <l pos="n">dööpmehtæjja</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tuomari</t>
-            <t pos="xxx">tuomitsija</t>
+            <t pos="n">tuomari</t>
+            <t pos="n">tuomitsija</t>
          </tg>
       </mg>
    </e>
@@ -1413,12 +1412,12 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">döörkenes</l>
+         <l pos="n">döörkenes</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vavistus</t>
-            <t pos="xxx">puistatus</t>
+            <t pos="n">vavistus</t>
+            <t pos="n">puistatus</t>
          </tg>
       </mg>
    </e>
@@ -1445,21 +1444,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">dåeriesmoere</l>
+         <l pos="n">dåeriesmoere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kodan kynnyspuu</t>
+            <t pos="n">kodan kynnyspuu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">dålletje</l>
+         <l pos="n">dålletje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pieni tuli</t>
+            <t pos="n">pieni tuli</t>
          </tg>
       </mg>
    </e>
@@ -1475,11 +1474,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">dåvnetråajjoe</l>
+         <l pos="n">dåvnetråajjoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">untuvatakki</t>
+            <t pos="n">untuvatakki</t>
          </tg>
       </mg>
    </e>
@@ -1596,11 +1595,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">faelhkiebaernie</l>
+         <l pos="n">faelhkiebaernie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">sulhanen</t>
+            <t pos="n">sulhanen</t>
          </tg>
       </mg>
    </e>
@@ -1657,11 +1656,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">fijfere</l>
+         <l pos="n">fijfere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pahka</t>
+            <t pos="n">pahka</t>
          </tg>
       </mg>
    </e>
@@ -1712,11 +1711,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">fåvhta</l>
+         <l pos="n">fåvhta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vouti</t>
+            <t pos="n">vouti</t>
          </tg>
       </mg>
    </e>
@@ -1769,11 +1768,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gaale</l>
+         <l pos="n">gaale</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">karsina</t>
+            <t pos="n">karsina</t>
          </tg>
       </mg>
    </e>
@@ -1809,12 +1808,12 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gaavalahke</l>
+         <l pos="n">gaavalahke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kesy poro</t>
-            <t pos="xxx">joka helposti seuraa ihmistä</t>
+            <t pos="n">kesy poro</t>
+            <t pos="n">joka helposti seuraa ihmistä</t>
          </tg>
       </mg>
    </e>
@@ -1836,11 +1835,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gadtsegarhke</l>
+         <l pos="n">gadtsegarhke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">veijari</t>
+            <t pos="n">veijari</t>
          </tg>
       </mg>
    </e>
@@ -1897,11 +1896,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">galhkove</l>
+         <l pos="n">galhkove</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">päättäjäiset</t>
+            <t pos="n">päättäjäiset</t>
          </tg>
       </mg>
    </e>
@@ -1947,11 +1946,11 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">gaskevahka</l>
+         <l pos="n">gaskevahka</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">keskiviikko</t>
+            <t pos="n">keskiviikko</t>
          </tg>
       </mg>
    </e>
@@ -1967,21 +1966,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">geahpa</l>
+         <l pos="n">geahpa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">keuhko</t>
+            <t pos="n">keuhko</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">gyöjnetje</l>
+         <l pos="n">gyöjnetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pikkutie</t>
+            <t pos="n">pikkutie</t>
          </tg>
       </mg>
    </e>
@@ -2054,22 +2053,22 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">giesie-eejehtalleme</l>
+         <l pos="n">giesie-eejehtalleme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kesäloma</t>
+            <t pos="n">kesäloma</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">gïetetje</l>
+         <l pos="n">gïetetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kätönen</t>
-            <t pos="xxx">pikku käsi</t>
+            <t pos="n">kätönen</t>
+            <t pos="n">pikku käsi</t>
          </tg>
       </mg>
    </e>
@@ -2095,11 +2094,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gïtnjele</l>
+         <l pos="n">gïtnjele</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kyynel</t>
+            <t pos="n">kyynel</t>
          </tg>
       </mg>
    </e>
@@ -2125,11 +2124,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">gilmetahke</l>
+         <l pos="n">gilmetahke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pakastin</t>
+            <t pos="n">pakastin</t>
          </tg>
       </mg>
    </e>
@@ -2145,11 +2144,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">girrehke</l>
+         <l pos="n">girrehke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">3 1/3 – 4 1/3 vuotias urosporo</t>
+            <t pos="n">3 1/3 – 4 1/3 vuotias urosporo</t>
          </tg>
       </mg>
    </e>
@@ -2165,32 +2164,32 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">goenehth</l>
+         <l pos="n">goenehth</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kova pakkanen</t>
+            <t pos="n">kova pakkanen</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">goenehthtråajja</l>
+         <l pos="n">goenehthtråajja</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">toppatakki</t>
-            <t pos="xxx">lämpötakki</t>
+            <t pos="n">toppatakki</t>
+            <t pos="n">lämpötakki</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">goeseråhtoe</l>
+         <l pos="n">goeseråhtoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kuusimetsä</t>
+            <t pos="n">kuusimetsä</t>
          </tg>
       </mg>
    </e>
@@ -2305,11 +2304,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">guapamåvhkah</l>
+         <l pos="n">guapamåvhkah</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">sukkahousut</t>
+            <t pos="n">sukkahousut</t>
          </tg>
       </mg>
    </e>
@@ -2334,8 +2333,8 @@
       </mg>
       <mg>
          <tg>
-            <t pos="xxx">kumppani</t>
-            <t pos="xxx">toveri</t>
+            <t pos="n">kumppani</t>
+            <t pos="n">toveri</t>
          </tg>
       </mg>
    </e>
@@ -2366,21 +2365,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gueliegaahkoeh</l>
+         <l pos="n">gueliegaahkoeh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kalapullat</t>
+            <t pos="n">kalapullat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">guesehke</l>
+         <l pos="n">guesehke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">4 1/3 – 5 1/3 vuotias urosporo</t>
+            <t pos="n">4 1/3 – 5 1/3 vuotias urosporo</t>
          </tg>
       </mg>
    </e>
@@ -2516,11 +2515,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gærjatjaelije</l>
+         <l pos="n">gærjatjaelije</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kirjailija</t>
+            <t pos="n">kirjailija</t>
          </tg>
       </mg>
    </e>
@@ -2547,11 +2546,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">göölemekåarhte</l>
+         <l pos="n">göölemekåarhte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kalastuskortti</t>
+            <t pos="n">kalastuskortti</t>
          </tg>
       </mg>
    </e>
@@ -2619,21 +2618,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gåhkoe</l>
+         <l pos="n">gåhkoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pituus</t>
+            <t pos="n">pituus</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">gåmmebe</l>
+         <l pos="n">gåmmebe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vaimo</t>
+            <t pos="n">vaimo</t>
          </tg>
       </mg>
    </e>
@@ -2649,11 +2648,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">gårroehbielie</l>
+         <l pos="n">gårroehbielie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vasen puoli</t>
+            <t pos="n">vasen puoli</t>
          </tg>
       </mg>
    </e>
@@ -2719,21 +2718,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">hapse</l>
+         <l pos="n">hapse</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">haju</t>
+            <t pos="n">haju</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">hapsoe</l>
+         <l pos="n">hapsoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">haju</t>
+            <t pos="n">haju</t>
          </tg>
       </mg>
    </e>
@@ -2749,11 +2748,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">hievnienviermie</l>
+         <l pos="n">hievnienviermie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hämähäkinseitti</t>
+            <t pos="n">hämähäkinseitti</t>
          </tg>
       </mg>
    </e>
@@ -2807,42 +2806,42 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">håagk’staavra</l>
+         <l pos="n">håagk’staavra</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ongenvapa</t>
+            <t pos="n">ongenvapa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">håagkoje</l>
+         <l pos="n">håagkoje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">onkija</t>
+            <t pos="n">onkija</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">håajje</l>
+         <l pos="n">håajje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kasa</t>
+            <t pos="n">kasa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">åanghke</l>
+         <l pos="n">åanghke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">suvanto</t>
-            <t pos="xxx">jurmu</t>
+            <t pos="n">suvanto</t>
+            <t pos="n">jurmu</t>
          </tg>
       </mg>
    </e>
@@ -2858,11 +2857,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">iehkedsbeapmoe</l>
+         <l pos="n">iehkedsbeapmoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">iltaruoka</t>
+            <t pos="n">iltaruoka</t>
          </tg>
       </mg>
    </e>
@@ -2931,11 +2930,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jaavvoe</l>
+         <l pos="n">jaavvoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">jauho(t)</t>
+            <t pos="n">jauho(t)</t>
          </tg>
       </mg>
    </e>
@@ -3071,11 +3070,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">jeeste</l>
+         <l pos="n">jeeste</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hiiva</t>
+            <t pos="n">hiiva</t>
          </tg>
       </mg>
    </e>
@@ -3111,11 +3110,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jielijeguvvie</l>
+         <l pos="n">jielijeguvvie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">elokuva</t>
+            <t pos="n">elokuva</t>
          </tg>
       </mg>
    </e>
@@ -3132,11 +3131,11 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">jïevege</l>
+         <l pos="n">jïevege</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">peitto</t>
+            <t pos="n">peitto</t>
             <t pos="xxx">peite</t>
          </tg>
       </mg>
@@ -3247,21 +3246,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jïllemsgenhtseme</l>
+         <l pos="n">jïllemsgenhtseme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">takakaihdin (poron sarvessa)</t>
+            <t pos="n">takakaihdin (poron sarvessa)</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">jïlleskenteme</l>
+         <l pos="n">jïlleskenteme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">takakaihdin (poron sarvessa)</t>
+            <t pos="n">takakaihdin (poron sarvessa)</t>
          </tg>
       </mg>
    </e>
@@ -3338,11 +3337,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">joevje</l>
+         <l pos="n">joevje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vaaleanharmaa poro (vaaleampi kuin båavjoeh)</t>
+            <t pos="n">vaaleanharmaa poro (vaaleampi kuin båavjoeh)</t>
          </tg>
       </mg>
    </e>
@@ -3358,11 +3357,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jualketje</l>
+         <l pos="n">jualketje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pikku jalka</t>
+            <t pos="n">pikku jalka</t>
          </tg>
       </mg>
    </e>
@@ -3379,11 +3378,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jueskebe</l>
+         <l pos="n">jueskebe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kylmempi (sää)</t>
+            <t pos="n">kylmempi (sää)</t>
          </tg>
       </mg>
    </e>
@@ -3431,11 +3430,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">jöömmetjh</l>
+         <l pos="n">jöömmetjh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kaksoset</t>
+            <t pos="n">kaksoset</t>
          </tg>
       </mg>
    </e>
@@ -3494,11 +3493,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">kaarhte</l>
+         <l pos="n">kaarhte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kartta</t>
+            <t pos="n">kartta</t>
          </tg>
       </mg>
    </e>
@@ -3525,21 +3524,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">kontovreåvtehke</l>
+         <l pos="n">kontovreåvtehke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">toimistopäällikkö</t>
+            <t pos="n">toimistopäällikkö</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">kontovreviehkie</l>
+         <l pos="n">kontovreviehkie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">toimistoapulainen</t>
+            <t pos="n">toimistoapulainen</t>
          </tg>
       </mg>
    </e>
@@ -3575,11 +3574,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">kråane</l>
+         <l pos="n">kråane</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">nurkka</t>
+            <t pos="n">nurkka</t>
          </tg>
       </mg>
    </e>
@@ -3595,21 +3594,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">kuvsjh</l>
+         <l pos="n">kuvsjh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kurssi(t)</t>
+            <t pos="n">kurssi(t)</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">kveita</l>
+         <l pos="n">kveita</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ruijanpallas</t>
+            <t pos="n">ruijanpallas</t>
          </tg>
       </mg>
    </e>
@@ -3625,11 +3624,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">laake</l>
+         <l pos="n">laake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">laki</t>
+            <t pos="n">laki</t>
          </tg>
       </mg>
    </e>
@@ -3651,11 +3650,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">laanteburriekontovre</l>
+         <l pos="n">laanteburriekontovre</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">maanviljelyskonttori</t>
+            <t pos="n">maanviljelyskonttori</t>
          </tg>
       </mg>
    </e>
@@ -3681,22 +3680,22 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">lahkoe</l>
+         <l pos="n">lahkoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">onni</t>
+            <t pos="n">onni</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">leavadimmie</l>
+         <l pos="n">leavadimmie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">melu</t>
-            <t pos="xxx">metelöinti</t>
+            <t pos="n">melu</t>
+            <t pos="n">metelöinti</t>
          </tg>
       </mg>
    </e>
@@ -3712,11 +3711,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">lientsie</l>
+         <l pos="n">lientsie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">nimismies</t>
+            <t pos="n">nimismies</t>
          </tg>
       </mg>
    </e>
@@ -3732,31 +3731,31 @@
    </e>
    <e note="TIL FST LMM pl">
       <lg>
-         <l pos="xxx">lihphgierkie</l>
+         <l pos="n">lihphgierkie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kivi jossa on kieleke</t>
+            <t pos="n">kivi jossa on kieleke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">lïhtsh</l>
+         <l pos="n">lïhtsh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">selkäranka</t>
+            <t pos="n">selkäranka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">lijhtere</l>
+         <l pos="n">lijhtere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">litra</t>
+            <t pos="n">litra</t>
          </tg>
       </mg>
    </e>
@@ -3782,22 +3781,22 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">lohkemesh</l>
+         <l pos="n">lohkemesh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">lukeminen</t>
-            <t pos="xxx">lukemiset</t>
+            <t pos="n">lukeminen</t>
+            <t pos="n">lukemiset</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">lohkije</l>
+         <l pos="n">lohkije</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">lukija</t>
+            <t pos="n">lukija</t>
          </tg>
       </mg>
    </e>
@@ -3938,31 +3937,31 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">låamme</l>
+         <l pos="n">låamme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tasku</t>
+            <t pos="n">tasku</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">loemme</l>
+         <l pos="n">loemme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tasku</t>
+            <t pos="n">tasku</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">låedtjie</l>
+         <l pos="n">låedtjie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tyyni (sää)</t>
+            <t pos="n">tyyni (sää)</t>
          </tg>
       </mg>
    </e>
@@ -4011,11 +4010,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">maadtere</l>
+         <l pos="n">maadtere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kodan seinän reuna</t>
+            <t pos="n">kodan seinän reuna</t>
          </tg>
       </mg>
    </e>
@@ -4031,41 +4030,41 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">maakenåhke</l>
+         <l pos="n">maakenåhke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">5 1/3 – 6 1/3 vuotias urosporo</t>
+            <t pos="n">5 1/3 – 6 1/3 vuotias urosporo</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">maales</l>
+         <l pos="n">maales</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ateria</t>
+            <t pos="n">ateria</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">maanetje</l>
+         <l pos="n">maanetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pikkulapsi</t>
+            <t pos="n">pikkulapsi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">maarhkelihtie</l>
+         <l pos="n">maarhkelihtie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">matoastia</t>
+            <t pos="n">matoastia</t>
          </tg>
       </mg>
    </e>
@@ -4242,11 +4241,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">mietenh</l>
+         <l pos="n">mietenh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">mäti</t>
+            <t pos="n">mäti</t>
          </tg>
       </mg>
    </e>
@@ -4313,22 +4312,22 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">minngiestaebnie</l>
+         <l pos="n">minngiestaebnie</l>
       </lg>
       <mg>
          <tg>
             
-            <t pos="xxx">perävannas</t>
+            <t pos="n">perävannas</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">motovresaakoe</l>
+         <l pos="n">motovresaakoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">moottorisaha</t>
+            <t pos="n">moottorisaha</t>
          </tg>
       </mg>
    </e>
@@ -4346,17 +4345,17 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">moeretje</l>
+         <l pos="n">moeretje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vähän (poltto)puita</t>
+            <t pos="n">vähän (poltto)puita</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">mohte</l>
+         <l pos="n">mohte</l>
       </lg>
       <mg>
          <tg>
@@ -4429,11 +4428,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">musigke</l>
+         <l pos="n">musigke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">musiikki</t>
+            <t pos="n">musiikki</t>
          </tg>
       </mg>
    </e>
@@ -4513,11 +4512,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">måvhkah</l>
+         <l pos="n">måvhkah</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">housut</t>
+            <t pos="n">housut</t>
          </tg>
       </mg>
    </e>
@@ -4709,21 +4708,21 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">nj̈ietsege</l>
+         <l pos="n">nj̈ietsege</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">poron takajalan alempi ydinluu</t>
+            <t pos="n">poron takajalan alempi ydinluu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">njoelkedasse</l>
+         <l pos="n">njoelkedasse</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">sääntö</t>
+            <t pos="n">sääntö</t>
          </tg>
       </mg>
    </e>
@@ -4739,11 +4738,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">njåetsie</l>
+         <l pos="n">njåetsie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hartiaviitta</t>
+            <t pos="n">hartiaviitta</t>
          </tg>
       </mg>
    </e>
@@ -4759,13 +4758,13 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">noerhteraedtie</l>
+         <l pos="n">noerhteraedtie</l>
       </lg>
       <mg>
          <tg>
             <re>tunturista, vuoresta</re>
-            <t pos="xxx">pohjoispuoli</t>
-            <t pos="xxx">sivu</t>
+            <t pos="n">pohjoispuoli</t>
+            <t pos="n">sivu</t>
          </tg>
       </mg>
    </e>
@@ -4781,31 +4780,31 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">nïmmelaehpije</l>
+         <l pos="n">nïmmelaehpije</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">yli 6 1/3 vuotias urosporo</t>
+            <t pos="n">yli 6 1/3 vuotias urosporo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">nymmelaehpije</l>
+         <l pos="n">nymmelaehpije</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">yli 6 1/3 vuotias urosporo</t>
+            <t pos="n">yli 6 1/3 vuotias urosporo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">nommelaehpije</l>
+         <l pos="n">nommelaehpije</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">yli 6 1/3 vuotias urosporo</t>
+            <t pos="n">yli 6 1/3 vuotias urosporo</t>
          </tg>
       </mg>
    </e>
@@ -4863,11 +4862,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">nulle</l>
+         <l pos="n">nulle</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">nolla</t>
+            <t pos="n">nolla</t>
          </tg>
       </mg>
    </e>
@@ -4999,22 +4998,22 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">peennagåetie</l>
+         <l pos="n">peennagåetie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">penaali</t>
-            <t pos="xxx">kynäkotelo</t>
+            <t pos="n">penaali</t>
+            <t pos="n">kynäkotelo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">prïhtjegadtje</l>
+         <l pos="n">prïhtjegadtje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vähän kahvia</t>
+            <t pos="n">vähän kahvia</t>
          </tg>
       </mg>
    </e>
@@ -5040,11 +5039,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">påajke</l>
+         <l pos="n">påajke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">poika</t>
+            <t pos="n">poika</t>
          </tg>
       </mg>
    </e>
@@ -5105,11 +5104,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">radijove</l>
+         <l pos="n">radijove</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">radio</t>
+            <t pos="n">radio</t>
          </tg>
       </mg>
    </e>
@@ -5146,66 +5145,66 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">reakta</l>
+         <l pos="n">reakta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">oikeus</t>
+            <t pos="n">oikeus</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">reakta-aamhtese</l>
+         <l pos="n">reakta-aamhtese</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">oikeusjuttu</t>
+            <t pos="n">oikeusjuttu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">reaktaåejvie</l>
+         <l pos="n">reaktaåejvie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">päätuomari</t>
+            <t pos="n">päätuomari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">redaktööre</l>
+         <l pos="n">redaktööre</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">toimittaja</t>
+            <t pos="n">toimittaja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">rïesegh</l>
+         <l pos="n">rïesegh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">koristeet</t>
+            <t pos="n">koristeet</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="xxx">kukat</t>
+            <t pos="n">kukat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">rïeseldahke</l>
+         <l pos="n">rïeseldahke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">koriste</t>
+            <t pos="n">koriste</t>
          </tg>
       </mg>
    </e>
@@ -5221,11 +5220,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">raavtje</l>
+         <l pos="n">raavtje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kylmä sateinen sää</t>
+            <t pos="n">kylmä sateinen sää</t>
          </tg>
       </mg>
    </e>
@@ -5258,21 +5257,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">rohkejaavvoe</l>
+         <l pos="n">rohkejaavvoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ruisjauho(t)</t>
+            <t pos="n">ruisjauho(t)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">Romsa</l>
+         <l pos="n">Romsa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">Tromssa</t>
+            <t pos="n">Tromssa</t>
          </tg>
       </mg>
    </e>
@@ -5298,22 +5297,22 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">råanjedimmie</l>
+         <l pos="n">råanjedimmie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kaatosade</t>
+            <t pos="n">kaatosade</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">saalege</l>
+         <l pos="n">saalege</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">aukko</t>
-            <t pos="xxx">kuilu</t>
+            <t pos="n">aukko</t>
+            <t pos="n">kuilu</t>
          </tg>
       </mg>
    </e>
@@ -5340,21 +5339,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">saedtietjeallere</l>
+         <l pos="n">saedtietjeallere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">maakellari</t>
+            <t pos="n">maakellari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">saelhtieh</l>
+         <l pos="n">saelhtieh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">suola</t>
+            <t pos="n">suola</t>
          </tg>
       </mg>
    </e>
@@ -5402,11 +5401,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">sïerrenohke</l>
+         <l pos="n">sïerrenohke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vieras</t>
+            <t pos="n">vieras</t>
          </tg>
       </mg>
    </e>
@@ -5442,21 +5441,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">sïlpe</l>
+         <l pos="n">sïlpe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hopea</t>
+            <t pos="n">hopea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">sïlpebeetnegh</l>
+         <l pos="n">sïlpebeetnegh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hopearahat</t>
+            <t pos="n">hopearahat</t>
          </tg>
       </mg>
    </e>
@@ -5548,11 +5547,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">skaavhtege</l>
+         <l pos="n">skaavhtege</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">laatikko</t>
+            <t pos="n">laatikko</t>
          </tg>
       </mg>
    </e>
@@ -5569,11 +5568,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">skïemtjesyjhtere</l>
+         <l pos="n">skïemtjesyjhtere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">sairaanhoitaja</t>
+            <t pos="n">sairaanhoitaja</t>
          </tg>
       </mg>
    </e>
@@ -5590,64 +5589,64 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">skæhtjoe</l>
+         <l pos="n">skæhtjoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">puuvaja</t>
-            <t pos="xxx">liiteri</t>
+            <t pos="n">puuvaja</t>
+            <t pos="n">liiteri</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">skåake</l>
+         <l pos="n">skåake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">metsä</t>
+            <t pos="n">metsä</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">skoeknge</l>
+         <l pos="n">skoeknge</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">nuori vaadin (t. hirvilehmä)</t>
+            <t pos="n">nuori vaadin (t. hirvilehmä)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">skåave</l>
+         <l pos="n">skåave</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pikkukenkä</t>
+            <t pos="n">pikkukenkä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">skåltoe</l>
+         <l pos="n">skåltoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">syy</t>
-            <t pos="xxx">vika</t>
+            <t pos="n">syy</t>
+            <t pos="n">vika</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">skalta</l>
+         <l pos="n">skalta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">syy</t>
-            <t pos="xxx">vika</t>
+            <t pos="n">syy</t>
+            <t pos="n">vika</t>
          </tg>
       </mg>
    </e>
@@ -5690,21 +5689,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">sliehtieelmie</l>
+         <l pos="n">sliehtieelmie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">räntäsade</t>
+            <t pos="n">räntäsade</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">smaavegualetje</l>
+         <l pos="n">smaavegualetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pikkukala</t>
+            <t pos="n">pikkukala</t>
          </tg>
       </mg>
    </e>
@@ -5720,22 +5719,22 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">snjaltjh</l>
+         <l pos="n">snjaltjh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">karvattomat kengät</t>
+            <t pos="n">karvattomat kengät</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">snåvhroe</l>
+         <l pos="n">snåvhroe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">sormainen</t>
-            <t pos="xxx">kerralla kammattava määrä kenkäheinää</t>
+            <t pos="n">sormainen</t>
+            <t pos="n">kerralla kammattava määrä kenkäheinää</t>
          </tg>
       </mg>
    </e>
@@ -5753,11 +5752,11 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">soelmeh</l>
+         <l pos="n">soelmeh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">väliovi</t>
+            <t pos="n">väliovi</t>
          </tg>
       </mg>
    </e>
@@ -5783,32 +5782,32 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">spaarretje</l>
+         <l pos="n">spaarretje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pieni sinka</t>
+            <t pos="n">pieni sinka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">spïjhke</l>
+         <l pos="n">spïjhke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">naula</t>
+            <t pos="n">naula</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">staajnehke</l>
+         <l pos="n">staajnehke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">maho vaadin</t>
-            <t pos="xxx">tainakka</t>
+            <t pos="n">maho vaadin</t>
+            <t pos="n">tainakka</t>
          </tg>
       </mg>
    </e>
@@ -5845,31 +5844,31 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">stoeregeajnoe</l>
+         <l pos="n">stoeregeajnoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">maantie</t>
+            <t pos="n">maantie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">stoerevïelle</l>
+         <l pos="n">stoerevïelle</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">isoveli</t>
+            <t pos="n">isoveli</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">stoereåabpa</l>
+         <l pos="n">stoereåabpa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">isosisko</t>
+            <t pos="n">isosisko</t>
          </tg>
       </mg>
    </e>
@@ -5885,11 +5884,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">stroehtebiejjie</l>
+         <l pos="n">stroehtebiejjie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">jouluaatto</t>
+            <t pos="n">jouluaatto</t>
          </tg>
       </mg>
    </e>
@@ -5950,11 +5949,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">sygkele</l>
+         <l pos="n">sygkele</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">polkupyörä</t>
+            <t pos="n">polkupyörä</t>
          </tg>
       </mg>
    </e>
@@ -5971,22 +5970,22 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">syjhtere</l>
+         <l pos="n">syjhtere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">sairaanhoitaja</t>
-            <t pos="xxx">hoitaja</t>
+            <t pos="n">sairaanhoitaja</t>
+            <t pos="n">hoitaja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">sæjra</l>
+         <l pos="n">sæjra</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">siirappi</t>
+            <t pos="n">siirappi</t>
          </tg>
       </mg>
    </e>
@@ -6012,31 +6011,31 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">såaketje</l>
+         <l pos="n">såaketje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pieni koivu</t>
+            <t pos="n">pieni koivu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">såarhte</l>
+         <l pos="n">såarhte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">laji</t>
+            <t pos="n">laji</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">såårhte</l>
+         <l pos="n">såårhte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">laji</t>
+            <t pos="n">laji</t>
          </tg>
       </mg>
    </e>
@@ -6090,41 +6089,41 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tabledth</l>
+         <l pos="n">tabledth</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tabletit</t>
+            <t pos="n">tabletit</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">teknigkere</l>
+         <l pos="n">teknigkere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">teknikko</t>
+            <t pos="n">teknikko</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tellefovnenommere</l>
+         <l pos="n">tellefovnenommere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">puhelinnumero</t>
+            <t pos="n">puhelinnumero</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tïjje</l>
+         <l pos="n">tïjje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">aika</t>
+            <t pos="n">aika</t>
          </tg>
       </mg>
    </e>
@@ -6181,21 +6180,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjaktjeniestieh</l>
+         <l pos="n">tjaktjeniestieh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">syysteuras</t>
+            <t pos="n">syysteuras</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjearmehke</l>
+         <l pos="n">tjearmehke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">1 1/3 – 2 1/3 vuotias naarasporo</t>
+            <t pos="n">1 1/3 – 2 1/3 vuotias naarasporo</t>
          </tg>
       </mg>
    </e>
@@ -6212,11 +6211,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjeengkere</l>
+         <l pos="n">tjeengkere</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pallo</t>
+            <t pos="n">pallo</t>
          </tg>
       </mg>
    </e>
@@ -6233,21 +6232,21 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">tjïjhke</l>
+         <l pos="n">tjïjhke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kiikari</t>
+            <t pos="n">kiikari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjïjhkerde</l>
+         <l pos="n">tjïjhkerde</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kiikari</t>
+            <t pos="n">kiikari</t>
          </tg>
       </mg>
    </e>
@@ -6294,11 +6293,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjoejkije</l>
+         <l pos="n">tjoejkije</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hiihtäjä</t>
+            <t pos="n">hiihtäjä</t>
          </tg>
       </mg>
    </e>
@@ -6314,62 +6313,62 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjogneh</l>
+         <l pos="n">tjogneh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">tavarat</t>
-            <t pos="xxx">kamppeet</t>
+            <t pos="n">tavarat</t>
+            <t pos="n">kamppeet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjohkeldhsuejnie</l>
+         <l pos="n">tjohkeldhsuejnie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kammattu kenkäheinä</t>
+            <t pos="n">kammattu kenkäheinä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjonnetje</l>
+         <l pos="n">tjonnetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pieni lampi</t>
+            <t pos="n">pieni lampi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjuahpa</l>
+         <l pos="n">tjuahpa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hakkuuaukio</t>
+            <t pos="n">hakkuuaukio</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">tjyöresthtjelmieh</l>
+         <l pos="n">tjyöresthtjelmieh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">itkusilmät</t>
+            <t pos="n">itkusilmät</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">tjöödtjhsijjie</l>
+         <l pos="n">tjöödtjhsijjie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">maali</t>
+            <t pos="n">maali</t>
          </tg>
       </mg>
    </e>
@@ -6385,33 +6384,33 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjåagkoe</l>
+         <l pos="n">tjåagkoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">haarukka</t>
+            <t pos="n">haarukka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjåejjiennuelie</l>
+         <l pos="n">tjåejjiennuelie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vatsanalus</t>
+            <t pos="n">vatsanalus</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">tjåelieh</l>
+         <l pos="n">tjåelieh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">suolet</t>
-            <t pos="xxx">sisälmykset</t>
-            <t pos="xxx">perkeet</t>
+            <t pos="n">suolet</t>
+            <t pos="n">sisälmykset</t>
+            <t pos="n">perkeet</t>
          </tg>
       </mg>
    </e>
@@ -6428,53 +6427,53 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">tjåenhtjeme</l>
+         <l pos="n">tjåenhtjeme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">poron takajalan ylempi ydinluu</t>
+            <t pos="n">poron takajalan ylempi ydinluu</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">tjahkeme</l>
+         <l pos="n">tjahkeme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kampa</t>
-            <t pos="xxx">häkilä (kenkäheinän käsittelyä varten)</t>
+            <t pos="n">kampa</t>
+            <t pos="n">häkilä (kenkäheinän käsittelyä varten)</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">tjåhkeme</l>
+         <l pos="n">tjåhkeme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kampa</t>
-            <t pos="xxx">häkilä (kenkäheinän käsittelyä varten)</t>
+            <t pos="n">kampa</t>
+            <t pos="n">häkilä (kenkäheinän käsittelyä varten)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">traktovre</l>
+         <l pos="n">traktovre</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">traktori</t>
+            <t pos="n">traktori</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">treavkagaahtjeme</l>
+         <l pos="n">treavkagaahtjeme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hiihtokilpailu(t)</t>
+            <t pos="n">hiihtokilpailu(t)</t>
          </tg>
       </mg>
    </e>
@@ -6490,23 +6489,23 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">tråahpoe</l>
+         <l pos="n">tråahpoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">porras</t>
-            <t pos="xxx">portaat</t>
+            <t pos="n">porras</t>
+            <t pos="n">portaat</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">tråahpa</l>
+         <l pos="n">tråahpa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">porras</t>
-            <t pos="xxx">portaat</t>
+            <t pos="n">porras</t>
+            <t pos="n">portaat</t>
          </tg>
       </mg>
    </e>
@@ -6542,11 +6541,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tsavnoe</l>
+         <l pos="n">tsavnoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">naisen sukuelin</t>
+            <t pos="n">naisen sukuelin</t>
          </tg>
       </mg>
    </e>
@@ -6562,32 +6561,32 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">tsåhha</l>
+         <l pos="n">tsåhha</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">rakki</t>
-            <t pos="xxx">hurtta</t>
+            <t pos="n">rakki</t>
+            <t pos="n">hurtta</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">tuvriste</l>
+         <l pos="n">tuvriste</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">turisti</t>
+            <t pos="n">turisti</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">turriste</l>
+         <l pos="n">turriste</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">turisti</t>
+            <t pos="n">turisti</t>
          </tg>
       </mg>
    </e>
@@ -6634,21 +6633,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vaaksjoehtæjja</l>
+         <l pos="n">vaaksjoehtæjja</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">porovahti</t>
+            <t pos="n">porovahti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">vaalmestahke</l>
+         <l pos="n">vaalmestahke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">selässä oleva (vaate)nyytti</t>
+            <t pos="n">selässä oleva (vaate)nyytti</t>
          </tg>
       </mg>
    </e>
@@ -6664,21 +6663,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vaarjoeh</l>
+         <l pos="n">vaarjoeh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vaatteet</t>
+            <t pos="n">vaatteet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">vaaroeh</l>
+         <l pos="n">vaaroeh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kauppatavarat</t>
+            <t pos="n">kauppatavarat</t>
          </tg>
       </mg>
    </e>
@@ -6695,21 +6694,21 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">vadtes</l>
+         <l pos="n">vadtes</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">lahja</t>
+            <t pos="n">lahja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">vaeknieh</l>
+         <l pos="n">vaeknieh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ammukset</t>
+            <t pos="n">ammukset</t>
          </tg>
       </mg>
    </e>
@@ -6735,11 +6734,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vahka</l>
+         <l pos="n">vahka</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">viikko</t>
+            <t pos="n">viikko</t>
          </tg>
       </mg>
    </e>
@@ -6756,11 +6755,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">veahketje</l>
+         <l pos="n">veahketje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">vähän apua</t>
+            <t pos="n">vähän apua</t>
          </tg>
       </mg>
    </e>
@@ -6786,11 +6785,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vealasjimmie</l>
+         <l pos="n">vealasjimmie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">makailu</t>
+            <t pos="n">makailu</t>
          </tg>
       </mg>
    </e>
@@ -6839,37 +6838,37 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">viehkiedööpmedæjja</l>
+         <l pos="n">viehkiedööpmedæjja</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">aputuomari</t>
-            <t pos="xxx">lautamies</t>
+            <t pos="n">aputuomari</t>
+            <t pos="n">lautamies</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">vearnga</l>
+         <l pos="n">vearnga</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">joenrinteen yläreuna</t>
+            <t pos="n">joenrinteen yläreuna</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="xxx">merenpohjarinne</t>
+            <t pos="n">merenpohjarinne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">vïerngebielie</l>
+         <l pos="n">vïerngebielie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">merenpohjarinteen puoli</t>
+            <t pos="n">merenpohjarinteen puoli</t>
          </tg>
       </mg>
    </e>
@@ -6928,21 +6927,21 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">voejkene</l>
+         <l pos="n">voejkene</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">henki</t>
+            <t pos="n">henki</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">voejngese</l>
+         <l pos="n">voejngese</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hengitys</t>
+            <t pos="n">hengitys</t>
          </tg>
       </mg>
    </e>
@@ -6957,7 +6956,7 @@
       </mg>
       <mg>
          <tg>
-            <t pos="xxx">vanhus</t>
+            <t pos="n">vanhus</t>
          </tg>
       </mg>
    </e>
@@ -6972,17 +6971,17 @@
       </mg>
       <mg>
          <tg>
-            <t pos="xxx">vanhus</t>
+            <t pos="n">vanhus</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">voessjemelihtie</l>
+         <l pos="n">voessjemelihtie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">keittoastia</t>
+            <t pos="n">keittoastia</t>
          </tg>
       </mg>
    </e>
@@ -6998,31 +6997,31 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vuejeme</l>
+         <l pos="n">vuejeme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">poikkipuu (kotakorvia yhdistävä orsi)</t>
+            <t pos="n">poikkipuu (kotakorvia yhdistävä orsi)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">voenjele</l>
+         <l pos="n">voenjele</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">2 1/3 – 3 1/3 vuotias naarasporo</t>
+            <t pos="n">2 1/3 – 3 1/3 vuotias naarasporo</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">vueperes</l>
+         <l pos="n">vueperes</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">2 1/3 – 3 1/3 vuotias urosporo</t>
+            <t pos="n">2 1/3 – 3 1/3 vuotias urosporo</t>
          </tg>
       </mg>
    </e>
@@ -7048,12 +7047,12 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">vytnesjimmie</l>
+         <l pos="n">vytnesjimmie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">käsityö</t>
-            <t pos="xxx">askartelu</t>
+            <t pos="n">käsityö</t>
+            <t pos="n">askartelu</t>
          </tg>
       </mg>
    </e>
@@ -7120,11 +7119,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">åaksetje</l>
+         <l pos="n">åaksetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">pikku oksa</t>
+            <t pos="n">pikku oksa</t>
          </tg>
       </mg>
    </e>
@@ -7151,41 +7150,41 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">åelkiesbielie</l>
+         <l pos="n">åelkiesbielie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">oikea puoli</t>
+            <t pos="n">oikea puoli</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx">åerpenh</l>
+         <l pos="n">åerpenh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">sisarukset</t>
+            <t pos="n">sisarukset</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">åesiesmaennie</l>
+         <l pos="n">åesiesmaennie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kauppias</t>
+            <t pos="n">kauppias</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">åesiesålma</l>
+         <l pos="n">åesiesålma</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">kauppias</t>
+            <t pos="n">kauppias</t>
          </tg>
       </mg>
    </e>
@@ -7211,11 +7210,11 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">ålmavoelpetje</l>
+         <l pos="n">ålmavoelpetje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">miesystävä</t>
+            <t pos="n">miesystävä</t>
          </tg>
       </mg>
    </e>
@@ -7241,12 +7240,12 @@
    </e>
    <e>
       <lg>
-         <l pos="xxx">åvtebarkoe</l>
+         <l pos="n">åvtebarkoe</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">esityö</t>
-            <t pos="xxx">valmistautuminen</t>
+            <t pos="n">esityö</t>
+            <t pos="n">valmistautuminen</t>
          </tg>
       </mg>
    </e>
@@ -7272,11 +7271,11 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="xxx">åvtemennie</l>
+         <l pos="n">åvtemennie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">poron sarven etuhaara</t>
+            <t pos="n">poron sarven etuhaara</t>
          </tg>
       </mg>
    </e>
@@ -7318,11 +7317,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="xxx">åårkeniste</l>
+         <l pos="n">åårkeniste</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">urkuri</t>
+            <t pos="n">urkuri</t>
          </tg>
       </mg>
    </e>
