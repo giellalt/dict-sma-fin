@@ -1661,7 +1661,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(koivun)pahka</t>
+            <t pos="xxx">pahka</t>
          </tg>
       </mg>
    </e>
@@ -2002,7 +2002,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(kuinka) monta</t>
+            <t pos="xxx">kuinka monta</t>
          </tg>
       </mg>
       <mg>
@@ -3231,7 +3231,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(he) itsensä</t>
+            <t pos="xxx">he itsensä</t>
          </tg>
       </mg>
    </e>
@@ -4317,7 +4317,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(veneen) perävannas</t>
+            
+            <t pos="xxx">perävannas</t>
          </tg>
       </mg>
    </e>
@@ -4762,7 +4763,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(tunturin, vuoren) pohjoispuoli</t>
+            <re>tunturista, vuoresta</re>
+            <t pos="xxx">pohjoispuoli</t>
             <t pos="xxx">sivu</t>
          </tg>
       </mg>
@@ -5168,7 +5170,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(pää)tuomari</t>
+            <t pos="xxx">päätuomari</t>
          </tg>
       </mg>
    </e>
@@ -5623,7 +5625,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(pikku)kenkä</t>
+            <t pos="xxx">pikkukenkä</t>
          </tg>
       </mg>
    </e>
@@ -5755,7 +5757,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(väli)ovi</t>
+            <t pos="xxx">väliovi</t>
          </tg>
       </mg>
    </e>
@@ -5973,7 +5975,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">(sairaan)hoitaja</t>
+            <t pos="xxx">sairaanhoitaja</t>
+            <t pos="xxx">hoitaja</t>
          </tg>
       </mg>
    </e>
