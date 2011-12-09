@@ -674,7 +674,7 @@
       <mg>
          <tg>
             <t pos="a">vallaton</t>
-            <t pos="a">(rasa)villi</t>
+            <t pos="a">rasavilli</t>
          </tg>
       </mg>
    </e>
@@ -1123,7 +1123,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="a">(lähtö)valmis</t>
+            <t pos="a">lähtövalmis</t>
+            <t pos="a">valmis</t>
          </tg>
       </mg>
    </e>
