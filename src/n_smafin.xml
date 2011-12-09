@@ -130,8 +130,9 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(puun) mahla</t>
-            <t pos="n">(lihan, kalan) mehu</t>
+            <t pos="n">mahla</t>
+            <t pos="n">lihamehu</t>
+            <t pos="n">kalamehu</t>
          </tg>
       </mg>
    </e>
@@ -234,7 +235,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(kirveen, veitsen) terä</t>
+            <t pos="n">terä</t>
          </tg>
       </mg>
    </e>
@@ -475,7 +476,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(tunturin, vuoren)rinne</t>
+            <t pos="n">rinne</t>
          </tg>
       </mg>
    </e>
@@ -645,7 +646,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(hillan) raakile</t>
+            <t pos="n">raakile</t>
          </tg>
       </mg>
    </e>
@@ -695,7 +696,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(poron) raato</t>
+            <t pos="n">poronraato</t>
          </tg>
       </mg>
    </e>
@@ -1089,7 +1090,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(pieni) porotokka</t>
+            <t pos="n">pieni porotokka</t>
          </tg>
       </mg>
    </e>
@@ -1109,7 +1110,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(kalan) pyrstö (ja evät)</t>
+            <t pos="n">pyrstö</t>
+            <t pos="n">evät</t>
          </tg>
       </mg>
    </e>
@@ -1143,7 +1145,7 @@
             <t pos="n">pätkä</t>
             <t pos="n">pala</t>
             <t pos="n">kappale</t>
-            <t pos="n">(ajan)jakso</t>
+            <t pos="n">ajanjakso</t>
          </tg>
       </mg>
    </e>
@@ -1153,7 +1155,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(luku, näytös)kappale</t>
+            <t pos="n">lukukappale</t>
+            <t pos="n">näytöskappale</t>
          </tg>
       </mg>
    </e>
@@ -1316,7 +1319,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(matka)tavarat</t>
+            <t pos="n">matkatavarat</t>
+            <t pos="n">muona</t>
          </tg>
       </mg>
    </e>
@@ -1537,7 +1541,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(ajo)keli</t>
+            <t pos="n">keli</t>
+            <t pos="n">ajokeli</t>
          </tg>
       </mg>
       <mg>
@@ -1995,7 +2000,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(repun) kantohihna</t>
+            <t pos="n">kantohihna</t>
          </tg>
       </mg>
    </e>
@@ -2210,7 +2215,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(poron) koipinahka</t>
+            <t pos="n">poron koipinahka</t>
          </tg>
       </mg>
    </e>
@@ -2300,7 +2305,8 @@
       <mg>
          <tg>
             <t pos="n">luola</t>
-            <t pos="n">(ketun, karhun) pesä</t>
+            <t pos="n">karhunpesä</t>
+            <t pos="n">ketunpesä</t>
          </tg>
       </mg>
    </e>
@@ -2393,7 +2399,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(miehen) lapintakki</t>
+            <t pos="n">miehen lapintakki</t>
          </tg>
       </mg>
    </e>
@@ -2404,7 +2410,7 @@
       <mg>
          <tg>
             <t pos="n">puuvati</t>
-            <t pos="n">(puu)astia</t>
+            <t pos="n">puuastia</t>
          </tg>
       </mg>
    </e>
@@ -2414,7 +2420,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(maa)tila</t>
+            <t pos="n">maatila</t>
          </tg>
       </mg>
    </e>
@@ -2551,7 +2557,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(avio)mies</t>
+            <t pos="n">aviomies</t>
+            <t pos="n">mies</t>
          </tg>
       </mg>
    </e>
@@ -2592,7 +2599,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(kahvi)pannu</t>
+            <t pos="n">kahvipannu</t>
             <t pos="n">keittoastia</t>
          </tg>
       </mg>
@@ -2726,7 +2733,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(köyden tms.) pää</t>
+            <t pos="n">köydenpää</t>
          </tg>
       </mg>
    </e>
@@ -2877,7 +2884,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(eläimen) karva</t>
+            <t pos="n">karva</t>
          </tg>
       </mg>
    </e>
@@ -3323,7 +3330,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(sakea) lumipyry</t>
+            <t pos="n">sakea lumipyry</t>
          </tg>
       </mg>
    </e>
@@ -3333,7 +3340,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(poron) umpisuoli</t>
+            <re>märehtijistä</re>
+            <t pos="n">umpisuoli</t>
          </tg>
       </mg>
    </e>
@@ -3745,7 +3753,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(uros)teeri</t>
+            <t pos="n">urosteeri</t>
          </tg>
       </mg>
    </e>
@@ -4154,7 +4162,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(peto)eläin</t>
+            <t pos="n">petoeläin</t>
          </tg>
       </mg>
    </e>
@@ -4165,7 +4173,7 @@
       <mg>
          <tg>
             <t pos="n">eno</t>
-            <t pos="n">(mies)serkku</t>
+            <t pos="n">miesserkku</t>
          </tg>
       </mg>
    </e>
@@ -4888,7 +4896,7 @@
          <tg>
             <t pos="n">jäsen</t>
             <t pos="n">nivel</t>
-            <t pos="n">(selkä)nikama</t>
+            <t pos="n">selkänikama</t>
          </tg>
       </mg>
    </e>
@@ -4918,7 +4926,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(porojen) kulkuura lumessa</t>
+            <t pos="n">porojen kulkuura lumessa</t>
          </tg>
       </mg>
    </e>
@@ -5276,7 +5284,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(onki)mato</t>
+            <t pos="n">onkimato</t>
          </tg>
       </mg>
    </e>
@@ -5286,12 +5294,13 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(eläimen) veri</t>
+            <re>eläimestä</re>
+            <t pos="n">veri</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n">(koivun) mahla</t>
+            <t pos="n">koivunmahla</t>
          </tg>
       </mg>
    </e>
@@ -5642,7 +5651,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(pyöreä) neula</t>
+            <t pos="n">neula</t>
          </tg>
       </mg>
    </e>
@@ -6095,7 +6104,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(paistin)pannu</t>
+            <t pos="n">paistinpannu</t>
          </tg>
       </mg>
    </e>
@@ -6125,7 +6134,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(sanoma)lehti</t>
+            <t pos="n">sanomalehti</t>
          </tg>
       </mg>
    </e>
@@ -6495,7 +6504,7 @@
       <mg>
          <tg>
             <t pos="n">räppänä</t>
-            <t pos="n">(kodan) savuaukko</t>
+            <t pos="n">kodan savuaukko</t>
          </tg>
       </mg>
    </e>
@@ -6646,7 +6655,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(poro)paimen</t>
+            <t pos="n">poropaimen</t>
          </tg>
       </mg>
    </e>
@@ -7247,7 +7256,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(koiran)pentu</t>
+            <t pos="n">koiranpentu</t>
          </tg>
       </mg>
    </e>
@@ -7633,7 +7642,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(sokeri)kakku</t>
+            <t pos="n">sokerikakku</t>
          </tg>
       </mg>
    </e>
@@ -7916,7 +7925,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(kenkä)heinä</t>
+            <t pos="n">kenkäheinä</t>
+         </tg>
+         <tg>
+            <t pos="n">heinä</t>
          </tg>
       </mg>
    </e>
@@ -7988,7 +8000,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(syötävät) sisälmykset</t>
+            <t pos="n">sisälmykset</t>
+            <t pos="n">elinruoka</t>
          </tg>
       </mg>
    </e>
@@ -8049,7 +8062,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(tuli)tikku</t>
+            <t pos="n">tulitikku</t>
+         </tg>
+         <tg>
+            <t pos="n">tikku</t>
          </tg>
       </mg>
    </e>
@@ -8306,7 +8322,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(ilta)hämärä</t>
+            <t pos="n">iltahämärä</t>
          </tg>
       </mg>
    </e>
@@ -8516,7 +8532,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(puu)hiili</t>
+            <t pos="n">puuhiili</t>
          </tg>
       </mg>
    </e>
@@ -9399,7 +9415,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(kengän)nauha</t>
+            <t pos="n">kengännauha</t>
          </tg>
       </mg>
    </e>
@@ -9440,7 +9456,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(pikku)ystävä</t>
+            <t pos="n">pikkuystävä</t>
          </tg>
       </mg>
    </e>
@@ -9555,7 +9571,7 @@
       <mg>
          <tg>
             <t pos="n">ajaja</t>
-            <t pos="n">(auton)kuljettaja</t>
+            <t pos="n">autonkuljettaja</t>
          </tg>
       </mg>
    </e>
@@ -9607,7 +9623,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(leikkuu)kaava</t>
+            <t pos="n">leikkuukaava</t>
             <t pos="n">malli</t>
          </tg>
       </mg>
@@ -9628,7 +9644,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="n">(käsi)työ</t>
+            <t pos="n">käsityö</t>
             <t pos="n">askartelu</t>
          </tg>
       </mg>
