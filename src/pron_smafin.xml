@@ -3,13 +3,13 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../../scripts/gt_dictionary.dtd">
-<r>
+<r id="smafin" xml:lang="sma">
    <e>
       <lg>
          <l pos="pron">dah</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">ne</t>
             <t pos="pron">he</t>
          </tg>
@@ -20,7 +20,7 @@
          <l pos="pron">datne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">sinä</t>
          </tg>
       </mg>
@@ -30,7 +30,7 @@
          <l pos="pron">dïhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">se</t>
             <t pos="pron">hän</t>
          </tg>
@@ -41,7 +41,7 @@
          <l pos="pron">dijjieh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">te</t>
          </tg>
       </mg>
@@ -51,7 +51,7 @@
          <l pos="pron">dåtnoeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">te kaksi</t>
          </tg>
       </mg>
@@ -61,7 +61,7 @@
          <l pos="pron">manne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">minä</t>
          </tg>
       </mg>
@@ -71,7 +71,7 @@
          <l pos="pron">månnoeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">me kaksi</t>
          </tg>
       </mg>
@@ -81,7 +81,7 @@
          <l pos="pron">satne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">hän (itse)</t>
          </tg>
       </mg>
@@ -91,7 +91,7 @@
          <l pos="pron">såtnoeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="pron">he kaksi (itse)</t>
          </tg>
       </mg>

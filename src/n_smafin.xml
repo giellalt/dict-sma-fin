@@ -3,13 +3,13 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../../scripts/gt_dictionary.dtd">
-<r>
+<r id="smafin" xml:lang="sma">
    <e>
       <lg>
          <l pos="N">aagkele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pallea</t>
          </tg>
       </mg>
@@ -19,7 +19,7 @@
          <l pos="N">aahka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mummo</t>
          </tg>
       </mg>
@@ -29,7 +29,7 @@
          <l pos="N">aahkove</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lapsenlapsi (isoäidille)</t>
          </tg>
       </mg>
@@ -39,7 +39,7 @@
          <l pos="N">aajja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isoisä</t>
          </tg>
       </mg>
@@ -49,7 +49,7 @@
          <l pos="N">aajjove</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lapsenlapsi (isoisälle)</t>
          </tg>
       </mg>
@@ -59,7 +59,7 @@
          <l pos="N">aajkoehkadtjh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">serkukset</t>
          </tg>
       </mg>
@@ -69,7 +69,7 @@
          <l pos="N">aajkohke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">serkku</t>
          </tg>
       </mg>
@@ -79,7 +79,7 @@
          <l pos="N">aajroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">airo</t>
          </tg>
       </mg>
@@ -89,7 +89,7 @@
          <l pos="N">aaksjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kirves</t>
          </tg>
       </mg>
@@ -99,7 +99,7 @@
          <l pos="N">aalkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">alku</t>
          </tg>
       </mg>
@@ -109,7 +109,7 @@
          <l pos="N">aalkove</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">alku</t>
          </tg>
       </mg>
@@ -119,7 +119,7 @@
          <l pos="N">aalebovtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">teurasporo</t>
          </tg>
       </mg>
@@ -129,7 +129,7 @@
          <l pos="N">aaloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mahla</t>
             <t pos="N">lihamehu</t>
             <t pos="N">kalamehu</t>
@@ -141,7 +141,7 @@
          <l pos="N">aalohke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kumisaapas</t>
          </tg>
       </mg>
@@ -151,7 +151,7 @@
          <l pos="N">aaltoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaadin</t>
          </tg>
       </mg>
@@ -161,7 +161,7 @@
          <l pos="N">aamhtese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">asia</t>
             <t pos="N">aihe</t>
          </tg>
@@ -172,7 +172,7 @@
          <l pos="N">aanja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron (etu)jalan jänne (josta punotaan suonilankaa)</t>
          </tg>
       </mg>
@@ -182,7 +182,7 @@
          <l pos="N">aarhskuvlelohkehtæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">esikoulun opettaja</t>
          </tg>
       </mg>
@@ -192,7 +192,7 @@
          <l pos="N">aarhtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kotka</t>
          </tg>
       </mg>
@@ -202,7 +202,7 @@
          <l pos="N">aate</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tavara</t>
             <t pos="N">esine</t>
          </tg>
@@ -213,7 +213,7 @@
          <l pos="N">atovmefaamoesijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ydinvoimala</t>
             <t pos="N">atomivoimala</t>
          </tg>
@@ -224,7 +224,7 @@
          <l pos="N">aavoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ilo</t>
          </tg>
       </mg>
@@ -234,7 +234,7 @@
          <l pos="N">aavtjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">terä</t>
          </tg>
       </mg>
@@ -244,7 +244,7 @@
          <l pos="N">appelsijne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">appelsiini</t>
          </tg>
       </mg>
@@ -254,7 +254,7 @@
          <l pos="N">abpese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pusero</t>
             <t pos="N">villapaita</t>
          </tg>
@@ -265,7 +265,7 @@
          <l pos="N">aegkiedåvna</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">untuvatyyny</t>
          </tg>
       </mg>
@@ -275,7 +275,7 @@
          <l pos="N">aegkiegaptjese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">untuvapeite</t>
          </tg>
       </mg>
@@ -285,7 +285,7 @@
          <l pos="N">aehtjaahka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isän äiti</t>
             <t pos="N">mummo</t>
          </tg>
@@ -296,7 +296,7 @@
          <l pos="N">aehtjaajja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isän isä</t>
             <t pos="N">vaari</t>
          </tg>
@@ -307,7 +307,7 @@
          <l pos="N">aehtjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isä</t>
          </tg>
       </mg>
@@ -317,12 +317,12 @@
          <l pos="N">aejkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kerta</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aika</t>
          </tg>
       </mg>
@@ -332,7 +332,7 @@
          <l pos="N">aejlege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sunnuntai</t>
          </tg>
       </mg>
@@ -342,7 +342,7 @@
          <l pos="N">aejmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">äimä (kolmikulmainen neula nahan ompelemiseen)</t>
          </tg>
       </mg>
@@ -352,7 +352,7 @@
          <l pos="N">aerede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aamu</t>
             <t pos="N">huomen</t>
          </tg>
@@ -363,7 +363,7 @@
          <l pos="N">aeredsbeapmoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aamiainen</t>
          </tg>
       </mg>
@@ -373,7 +373,7 @@
          <l pos="N">aernie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tulisija</t>
          </tg>
       </mg>
@@ -383,7 +383,7 @@
          <l pos="N">aevlerge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kodan harjaorsi</t>
             <t pos="N">keittoorsi</t>
          </tg>
@@ -394,7 +394,7 @@
          <l pos="N">aevsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron otsaluu sarvineen</t>
          </tg>
       </mg>
@@ -404,7 +404,7 @@
          <l pos="N">almetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ihminen</t>
          </tg>
       </mg>
@@ -414,7 +414,7 @@
          <l pos="N">altese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kengän läppä</t>
          </tg>
       </mg>
@@ -424,7 +424,7 @@
          <l pos="N">amhkedh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">synkkä ja pilvinen sää</t>
          </tg>
       </mg>
@@ -434,7 +434,7 @@
          <l pos="N">aske</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuu</t>
             <t pos="N">kuukausi</t>
          </tg>
@@ -445,7 +445,7 @@
          <l pos="N">astoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aika (johonkin)</t>
          </tg>
       </mg>
@@ -455,7 +455,7 @@
          <l pos="N">baahketjaetsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuuma vesi</t>
          </tg>
       </mg>
@@ -465,7 +465,7 @@
          <l pos="N">baahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lämmin sää</t>
          </tg>
       </mg>
@@ -475,7 +475,7 @@
          <l pos="N">baahkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rinne</t>
          </tg>
       </mg>
@@ -485,7 +485,7 @@
          <l pos="N">baahtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poika</t>
          </tg>
       </mg>
@@ -495,12 +495,12 @@
          <l pos="N">baahtsege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">eläimen sydän</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puun käpy</t>
          </tg>
       </mg>
@@ -510,7 +510,7 @@
          <l pos="N">baajkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kova pakkanen</t>
          </tg>
       </mg>
@@ -520,7 +520,7 @@
          <l pos="N">baakoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sana</t>
          </tg>
       </mg>
@@ -530,7 +530,7 @@
          <l pos="N">baalhka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">palkka</t>
          </tg>
       </mg>
@@ -540,7 +540,7 @@
          <l pos="N">baalka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">polku</t>
          </tg>
       </mg>
@@ -550,12 +550,12 @@
          <l pos="N">baarhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puun kuori</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">parkki(liemi)</t>
          </tg>
       </mg>
@@ -565,7 +565,7 @@
          <l pos="N">baarhkoegalte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaarnapölkky (koivupölli, josta irrotetaan kaarnaa)</t>
          </tg>
       </mg>
@@ -575,7 +575,7 @@
          <l pos="N">baarnetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkupoika</t>
          </tg>
       </mg>
@@ -585,7 +585,7 @@
          <l pos="N">badtja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">voide</t>
          </tg>
       </mg>
@@ -595,7 +595,7 @@
          <l pos="N">badtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sulka</t>
          </tg>
       </mg>
@@ -605,7 +605,7 @@
          <l pos="N">baenie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hammas</t>
          </tg>
       </mg>
@@ -615,7 +615,7 @@
          <l pos="N">baeniesaehpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hammasharja</t>
          </tg>
       </mg>
@@ -625,7 +625,7 @@
          <l pos="N">baeniekreeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hammastahna</t>
          </tg>
       </mg>
@@ -635,7 +635,7 @@
          <l pos="N">baernie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poika</t>
          </tg>
       </mg>
@@ -645,7 +645,7 @@
          <l pos="N">baetjkere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">raakile</t>
          </tg>
       </mg>
@@ -655,7 +655,7 @@
          <l pos="N">bahte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">takamus</t>
          </tg>
       </mg>
@@ -665,7 +665,7 @@
          <l pos="N">baltehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kummitus</t>
          </tg>
       </mg>
@@ -675,7 +675,7 @@
          <l pos="N">balve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pilvi</t>
          </tg>
       </mg>
@@ -685,7 +685,7 @@
          <l pos="N">bangseme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">huuli</t>
          </tg>
       </mg>
@@ -695,7 +695,7 @@
          <l pos="N">barhve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poronraato</t>
          </tg>
       </mg>
@@ -705,7 +705,7 @@
          <l pos="N">barkije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">työntekijä</t>
          </tg>
       </mg>
@@ -715,7 +715,7 @@
          <l pos="N">barkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">työ</t>
          </tg>
       </mg>
@@ -725,7 +725,7 @@
          <l pos="N">bealloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tiuku</t>
             <t pos="N">kello</t>
          </tg>
@@ -736,7 +736,7 @@
          <l pos="N">bealloeaaltoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kellovaadin</t>
          </tg>
       </mg>
@@ -746,7 +746,7 @@
          <l pos="N">beapmoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ruoka</t>
          </tg>
       </mg>
@@ -756,7 +756,7 @@
          <l pos="N">beapmoevoesse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">eväspussi</t>
             <t pos="N">ruokasäkki</t>
          </tg>
@@ -767,7 +767,7 @@
          <l pos="N">bearjadahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">perjantai</t>
          </tg>
       </mg>
@@ -777,7 +777,7 @@
          <l pos="N">bearjedsiehkede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">perjantaiilta</t>
          </tg>
       </mg>
@@ -787,7 +787,7 @@
          <l pos="N">bearkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">liha</t>
          </tg>
       </mg>
@@ -797,7 +797,7 @@
          <l pos="N">bearkoegaamsoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lihapulla</t>
          </tg>
       </mg>
@@ -807,7 +807,7 @@
          <l pos="N">bearkoejoptse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lihakeitto</t>
          </tg>
       </mg>
@@ -817,7 +817,7 @@
          <l pos="N">bearkoekrovhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lihapata</t>
          </tg>
       </mg>
@@ -827,7 +827,7 @@
          <l pos="N">beelhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vyö</t>
          </tg>
       </mg>
@@ -837,7 +837,7 @@
          <l pos="N">bensijne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">bensiini</t>
          </tg>
       </mg>
@@ -847,7 +847,7 @@
          <l pos="N">beere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">karhu</t>
          </tg>
       </mg>
@@ -857,12 +857,12 @@
          <l pos="N">bajsjeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">oviaukon molemmin puolin oleva tila kodassa</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">käytävä</t>
          </tg>
       </mg>
@@ -872,7 +872,7 @@
          <l pos="N">belnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mätäs</t>
             <t pos="N">kumpare</t>
             <t pos="N">kasa</t>
@@ -884,7 +884,7 @@
          <l pos="N">betnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pohja</t>
          </tg>
       </mg>
@@ -894,7 +894,7 @@
          <l pos="N">betniegierkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pohjakivi</t>
          </tg>
       </mg>
@@ -904,7 +904,7 @@
          <l pos="N">bïegke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tuuli</t>
          </tg>
       </mg>
@@ -914,7 +914,7 @@
          <l pos="N">biehkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pala</t>
             <t pos="N">kappale</t>
          </tg>
@@ -925,7 +925,7 @@
          <l pos="N">biejjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">päivä</t>
          </tg>
       </mg>
@@ -935,7 +935,7 @@
          <l pos="N">biejjiebaerehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aurinkoinen rinne</t>
             <t pos="N">auringonpuoli</t>
             <t pos="N">auringonpaiste</t>
@@ -947,7 +947,7 @@
          <l pos="N">bielie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puoli</t>
          </tg>
       </mg>
@@ -957,7 +957,7 @@
          <l pos="N">bieljie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">korva</t>
          </tg>
       </mg>
@@ -967,7 +967,7 @@
          <l pos="N">bïenje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">koira</t>
          </tg>
       </mg>
@@ -977,7 +977,7 @@
          <l pos="N">bïerne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">karhu</t>
          </tg>
       </mg>
@@ -987,7 +987,7 @@
          <l pos="N">biesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pesä</t>
          </tg>
       </mg>
@@ -997,7 +997,7 @@
          <l pos="N">biessie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tuohi</t>
          </tg>
       </mg>
@@ -1007,7 +1007,7 @@
          <l pos="N">bietsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mänty</t>
             <t pos="N">petäjä</t>
          </tg>
@@ -1018,7 +1018,7 @@
          <l pos="N">bïevle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pälvi</t>
          </tg>
       </mg>
@@ -1028,7 +1028,7 @@
          <l pos="N">bïevsterh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mieliala</t>
             <t pos="N">tuuli</t>
          </tg>
@@ -1039,7 +1039,7 @@
          <l pos="N">bijjierietjmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">verkon yläpaula</t>
          </tg>
       </mg>
@@ -1049,7 +1049,7 @@
          <l pos="N">bïjle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">auto</t>
          </tg>
       </mg>
@@ -1059,7 +1059,7 @@
          <l pos="N">bïjlebovre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">autokauppa</t>
          </tg>
       </mg>
@@ -1069,7 +1069,7 @@
          <l pos="N">bïjvele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lämmin (sää)</t>
          </tg>
       </mg>
@@ -1079,7 +1079,7 @@
          <l pos="N">binte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaulaliina</t>
          </tg>
       </mg>
@@ -1089,7 +1089,7 @@
          <l pos="N">bïrhke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pieni porotokka</t>
          </tg>
       </mg>
@@ -1099,7 +1099,7 @@
          <l pos="N">bïrhketje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pieni porotokka</t>
          </tg>
       </mg>
@@ -1109,7 +1109,7 @@
          <l pos="N">bïrsje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pyrstö</t>
             <t pos="N">evät</t>
          </tg>
@@ -1120,7 +1120,7 @@
          <l pos="N">bissemegietjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paistotikku</t>
             <t pos="N">varras</t>
          </tg>
@@ -1131,7 +1131,7 @@
          <l pos="N">bissemesijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paistopaikka</t>
          </tg>
       </mg>
@@ -1141,7 +1141,7 @@
          <l pos="N">boelhke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pätkä</t>
             <t pos="N">pala</t>
             <t pos="N">kappale</t>
@@ -1154,7 +1154,7 @@
          <l pos="N">boelhketje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lukukappale</t>
             <t pos="N">näytöskappale</t>
          </tg>
@@ -1165,7 +1165,7 @@
          <l pos="N">boelte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lehtimetsä</t>
             <t pos="N">koivua kasvava metsänrinne</t>
          </tg>
@@ -1176,7 +1176,7 @@
          <l pos="N">boelve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">polvi</t>
          </tg>
       </mg>
@@ -1186,7 +1186,7 @@
          <l pos="N">boengeskuvmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">naisen puvun rintalappu</t>
          </tg>
       </mg>
@@ -1196,7 +1196,7 @@
          <l pos="N">boetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">penis</t>
          </tg>
       </mg>
@@ -1206,7 +1206,7 @@
          <l pos="N">bongke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rahapussi</t>
             <t pos="N">kukkaro</t>
          </tg>
@@ -1217,7 +1217,7 @@
          <l pos="N">bovre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kauppa</t>
          </tg>
       </mg>
@@ -1227,7 +1227,7 @@
          <l pos="N">bovtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poro</t>
          </tg>
       </mg>
@@ -1237,7 +1237,7 @@
          <l pos="N">brorke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pyy</t>
          </tg>
       </mg>
@@ -1247,7 +1247,7 @@
          <l pos="N">buaredh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poutasää</t>
          </tg>
       </mg>
@@ -1257,7 +1257,7 @@
          <l pos="N">buejtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rasva</t>
          </tg>
       </mg>
@@ -1267,7 +1267,7 @@
          <l pos="N">buertie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pöytä</t>
          </tg>
       </mg>
@@ -1277,7 +1277,7 @@
          <l pos="N">burhvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poronjäkälä</t>
          </tg>
       </mg>
@@ -1287,7 +1287,7 @@
          <l pos="N">busse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">bussi</t>
          </tg>
       </mg>
@@ -1297,7 +1297,7 @@
          <l pos="N">buste</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lusikka</t>
          </tg>
       </mg>
@@ -1307,7 +1307,7 @@
          <l pos="N">buvrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aitta</t>
             <t pos="N">varasto</t>
          </tg>
@@ -1318,7 +1318,7 @@
          <l pos="N">bægkah</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">matkatavarat</t>
             <t pos="N">muona</t>
          </tg>
@@ -1329,7 +1329,7 @@
          <l pos="N">bæhta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pala</t>
             <t pos="N">kappale</t>
          </tg>
@@ -1340,7 +1340,7 @@
          <l pos="N">bæhtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">astia</t>
             <t pos="N">pönttö</t>
          </tg>
@@ -1351,7 +1351,7 @@
          <l pos="N">bæjjaldahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">yläpuoli</t>
             <t pos="N">yläosa</t>
          </tg>
@@ -1362,7 +1362,7 @@
          <l pos="N">bæjngoldsmåvhka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">päällyshousut</t>
          </tg>
       </mg>
@@ -1372,7 +1372,7 @@
          <l pos="N">bæjngoldsvaarjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">päällysvaate</t>
          </tg>
       </mg>
@@ -1382,7 +1382,7 @@
          <l pos="N">båanta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">talonpoika</t>
             <t pos="N">maanviljelijä</t>
          </tg>
@@ -1393,7 +1393,7 @@
          <l pos="N">båassjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kodan takaosa</t>
             <t pos="N">posio</t>
          </tg>
@@ -1404,7 +1404,7 @@
          <l pos="N">båassjoeraejkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kodan posioaukko</t>
          </tg>
       </mg>
@@ -1414,7 +1414,7 @@
          <l pos="N">båatsoealmetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poromies</t>
             <t pos="N">poronhoitaja</t>
          </tg>
@@ -1425,7 +1425,7 @@
          <l pos="N">båatsoeburrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poromies</t>
          </tg>
       </mg>
@@ -1435,7 +1435,7 @@
          <l pos="N">båatsoesaemie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">porosaamelainen</t>
          </tg>
       </mg>
@@ -1445,7 +1445,7 @@
          <l pos="N">båetskie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kanta(pää)</t>
          </tg>
       </mg>
@@ -1455,7 +1455,7 @@
          <l pos="N">båvne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mätäs</t>
             <t pos="N">kumpare</t>
             <t pos="N">harjanne</t>
@@ -1467,7 +1467,7 @@
          <l pos="N">daajje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">taikina</t>
          </tg>
       </mg>
@@ -1477,7 +1477,7 @@
          <l pos="N">daakteme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">täysikasvuinen</t>
          </tg>
       </mg>
@@ -1487,7 +1487,7 @@
          <l pos="N">daalhkesh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lääke</t>
             <t pos="N">lääkkeet</t>
          </tg>
@@ -1498,12 +1498,12 @@
          <l pos="N">daarhve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">täplä</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pilkka</t>
          </tg>
       </mg>
@@ -1513,13 +1513,13 @@
          <l pos="N">daaroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">norjalainen</t>
             <t pos="N">ruotsalainen</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">norjan</t>
             <t pos="N">ruotsinkielinen</t>
          </tg>
@@ -1530,7 +1530,7 @@
          <l pos="N">daebrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">perna</t>
          </tg>
       </mg>
@@ -1540,13 +1540,13 @@
          <l pos="N">daelhkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">keli</t>
             <t pos="N">ajokeli</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sää</t>
          </tg>
       </mg>
@@ -1556,7 +1556,7 @@
          <l pos="N">daelvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">talvi</t>
          </tg>
       </mg>
@@ -1566,7 +1566,7 @@
          <l pos="N">daelvielaante</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">talvialue</t>
             <t pos="N">talvilaidun(maa)</t>
          </tg>
@@ -1577,7 +1577,7 @@
          <l pos="N">daevere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tavara</t>
          </tg>
       </mg>
@@ -1587,7 +1587,7 @@
          <l pos="N">dahpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tuppi</t>
          </tg>
       </mg>
@@ -1597,7 +1597,7 @@
          <l pos="N">dalvese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vuoren</t>
             <t pos="N">tunturinhuippu</t>
          </tg>
@@ -1608,7 +1608,7 @@
          <l pos="N">darjomes</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tekeminen</t>
          </tg>
       </mg>
@@ -1618,7 +1618,7 @@
          <l pos="N">darjome</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tekeminen</t>
          </tg>
       </mg>
@@ -1628,7 +1628,7 @@
          <l pos="N">deajvoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juurista punottu juustomuotti</t>
          </tg>
       </mg>
@@ -1638,7 +1638,7 @@
          <l pos="N">deakehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kotapuu</t>
             <t pos="N">ruode</t>
          </tg>
@@ -1649,12 +1649,12 @@
          <l pos="N">dealoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pöytäliina</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tarjoilualusta</t>
          </tg>
       </mg>
@@ -1664,7 +1664,7 @@
          <l pos="N">deava</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mäki</t>
             <t pos="N">kukkula</t>
          </tg>
@@ -1675,7 +1675,7 @@
          <l pos="N">deere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">uros(koira)</t>
          </tg>
       </mg>
@@ -1685,7 +1685,7 @@
          <l pos="N">deereriepie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">uroskettu</t>
          </tg>
       </mg>
@@ -1695,7 +1695,7 @@
          <l pos="N">deerpegh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tarpeet</t>
             <t pos="N">tarvikkeet</t>
             <t pos="N">varusteet</t>
@@ -1707,7 +1707,7 @@
          <l pos="N">derhvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">turve</t>
          </tg>
       </mg>
@@ -1717,7 +1717,7 @@
          <l pos="N">derhviegåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">turvekota</t>
             <t pos="N">kammi</t>
          </tg>
@@ -1728,7 +1728,7 @@
          <l pos="N">dïjnehkh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sokeri</t>
          </tg>
       </mg>
@@ -1738,7 +1738,7 @@
          <l pos="N">dïrrege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">työkalu</t>
          </tg>
       </mg>
@@ -1748,7 +1748,7 @@
          <l pos="N">doekije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">myyjä</t>
          </tg>
       </mg>
@@ -1758,7 +1758,7 @@
          <l pos="N">doerke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">torko</t>
             <t pos="N">kotarisu</t>
          </tg>
@@ -1769,7 +1769,7 @@
          <l pos="N">domhpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maansiirtoauto</t>
          </tg>
       </mg>
@@ -1779,7 +1779,7 @@
          <l pos="N">duahpa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tupsu</t>
          </tg>
       </mg>
@@ -1789,7 +1789,7 @@
          <l pos="N">duarsta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">torstai</t>
          </tg>
       </mg>
@@ -1799,7 +1799,7 @@
          <l pos="N">dueljie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">talja</t>
          </tg>
       </mg>
@@ -1809,7 +1809,7 @@
          <l pos="N">durrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tunturien välinen laakso</t>
          </tg>
       </mg>
@@ -1819,7 +1819,7 @@
          <l pos="N">dygne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vuorokausi</t>
          </tg>
       </mg>
@@ -1829,7 +1829,7 @@
          <l pos="N">dæjsta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tiistai</t>
          </tg>
       </mg>
@@ -1839,7 +1839,7 @@
          <l pos="N">dåaktere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lääkäri</t>
             <t pos="N">tohtori</t>
          </tg>
@@ -1850,7 +1850,7 @@
          <l pos="N">dåehkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tokka</t>
             <t pos="N">lauma</t>
          </tg>
@@ -1861,7 +1861,7 @@
          <l pos="N">dåelhpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">25 äyrin kolikko</t>
          </tg>
       </mg>
@@ -1871,7 +1871,7 @@
          <l pos="N">dågka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tupakka</t>
          </tg>
       </mg>
@@ -1881,7 +1881,7 @@
          <l pos="N">dålle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tuli</t>
          </tg>
       </mg>
@@ -1891,7 +1891,7 @@
          <l pos="N">dållesijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tulisija</t>
             <t pos="N">nuotiopaikka</t>
          </tg>
@@ -1902,7 +1902,7 @@
          <l pos="N">dåvna</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tyyny</t>
          </tg>
       </mg>
@@ -1912,7 +1912,7 @@
          <l pos="N">dåvvomesijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">korjaamo</t>
             <t pos="N">verstas</t>
          </tg>
@@ -1923,7 +1923,7 @@
          <l pos="N">dååpmehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">taimen</t>
             <t pos="N">tammukka</t>
          </tg>
@@ -1934,7 +1934,7 @@
          <l pos="N">eatneme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maa</t>
          </tg>
       </mg>
@@ -1944,7 +1944,7 @@
          <l pos="N">ebrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sade</t>
          </tg>
       </mg>
@@ -1954,7 +1954,7 @@
          <l pos="N">eejehtalleme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">loma</t>
          </tg>
       </mg>
@@ -1964,7 +1964,7 @@
          <l pos="N">eejehtimmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">loma</t>
          </tg>
       </mg>
@@ -1974,7 +1974,7 @@
          <l pos="N">eejhtegh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vanhemmat</t>
          </tg>
       </mg>
@@ -1984,12 +1984,12 @@
          <l pos="N">elmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">taivas</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">huono sää</t>
          </tg>
       </mg>
@@ -1999,7 +1999,7 @@
          <l pos="N">faahtele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kantohihna</t>
          </tg>
       </mg>
@@ -2009,7 +2009,7 @@
          <l pos="N">faamoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">voima</t>
             <t pos="N">tarmo</t>
          </tg>
@@ -2020,7 +2020,7 @@
          <l pos="N">fabrigkebarkije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tehdastyöläinen</t>
          </tg>
       </mg>
@@ -2030,7 +2030,7 @@
          <l pos="N">faehtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron mahalaukku</t>
          </tg>
       </mg>
@@ -2040,7 +2040,7 @@
          <l pos="N">fealadimmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">matka</t>
          </tg>
       </mg>
@@ -2050,7 +2050,7 @@
          <l pos="N">fealloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lauta</t>
          </tg>
       </mg>
@@ -2060,7 +2060,7 @@
          <l pos="N">fealpere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">parsinneula</t>
          </tg>
       </mg>
@@ -2070,7 +2070,7 @@
          <l pos="N">feete</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vati</t>
          </tg>
       </mg>
@@ -2080,7 +2080,7 @@
          <l pos="N">fiejlie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vika</t>
             <t pos="N">virhe</t>
          </tg>
@@ -2091,7 +2091,7 @@
          <l pos="N">fievsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">navetta</t>
          </tg>
       </mg>
@@ -2101,7 +2101,7 @@
          <l pos="N">fuehpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hoppu</t>
             <t pos="N">kiire</t>
          </tg>
@@ -2112,7 +2112,7 @@
          <l pos="N">fuelhkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">perhe</t>
             <t pos="N">talonväki</t>
          </tg>
@@ -2123,7 +2123,7 @@
          <l pos="N">fæjroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tulitikku</t>
          </tg>
       </mg>
@@ -2133,7 +2133,7 @@
          <l pos="N">gaahkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kakku</t>
             <t pos="N">leipä</t>
          </tg>
@@ -2144,7 +2144,7 @@
          <l pos="N">gaahkoesnaejrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">leipäviipale</t>
          </tg>
       </mg>
@@ -2154,7 +2154,7 @@
          <l pos="N">gaahtjeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kilpailu</t>
          </tg>
       </mg>
@@ -2164,7 +2164,7 @@
          <l pos="N">gaahtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kissa</t>
          </tg>
       </mg>
@@ -2174,7 +2174,7 @@
          <l pos="N">gaalla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aviomies</t>
          </tg>
       </mg>
@@ -2184,7 +2184,7 @@
          <l pos="N">gaalloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">otsa</t>
          </tg>
       </mg>
@@ -2194,7 +2194,7 @@
          <l pos="N">gaaloeværsjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kylmä kolea sadesää</t>
          </tg>
       </mg>
@@ -2204,7 +2204,7 @@
          <l pos="N">gaamege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kenkä</t>
          </tg>
       </mg>
@@ -2214,7 +2214,7 @@
          <l pos="N">gaamese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron koipinahka</t>
          </tg>
       </mg>
@@ -2224,7 +2224,7 @@
          <l pos="N">gaampe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kampa</t>
          </tg>
       </mg>
@@ -2234,7 +2234,7 @@
          <l pos="N">gaamsoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kampsu</t>
             <t pos="N">veripalttu</t>
          </tg>
@@ -2245,7 +2245,7 @@
          <l pos="N">gaaroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sytyke</t>
             <t pos="N">lastu</t>
          </tg>
@@ -2256,7 +2256,7 @@
          <l pos="N">gaarvoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaate</t>
          </tg>
       </mg>
@@ -2266,12 +2266,12 @@
          <l pos="N">gaasije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juoksutusmaha</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juoksute</t>
          </tg>
       </mg>
@@ -2281,7 +2281,7 @@
          <l pos="N">gaavalohke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kesy poro</t>
             <t pos="N">joka helposti seuraa ihmistä</t>
          </tg>
@@ -2292,7 +2292,7 @@
          <l pos="N">gaavelhkrievvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kesy poro</t>
             <t pos="N">joka helposti seuraa ihmistä</t>
          </tg>
@@ -2303,7 +2303,7 @@
          <l pos="N">gaavmoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">luola</t>
             <t pos="N">karhunpesä</t>
             <t pos="N">ketunpesä</t>
@@ -2315,7 +2315,7 @@
          <l pos="N">gaavtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">malja</t>
             <t pos="N">astia</t>
          </tg>
@@ -2326,7 +2326,7 @@
          <l pos="N">gaavtjetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pieni malja</t>
             <t pos="N">pieni astia</t>
          </tg>
@@ -2337,7 +2337,7 @@
          <l pos="N">gabpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tunturi</t>
             <t pos="N">pyöreälakinen vuori</t>
          </tg>
@@ -2348,7 +2348,7 @@
          <l pos="N">gaedtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ranta</t>
          </tg>
       </mg>
@@ -2358,7 +2358,7 @@
          <l pos="N">gaejnjele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kainalo</t>
          </tg>
       </mg>
@@ -2368,7 +2368,7 @@
          <l pos="N">gaejpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">leuka</t>
          </tg>
       </mg>
@@ -2378,7 +2378,7 @@
          <l pos="N">gaejvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">omia teitään kulkeva poro</t>
          </tg>
       </mg>
@@ -2388,7 +2388,7 @@
          <l pos="N">gaelpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vasikka</t>
          </tg>
       </mg>
@@ -2398,7 +2398,7 @@
          <l pos="N">gaeptie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">miehen lapintakki</t>
          </tg>
       </mg>
@@ -2408,7 +2408,7 @@
          <l pos="N">gaerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puuvati</t>
             <t pos="N">puuastia</t>
          </tg>
@@ -2419,7 +2419,7 @@
          <l pos="N">gaertene</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maatila</t>
          </tg>
       </mg>
@@ -2429,7 +2429,7 @@
          <l pos="N">galmeguelie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pakastekala</t>
          </tg>
       </mg>
@@ -2439,7 +2439,7 @@
          <l pos="N">galmetjaetsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kylmä vesi</t>
          </tg>
       </mg>
@@ -2449,7 +2449,7 @@
          <l pos="N">gamhtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kinnas</t>
             <t pos="N">hanska</t>
          </tg>
@@ -2460,7 +2460,7 @@
          <l pos="N">garretjaetsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viina</t>
          </tg>
       </mg>
@@ -2470,12 +2470,12 @@
          <l pos="N">gaskebiejjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">päivällinen</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">keskipäivä</t>
          </tg>
       </mg>
@@ -2485,7 +2485,7 @@
          <l pos="N">gaskejïjje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">keskiyö</t>
          </tg>
       </mg>
@@ -2495,7 +2495,7 @@
          <l pos="N">gaskevåhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">keskiviikko</t>
          </tg>
       </mg>
@@ -2505,7 +2505,7 @@
          <l pos="N">gasngese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kataja</t>
          </tg>
       </mg>
@@ -2515,7 +2515,7 @@
          <l pos="N">geajnoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tie</t>
          </tg>
       </mg>
@@ -2525,7 +2525,7 @@
          <l pos="N">geajnoebarkije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tietyöläinen</t>
          </tg>
       </mg>
@@ -2535,7 +2535,7 @@
          <l pos="N">gearketje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkukivi</t>
          </tg>
       </mg>
@@ -2545,7 +2545,7 @@
          <l pos="N">geegke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tynnyri</t>
             <t pos="N">astia</t>
          </tg>
@@ -2556,7 +2556,7 @@
          <l pos="N">geelle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aviomies</t>
             <t pos="N">mies</t>
          </tg>
@@ -2567,7 +2567,7 @@
          <l pos="N">gejhkiebearkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuivattu liha</t>
          </tg>
       </mg>
@@ -2577,7 +2577,7 @@
          <l pos="N">gejhkieguelie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuivattu kala</t>
          </tg>
       </mg>
@@ -2587,7 +2587,7 @@
          <l pos="N">gertjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">koski</t>
             <t pos="N">putous</t>
          </tg>
@@ -2598,7 +2598,7 @@
          <l pos="N">giebnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kahvipannu</t>
             <t pos="N">keittoastia</t>
          </tg>
@@ -2609,7 +2609,7 @@
          <l pos="N">giedtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poroaita</t>
          </tg>
       </mg>
@@ -2619,7 +2619,7 @@
          <l pos="N">gïeje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jälki</t>
             <t pos="N">kulkuura</t>
          </tg>
@@ -2630,7 +2630,7 @@
          <l pos="N">gïejetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkujälki</t>
          </tg>
       </mg>
@@ -2640,7 +2640,7 @@
          <l pos="N">gïeke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">käki</t>
          </tg>
       </mg>
@@ -2650,7 +2650,7 @@
          <l pos="N">gïele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kieli</t>
          </tg>
       </mg>
@@ -2660,7 +2660,7 @@
          <l pos="N">gïelekuvsje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kielikurssi</t>
          </tg>
       </mg>
@@ -2670,7 +2670,7 @@
          <l pos="N">gïerhkeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kehto</t>
             <t pos="N">komsio</t>
          </tg>
@@ -2681,7 +2681,7 @@
          <l pos="N">gierkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kivi</t>
          </tg>
       </mg>
@@ -2691,7 +2691,7 @@
          <l pos="N">giesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kesä</t>
          </tg>
       </mg>
@@ -2701,7 +2701,7 @@
          <l pos="N">giesielaante</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kesäalue</t>
             <t pos="N">kesälaidun(maa)</t>
          </tg>
@@ -2712,7 +2712,7 @@
          <l pos="N">gïete</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">käsi</t>
          </tg>
       </mg>
@@ -2722,7 +2722,7 @@
          <l pos="N">gïeteværjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ranneketju</t>
          </tg>
       </mg>
@@ -2732,7 +2732,7 @@
          <l pos="N">gietjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">köydenpää</t>
          </tg>
       </mg>
@@ -2742,7 +2742,7 @@
          <l pos="N">gievlie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rengas</t>
          </tg>
       </mg>
@@ -2752,7 +2752,7 @@
          <l pos="N">gïhpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kerma</t>
          </tg>
       </mg>
@@ -2762,7 +2762,7 @@
          <l pos="N">gïhpelaejpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kermakakku</t>
          </tg>
       </mg>
@@ -2772,7 +2772,7 @@
          <l pos="N">gïjre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kevät</t>
          </tg>
       </mg>
@@ -2782,7 +2782,7 @@
          <l pos="N">gïjredaelvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kevättalvi</t>
          </tg>
       </mg>
@@ -2792,7 +2792,7 @@
          <l pos="N">gïjregiesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kevätkesä</t>
          </tg>
       </mg>
@@ -2802,7 +2802,7 @@
          <l pos="N">gïjreniestie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kevätteuras</t>
          </tg>
       </mg>
@@ -2812,7 +2812,7 @@
          <l pos="N">gïknjele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kyynel</t>
          </tg>
       </mg>
@@ -2822,17 +2822,17 @@
          <l pos="N">gïpte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puikkari</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puinen verkon koho</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">alapaulan paino</t>
          </tg>
       </mg>
@@ -2842,7 +2842,7 @@
          <l pos="N">gïrre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuori</t>
             <t pos="N">kaarna</t>
          </tg>
@@ -2853,7 +2853,7 @@
          <l pos="N">girtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lentokone</t>
          </tg>
       </mg>
@@ -2863,7 +2863,7 @@
          <l pos="N">goebpere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sieni</t>
          </tg>
       </mg>
@@ -2873,7 +2873,7 @@
          <l pos="N">guakedh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">päivänpaiste</t>
          </tg>
       </mg>
@@ -2883,7 +2883,7 @@
          <l pos="N">goelke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">karva</t>
          </tg>
       </mg>
@@ -2893,7 +2893,7 @@
          <l pos="N">goelkegaamege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">karvakenkä</t>
             <t pos="N">turkiskenkä</t>
          </tg>
@@ -2904,7 +2904,7 @@
          <l pos="N">goenehthmåvhka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">toppahousut</t>
             <t pos="N">lämpöhousut</t>
          </tg>
@@ -2915,7 +2915,7 @@
          <l pos="N">goenehthtjohpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">toppapipo</t>
             <t pos="N">lämpöpipo</t>
          </tg>
@@ -2926,7 +2926,7 @@
          <l pos="N">goenehthvaanhtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">toppalapanen</t>
             <t pos="N">lämpölapanen</t>
          </tg>
@@ -2937,7 +2937,7 @@
          <l pos="N">goerne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mylly</t>
          </tg>
       </mg>
@@ -2947,7 +2947,7 @@
          <l pos="N">goerpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">epäonni</t>
          </tg>
       </mg>
@@ -2957,7 +2957,7 @@
          <l pos="N">goerve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">makkara</t>
          </tg>
       </mg>
@@ -2967,7 +2967,7 @@
          <l pos="N">goese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuusi(puu)</t>
          </tg>
       </mg>
@@ -2977,7 +2977,7 @@
          <l pos="N">goeve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joulukuu</t>
          </tg>
       </mg>
@@ -2987,7 +2987,7 @@
          <l pos="N">golke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lokakuu</t>
          </tg>
       </mg>
@@ -2997,7 +2997,7 @@
          <l pos="N">gossehts</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">yskä</t>
          </tg>
       </mg>
@@ -3007,7 +3007,7 @@
          <l pos="N">guapa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sukka</t>
          </tg>
       </mg>
@@ -3017,12 +3017,12 @@
          <l pos="N">guehpere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kynsi</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kopara</t>
          </tg>
       </mg>
@@ -3032,12 +3032,12 @@
          <l pos="N">guejmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kanssa</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kumppani</t>
             <t pos="N">toveri</t>
          </tg>
@@ -3048,7 +3048,7 @@
          <l pos="N">guelie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kala</t>
          </tg>
       </mg>
@@ -3058,7 +3058,7 @@
          <l pos="N">gueliebarkije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalatyöntekijä</t>
          </tg>
       </mg>
@@ -3068,7 +3068,7 @@
          <l pos="N">gueliebarkoesijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalatehdas</t>
          </tg>
       </mg>
@@ -3078,7 +3078,7 @@
          <l pos="N">gueliebïjle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalaauto</t>
          </tg>
       </mg>
@@ -3088,7 +3088,7 @@
          <l pos="N">gueliefealloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalalauta</t>
          </tg>
       </mg>
@@ -3098,7 +3098,7 @@
          <l pos="N">guelhtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kylmä sää kesällä</t>
          </tg>
       </mg>
@@ -3108,7 +3108,7 @@
          <l pos="N">guelmiedahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">peili</t>
          </tg>
       </mg>
@@ -3118,7 +3118,7 @@
          <l pos="N">guelpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lattia</t>
          </tg>
       </mg>
@@ -3128,7 +3128,7 @@
          <l pos="N">guessie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vieras</t>
          </tg>
       </mg>
@@ -3138,12 +3138,12 @@
          <l pos="N">guevtele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tunturi(paljakka)</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">järvenselkä</t>
          </tg>
       </mg>
@@ -3153,7 +3153,7 @@
          <l pos="N">guksie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pahkakuppi</t>
             <t pos="N">kuksa</t>
          </tg>
@@ -3164,7 +3164,7 @@
          <l pos="N">gullievæhta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kultamitali</t>
          </tg>
       </mg>
@@ -3174,7 +3174,7 @@
          <l pos="N">gullieværjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kultakoru</t>
          </tg>
       </mg>
@@ -3184,7 +3184,7 @@
          <l pos="N">guvvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuva</t>
          </tg>
       </mg>
@@ -3194,7 +3194,7 @@
          <l pos="N">gyrhkesjimmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jumalanpalvelus</t>
          </tg>
       </mg>
@@ -3204,7 +3204,7 @@
          <l pos="N">gyölleme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maksoittunut veri</t>
          </tg>
       </mg>
@@ -3214,7 +3214,7 @@
          <l pos="N">gæjhtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kiitos</t>
          </tg>
       </mg>
@@ -3224,7 +3224,7 @@
          <l pos="N">gærhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kirkko</t>
          </tg>
       </mg>
@@ -3234,7 +3234,7 @@
          <l pos="N">gærhkoenbealloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kirkonkello</t>
          </tg>
       </mg>
@@ -3244,7 +3244,7 @@
          <l pos="N">gærja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kirja</t>
          </tg>
       </mg>
@@ -3254,7 +3254,7 @@
          <l pos="N">gærjabusse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kirja(sto)auto</t>
          </tg>
       </mg>
@@ -3264,7 +3264,7 @@
          <l pos="N">gærjagåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kirjasto</t>
          </tg>
       </mg>
@@ -3274,7 +3274,7 @@
          <l pos="N">gæstoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">arkku</t>
          </tg>
       </mg>
@@ -3284,7 +3284,7 @@
          <l pos="N">gööleme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalastus</t>
          </tg>
       </mg>
@@ -3294,7 +3294,7 @@
          <l pos="N">göölije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalastaja</t>
          </tg>
       </mg>
@@ -3304,7 +3304,7 @@
          <l pos="N">gööthsijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kotapaikka</t>
          </tg>
       </mg>
@@ -3314,12 +3314,12 @@
          <l pos="N">gåaltoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lumipyry</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lumivyöry</t>
          </tg>
       </mg>
@@ -3329,7 +3329,7 @@
          <l pos="N">gåaltoehovme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sakea lumipyry</t>
          </tg>
       </mg>
@@ -3339,7 +3339,7 @@
          <l pos="N">gåamalohke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>märehtijistä</re>
             <t pos="N">umpisuoli</t>
          </tg>
@@ -3350,7 +3350,7 @@
          <l pos="N">gåassoehtæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kestitsijä</t>
             <t pos="N">isäntä</t>
          </tg>
@@ -3361,7 +3361,7 @@
          <l pos="N">gåatome</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">laidun</t>
          </tg>
       </mg>
@@ -3371,7 +3371,7 @@
          <l pos="N">gåeblie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hanki</t>
             <t pos="N">kinos</t>
          </tg>
@@ -3382,7 +3382,7 @@
          <l pos="N">gåeskie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">äidin isosisko</t>
          </tg>
       </mg>
@@ -3392,7 +3392,7 @@
          <l pos="N">gåeskuve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sisarenlapsi (gåeskielle)</t>
          </tg>
       </mg>
@@ -3402,13 +3402,13 @@
          <l pos="N">gåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">talo</t>
             <t pos="N">koti</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kota</t>
          </tg>
       </mg>
@@ -3418,7 +3418,7 @@
          <l pos="N">gåetiebarkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kotityö</t>
          </tg>
       </mg>
@@ -3428,7 +3428,7 @@
          <l pos="N">gåetieietnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">emäntä</t>
          </tg>
       </mg>
@@ -3438,7 +3438,7 @@
          <l pos="N">gåetieluhpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">majoitus</t>
             <t pos="N">yösija</t>
          </tg>
@@ -3449,7 +3449,7 @@
          <l pos="N">gåetieneastetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kotitarveporo</t>
          </tg>
       </mg>
@@ -3459,7 +3459,7 @@
          <l pos="N">gåetiesijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kotasija</t>
             <t pos="N">talon paikka</t>
          </tg>
@@ -3470,12 +3470,12 @@
          <l pos="N">gåmma</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaimo</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">eukko</t>
          </tg>
       </mg>
@@ -3485,7 +3485,7 @@
          <l pos="N">gåmpoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">väinönputkesta ja kirnupiimästä valmistettu ruoka</t>
          </tg>
       </mg>
@@ -3495,7 +3495,7 @@
          <l pos="N">gåptoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lapintakki</t>
          </tg>
       </mg>
@@ -3505,7 +3505,7 @@
          <l pos="N">haabpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron etujalan ylempi ydinluu</t>
          </tg>
       </mg>
@@ -3515,7 +3515,7 @@
          <l pos="N">haarhtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">astia</t>
             <t pos="N">taloustarvike</t>
          </tg>
@@ -3526,7 +3526,7 @@
          <l pos="N">haaskoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jäte</t>
             <t pos="N">roska</t>
          </tg>
@@ -3537,7 +3537,7 @@
          <l pos="N">haelsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hopeakaulus (naisen puvussa)</t>
          </tg>
       </mg>
@@ -3547,7 +3547,7 @@
          <l pos="N">haepkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">haukka</t>
          </tg>
       </mg>
@@ -3557,7 +3557,7 @@
          <l pos="N">haermie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kulmakarvat</t>
          </tg>
       </mg>
@@ -3567,7 +3567,7 @@
          <l pos="N">haevtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aukko</t>
             <t pos="N">kuilu</t>
             <t pos="N">syvänne</t>
@@ -3579,7 +3579,7 @@
          <l pos="N">hahtjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mökki</t>
          </tg>
       </mg>
@@ -3589,7 +3589,7 @@
          <l pos="N">healma</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hame</t>
          </tg>
       </mg>
@@ -3599,7 +3599,7 @@
          <l pos="N">hearra</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pappi</t>
          </tg>
       </mg>
@@ -3609,7 +3609,7 @@
          <l pos="N">hektove</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sata grammaa</t>
          </tg>
       </mg>
@@ -3619,7 +3619,7 @@
          <l pos="N">heelsege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">terveinen</t>
          </tg>
       </mg>
@@ -3629,7 +3629,7 @@
          <l pos="N">herrehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tikku</t>
             <t pos="N">keppi</t>
             <t pos="N">puikko</t>
@@ -3642,7 +3642,7 @@
          <l pos="N">hïegke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">henki</t>
          </tg>
       </mg>
@@ -3652,7 +3652,7 @@
          <l pos="N">hïeje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">häät</t>
          </tg>
       </mg>
@@ -3662,7 +3662,7 @@
          <l pos="N">hïejeguvvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hääkuva</t>
          </tg>
       </mg>
@@ -3672,7 +3672,7 @@
          <l pos="N">hïejme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">koti</t>
          </tg>
       </mg>
@@ -3682,7 +3682,7 @@
          <l pos="N">hïelje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pyhä(päivä)</t>
          </tg>
       </mg>
@@ -3692,7 +3692,7 @@
          <l pos="N">hierkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hevonen</t>
          </tg>
       </mg>
@@ -3702,7 +3702,7 @@
          <l pos="N">hïngse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">varpu</t>
          </tg>
       </mg>
@@ -3712,7 +3712,7 @@
          <l pos="N">hïngsedålle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">varputuli</t>
          </tg>
       </mg>
@@ -3722,7 +3722,7 @@
          <l pos="N">hoksehtæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tarjoilija</t>
          </tg>
       </mg>
@@ -3732,7 +3732,7 @@
          <l pos="N">horhtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">1 1/3 – 2 1/3 vuotias urosporo</t>
          </tg>
       </mg>
@@ -3742,7 +3742,7 @@
          <l pos="N">hosbåanta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maanviljelijä</t>
          </tg>
       </mg>
@@ -3752,7 +3752,7 @@
          <l pos="N">hurrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">urosteeri</t>
          </tg>
       </mg>
@@ -3762,7 +3762,7 @@
          <l pos="N">hæhtjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mökki</t>
          </tg>
       </mg>
@@ -3772,7 +3772,7 @@
          <l pos="N">håagke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ongenkoukku</t>
          </tg>
       </mg>
@@ -3782,7 +3782,7 @@
          <l pos="N">håanghke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suvanto</t>
             <t pos="N">jurmu</t>
          </tg>
@@ -3793,7 +3793,7 @@
          <l pos="N">ïebne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aines</t>
          </tg>
       </mg>
@@ -3803,7 +3803,7 @@
          <l pos="N">ïedtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">into</t>
          </tg>
       </mg>
@@ -3813,7 +3813,7 @@
          <l pos="N">iehkede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ilta</t>
          </tg>
       </mg>
@@ -3823,7 +3823,7 @@
          <l pos="N">iehkedsbiejjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">iltapäivä</t>
          </tg>
       </mg>
@@ -3833,7 +3833,7 @@
          <l pos="N">ïentje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">niitty</t>
          </tg>
       </mg>
@@ -3843,7 +3843,7 @@
          <l pos="N">ïehterdahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kylki(pala)</t>
          </tg>
       </mg>
@@ -3853,7 +3853,7 @@
          <l pos="N">ietnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">emo</t>
          </tg>
       </mg>
@@ -3863,7 +3863,7 @@
          <l pos="N">ietniengïele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">äidinkieli</t>
          </tg>
       </mg>
@@ -3873,7 +3873,7 @@
          <l pos="N">jaavvoeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jauho(t)</t>
          </tg>
       </mg>
@@ -3883,7 +3883,7 @@
          <l pos="N">jaepie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vuosi</t>
          </tg>
       </mg>
@@ -3893,7 +3893,7 @@
          <l pos="N">jaepieboelhke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vuodenaika</t>
          </tg>
       </mg>
@@ -3903,7 +3903,7 @@
          <l pos="N">jaevrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">järvi</t>
          </tg>
       </mg>
@@ -3913,7 +3913,7 @@
          <l pos="N">jalloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">korkeus</t>
          </tg>
       </mg>
@@ -3923,7 +3923,7 @@
          <l pos="N">jeestere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hiiva</t>
          </tg>
       </mg>
@@ -3933,7 +3933,7 @@
          <l pos="N">jiekie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isän isoveli</t>
          </tg>
       </mg>
@@ -3943,7 +3943,7 @@
          <l pos="N">jiekuve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkuveljen lapsi (jiekielle)</t>
          </tg>
       </mg>
@@ -3953,7 +3953,7 @@
          <l pos="N">jieleme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">elämä</t>
             <t pos="N">elo</t>
          </tg>
@@ -3964,7 +3964,7 @@
          <l pos="N">jïenehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suurin osa</t>
          </tg>
       </mg>
@@ -3974,7 +3974,7 @@
          <l pos="N">jïenge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jää</t>
          </tg>
       </mg>
@@ -3984,7 +3984,7 @@
          <l pos="N">jïevehtasse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lakana</t>
          </tg>
       </mg>
@@ -3994,7 +3994,7 @@
          <l pos="N">jïjje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">yö</t>
          </tg>
       </mg>
@@ -4004,12 +4004,12 @@
          <l pos="N">jïjjegåårtese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">yösija</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">yönseutu</t>
          </tg>
       </mg>
@@ -4019,7 +4019,7 @@
          <l pos="N">jijmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">täti (isän tai äidin veljen vaimo)</t>
          </tg>
       </mg>
@@ -4029,7 +4029,7 @@
          <l pos="N">jijmuve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aviomiehen veljen tai siskon lapsi (jijmielle)</t>
          </tg>
       </mg>
@@ -4039,7 +4039,7 @@
          <l pos="N">jïjse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tunturipöllö</t>
          </tg>
       </mg>
@@ -4049,7 +4049,7 @@
          <l pos="N">jillehtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">länsipuoli</t>
          </tg>
       </mg>
@@ -4059,7 +4059,7 @@
          <l pos="N">jirrede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">huomispäivä</t>
          </tg>
       </mg>
@@ -4069,7 +4069,7 @@
          <l pos="N">jïrreme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ydin(luu)</t>
          </tg>
       </mg>
@@ -4079,7 +4079,7 @@
          <l pos="N">johkebeala</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joen ranta</t>
          </tg>
       </mg>
@@ -4089,7 +4089,7 @@
          <l pos="N">johketje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkujoki</t>
          </tg>
       </mg>
@@ -4099,7 +4099,7 @@
          <l pos="N">joknge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puolukka</t>
          </tg>
       </mg>
@@ -4109,7 +4109,7 @@
          <l pos="N">joptse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">keitto</t>
             <t pos="N">velli</t>
          </tg>
@@ -4120,7 +4120,7 @@
          <l pos="N">jovkemes</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juoma</t>
             <t pos="N">juotava</t>
          </tg>
@@ -4131,7 +4131,7 @@
          <l pos="N">jovnesåhkoeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juhannus</t>
          </tg>
       </mg>
@@ -4141,7 +4141,7 @@
          <l pos="N">juelkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jalka</t>
          </tg>
       </mg>
@@ -4151,7 +4151,7 @@
          <l pos="N">jueskie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kylmä sää</t>
          </tg>
       </mg>
@@ -4161,7 +4161,7 @@
          <l pos="N">juvre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">petoeläin</t>
          </tg>
       </mg>
@@ -4171,7 +4171,7 @@
          <l pos="N">jyöne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">eno</t>
             <t pos="N">miesserkku</t>
          </tg>
@@ -4182,7 +4182,7 @@
          <l pos="N">jåarhkeskuvle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lukio</t>
          </tg>
       </mg>
@@ -4192,7 +4192,7 @@
          <l pos="N">jåvle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joulu</t>
          </tg>
       </mg>
@@ -4202,7 +4202,7 @@
          <l pos="N">jåvleaajja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jouluukko</t>
             <t pos="N">joulupukki</t>
          </tg>
@@ -4213,7 +4213,7 @@
          <l pos="N">jåvlebiejjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joulupäivä</t>
          </tg>
       </mg>
@@ -4223,7 +4223,7 @@
          <l pos="N">jåvle-eejehtalleme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joululoma</t>
          </tg>
       </mg>
@@ -4233,7 +4233,7 @@
          <l pos="N">jåvlegoese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joulukuusi</t>
          </tg>
       </mg>
@@ -4243,7 +4243,7 @@
          <l pos="N">jåvlekåarhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joulukortti</t>
          </tg>
       </mg>
@@ -4253,7 +4253,7 @@
          <l pos="N">jåvlemoere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joulupuu</t>
          </tg>
       </mg>
@@ -4263,7 +4263,7 @@
          <l pos="N">jåvlevadtese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joululahja</t>
          </tg>
       </mg>
@@ -4273,7 +4273,7 @@
          <l pos="N">kaarre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mies</t>
          </tg>
       </mg>
@@ -4283,7 +4283,7 @@
          <l pos="N">kilomeetere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kilometri</t>
          </tg>
       </mg>
@@ -4293,7 +4293,7 @@
          <l pos="N">klaahka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sauva</t>
          </tg>
       </mg>
@@ -4303,7 +4303,7 @@
          <l pos="N">klaasetjelmieh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">silmälasit</t>
          </tg>
       </mg>
@@ -4313,7 +4313,7 @@
          <l pos="N">klaase</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ikkuna</t>
          </tg>
       </mg>
@@ -4323,7 +4323,7 @@
          <l pos="N">klaasse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">luokka</t>
          </tg>
       </mg>
@@ -4333,7 +4333,7 @@
          <l pos="N">klaerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">väri</t>
          </tg>
       </mg>
@@ -4343,12 +4343,12 @@
          <l pos="N">klovse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">albiinoporo</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaalea(hiuksinen)</t>
          </tg>
       </mg>
@@ -4358,7 +4358,7 @@
          <l pos="N">kontovre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">konttori</t>
             <t pos="N">toimisto</t>
          </tg>
@@ -4369,7 +4369,7 @@
          <l pos="N">kontovrebarkije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">toimistotyöntekijä</t>
          </tg>
       </mg>
@@ -4379,7 +4379,7 @@
          <l pos="N">kontovrebarkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">toimistotyö</t>
          </tg>
       </mg>
@@ -4389,7 +4389,7 @@
          <l pos="N">kraanna</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">naapuri</t>
          </tg>
       </mg>
@@ -4399,12 +4399,12 @@
          <l pos="N">kraesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">heinä</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kasvi</t>
          </tg>
       </mg>
@@ -4414,7 +4414,7 @@
          <l pos="N">kraeviesjovje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">harmaanvalkoinen poro</t>
          </tg>
       </mg>
@@ -4424,7 +4424,7 @@
          <l pos="N">krievvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poroelo</t>
             <t pos="N">porotokka</t>
          </tg>
@@ -4435,7 +4435,7 @@
          <l pos="N">krijhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">liitu</t>
          </tg>
       </mg>
@@ -4445,7 +4445,7 @@
          <l pos="N">krist’aehtjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kummisetä</t>
          </tg>
       </mg>
@@ -4455,7 +4455,7 @@
          <l pos="N">krist’ietnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kummitäti</t>
          </tg>
       </mg>
@@ -4465,7 +4465,7 @@
          <l pos="N">kroehkemasjijne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaivinkone</t>
          </tg>
       </mg>
@@ -4475,7 +4475,7 @@
          <l pos="N">krovhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pata</t>
          </tg>
       </mg>
@@ -4485,7 +4485,7 @@
          <l pos="N">kråvna</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kruunu</t>
          </tg>
       </mg>
@@ -4495,7 +4495,7 @@
          <l pos="N">kråvnoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kruunu</t>
          </tg>
       </mg>
@@ -4505,7 +4505,7 @@
          <l pos="N">kåahpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuppi</t>
          </tg>
       </mg>
@@ -4515,7 +4515,7 @@
          <l pos="N">kåalhta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paistinpannu</t>
          </tg>
       </mg>
@@ -4525,7 +4525,7 @@
          <l pos="N">kåarhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kortti</t>
          </tg>
       </mg>
@@ -4535,7 +4535,7 @@
          <l pos="N">kåava</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">porstua</t>
             <t pos="N">eteinen</t>
          </tg>
@@ -4546,7 +4546,7 @@
          <l pos="N">laadtege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hilla</t>
             <t pos="N">suomuurain</t>
          </tg>
@@ -4557,7 +4557,7 @@
          <l pos="N">laadtegenlaste</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suomuuraimen lehti</t>
          </tg>
       </mg>
@@ -4567,7 +4567,7 @@
          <l pos="N">laadthbïekere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hillasuo</t>
          </tg>
       </mg>
@@ -4577,7 +4577,7 @@
          <l pos="N">laadthpluevie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hillasuo</t>
          </tg>
       </mg>
@@ -4587,7 +4587,7 @@
          <l pos="N">laahkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sukulaisuussana</t>
          </tg>
       </mg>
@@ -4597,7 +4597,7 @@
          <l pos="N">laante</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maa</t>
             <t pos="N">alue</t>
          </tg>
@@ -4608,12 +4608,12 @@
          <l pos="N">laatege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">latu</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">moottorikelkan jälki</t>
          </tg>
       </mg>
@@ -4623,7 +4623,7 @@
          <l pos="N">laavkome</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaste</t>
          </tg>
       </mg>
@@ -4633,7 +4633,7 @@
          <l pos="N">laavloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">laulu</t>
          </tg>
       </mg>
@@ -4643,7 +4643,7 @@
          <l pos="N">laavlomegærja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">laulukirja</t>
          </tg>
       </mg>
@@ -4653,7 +4653,7 @@
          <l pos="N">laavadahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lauantai</t>
          </tg>
       </mg>
@@ -4663,7 +4663,7 @@
          <l pos="N">laavvadahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lauantai</t>
          </tg>
       </mg>
@@ -4673,7 +4673,7 @@
          <l pos="N">ladtetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkulintu</t>
          </tg>
       </mg>
@@ -4683,7 +4683,7 @@
          <l pos="N">laedtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maanviljelijä</t>
             <t pos="N">talollinen</t>
             <t pos="N">eisaamelainen</t>
@@ -4695,7 +4695,7 @@
          <l pos="N">laejkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lanka</t>
          </tg>
       </mg>
@@ -4705,7 +4705,7 @@
          <l pos="N">laejpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">litteä leipä</t>
          </tg>
       </mg>
@@ -4715,7 +4715,7 @@
          <l pos="N">laejpietjaalege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">leiväntekoohje</t>
             <t pos="N">resepti</t>
          </tg>
@@ -4726,7 +4726,7 @@
          <l pos="N">laevie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sukulainen</t>
             <t pos="N">pikkuserkku</t>
          </tg>
@@ -4737,7 +4737,7 @@
          <l pos="N">laeviehkadtjh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkuserkut (keskenään)</t>
          </tg>
       </mg>
@@ -4747,7 +4747,7 @@
          <l pos="N">laste</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lehti</t>
          </tg>
       </mg>
@@ -4757,7 +4757,7 @@
          <l pos="N">leahpa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">matkalippu</t>
          </tg>
       </mg>
@@ -4767,7 +4767,7 @@
          <l pos="N">leavloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paino</t>
          </tg>
       </mg>
@@ -4777,7 +4777,7 @@
          <l pos="N">ledtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lintu</t>
          </tg>
       </mg>
@@ -4787,7 +4787,7 @@
          <l pos="N">leekedæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">teurastaja</t>
          </tg>
       </mg>
@@ -4797,7 +4797,7 @@
          <l pos="N">leessemebïjle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuormaauto</t>
          </tg>
       </mg>
@@ -4807,7 +4807,7 @@
          <l pos="N">librie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maksa</t>
          </tg>
       </mg>
@@ -4817,7 +4817,7 @@
          <l pos="N">liejpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">leppä</t>
          </tg>
       </mg>
@@ -4827,7 +4827,7 @@
          <l pos="N">lïeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">liemi</t>
          </tg>
       </mg>
@@ -4837,12 +4837,12 @@
          <l pos="N">liemkede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">leuto (sää)</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suoja(sää, keli)</t>
          </tg>
       </mg>
@@ -4852,7 +4852,7 @@
          <l pos="N">lïepse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mahapaita</t>
             <t pos="N">mahan ympärillä oleva rasva</t>
          </tg>
@@ -4863,7 +4863,7 @@
          <l pos="N">lihpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kallionkieleke</t>
          </tg>
       </mg>
@@ -4873,7 +4873,7 @@
          <l pos="N">lihtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">astia</t>
          </tg>
       </mg>
@@ -4883,7 +4883,7 @@
          <l pos="N">lihtievåarhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">astiakaappi</t>
          </tg>
       </mg>
@@ -4893,7 +4893,7 @@
          <l pos="N">lïhtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jäsen</t>
             <t pos="N">nivel</t>
             <t pos="N">selkänikama</t>
@@ -4905,7 +4905,7 @@
          <l pos="N">lijnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">liina</t>
          </tg>
       </mg>
@@ -4915,7 +4915,7 @@
          <l pos="N">lijniegaalloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">valkopäinen poro</t>
          </tg>
       </mg>
@@ -4925,7 +4925,7 @@
          <l pos="N">loedte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">porojen kulkuura lumessa</t>
          </tg>
       </mg>
@@ -4935,7 +4935,7 @@
          <l pos="N">loekte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lahti</t>
          </tg>
       </mg>
@@ -4945,7 +4945,7 @@
          <l pos="N">loese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lohi</t>
          </tg>
       </mg>
@@ -4955,7 +4955,7 @@
          <l pos="N">loevtenjidtjieh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">utareet</t>
             <t pos="N">jotka ovat niin lähekkäin että ne voi lypsää yhtaikaa</t>
          </tg>
@@ -4966,7 +4966,7 @@
          <l pos="N">lohkemegærja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lukukirja</t>
          </tg>
       </mg>
@@ -4976,7 +4976,7 @@
          <l pos="N">lohkehtæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">opettaja</t>
          </tg>
       </mg>
@@ -4986,7 +4986,7 @@
          <l pos="N">lopme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lumi</t>
          </tg>
       </mg>
@@ -4996,7 +4996,7 @@
          <l pos="N">luehkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kansi</t>
          </tg>
       </mg>
@@ -5006,13 +5006,13 @@
          <l pos="N">luhpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lupa</t>
             <t pos="N">lupaus</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sallittu</t>
          </tg>
       </mg>
@@ -5022,12 +5022,12 @@
          <l pos="N">luste</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">huvi(tus)</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hauska</t>
          </tg>
       </mg>
@@ -5037,7 +5037,7 @@
          <l pos="N">læhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">onni</t>
          </tg>
       </mg>
@@ -5047,7 +5047,7 @@
          <l pos="N">lööhpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vasana tiineeksi tullut poro</t>
          </tg>
       </mg>
@@ -5057,7 +5057,7 @@
          <l pos="N">lööke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sipuli</t>
          </tg>
       </mg>
@@ -5067,7 +5067,7 @@
          <l pos="N">löövje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tee</t>
          </tg>
       </mg>
@@ -5077,7 +5077,7 @@
          <l pos="N">låajtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">loito</t>
             <t pos="N">kodan (sivustan) lattia</t>
          </tg>
@@ -5088,7 +5088,7 @@
          <l pos="N">låavthgåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">loudekota</t>
          </tg>
       </mg>
@@ -5098,7 +5098,7 @@
          <l pos="N">låhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lukukappale</t>
          </tg>
       </mg>
@@ -5108,7 +5108,7 @@
          <l pos="N">låpsoedahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kosteus</t>
          </tg>
       </mg>
@@ -5118,7 +5118,7 @@
          <l pos="N">låvledhvearelde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">itätuuli</t>
          </tg>
       </mg>
@@ -5128,7 +5128,7 @@
          <l pos="N">maadteraahka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">esiäiti</t>
          </tg>
       </mg>
@@ -5138,7 +5138,7 @@
          <l pos="N">maadteraajja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">esiisä</t>
          </tg>
       </mg>
@@ -5148,7 +5148,7 @@
          <l pos="N">maadthgietjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tyviosa</t>
          </tg>
       </mg>
@@ -5158,7 +5158,7 @@
          <l pos="N">maadthskuvle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">peruskoulu</t>
          </tg>
       </mg>
@@ -5168,7 +5168,7 @@
          <l pos="N">maahtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">taito</t>
             <t pos="N">oppi</t>
             <t pos="N">opetus</t>
@@ -5180,7 +5180,7 @@
          <l pos="N">maajke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lämmin auringonpaisteeton sää</t>
          </tg>
       </mg>
@@ -5190,7 +5190,7 @@
          <l pos="N">maajsoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">taakka</t>
             <t pos="N">kantamus</t>
          </tg>
@@ -5201,7 +5201,7 @@
          <l pos="N">maake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lanko</t>
             <t pos="N">setä (tädin tai isosiskon aviomies)</t>
          </tg>
@@ -5212,7 +5212,7 @@
          <l pos="N">maaketje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaimon pikkuveli tai sisaren poika</t>
          </tg>
       </mg>
@@ -5222,7 +5222,7 @@
          <l pos="N">maaksoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maksu</t>
          </tg>
       </mg>
@@ -5232,7 +5232,7 @@
          <l pos="N">maalese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ateria</t>
          </tg>
       </mg>
@@ -5242,7 +5242,7 @@
          <l pos="N">maana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lapsi</t>
          </tg>
       </mg>
@@ -5252,7 +5252,7 @@
          <l pos="N">maanabaelie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lapsuusaika</t>
          </tg>
       </mg>
@@ -5262,7 +5262,7 @@
          <l pos="N">maanageehtije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lastenhoitaja</t>
             <t pos="N">lastenvahti</t>
          </tg>
@@ -5273,7 +5273,7 @@
          <l pos="N">maanagïerte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lastentarha</t>
          </tg>
       </mg>
@@ -5283,7 +5283,7 @@
          <l pos="N">maarhke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">onkimato</t>
          </tg>
       </mg>
@@ -5293,13 +5293,13 @@
          <l pos="N">maelie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>eläimestä</re>
             <t pos="N">veri</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">koivunmahla</t>
          </tg>
       </mg>
@@ -5309,7 +5309,7 @@
          <l pos="N">maeliegaamsoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kampsu</t>
             <t pos="N">veripalttu</t>
          </tg>
@@ -5320,7 +5320,7 @@
          <l pos="N">maeliegoerve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">verimakkara</t>
          </tg>
       </mg>
@@ -5330,7 +5330,7 @@
          <l pos="N">mearoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">meri</t>
          </tg>
       </mg>
@@ -5340,7 +5340,7 @@
          <l pos="N">measetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkuvasa</t>
          </tg>
       </mg>
@@ -5350,7 +5350,7 @@
          <l pos="N">mielhkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maito</t>
          </tg>
       </mg>
@@ -5360,7 +5360,7 @@
          <l pos="N">mïelke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rinta(liha)</t>
          </tg>
       </mg>
@@ -5370,7 +5370,7 @@
          <l pos="N">mïerhke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">merkki</t>
          </tg>
       </mg>
@@ -5380,7 +5380,7 @@
          <l pos="N">miesehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaadin</t>
             <t pos="N">jolla on vasa</t>
          </tg>
@@ -5391,7 +5391,7 @@
          <l pos="N">miesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vasa</t>
          </tg>
       </mg>
@@ -5401,18 +5401,18 @@
          <l pos="N">mïetske</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">laho</t>
             <t pos="N">mätä</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mätäkuu</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">elokuu</t>
          </tg>
       </mg>
@@ -5422,7 +5422,7 @@
          <l pos="N">minngelesmiesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">naaraspuolinen vasa</t>
          </tg>
       </mg>
@@ -5432,7 +5432,7 @@
          <l pos="N">minngiegietjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">loppu(osa pää)</t>
          </tg>
       </mg>
@@ -5442,7 +5442,7 @@
          <l pos="N">minudte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">minuutti</t>
          </tg>
       </mg>
@@ -5452,7 +5452,7 @@
          <l pos="N">mijnuse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">miinus</t>
          </tg>
       </mg>
@@ -5462,7 +5462,7 @@
          <l pos="N">moehrele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isosiskon lapsi (muahralle)</t>
          </tg>
       </mg>
@@ -5472,7 +5472,7 @@
          <l pos="N">moenjehth</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">selkiytyvä sää</t>
          </tg>
       </mg>
@@ -5482,7 +5482,7 @@
          <l pos="N">moere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puu</t>
          </tg>
       </mg>
@@ -5492,7 +5492,7 @@
          <l pos="N">mojhtese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">muisto</t>
             <t pos="N">muisti</t>
          </tg>
@@ -5503,7 +5503,7 @@
          <l pos="N">motovre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">moottori</t>
          </tg>
       </mg>
@@ -5513,7 +5513,7 @@
          <l pos="N">muadta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">turkis(vaate)</t>
             <t pos="N">peski</t>
          </tg>
@@ -5524,7 +5524,7 @@
          <l pos="N">muahra</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">täti</t>
             <t pos="N">äidin pikkusisko</t>
          </tg>
@@ -5535,7 +5535,7 @@
          <l pos="N">mullie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pilvinen sää</t>
          </tg>
       </mg>
@@ -5545,7 +5545,7 @@
          <l pos="N">munnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">muna</t>
          </tg>
       </mg>
@@ -5555,7 +5555,7 @@
          <l pos="N">mænnja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">miniä</t>
          </tg>
       </mg>
@@ -5565,7 +5565,7 @@
          <l pos="N">möölege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mitta</t>
          </tg>
       </mg>
@@ -5575,7 +5575,7 @@
          <l pos="N">måanta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maanantai</t>
          </tg>
       </mg>
@@ -5585,12 +5585,12 @@
          <l pos="N">måaroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ruoto</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">luu</t>
          </tg>
       </mg>
@@ -5600,7 +5600,7 @@
          <l pos="N">måekie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sadekuuro</t>
          </tg>
       </mg>
@@ -5610,7 +5610,7 @@
          <l pos="N">måerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viha</t>
          </tg>
       </mg>
@@ -5620,7 +5620,7 @@
          <l pos="N">månnja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">käly</t>
          </tg>
       </mg>
@@ -5630,7 +5630,7 @@
          <l pos="N">måskoestjåelie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">umpisuoli</t>
          </tg>
       </mg>
@@ -5640,7 +5640,7 @@
          <l pos="N">måvhka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">housut</t>
          </tg>
       </mg>
@@ -5650,7 +5650,7 @@
          <l pos="N">naaloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">neula</t>
          </tg>
       </mg>
@@ -5660,12 +5660,12 @@
          <l pos="N">naehkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nahka</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalanpää</t>
          </tg>
       </mg>
@@ -5675,7 +5675,7 @@
          <l pos="N">naehpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nappo</t>
             <t pos="N">lypsyastia</t>
          </tg>
@@ -5686,7 +5686,7 @@
          <l pos="N">naepie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">napa</t>
          </tg>
       </mg>
@@ -5696,7 +5696,7 @@
          <l pos="N">nastemeklaahka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tulenkohennuskeppi</t>
             <t pos="N">hiilihanko</t>
          </tg>
@@ -5707,7 +5707,7 @@
          <l pos="N">neapede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sisaren lapsi (enolle)</t>
          </tg>
       </mg>
@@ -5717,7 +5717,7 @@
          <l pos="N">nejpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">veitsi</t>
          </tg>
       </mg>
@@ -5727,7 +5727,7 @@
          <l pos="N">nïere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hätä</t>
          </tg>
       </mg>
@@ -5737,7 +5737,7 @@
          <l pos="N">nïejte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tyttö</t>
          </tg>
       </mg>
@@ -5747,7 +5747,7 @@
          <l pos="N">nïejtetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tyttönen</t>
          </tg>
       </mg>
@@ -5757,12 +5757,12 @@
          <l pos="N">niestie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">teurasporo</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">eväs</t>
          </tg>
       </mg>
@@ -5772,7 +5772,7 @@
          <l pos="N">niestiesvoesse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">eväspussi</t>
          </tg>
       </mg>
@@ -5782,7 +5782,7 @@
          <l pos="N">nïrre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">työkalun varsi</t>
             <t pos="N">kädensija</t>
          </tg>
@@ -5793,7 +5793,7 @@
          <l pos="N">njaamelijnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pyyheliina</t>
          </tg>
       </mg>
@@ -5803,7 +5803,7 @@
          <l pos="N">njaelmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suu</t>
          </tg>
       </mg>
@@ -5813,7 +5813,7 @@
          <l pos="N">njamma</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nänni</t>
          </tg>
       </mg>
@@ -5823,7 +5823,7 @@
          <l pos="N">njeeruve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ruohoa kasvava ylätasanko</t>
          </tg>
       </mg>
@@ -5833,7 +5833,7 @@
          <l pos="N">njoeje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rinne</t>
             <t pos="N">myötämäki</t>
          </tg>
@@ -5844,7 +5844,7 @@
          <l pos="N">njoektjeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kieli</t>
          </tg>
       </mg>
@@ -5854,7 +5854,7 @@
          <l pos="N">njoevege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalanperkeet</t>
             <t pos="N">sisälmykset</t>
          </tg>
@@ -5865,7 +5865,7 @@
          <l pos="N">njuana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">niemeke (joenhaarojen välissä)</t>
          </tg>
       </mg>
@@ -5875,12 +5875,12 @@
          <l pos="N">njuenie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nenä</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">turpa</t>
          </tg>
       </mg>
@@ -5890,7 +5890,7 @@
          <l pos="N">njuvvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">virta</t>
          </tg>
       </mg>
@@ -5900,7 +5900,7 @@
          <l pos="N">njæssoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lämpimähkö auringonpaisteinen sää</t>
          </tg>
       </mg>
@@ -5910,7 +5910,7 @@
          <l pos="N">njåemele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jänis</t>
          </tg>
       </mg>
@@ -5920,7 +5920,7 @@
          <l pos="N">njååjte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rinne</t>
             <t pos="N">myötämäki</t>
          </tg>
@@ -5931,7 +5931,7 @@
          <l pos="N">noeve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sieni</t>
          </tg>
       </mg>
@@ -5941,7 +5941,7 @@
          <l pos="N">nomme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nimi</t>
          </tg>
       </mg>
@@ -5951,7 +5951,7 @@
          <l pos="N">nuehtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nuotta</t>
          </tg>
       </mg>
@@ -5961,7 +5961,7 @@
          <l pos="N">nuepie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tilaisuus</t>
             <t pos="N">mahdollisuus</t>
          </tg>
@@ -5972,7 +5972,7 @@
          <l pos="N">nyjsenæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nainen</t>
          </tg>
       </mg>
@@ -5982,7 +5982,7 @@
          <l pos="N">nååte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaimon veli tai sisaren tytär</t>
          </tg>
       </mg>
@@ -5992,7 +5992,7 @@
          <l pos="N">ohtjegåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vessa</t>
          </tg>
       </mg>
@@ -6002,7 +6002,7 @@
          <l pos="N">ohtseme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hakemus</t>
          </tg>
       </mg>
@@ -6012,7 +6012,7 @@
          <l pos="N">ohtsemebiejjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hakuaika</t>
             <t pos="N">määräpäivä</t>
          </tg>
@@ -6023,7 +6023,7 @@
          <l pos="N">okse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ovi</t>
          </tg>
       </mg>
@@ -6033,7 +6033,7 @@
          <l pos="N">onnegåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vessa</t>
          </tg>
       </mg>
@@ -6043,7 +6043,7 @@
          <l pos="N">onnevïelle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkuveli</t>
          </tg>
       </mg>
@@ -6053,7 +6053,7 @@
          <l pos="N">onneåabpa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkusisko</t>
          </tg>
       </mg>
@@ -6063,7 +6063,7 @@
          <l pos="N">orrejaepie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">uusi vuosi</t>
          </tg>
       </mg>
@@ -6073,7 +6073,7 @@
          <l pos="N">otnerasse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kotakorva (kaareva kodan rankapuu)</t>
          </tg>
       </mg>
@@ -6083,7 +6083,7 @@
          <l pos="N">ovjuvre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">peto(eläin)</t>
          </tg>
       </mg>
@@ -6093,7 +6093,7 @@
          <l pos="N">paagke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paketti</t>
          </tg>
       </mg>
@@ -6103,7 +6103,7 @@
          <l pos="N">paanne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paistinpannu</t>
          </tg>
       </mg>
@@ -6113,7 +6113,7 @@
          <l pos="N">paehpere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paperi</t>
          </tg>
       </mg>
@@ -6123,7 +6123,7 @@
          <l pos="N">peara</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">peruna</t>
          </tg>
       </mg>
@@ -6133,7 +6133,7 @@
          <l pos="N">plaerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sanomalehti</t>
          </tg>
       </mg>
@@ -6143,7 +6143,7 @@
          <l pos="N">plïehtjegaerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lautanen</t>
          </tg>
       </mg>
@@ -6153,7 +6153,7 @@
          <l pos="N">pluahta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lautta</t>
          </tg>
       </mg>
@@ -6163,7 +6163,7 @@
          <l pos="N">pluevie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suo</t>
          </tg>
       </mg>
@@ -6173,7 +6173,7 @@
          <l pos="N">plusse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">plus(sa)</t>
          </tg>
       </mg>
@@ -6183,7 +6183,7 @@
          <l pos="N">plæjjohke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lyijykynä</t>
          </tg>
       </mg>
@@ -6193,7 +6193,7 @@
          <l pos="N">prïejhke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">saarna</t>
          </tg>
       </mg>
@@ -6203,7 +6203,7 @@
          <l pos="N">prievie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kirje</t>
          </tg>
       </mg>
@@ -6213,7 +6213,7 @@
          <l pos="N">prïhtjege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kahvi(juoma)</t>
          </tg>
       </mg>
@@ -6223,7 +6223,7 @@
          <l pos="N">prïhtjegh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kahvi(pavut, jauhe)</t>
          </tg>
       </mg>
@@ -6233,7 +6233,7 @@
          <l pos="N">prïhtjhgiebnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kahvipannu</t>
          </tg>
       </mg>
@@ -6243,7 +6243,7 @@
          <l pos="N">prïhtjhgåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kahvila</t>
          </tg>
       </mg>
@@ -6253,7 +6253,7 @@
          <l pos="N">pruvre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">häät</t>
          </tg>
       </mg>
@@ -6263,7 +6263,7 @@
          <l pos="N">pruvrese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">morsian</t>
          </tg>
       </mg>
@@ -6273,7 +6273,7 @@
          <l pos="N">pruvvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">silta</t>
          </tg>
       </mg>
@@ -6283,7 +6283,7 @@
          <l pos="N">pæhperh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pippuri</t>
          </tg>
       </mg>
@@ -6293,7 +6293,7 @@
          <l pos="N">pååjke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poika</t>
          </tg>
       </mg>
@@ -6303,7 +6303,7 @@
          <l pos="N">påaske</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pääsiäinen</t>
          </tg>
       </mg>
@@ -6313,7 +6313,7 @@
          <l pos="N">påaste</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">posti</t>
          </tg>
       </mg>
@@ -6323,7 +6323,7 @@
          <l pos="N">påastegåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">postitalo</t>
          </tg>
       </mg>
@@ -6333,7 +6333,7 @@
          <l pos="N">raarhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poroerotus</t>
          </tg>
       </mg>
@@ -6343,7 +6343,7 @@
          <l pos="N">raavnije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pihlaja</t>
          </tg>
       </mg>
@@ -6353,7 +6353,7 @@
          <l pos="N">raavre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rautu</t>
          </tg>
       </mg>
@@ -6363,7 +6363,7 @@
          <l pos="N">raedtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">reuna</t>
             <t pos="N">syrjä</t>
          </tg>
@@ -6374,7 +6374,7 @@
          <l pos="N">raeffie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rauha</t>
          </tg>
       </mg>
@@ -6384,7 +6384,7 @@
          <l pos="N">raejkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">reikä</t>
          </tg>
       </mg>
@@ -6394,7 +6394,7 @@
          <l pos="N">raejrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ukkonen</t>
          </tg>
       </mg>
@@ -6404,7 +6404,7 @@
          <l pos="N">raejrienvearelde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ukonilma</t>
             <t pos="N">ukkossää</t>
          </tg>
@@ -6415,7 +6415,7 @@
          <l pos="N">raerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">neuvo(sto)</t>
          </tg>
       </mg>
@@ -6425,7 +6425,7 @@
          <l pos="N">raerievedtije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">neuvoja</t>
             <t pos="N">konsulentti</t>
          </tg>
@@ -6436,7 +6436,7 @@
          <l pos="N">ravve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">takamus</t>
          </tg>
       </mg>
@@ -6446,12 +6446,12 @@
          <l pos="N">reagka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rengas</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suopungin sarvikiela</t>
          </tg>
       </mg>
@@ -6461,7 +6461,7 @@
          <l pos="N">reajnoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">petovaara (kun on peto poroja ahdistelemassa)</t>
          </tg>
       </mg>
@@ -6471,7 +6471,7 @@
          <l pos="N">reaktoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">oikeus</t>
             <t pos="N">totuus</t>
          </tg>
@@ -6482,7 +6482,7 @@
          <l pos="N">reakedsbiejjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">syntymäpäivä</t>
          </tg>
       </mg>
@@ -6492,7 +6492,7 @@
          <l pos="N">rehpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">katto</t>
          </tg>
       </mg>
@@ -6502,7 +6502,7 @@
          <l pos="N">riehpene</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">räppänä</t>
             <t pos="N">kodan savuaukko</t>
          </tg>
@@ -6513,7 +6513,7 @@
          <l pos="N">rïeksege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">riekko</t>
          </tg>
       </mg>
@@ -6523,7 +6523,7 @@
          <l pos="N">riepie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kettu</t>
          </tg>
       </mg>
@@ -6533,7 +6533,7 @@
          <l pos="N">riepieråaksoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kettunaaras</t>
          </tg>
       </mg>
@@ -6543,7 +6543,7 @@
          <l pos="N">rïevtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kylmä sateinen sää</t>
          </tg>
       </mg>
@@ -6553,7 +6553,7 @@
          <l pos="N">rissie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tihkusade</t>
          </tg>
       </mg>
@@ -6563,7 +6563,7 @@
          <l pos="N">roehtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juuri</t>
          </tg>
       </mg>
@@ -6573,7 +6573,7 @@
          <l pos="N">rohkejaavvoeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ruisjauho(t)</t>
          </tg>
       </mg>
@@ -6583,7 +6583,7 @@
          <l pos="N">ruaksja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paisti</t>
             <t pos="N">reisi</t>
          </tg>
@@ -6594,7 +6594,7 @@
          <l pos="N">rudtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">selkä</t>
          </tg>
       </mg>
@@ -6604,7 +6604,7 @@
          <l pos="N">rudtjemåaroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">selkäruoto</t>
          </tg>
       </mg>
@@ -6614,7 +6614,7 @@
          <l pos="N">ruerhkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">seisoneesta poron verestä erottunut hera</t>
          </tg>
       </mg>
@@ -6624,7 +6624,7 @@
          <l pos="N">ruevtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rauta</t>
          </tg>
       </mg>
@@ -6634,7 +6634,7 @@
          <l pos="N">ruevtieraajroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rautatie</t>
          </tg>
       </mg>
@@ -6644,7 +6644,7 @@
          <l pos="N">ruffie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kesäkuu</t>
          </tg>
       </mg>
@@ -6654,7 +6654,7 @@
          <l pos="N">ryöjnesjæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poropaimen</t>
          </tg>
       </mg>
@@ -6664,7 +6664,7 @@
          <l pos="N">ryöknemegærja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">laskuvihko</t>
             <t pos="N">kirja</t>
          </tg>
@@ -6675,7 +6675,7 @@
          <l pos="N">röövre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pyssy</t>
          </tg>
       </mg>
@@ -6685,7 +6685,7 @@
          <l pos="N">råahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">työporo</t>
             <t pos="N">vetoporo</t>
          </tg>
@@ -6696,7 +6696,7 @@
          <l pos="N">råanja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaatosade</t>
          </tg>
       </mg>
@@ -6706,7 +6706,7 @@
          <l pos="N">råantjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kastroitu poro</t>
             <t pos="N">härkä(poro)</t>
          </tg>
@@ -6717,7 +6717,7 @@
          <l pos="N">råate</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ilves</t>
          </tg>
       </mg>
@@ -6727,7 +6727,7 @@
          <l pos="N">råavkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rouko</t>
             <t pos="N">talja</t>
          </tg>
@@ -6738,7 +6738,7 @@
          <l pos="N">råhtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tiheä (kuusi)metsä</t>
          </tg>
       </mg>
@@ -6748,7 +6748,7 @@
          <l pos="N">råtnoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">runo(vaadin)</t>
             <t pos="N">maho vaadin</t>
          </tg>
@@ -6759,7 +6759,7 @@
          <l pos="N">saajve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maahinen</t>
          </tg>
       </mg>
@@ -6769,7 +6769,7 @@
          <l pos="N">saakoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">saha</t>
          </tg>
       </mg>
@@ -6779,7 +6779,7 @@
          <l pos="N">saalehte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">saalis</t>
          </tg>
       </mg>
@@ -6789,7 +6789,7 @@
          <l pos="N">saalje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paju</t>
             <t pos="N">raita</t>
          </tg>
@@ -6800,7 +6800,7 @@
          <l pos="N">salmegærja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">virsikirja</t>
          </tg>
       </mg>
@@ -6810,7 +6810,7 @@
          <l pos="N">saedtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hiekka</t>
          </tg>
       </mg>
@@ -6820,7 +6820,7 @@
          <l pos="N">saedtieåårke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hiekkaharjanne</t>
          </tg>
       </mg>
@@ -6830,7 +6830,7 @@
          <l pos="N">saejrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sei</t>
             <t pos="N">seiti</t>
          </tg>
@@ -6841,7 +6841,7 @@
          <l pos="N">saelhtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suola</t>
          </tg>
       </mg>
@@ -6851,7 +6851,7 @@
          <l pos="N">saemie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">saame(lainen)</t>
          </tg>
       </mg>
@@ -6861,7 +6861,7 @@
          <l pos="N">saernie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">uutinen</t>
          </tg>
       </mg>
@@ -6871,7 +6871,7 @@
          <l pos="N">saevrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kostea</t>
             <t pos="N">irtonainen ja karkea kevätlumi</t>
          </tg>
@@ -6882,7 +6882,7 @@
          <l pos="N">samhkedh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">autereinen sää</t>
          </tg>
       </mg>
@@ -6892,7 +6892,7 @@
          <l pos="N">sarva</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hirvasporo</t>
          </tg>
       </mg>
@@ -6902,7 +6902,7 @@
          <l pos="N">seadtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rauha</t>
          </tg>
       </mg>
@@ -6912,7 +6912,7 @@
          <l pos="N">seangkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sänky</t>
          </tg>
       </mg>
@@ -6922,7 +6922,7 @@
          <l pos="N">seangkoegaptjese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sängynpeitto</t>
          </tg>
       </mg>
@@ -6932,7 +6932,7 @@
          <l pos="N">seasa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">täti</t>
             <t pos="N">isän sisko</t>
          </tg>
@@ -6943,7 +6943,7 @@
          <l pos="N">sïejme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">siima</t>
          </tg>
       </mg>
@@ -6953,7 +6953,7 @@
          <l pos="N">sïejpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">susi</t>
          </tg>
       </mg>
@@ -6963,7 +6963,7 @@
          <l pos="N">siejpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">häntä</t>
             <t pos="N">pyrstö</t>
          </tg>
@@ -6974,7 +6974,7 @@
          <l pos="N">siejpiegietjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hännänpää</t>
          </tg>
       </mg>
@@ -6984,7 +6984,7 @@
          <l pos="N">sïerkestahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pajukko</t>
          </tg>
       </mg>
@@ -6994,7 +6994,7 @@
          <l pos="N">sïesele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">veljen lapsi (seasalle)</t>
          </tg>
       </mg>
@@ -7004,12 +7004,12 @@
          <l pos="N">sijhtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hylly</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">säilytysteline</t>
             <t pos="N">lava</t>
          </tg>
@@ -7020,7 +7020,7 @@
          <l pos="N">sijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paikka</t>
             <t pos="N">sija</t>
          </tg>
@@ -7031,7 +7031,7 @@
          <l pos="N">sïjte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">siita</t>
             <t pos="N">lapinkylä</t>
          </tg>
@@ -7042,12 +7042,12 @@
          <l pos="N">sïlle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">syli</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">askel (pituusmittana)</t>
          </tg>
       </mg>
@@ -7057,7 +7057,7 @@
          <l pos="N">sïlpevæhta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hopeamitali</t>
          </tg>
       </mg>
@@ -7067,7 +7067,7 @@
          <l pos="N">sirrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mustikka</t>
          </tg>
       </mg>
@@ -7077,7 +7077,7 @@
          <l pos="N">sïrve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lammas</t>
          </tg>
       </mg>
@@ -7087,7 +7087,7 @@
          <l pos="N">sissie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hiha</t>
          </tg>
       </mg>
@@ -7097,7 +7097,7 @@
          <l pos="N">sjampove</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">shampoo</t>
          </tg>
       </mg>
@@ -7107,13 +7107,13 @@
          <l pos="N">sjeltie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaupunki</t>
             <t pos="N">kirkonkylä</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">markkinat</t>
          </tg>
       </mg>
@@ -7123,7 +7123,7 @@
          <l pos="N">sjïjle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hiillos</t>
          </tg>
       </mg>
@@ -7133,7 +7133,7 @@
          <l pos="N">sjovne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kotiapulainen</t>
             <t pos="N">piika</t>
          </tg>
@@ -7144,7 +7144,7 @@
          <l pos="N">sjædtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kasvi</t>
          </tg>
       </mg>
@@ -7154,7 +7154,7 @@
          <l pos="N">sjåarhtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paita</t>
          </tg>
       </mg>
@@ -7164,7 +7164,7 @@
          <l pos="N">skaadtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lurjus</t>
          </tg>
       </mg>
@@ -7174,7 +7174,7 @@
          <l pos="N">skaarja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sakset</t>
          </tg>
       </mg>
@@ -7184,7 +7184,7 @@
          <l pos="N">skiblie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalansuomu</t>
          </tg>
       </mg>
@@ -7194,7 +7194,7 @@
          <l pos="N">skiehrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poski(pää)</t>
          </tg>
       </mg>
@@ -7204,7 +7204,7 @@
          <l pos="N">skïemtjebïjle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ambulanssi</t>
          </tg>
       </mg>
@@ -7214,7 +7214,7 @@
          <l pos="N">skïemtjebåara</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paarit</t>
          </tg>
       </mg>
@@ -7224,7 +7224,7 @@
          <l pos="N">skïemtjegåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sairaala</t>
          </tg>
       </mg>
@@ -7234,7 +7234,7 @@
          <l pos="N">skïemtjesåjhtere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sairaanhoitaja</t>
          </tg>
       </mg>
@@ -7244,7 +7244,7 @@
          <l pos="N">skïeredahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rykimäaika</t>
             <t pos="N">porojen kiimaaika</t>
          </tg>
@@ -7255,7 +7255,7 @@
          <l pos="N">skoerhtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">koiranpentu</t>
          </tg>
       </mg>
@@ -7265,7 +7265,7 @@
          <l pos="N">skovhte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kyyti</t>
          </tg>
       </mg>
@@ -7275,7 +7275,7 @@
          <l pos="N">skruvve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ruuvi</t>
          </tg>
       </mg>
@@ -7285,7 +7285,7 @@
          <l pos="N">skubpehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pyyhekumi</t>
          </tg>
       </mg>
@@ -7295,7 +7295,7 @@
          <l pos="N">skugkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">varjo</t>
             <t pos="N">hahmo</t>
             <t pos="N">haamu</t>
@@ -7308,7 +7308,7 @@
          <l pos="N">skuvle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">koulu</t>
          </tg>
       </mg>
@@ -7318,7 +7318,7 @@
          <l pos="N">skuvlehïejme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">asuntola</t>
          </tg>
       </mg>
@@ -7328,7 +7328,7 @@
          <l pos="N">skuvlejaepie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kouluvuosi</t>
          </tg>
       </mg>
@@ -7338,7 +7338,7 @@
          <l pos="N">skuvlemaana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">koululainen</t>
          </tg>
       </mg>
@@ -7348,7 +7348,7 @@
          <l pos="N">skuvtere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">moottorikelkka</t>
          </tg>
       </mg>
@@ -7358,7 +7358,7 @@
          <l pos="N">skovtere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">moottorikelkka</t>
          </tg>
       </mg>
@@ -7368,7 +7368,7 @@
          <l pos="N">skåajje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">metsä</t>
          </tg>
       </mg>
@@ -7378,7 +7378,7 @@
          <l pos="N">skåaknge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nuori vaadin (t. hirvilehmä)</t>
          </tg>
       </mg>
@@ -7388,7 +7388,7 @@
          <l pos="N">skåape</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaappi</t>
          </tg>
       </mg>
@@ -7398,7 +7398,7 @@
          <l pos="N">slaahpoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron selkäjänne</t>
          </tg>
       </mg>
@@ -7408,7 +7408,7 @@
          <l pos="N">slapmoehgåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">matala ja leveä kota</t>
          </tg>
       </mg>
@@ -7418,7 +7418,7 @@
          <l pos="N">slavtjeguelie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vasta kutenut kala</t>
          </tg>
       </mg>
@@ -7428,7 +7428,7 @@
          <l pos="N">sliehtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">räntä</t>
          </tg>
       </mg>
@@ -7438,7 +7438,7 @@
          <l pos="N">slïekte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suku(lainen)</t>
          </tg>
       </mg>
@@ -7448,7 +7448,7 @@
          <l pos="N">slïmhpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">haava</t>
             <t pos="N">rakkula huulessa</t>
          </tg>
@@ -7459,7 +7459,7 @@
          <l pos="N">slubpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tohveli</t>
          </tg>
       </mg>
@@ -7469,7 +7469,7 @@
          <l pos="N">sluvke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viehe</t>
          </tg>
       </mg>
@@ -7479,7 +7479,7 @@
          <l pos="N">slærra</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">reki</t>
          </tg>
       </mg>
@@ -7489,7 +7489,7 @@
          <l pos="N">snaejrie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viipale</t>
             <t pos="N">kappale</t>
          </tg>
@@ -7500,12 +7500,12 @@
          <l pos="N">snjarhtja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juoksutusmaha</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juoksute</t>
          </tg>
       </mg>
@@ -7515,7 +7515,7 @@
          <l pos="N">snjeara</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hiiri</t>
          </tg>
       </mg>
@@ -7525,7 +7525,7 @@
          <l pos="N">snjåame</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jänis</t>
          </tg>
       </mg>
@@ -7535,7 +7535,7 @@
          <l pos="N">snuehtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">orastava heinä</t>
          </tg>
       </mg>
@@ -7545,7 +7545,7 @@
          <l pos="N">snorre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pieni urosporo</t>
          </tg>
       </mg>
@@ -7555,7 +7555,7 @@
          <l pos="N">snæhkere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puuseppä</t>
          </tg>
       </mg>
@@ -7565,7 +7565,7 @@
          <l pos="N">snåvhtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sormainen</t>
             <t pos="N">kerralla kammattava määrä kenkäheinää</t>
          </tg>
@@ -7576,7 +7576,7 @@
          <l pos="N">soehpenje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suopunki</t>
          </tg>
       </mg>
@@ -7586,7 +7586,7 @@
          <l pos="N">soehpenjereagka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suopungin sarvikiela</t>
          </tg>
       </mg>
@@ -7596,12 +7596,12 @@
          <l pos="N">soene</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jänne</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suonilanka</t>
          </tg>
       </mg>
@@ -7611,7 +7611,7 @@
          <l pos="N">soerme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sormi</t>
          </tg>
       </mg>
@@ -7621,7 +7621,7 @@
          <l pos="N">soermegåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sormustin</t>
          </tg>
       </mg>
@@ -7631,7 +7631,7 @@
          <l pos="N">soeve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">savu</t>
          </tg>
       </mg>
@@ -7641,7 +7641,7 @@
          <l pos="N">sohkerelaejpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sokerikakku</t>
          </tg>
       </mg>
@@ -7651,7 +7651,7 @@
          <l pos="N">sovkije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">soutaja</t>
          </tg>
       </mg>
@@ -7661,7 +7661,7 @@
          <l pos="N">spaarra</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sinka</t>
             <t pos="N">pingotusvarpa (tikku, jolla eläimen nahka t. kuivattava kala pingotetaan levälleen)</t>
          </tg>
@@ -7672,7 +7672,7 @@
          <l pos="N">spidtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maatila</t>
             <t pos="N">uudisasutus</t>
          </tg>
@@ -7683,7 +7683,7 @@
          <l pos="N">spæjhkere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">naula</t>
          </tg>
       </mg>
@@ -7693,7 +7693,7 @@
          <l pos="N">staajne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maho vaadin</t>
             <t pos="N">tainakka</t>
          </tg>
@@ -7704,7 +7704,7 @@
          <l pos="N">staaloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">staalo</t>
             <t pos="N">peikko</t>
             <t pos="N">jättiläinen</t>
@@ -7716,7 +7716,7 @@
          <l pos="N">staare</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaupunki</t>
          </tg>
       </mg>
@@ -7726,7 +7726,7 @@
          <l pos="N">stasjovne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">asema</t>
          </tg>
       </mg>
@@ -7736,7 +7736,7 @@
          <l pos="N">staavra</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vapa</t>
          </tg>
       </mg>
@@ -7746,7 +7746,7 @@
          <l pos="N">stoerregeajnoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maantie</t>
          </tg>
       </mg>
@@ -7756,7 +7756,7 @@
          <l pos="N">stoerrevïelle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isoveli</t>
          </tg>
       </mg>
@@ -7766,7 +7766,7 @@
          <l pos="N">stoerreåabpa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isosisko</t>
          </tg>
       </mg>
@@ -7776,7 +7776,7 @@
          <l pos="N">stovle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tuoli</t>
          </tg>
       </mg>
@@ -7786,7 +7786,7 @@
          <l pos="N">stratjketje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pieni ruiske</t>
          </tg>
       </mg>
@@ -7796,7 +7796,7 @@
          <l pos="N">stroehte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jouluaatto</t>
          </tg>
       </mg>
@@ -7806,12 +7806,12 @@
          <l pos="N">stuhtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pieni porotokka</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">palanen</t>
             <t pos="N">kappale</t>
          </tg>
@@ -7822,7 +7822,7 @@
          <l pos="N">stujmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">meteli</t>
             <t pos="N">metakka</t>
          </tg>
@@ -7833,7 +7833,7 @@
          <l pos="N">ståamhpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kanto</t>
          </tg>
       </mg>
@@ -7843,7 +7843,7 @@
          <l pos="N">ståapoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">talo</t>
             <t pos="N">tupa</t>
          </tg>
@@ -7854,7 +7854,7 @@
          <l pos="N">d</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hallinto</t>
          </tg>
       </mg>
@@ -7864,7 +7864,7 @@
          <l pos="N">stååkedimmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">leikki</t>
          </tg>
       </mg>
@@ -7874,12 +7874,12 @@
          <l pos="N">suaja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suojaisa</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tuulensuoja</t>
          </tg>
       </mg>
@@ -7889,12 +7889,12 @@
          <l pos="N">suehpede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">toukokuu</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vasontaaika</t>
          </tg>
       </mg>
@@ -7904,7 +7904,7 @@
          <l pos="N">suehpedsdajve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vasomisseutu</t>
          </tg>
       </mg>
@@ -7914,7 +7914,7 @@
          <l pos="N">suehpedslaante</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vasomisalue</t>
          </tg>
       </mg>
@@ -7924,10 +7924,10 @@
          <l pos="N">suejnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kenkäheinä</t>
          </tg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">heinä</t>
          </tg>
       </mg>
@@ -7937,7 +7937,7 @@
          <l pos="N">suejnietjuahpa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">paikka</t>
             <t pos="N">josta niitetään kenkäheinää</t>
          </tg>
@@ -7948,7 +7948,7 @@
          <l pos="N">suelie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">veren hera</t>
          </tg>
       </mg>
@@ -7958,7 +7958,7 @@
          <l pos="N">svaale</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">naali</t>
          </tg>
       </mg>
@@ -7968,7 +7968,7 @@
          <l pos="N">svaalnoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viileä sää (auringonlaskun jälkeen)</t>
          </tg>
       </mg>
@@ -7978,7 +7978,7 @@
          <l pos="N">svaaloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viileä sää</t>
          </tg>
       </mg>
@@ -7988,7 +7988,7 @@
          <l pos="N">svijrietjööse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poro</t>
             <t pos="N">jolla on valkosia pilkkuja peräpäässä</t>
          </tg>
@@ -7999,7 +7999,7 @@
          <l pos="N">sysngelasjh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sisälmykset</t>
             <t pos="N">elinruoka</t>
          </tg>
@@ -8010,7 +8010,7 @@
          <l pos="N">sæjjoesdålle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">avotuli</t>
          </tg>
       </mg>
@@ -8020,7 +8020,7 @@
          <l pos="N">sæjrobpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">siirappi</t>
          </tg>
       </mg>
@@ -8030,7 +8030,7 @@
          <l pos="N">sæjroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kylki</t>
             <t pos="N">sivu</t>
          </tg>
@@ -8041,7 +8041,7 @@
          <l pos="N">såafoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">purolaakso</t>
          </tg>
       </mg>
@@ -8051,7 +8051,7 @@
          <l pos="N">såapoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">saippua</t>
          </tg>
       </mg>
@@ -8061,10 +8061,10 @@
          <l pos="N">såara</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tulitikku</t>
          </tg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tikku</t>
          </tg>
       </mg>
@@ -8074,7 +8074,7 @@
          <l pos="N">såarhta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">musta poro</t>
          </tg>
       </mg>
@@ -8084,7 +8084,7 @@
          <l pos="N">såekie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">koivu</t>
          </tg>
       </mg>
@@ -8094,7 +8094,7 @@
          <l pos="N">såevmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hieno kuiva laidun lumen alla</t>
          </tg>
       </mg>
@@ -8104,7 +8104,7 @@
          <l pos="N">sååle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">saari</t>
          </tg>
       </mg>
@@ -8114,7 +8114,7 @@
          <l pos="N">såångedimmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kosinta</t>
             <t pos="N">kosio</t>
          </tg>
@@ -8125,7 +8125,7 @@
          <l pos="N">såångedæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kosija</t>
          </tg>
       </mg>
@@ -8135,7 +8135,7 @@
          <l pos="N">taavla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">taulu</t>
          </tg>
       </mg>
@@ -8145,7 +8145,7 @@
          <l pos="N">taxisijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">taksikeskus</t>
          </tg>
       </mg>
@@ -8155,7 +8155,7 @@
          <l pos="N">teaatere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">teatteri</t>
          </tg>
       </mg>
@@ -8165,7 +8165,7 @@
          <l pos="N">tjaatsetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vähän vettä</t>
          </tg>
       </mg>
@@ -8175,7 +8175,7 @@
          <l pos="N">tjaelemegærja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vihko</t>
          </tg>
       </mg>
@@ -8185,7 +8185,7 @@
          <l pos="N">tjaetsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vesi</t>
          </tg>
       </mg>
@@ -8195,7 +8195,7 @@
          <l pos="N">tjagkeredeava</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuiva kovapohjainen kumpu</t>
          </tg>
       </mg>
@@ -8205,7 +8205,7 @@
          <l pos="N">tjahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vuorenhuippu</t>
          </tg>
       </mg>
@@ -8215,7 +8215,7 @@
          <l pos="N">tjahta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kilo(gramma)</t>
          </tg>
       </mg>
@@ -8225,7 +8225,7 @@
          <l pos="N">tjaktje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">syksy</t>
          </tg>
       </mg>
@@ -8235,7 +8235,7 @@
          <l pos="N">tjaktjedaelvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">syystalvi</t>
          </tg>
       </mg>
@@ -8245,7 +8245,7 @@
          <l pos="N">tjaktjegiesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">syyskesä</t>
          </tg>
       </mg>
@@ -8255,7 +8255,7 @@
          <l pos="N">tjaktjeniestie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">syysteuras</t>
          </tg>
       </mg>
@@ -8265,7 +8265,7 @@
          <l pos="N">tjarve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kantohanki</t>
          </tg>
       </mg>
@@ -8275,13 +8275,13 @@
          <l pos="N">tjaste</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">karkea lumi</t>
             <t pos="N">josta voi sulattaa vettä</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">jäätelö</t>
          </tg>
       </mg>
@@ -8291,7 +8291,7 @@
          <l pos="N">tjeallere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kellari</t>
          </tg>
       </mg>
@@ -8301,7 +8301,7 @@
          <l pos="N">tjeapohke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaula</t>
          </tg>
       </mg>
@@ -8311,7 +8311,7 @@
          <l pos="N">tjeapohkelijnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaulaliina</t>
          </tg>
       </mg>
@@ -8321,7 +8321,7 @@
          <l pos="N">tjeara</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">iltahämärä</t>
          </tg>
       </mg>
@@ -8331,7 +8331,7 @@
          <l pos="N">tjeavla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalvoin (verkonkudonnassa)</t>
             <t pos="N">verkon merkkikoho</t>
          </tg>
@@ -8342,7 +8342,7 @@
          <l pos="N">tjeavlagierkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">verkon kives</t>
             <t pos="N">paino</t>
          </tg>
@@ -8353,7 +8353,7 @@
          <l pos="N">tjeavlarietjmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">verkon (ylä)paula</t>
          </tg>
       </mg>
@@ -8363,7 +8363,7 @@
          <l pos="N">tjengkere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pallo</t>
          </tg>
       </mg>
@@ -8373,7 +8373,7 @@
          <l pos="N">tjelmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">silmä</t>
          </tg>
       </mg>
@@ -8383,7 +8383,7 @@
          <l pos="N">tjetskie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kärppä</t>
          </tg>
       </mg>
@@ -8393,7 +8393,7 @@
          <l pos="N">tjidtjaahka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">äidin äiti</t>
             <t pos="N">mummo</t>
          </tg>
@@ -8404,7 +8404,7 @@
          <l pos="N">tjidtjaajja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">äidin isä</t>
             <t pos="N">vaari</t>
          </tg>
@@ -8415,7 +8415,7 @@
          <l pos="N">tjidtjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">äiti</t>
          </tg>
       </mg>
@@ -8425,7 +8425,7 @@
          <l pos="N">tjïehtjele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">huone</t>
          </tg>
       </mg>
@@ -8435,12 +8435,12 @@
          <l pos="N">tjiehtjere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">varvas</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkusormi</t>
             <t pos="N">pikkuvarvas</t>
          </tg>
@@ -8451,7 +8451,7 @@
          <l pos="N">tjïektjesjuelkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">takajalka</t>
          </tg>
       </mg>
@@ -8461,7 +8461,7 @@
          <l pos="N">tjïelkestimmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">selitys</t>
          </tg>
       </mg>
@@ -8471,7 +8471,7 @@
          <l pos="N">tjïelte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kunta</t>
          </tg>
       </mg>
@@ -8481,7 +8481,7 @@
          <l pos="N">tjïeltekontovre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kunnantoimisto</t>
          </tg>
       </mg>
@@ -8491,7 +8491,7 @@
          <l pos="N">tjiermie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">munuainen</t>
          </tg>
       </mg>
@@ -8501,7 +8501,7 @@
          <l pos="N">tjietsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">setä (isän pikkuveli)</t>
          </tg>
       </mg>
@@ -8511,7 +8511,7 @@
          <l pos="N">tjietsuve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">isoveljen lapsi (tjietsielle)</t>
          </tg>
       </mg>
@@ -8521,7 +8521,7 @@
          <l pos="N">tjihkiejovje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kokonaan valkoinen poro</t>
          </tg>
       </mg>
@@ -8531,7 +8531,7 @@
          <l pos="N">tjïrre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puuhiili</t>
          </tg>
       </mg>
@@ -8541,7 +8541,7 @@
          <l pos="N">tjoeje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ääni</t>
          </tg>
       </mg>
@@ -8551,7 +8551,7 @@
          <l pos="N">tjoejenesguhpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">äänenvaimennin</t>
          </tg>
       </mg>
@@ -8561,7 +8561,7 @@
          <l pos="N">tjoejhke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sääski</t>
          </tg>
       </mg>
@@ -8571,7 +8571,7 @@
          <l pos="N">tjoele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">saippua</t>
          </tg>
       </mg>
@@ -8581,7 +8581,7 @@
          <l pos="N">tjoelme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">solmu</t>
          </tg>
       </mg>
@@ -8591,7 +8591,7 @@
          <l pos="N">tjoeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalannahka</t>
          </tg>
       </mg>
@@ -8601,7 +8601,7 @@
          <l pos="N">tjoermehtasse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">rukous</t>
          </tg>
       </mg>
@@ -8611,7 +8611,7 @@
          <l pos="N">tjoevkese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">valo</t>
          </tg>
       </mg>
@@ -8621,7 +8621,7 @@
          <l pos="N">tjoevtenje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">avain</t>
          </tg>
       </mg>
@@ -8631,7 +8631,7 @@
          <l pos="N">tjohpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">myssy</t>
             <t pos="N">päähine</t>
          </tg>
@@ -8642,7 +8642,7 @@
          <l pos="N">tjonne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lampi</t>
          </tg>
       </mg>
@@ -8652,7 +8652,7 @@
          <l pos="N">tjorme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viime vuoden vasa</t>
          </tg>
       </mg>
@@ -8662,7 +8662,7 @@
          <l pos="N">tjovke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poikanen</t>
          </tg>
       </mg>
@@ -8672,7 +8672,7 @@
          <l pos="N">tjovrese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">niska</t>
          </tg>
       </mg>
@@ -8682,7 +8682,7 @@
          <l pos="N">tjovve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kurkku</t>
             <t pos="N">nielu</t>
             <t pos="N">ruokatorvi</t>
@@ -8694,7 +8694,7 @@
          <l pos="N">tjööke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">keittiö</t>
          </tg>
       </mg>
@@ -8704,7 +8704,7 @@
          <l pos="N">tjööse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaaleanharmaa poro</t>
             <t pos="N">jolla on vaalea läiskä päässä</t>
          </tg>
@@ -8715,7 +8715,7 @@
          <l pos="N">tjöösenjuenie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">valkoturpainen poro</t>
          </tg>
       </mg>
@@ -8725,7 +8725,7 @@
          <l pos="N">tjåanghkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kokous</t>
          </tg>
       </mg>
@@ -8735,7 +8735,7 @@
          <l pos="N">tjåejjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vatsa</t>
          </tg>
       </mg>
@@ -8745,7 +8745,7 @@
          <l pos="N">tjåentjeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron takajalan ylempi ydinluu</t>
          </tg>
       </mg>
@@ -8755,7 +8755,7 @@
          <l pos="N">tjåenieh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">matkatavarat</t>
          </tg>
       </mg>
@@ -8765,7 +8765,7 @@
          <l pos="N">tjåervie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sarvi</t>
          </tg>
       </mg>
@@ -8775,7 +8775,7 @@
          <l pos="N">tjåerviesaelhtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hirvensarvisuola</t>
          </tg>
       </mg>
@@ -8785,7 +8785,7 @@
          <l pos="N">tjåetskeme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pakkanen</t>
          </tg>
       </mg>
@@ -8795,7 +8795,7 @@
          <l pos="N">tjåktja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">metso</t>
          </tg>
       </mg>
@@ -8805,7 +8805,7 @@
          <l pos="N">traktore</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">traktori</t>
          </tg>
       </mg>
@@ -8815,7 +8815,7 @@
          <l pos="N">treavka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suksi</t>
          </tg>
       </mg>
@@ -8825,7 +8825,7 @@
          <l pos="N">treblienjuenie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">harmaa poro</t>
             <t pos="N">jolla on pieniä valkoisia pilkkuja turvassa</t>
          </tg>
@@ -8836,7 +8836,7 @@
          <l pos="N">trïengke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">renki</t>
          </tg>
       </mg>
@@ -8846,7 +8846,7 @@
          <l pos="N">truhkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puuvati</t>
             <t pos="N">kaukalo</t>
          </tg>
@@ -8857,7 +8857,7 @@
          <l pos="N">træjpoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">huono (tuulinen, sateinen) sää</t>
          </tg>
       </mg>
@@ -8867,7 +8867,7 @@
          <l pos="N">tråajjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">takki</t>
             <t pos="N">neule</t>
             <t pos="N">pusero</t>
@@ -8879,7 +8879,7 @@
          <l pos="N">tråajja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">takki</t>
             <t pos="N">neule</t>
             <t pos="N">pusero</t>
@@ -8891,7 +8891,7 @@
          <l pos="N">tsaapestahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suikaleliha (kahvin kanssa syötävä)</t>
          </tg>
       </mg>
@@ -8901,7 +8901,7 @@
          <l pos="N">tseagkoehgåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pystykota</t>
          </tg>
       </mg>
@@ -8911,7 +8911,7 @@
          <l pos="N">tsebpie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron etujalan alempi ydinluu</t>
          </tg>
       </mg>
@@ -8921,12 +8921,12 @@
          <l pos="N">tsegkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">haarapäinen (kotakorvan) tukipuu</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">naulakon naula</t>
          </tg>
       </mg>
@@ -8936,7 +8936,7 @@
          <l pos="N">tsïnne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">naisen sukuelin (karkeampi sana kuin tsavnoe)</t>
          </tg>
       </mg>
@@ -8946,7 +8946,7 @@
          <l pos="N">tsoedtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kalvo</t>
          </tg>
       </mg>
@@ -8956,7 +8956,7 @@
          <l pos="N">tsoevtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tunturijäätikkö (kesällä)</t>
          </tg>
       </mg>
@@ -8966,7 +8966,7 @@
          <l pos="N">tsumhtsie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">roska</t>
             <t pos="N">pöly</t>
          </tg>
@@ -8977,7 +8977,7 @@
          <l pos="N">tsåahka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kello</t>
          </tg>
       </mg>
@@ -8987,7 +8987,7 @@
          <l pos="N">tsååbpe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sammakko</t>
          </tg>
       </mg>
@@ -8997,7 +8997,7 @@
          <l pos="N">tyjje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kangas</t>
          </tg>
       </mg>
@@ -9007,7 +9007,7 @@
          <l pos="N">tæjmoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tunti</t>
          </tg>
       </mg>
@@ -9017,7 +9017,7 @@
          <l pos="N">tåaleskaahpoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ompelurasia</t>
          </tg>
       </mg>
@@ -9027,7 +9027,7 @@
          <l pos="N">urriesmiesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hirvasvasa</t>
          </tg>
       </mg>
@@ -9037,7 +9037,7 @@
          <l pos="N">vaajesegærja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tarinakirja</t>
          </tg>
       </mg>
@@ -9047,7 +9047,7 @@
          <l pos="N">vaajmoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sydän</t>
          </tg>
       </mg>
@@ -9057,7 +9057,7 @@
          <l pos="N">vaalje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aukio</t>
             <t pos="N">aukea paikka</t>
          </tg>
@@ -9068,7 +9068,7 @@
          <l pos="N">vaanhtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lapanen</t>
          </tg>
       </mg>
@@ -9078,7 +9078,7 @@
          <l pos="N">vaarjoevåarhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaatekaappi</t>
          </tg>
       </mg>
@@ -9088,7 +9088,7 @@
          <l pos="N">vaaroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kauppatavara</t>
          </tg>
       </mg>
@@ -9098,7 +9098,7 @@
          <l pos="N">vadtese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">lahja</t>
          </tg>
       </mg>
@@ -9108,7 +9108,7 @@
          <l pos="N">vaegkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">laakso</t>
          </tg>
       </mg>
@@ -9118,7 +9118,7 @@
          <l pos="N">vaejvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaiva</t>
             <t pos="N">huoli</t>
             <t pos="N">kipu</t>
@@ -9130,7 +9130,7 @@
          <l pos="N">vaejsjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">peto</t>
             <t pos="N">susi</t>
             <t pos="N">metsäneläin</t>
@@ -9142,7 +9142,7 @@
          <l pos="N">vaejlie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kuume</t>
          </tg>
       </mg>
@@ -9152,7 +9152,7 @@
          <l pos="N">vaeknie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ammukset</t>
          </tg>
       </mg>
@@ -9162,7 +9162,7 @@
          <l pos="N">vaeltjehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kokenut poromies</t>
          </tg>
       </mg>
@@ -9172,7 +9172,7 @@
          <l pos="N">vaerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tunturi</t>
             <t pos="N">vuori(sto)</t>
          </tg>
@@ -9183,7 +9183,7 @@
          <l pos="N">våhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viikko</t>
          </tg>
       </mg>
@@ -9193,7 +9193,7 @@
          <l pos="N">veadta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">puun juuri</t>
          </tg>
       </mg>
@@ -9203,7 +9203,7 @@
          <l pos="N">vealma</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">syvä suvantopaikka</t>
          </tg>
       </mg>
@@ -9213,13 +9213,13 @@
          <l pos="N">vearelde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sää</t>
             <t pos="N">ilma</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">maailma</t>
          </tg>
       </mg>
@@ -9229,7 +9229,7 @@
          <l pos="N">veaskoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">laukku</t>
          </tg>
       </mg>
@@ -9239,7 +9239,7 @@
          <l pos="N">veasome</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">elämä</t>
             <t pos="N">asuminen</t>
          </tg>
@@ -9250,7 +9250,7 @@
          <l pos="N">veelle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">piha</t>
             <t pos="N">aukio</t>
          </tg>
@@ -9261,7 +9261,7 @@
          <l pos="N">veetejaavvoeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vehnäjauhot</t>
          </tg>
       </mg>
@@ -9271,7 +9271,7 @@
          <l pos="N">vïedtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">seinä</t>
          </tg>
       </mg>
@@ -9281,7 +9281,7 @@
          <l pos="N">viehkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">apu</t>
             <t pos="N">apulainen</t>
          </tg>
@@ -9292,7 +9292,7 @@
          <l pos="N">viehkiehtæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">apulainen</t>
             <t pos="N">työntekijä</t>
          </tg>
@@ -9303,7 +9303,7 @@
          <l pos="N">vïelle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">veli</t>
          </tg>
       </mg>
@@ -9313,7 +9313,7 @@
          <l pos="N">vïere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kenkäheinäkerä</t>
             <t pos="N">viera</t>
          </tg>
@@ -9324,7 +9324,7 @@
          <l pos="N">vierhkiesijjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">verstas</t>
          </tg>
       </mg>
@@ -9334,7 +9334,7 @@
          <l pos="N">viermie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">verkko</t>
          </tg>
       </mg>
@@ -9344,12 +9344,12 @@
          <l pos="N">vïernge</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">joenrinteen yläreuna</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">merenpohjarinne</t>
          </tg>
       </mg>
@@ -9359,7 +9359,7 @@
          <l pos="N">vïerngeraedtie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">merenpohjarinteen reuna</t>
          </tg>
       </mg>
@@ -9369,7 +9369,7 @@
          <l pos="N">vietjere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vasara</t>
          </tg>
       </mg>
@@ -9379,7 +9379,7 @@
          <l pos="N">vigkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">riita</t>
          </tg>
       </mg>
@@ -9389,12 +9389,12 @@
          <l pos="N">vijne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viini</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">viina</t>
          </tg>
       </mg>
@@ -9404,7 +9404,7 @@
          <l pos="N">vïnhtse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vene</t>
          </tg>
       </mg>
@@ -9414,7 +9414,7 @@
          <l pos="N">voedtege</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kengännauha</t>
          </tg>
       </mg>
@@ -9424,7 +9424,7 @@
          <l pos="N">voeje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">voi</t>
          </tg>
       </mg>
@@ -9434,7 +9434,7 @@
          <l pos="N">voejeskaahpoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">voirasia</t>
          </tg>
       </mg>
@@ -9444,7 +9444,7 @@
          <l pos="N">voektenje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vave</t>
             <t pos="N">verkonkuivatusteline</t>
          </tg>
@@ -9455,7 +9455,7 @@
          <l pos="N">voelpetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pikkuystävä</t>
          </tg>
       </mg>
@@ -9465,7 +9465,7 @@
          <l pos="N">voene</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kylä</t>
             <t pos="N">kiinteä asutus</t>
          </tg>
@@ -9476,7 +9476,7 @@
          <l pos="N">voepte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hius</t>
          </tg>
       </mg>
@@ -9486,7 +9486,7 @@
          <l pos="N">voeresgåetie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vanhainkoti</t>
          </tg>
       </mg>
@@ -9496,7 +9496,7 @@
          <l pos="N">voerpehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">aamunvirkku</t>
          </tg>
       </mg>
@@ -9506,7 +9506,7 @@
          <l pos="N">voesse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">säkki</t>
             <t pos="N">laukku</t>
             <t pos="N">reppu</t>
@@ -9518,7 +9518,7 @@
          <l pos="N">voessetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pieni pussi</t>
             <t pos="N">pieni säkki</t>
          </tg>
@@ -9529,7 +9529,7 @@
          <l pos="N">vualadahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">alanko</t>
          </tg>
       </mg>
@@ -9539,7 +9539,7 @@
          <l pos="N">vuasta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">juusto</t>
          </tg>
       </mg>
@@ -9549,7 +9549,7 @@
          <l pos="N">vuebnie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">uuni</t>
          </tg>
       </mg>
@@ -9559,7 +9559,7 @@
          <l pos="N">vuejemeleahpa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ajokortti</t>
          </tg>
       </mg>
@@ -9569,7 +9569,7 @@
          <l pos="N">vuejije</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">ajaja</t>
             <t pos="N">autonkuljettaja</t>
          </tg>
@@ -9580,7 +9580,7 @@
          <l pos="N">vuekie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tapa</t>
          </tg>
       </mg>
@@ -9590,7 +9590,7 @@
          <l pos="N">vuemie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">suuri metsää kasvava laakso</t>
             <t pos="N">vuoma</t>
          </tg>
@@ -9601,7 +9601,7 @@
          <l pos="N">vuenjele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">2 1/3 – 3 1/3 vuotias naarasporo</t>
          </tg>
       </mg>
@@ -9611,7 +9611,7 @@
          <l pos="N">vuesiehtimmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">esitys</t>
             <t pos="N">näyttely</t>
          </tg>
@@ -9622,7 +9622,7 @@
          <l pos="N">væjjoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">leikkuukaava</t>
             <t pos="N">malli</t>
          </tg>
@@ -9633,7 +9633,7 @@
          <l pos="N">værtoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">myrsky</t>
          </tg>
       </mg>
@@ -9643,7 +9643,7 @@
          <l pos="N">vætnoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">käsityö</t>
             <t pos="N">askartelu</t>
          </tg>
@@ -9654,13 +9654,13 @@
          <l pos="N">våarhkoe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">säilytyspaikka</t>
             <t pos="N">kätkö</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kaappi</t>
          </tg>
       </mg>
@@ -9670,7 +9670,7 @@
          <l pos="N">vååltestahke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mäki jolta on hyvä näkyvyys</t>
          </tg>
       </mg>
@@ -9680,7 +9680,7 @@
          <l pos="N">våårenjasse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">susi</t>
             <t pos="N">peto</t>
          </tg>
@@ -9691,7 +9691,7 @@
          <l pos="N">ööhpehtimmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">opetus</t>
             <t pos="N">koulutus</t>
          </tg>
@@ -9702,7 +9702,7 @@
          <l pos="N">åabpa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sisar</t>
          </tg>
       </mg>
@@ -9712,7 +9712,7 @@
          <l pos="N">åahpetje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tuttava</t>
          </tg>
       </mg>
@@ -9722,7 +9722,7 @@
          <l pos="N">åenehksguapa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">nilkkasukka</t>
             <t pos="N">lyhyt sukka</t>
          </tg>
@@ -9733,7 +9733,7 @@
          <l pos="N">åarjelsaemie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">eteläsaame(lainen)</t>
          </tg>
       </mg>
@@ -9743,7 +9743,7 @@
          <l pos="N">åarjelvearelde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">etelätuuli</t>
          </tg>
       </mg>
@@ -9753,7 +9753,7 @@
          <l pos="N">åavroe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">helle</t>
             <t pos="N">kuuma sää</t>
          </tg>
@@ -9764,7 +9764,7 @@
          <l pos="N">åejjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">pää</t>
          </tg>
       </mg>
@@ -9774,7 +9774,7 @@
          <l pos="N">åejjienalhke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">tyyny</t>
          </tg>
       </mg>
@@ -9784,7 +9784,7 @@
          <l pos="N">åejvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">päällikkö</t>
             <t pos="N">johtaja</t>
          </tg>
@@ -9795,7 +9795,7 @@
          <l pos="N">åeksie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">oksa</t>
          </tg>
       </mg>
@@ -9805,7 +9805,7 @@
          <l pos="N">åelkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">olka(pää)</t>
          </tg>
       </mg>
@@ -9815,7 +9815,7 @@
          <l pos="N">åeremetjïehtjele</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">makuuhuone</t>
          </tg>
       </mg>
@@ -9825,7 +9825,7 @@
          <l pos="N">åeremevaarjoeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vuodevaatteet</t>
          </tg>
       </mg>
@@ -9835,7 +9835,7 @@
          <l pos="N">åeremevoesse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">makuupussi</t>
          </tg>
       </mg>
@@ -9845,7 +9845,7 @@
          <l pos="N">åerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">verisuoni</t>
          </tg>
       </mg>
@@ -9855,7 +9855,7 @@
          <l pos="N">åerpienadtjh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">sisarukset</t>
          </tg>
       </mg>
@@ -9865,7 +9865,7 @@
          <l pos="N">åesiestæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kauppias</t>
          </tg>
       </mg>
@@ -9875,13 +9875,13 @@
          <l pos="N">åesie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">osa</t>
             <t pos="N">osuus (ruoasta)</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">teurasporo</t>
          </tg>
       </mg>
@@ -9891,7 +9891,7 @@
          <l pos="N">ålloe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">villa</t>
          </tg>
       </mg>
@@ -9901,7 +9901,7 @@
          <l pos="N">ålloeabpese</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">villapaita</t>
             <t pos="N">villapusero</t>
          </tg>
@@ -9912,7 +9912,7 @@
          <l pos="N">ålloetråajja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">villapaita</t>
             <t pos="N">pusero</t>
          </tg>
@@ -9923,7 +9923,7 @@
          <l pos="N">ålma</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">mies</t>
          </tg>
       </mg>
@@ -9933,7 +9933,7 @@
          <l pos="N">årra</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hirvas</t>
          </tg>
       </mg>
@@ -9943,7 +9943,7 @@
          <l pos="N">åvtegietjie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">etupää</t>
          </tg>
       </mg>
@@ -9953,7 +9953,7 @@
          <l pos="N">åvtehke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">johtaja</t>
             <t pos="N">esimies</t>
          </tg>
@@ -9964,7 +9964,7 @@
          <l pos="N">åvtesjuelkie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">etujalka</t>
          </tg>
       </mg>
@@ -9974,7 +9974,7 @@
          <l pos="N">åvteåejvie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">johtaja</t>
          </tg>
       </mg>
@@ -9984,7 +9984,7 @@
          <l pos="N">ååredæjja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">kasvot</t>
          </tg>
       </mg>
@@ -9994,7 +9994,7 @@
          <l pos="N">maaje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">etäisyys</t>
          </tg>
       </mg>
@@ -10004,7 +10004,7 @@
          <l pos="N">buerie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">hyve</t>
          </tg>
       </mg>
@@ -10014,7 +10014,7 @@
          <l pos="N">lovve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">poron lepoaika</t>
          </tg>
       </mg>
@@ -10024,7 +10024,7 @@
          <l pos="N">snjaltje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">heinäkuu</t>
          </tg>
       </mg>
@@ -10034,7 +10034,7 @@
          <l pos="N">jovje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">vaaleanharmaa poro</t>
          </tg>
       </mg>
@@ -10044,7 +10044,7 @@
          <l pos="N">plïehtje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N">laakea paikka</t>
          </tg>
       </mg>

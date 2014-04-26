@@ -3,13 +3,13 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../../scripts/gt_dictionary.dtd">
-<r>
+<r id="smafin" xml:lang="sma">
    <e>
       <lg>
          <l pos="prop">Dearna</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="prop">Tärnaby</t>
          </tg>
       </mg>
@@ -19,7 +19,7 @@
          <l pos="prop">Faepmie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="prop">Fatmomakke (Ruotsissa)</t>
          </tg>
       </mg>
@@ -29,7 +29,7 @@
          <l pos="prop">Nöörje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="prop">Norja</t>
          </tg>
       </mg>
@@ -39,7 +39,7 @@
          <l pos="prop">Sveerje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="prop">Ruotsi</t>
          </tg>
       </mg>
