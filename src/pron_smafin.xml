@@ -6,93 +6,93 @@
 <r id="smafin" xml:lang="sma">
    <e>
       <lg>
-         <l pos="pron">dah</l>
+         <l pos="Pron">dah</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">ne</t>
-            <t pos="pron">he</t>
+            <t pos="Pron">ne</t>
+            <t pos="Pron">he</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">datne</l>
+         <l pos="Pron">datne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">sinä</t>
+            <t pos="Pron">sinä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dïhte</l>
+         <l pos="Pron">dïhte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">se</t>
-            <t pos="pron">hän</t>
+            <t pos="Pron">se</t>
+            <t pos="Pron">hän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dijjieh</l>
+         <l pos="Pron">dijjieh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">te</t>
+            <t pos="Pron">te</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dåtnoeh</l>
+         <l pos="Pron">dåtnoeh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">te kaksi</t>
+            <t pos="Pron">te kaksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">manne</l>
+         <l pos="Pron">manne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">minä</t>
+            <t pos="Pron">minä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">månnoeh</l>
+         <l pos="Pron">månnoeh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">me kaksi</t>
+            <t pos="Pron">me kaksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">satne</l>
+         <l pos="Pron">satne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">hän (itse)</t>
+            <t pos="Pron">hän (itse)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">såtnoeh</l>
+         <l pos="Pron">såtnoeh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">he kaksi (itse)</t>
+            <t pos="Pron">he kaksi (itse)</t>
          </tg>
       </mg>
    </e>

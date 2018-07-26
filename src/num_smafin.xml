@@ -6,101 +6,101 @@
 <r id="smafin" xml:lang="sma">
    <e>
       <lg>
-         <l pos="num">akte</l>
+         <l pos="Num">akte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">yksi</t>
+            <t pos="Num">yksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">gaektsie</l>
+         <l pos="Num">gaektsie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">kahdeksan</t>
+            <t pos="Num">kahdeksan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">golme</l>
+         <l pos="Num">golme</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">kolme</t>
+            <t pos="Num">kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">govhte</l>
+         <l pos="Num">govhte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">kuusi</t>
+            <t pos="Num">kuusi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">göökte</l>
+         <l pos="Num">göökte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">kaksi</t>
+            <t pos="Num">kaksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">luhkie</l>
+         <l pos="Num">luhkie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">kymmenen</t>
+            <t pos="Num">kymmenen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">nieljie</l>
+         <l pos="Num">nieljie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">neljä</t>
+            <t pos="Num">neljä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">tjïjhtje</l>
+         <l pos="Num">tjïjhtje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">seitsemän</t>
+            <t pos="Num">seitsemän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">uktsie</l>
+         <l pos="Num">uktsie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">yhdeksän</t>
+            <t pos="Num">yhdeksän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">vïjhte</l>
+         <l pos="Num">vïjhte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">viisi</t>
+            <t pos="Num">viisi</t>
          </tg>
       </mg>
    </e>

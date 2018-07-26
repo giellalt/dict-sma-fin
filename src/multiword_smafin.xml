@@ -10,13 +10,13 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">han</t>
-            <t pos="xxx">hän</t>
+            <t pos="Xxx">han</t>
+            <t pos="Xxx">hän</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">siis</t>
+            <t pos="Xxx">siis</t>
          </tg>
       </mg>
    </e>
@@ -26,7 +26,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">hus pois (koiralle)</t>
+            <t pos="Xxx">hus pois (koiralle)</t>
          </tg>
       </mg>
    </e>
@@ -36,7 +36,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">ympäri(llä)</t>
+            <t pos="Xxx">ympäri(llä)</t>
          </tg>
       </mg>
    </e>
@@ -46,7 +46,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">ensi perjantaina</t>
+            <t pos="Xxx">ensi perjantaina</t>
          </tg>
       </mg>
    </e>
@@ -56,7 +56,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">he kaksi</t>
+            <t pos="Xxx">he kaksi</t>
          </tg>
       </mg>
    </e>
@@ -66,7 +66,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">tänä aamuna</t>
+            <t pos="Xxx">tänä aamuna</t>
          </tg>
       </mg>
    </e>
@@ -76,7 +76,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">sinä aamuna</t>
+            <t pos="Xxx">sinä aamuna</t>
          </tg>
       </mg>
    </e>
@@ -86,7 +86,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">sinä(pä) se</t>
+            <t pos="Xxx">sinä(pä) se</t>
          </tg>
       </mg>
    </e>
@@ -96,7 +96,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">entisaikaan</t>
+            <t pos="Xxx">entisaikaan</t>
          </tg>
       </mg>
    </e>
@@ -106,7 +106,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">vihdoin viimein</t>
+            <t pos="Xxx">vihdoin viimein</t>
          </tg>
       </mg>
    </e>
@@ -116,7 +116,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">sinne tänne</t>
+            <t pos="Xxx">sinne tänne</t>
          </tg>
       </mg>
    </e>
@@ -126,7 +126,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">tänään</t>
+            <t pos="Xxx">tänään</t>
          </tg>
       </mg>
    </e>
@@ -136,7 +136,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">toissapäivänä</t>
+            <t pos="Xxx">toissapäivänä</t>
          </tg>
       </mg>
    </e>
@@ -146,7 +146,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">lohduta (ja kanna) minua</t>
+            <t pos="Xxx">lohduta (ja kanna) minua</t>
          </tg>
       </mg>
    </e>
@@ -156,8 +156,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">kaikkialla</t>
-            <t pos="xxx">joka puolella</t>
+            <t pos="Xxx">kaikkialla</t>
+            <t pos="Xxx">joka puolella</t>
          </tg>
       </mg>
    </e>
@@ -167,7 +167,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">kaikki (tyynni)</t>
+            <t pos="Xxx">kaikki (tyynni)</t>
          </tg>
       </mg>
    </e>
@@ -177,7 +177,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">monta kertaa</t>
+            <t pos="Xxx">monta kertaa</t>
          </tg>
       </mg>
    </e>
@@ -187,7 +187,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">joku</t>
+            <t pos="Xxx">joku</t>
          </tg>
       </mg>
    </e>
@@ -197,7 +197,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">anteeksi</t>
+            <t pos="Xxx">anteeksi</t>
          </tg>
       </mg>
    </e>
@@ -207,7 +207,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">kiitoksia ruuasta</t>
+            <t pos="Xxx">kiitoksia ruuasta</t>
          </tg>
       </mg>
    </e>
@@ -217,7 +217,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">kauan sitten</t>
+            <t pos="Xxx">kauan sitten</t>
          </tg>
       </mg>
    </e>
@@ -227,7 +227,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">mitenkään</t>
+            <t pos="Xxx">mitenkään</t>
          </tg>
       </mg>
    </e>
@@ -237,8 +237,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">kahteen osaan</t>
-            <t pos="xxx">kahteen suuntaan</t>
+            <t pos="Xxx">kahteen osaan</t>
+            <t pos="Xxx">kahteen suuntaan</t>
          </tg>
       </mg>
    </e>
@@ -248,7 +248,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">kaksitellen</t>
+            <t pos="Xxx">kaksitellen</t>
          </tg>
       </mg>
    </e>
@@ -258,8 +258,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">toisinaan</t>
-            <t pos="xxx">jonkin kerran</t>
+            <t pos="Xxx">toisinaan</t>
+            <t pos="Xxx">jonkin kerran</t>
          </tg>
       </mg>
    </e>
@@ -269,8 +269,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">jo toki</t>
-            <t pos="xxx">kyllä vain</t>
+            <t pos="Xxx">jo toki</t>
+            <t pos="Xxx">kyllä vain</t>
          </tg>
       </mg>
    </e>
@@ -280,8 +280,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">käsillä</t>
-            <t pos="xxx">lähellä</t>
+            <t pos="Xxx">käsillä</t>
+            <t pos="Xxx">lähellä</t>
          </tg>
       </mg>
    </e>
@@ -291,8 +291,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">epävakainen sää</t>
-            <t pos="xxx">jolloin savu tulee sisään</t>
+            <t pos="Xxx">epävakainen sää</t>
+            <t pos="Xxx">jolloin savu tulee sisään</t>
          </tg>
       </mg>
    </e>
@@ -302,7 +302,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">huvin vuoksi</t>
+            <t pos="Xxx">huvin vuoksi</t>
          </tg>
       </mg>
    </e>
@@ -312,7 +312,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">yhtä ja toista</t>
+            <t pos="Xxx">yhtä ja toista</t>
          </tg>
       </mg>
    </e>
@@ -322,8 +322,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">huonosti</t>
-            <t pos="xxx">juuri ja juuri</t>
+            <t pos="Xxx">huonosti</t>
+            <t pos="Xxx">juuri ja juuri</t>
          </tg>
       </mg>
    </e>
@@ -333,8 +333,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">kuinka monta</t>
-            <t pos="xxx">kuinka paljon</t>
+            <t pos="Xxx">kuinka monta</t>
+            <t pos="Xxx">kuinka paljon</t>
          </tg>
       </mg>
    </e>
@@ -344,7 +344,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">minkä tähden</t>
+            <t pos="Xxx">minkä tähden</t>
          </tg>
       </mg>
    </e>
@@ -354,7 +354,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">minäpä</t>
+            <t pos="Xxx">minäpä</t>
          </tg>
       </mg>
    </e>
@@ -364,8 +364,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">paljonko</t>
-            <t pos="xxx">missä määrin</t>
+            <t pos="Xxx">paljonko</t>
+            <t pos="Xxx">missä määrin</t>
          </tg>
       </mg>
    </e>
@@ -375,8 +375,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">jokunen</t>
-            <t pos="xxx">muutama</t>
+            <t pos="Xxx">jokunen</t>
+            <t pos="Xxx">muutama</t>
          </tg>
       </mg>
    </e>
@@ -386,7 +386,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">toki</t>
+            <t pos="Xxx">toki</t>
          </tg>
       </mg>
    </e>
@@ -396,8 +396,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">tietenkin</t>
-            <t pos="xxx">luonnollisesti</t>
+            <t pos="Xxx">tietenkin</t>
+            <t pos="Xxx">luonnollisesti</t>
          </tg>
       </mg>
    </e>
@@ -407,8 +407,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">jo toki</t>
-            <t pos="xxx">niin kyllä</t>
+            <t pos="Xxx">jo toki</t>
+            <t pos="Xxx">niin kyllä</t>
          </tg>
       </mg>
    </e>
@@ -418,7 +418,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">jestas sentään</t>
+            <t pos="Xxx">jestas sentään</t>
          </tg>
       </mg>
    </e>
@@ -428,7 +428,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">sanopa se</t>
+            <t pos="Xxx">sanopa se</t>
          </tg>
       </mg>
    </e>
@@ -438,7 +438,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">satatuhatta</t>
+            <t pos="Xxx">satatuhatta</t>
          </tg>
       </mg>
    </e>
@@ -448,7 +448,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">vaihteen vuoksi</t>
+            <t pos="Xxx">vaihteen vuoksi</t>
          </tg>
       </mg>
    </e>
@@ -458,7 +458,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="xxx">päätä särkee</t>
+            <t pos="Xxx">päätä särkee</t>
          </tg>
       </mg>
    </e>
