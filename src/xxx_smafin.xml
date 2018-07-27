@@ -79,21 +79,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">aarh</l>
+         <l pos="A">aarh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">varhainen</t>
+            <t pos="A">varhainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">aareh</l>
+         <l pos="A">aareh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">varhainen</t>
+            <t pos="A">varhainen</t>
          </tg>
       </mg>
    </e>
@@ -110,21 +110,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">aeblehts</l>
+         <l pos="A">aeblehts</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">laiska</t>
+            <t pos="A">laiska</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">aejlies</l>
+         <l pos="A">aejlies</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">pyhä</t>
+            <t pos="A">pyhä</t>
          </tg>
       </mg>
    </e>
@@ -189,22 +189,22 @@
    </e>
    <e>
       <lg>
-         <l pos="a">asvedihks</l>
+         <l pos="A">asvedihks</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">pelottava</t>
-            <t pos="a">kauhea</t>
+            <t pos="A">pelottava</t>
+            <t pos="A">kauhea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">baahkes</l>
+         <l pos="A">baahkes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">lämmin</t>
+            <t pos="A">lämmin</t>
          </tg>
       </mg>
    </e>
@@ -291,11 +291,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">bahkasidh</l>
+         <l pos="V">bahkasidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">katketa</t>
+            <t pos="V">katketa</t>
          </tg>
       </mg>
    </e>
@@ -311,11 +311,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">barkoes</l>
+         <l pos="A">barkoes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">työntäyteinen</t>
+            <t pos="A">työntäyteinen</t>
          </tg>
       </mg>
    </e>
@@ -400,11 +400,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">bestele</l>
+         <l pos="A">bestele</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">terävä</t>
+            <t pos="A">terävä</t>
          </tg>
       </mg>
    </e>
@@ -432,23 +432,23 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bïejstenidh</l>
+         <l pos="V">bïejstenidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">turmeltua</t>
-            <t pos="v">mennä pilalle</t>
+            <t pos="V">turmeltua</t>
+            <t pos="V">mennä pilalle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">bïevestovvedh</l>
+         <l pos="V">bïevestovvedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">hikoilla</t>
-            <t pos="v">tulla hikiseksi</t>
+            <t pos="V">hikoilla</t>
+            <t pos="V">tulla hikiseksi</t>
          </tg>
       </mg>
    </e>
@@ -484,12 +484,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bïjredh</l>
+         <l pos="V">bïjredh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">jyrsiä</t>
-            <t pos="v">järsiä</t>
+            <t pos="V">jyrsiä</t>
+            <t pos="V">järsiä</t>
          </tg>
       </mg>
    </e>
@@ -537,12 +537,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">boelnedh</l>
+         <l pos="V">boelnedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kuihtua</t>
-            <t pos="v">kellastua</t>
+            <t pos="V">kuihtua</t>
+            <t pos="V">kellastua</t>
          </tg>
       </mg>
    </e>
@@ -558,11 +558,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">boevedh</l>
+         <l pos="V">boevedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">valvoa (ja pitää hauskaa)</t>
+            <t pos="V">valvoa (ja pitää hauskaa)</t>
          </tg>
       </mg>
    </e>
@@ -578,43 +578,43 @@
    </e>
    <e>
       <lg>
-         <l pos="a">buajtehke</l>
+         <l pos="A">buajtehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">lihava</t>
-            <t pos="a">rasvainen</t>
+            <t pos="A">lihava</t>
+            <t pos="A">rasvainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">buaregh</l>
+         <l pos="A">buaregh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">terve (käteltäessä)</t>
+            <t pos="A">terve (käteltäessä)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">buelielidh</l>
+         <l pos="V">buelielidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">palaa (nopeasti)</t>
+            <t pos="V">palaa (nopeasti)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">buerkiestidh</l>
+         <l pos="V">buerkiestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">selittää</t>
-            <t pos="v">neuvoa</t>
+            <t pos="V">selittää</t>
+            <t pos="V">neuvoa</t>
          </tg>
       </mg>
    </e>
@@ -703,13 +703,13 @@
    </e>
    <e>
       <lg>
-         <l pos="v">bååhperidh</l>
+         <l pos="V">bååhperidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">ihmetellä</t>
-            <t pos="v">hämmästellä</t>
-            <t pos="v">päivitellä</t>
+            <t pos="V">ihmetellä</t>
+            <t pos="V">hämmästellä</t>
+            <t pos="V">päivitellä</t>
          </tg>
       </mg>
    </e>
@@ -737,11 +737,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">daanhtsoestidh</l>
+         <l pos="V">daanhtsoestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">tanssahtaa</t>
+            <t pos="V">tanssahtaa</t>
          </tg>
       </mg>
    </e>
@@ -854,12 +854,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dalhkedh</l>
+         <l pos="V">dalhkedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">tulla (esiin)</t>
-            <t pos="v">ilmestyä</t>
+            <t pos="V">tulla (esiin)</t>
+            <t pos="V">ilmestyä</t>
          </tg>
       </mg>
    </e>
@@ -974,87 +974,87 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">dejpelatje</l>
+         <l pos="A">dejpelatje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">entisaikainen</t>
-            <t pos="a">muinainen</t>
+            <t pos="A">entisaikainen</t>
+            <t pos="A">muinainen</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">dejbaaletje</l>
+         <l pos="A">dejbaaletje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">entisaikainen</t>
-            <t pos="a">muinainen</t>
+            <t pos="A">entisaikainen</t>
+            <t pos="A">muinainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dennie</l>
+         <l pos="Pron">dennie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">sinä</t>
-            <t pos="pron">siinä</t>
+            <t pos="Pron">sinä</t>
+            <t pos="Pron">siinä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">desnie</l>
+         <l pos="Pron">desnie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">siinä</t>
+            <t pos="Pron">siinä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">destie</l>
+         <l pos="Pron">destie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">siitä</t>
+            <t pos="Pron">siitä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">dïenesjidh</l>
+         <l pos="V">dïenesjidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">tienata</t>
-            <t pos="v">ansaita</t>
+            <t pos="V">tienata</t>
+            <t pos="V">ansaita</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">dïeves</l>
+         <l pos="A">dïeves</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">täysi</t>
+            <t pos="A">täysi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">dievviedidh</l>
+         <l pos="V">dievviedidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">tavata</t>
-            <t pos="v">kohdata</t>
-            <t pos="v">osua</t>
+            <t pos="V">tavata</t>
+            <t pos="V">kohdata</t>
+            <t pos="V">osua</t>
          </tg>
       </mg>
    </e>
@@ -1070,17 +1070,17 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dijpedh</l>
+         <l pos="V">dijpedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">napata</t>
-            <t pos="v">tarttua</t>
+            <t pos="V">napata</t>
+            <t pos="V">tarttua</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">käydä onkeen</t>
+            <t pos="V">käydä onkeen</t>
          </tg>
       </mg>
    </e>
@@ -1096,12 +1096,12 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dïsse</l>
+         <l pos="Pron">dïsse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">sille</t>
-            <t pos="pron">hänelle</t>
+            <t pos="Pron">sille</t>
+            <t pos="Pron">hänelle</t>
          </tg>
       </mg>
       <mg>
@@ -1133,72 +1133,72 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">doeltejehtedh</l>
+         <l pos="V">doeltejehtedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kiehauttaa</t>
+            <t pos="V">kiehauttaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">doeltestidh</l>
+         <l pos="V">doeltestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kiehahtaa</t>
+            <t pos="V">kiehahtaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">doeltijidh</l>
+         <l pos="V">doeltijidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">alkaa kiehua</t>
+            <t pos="V">alkaa kiehua</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">doeredidh</l>
+         <l pos="V">doeredidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kokea (verkkoja)</t>
+            <t pos="V">kokea (verkkoja)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">doete</l>
+         <l pos="Pron">doete</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">se (sinua lähempänä oleva)</t>
+            <t pos="Pron">se (sinua lähempänä oleva)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dohte</l>
+         <l pos="Pron">dohte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">tuo (kauempana oleva)</t>
+            <t pos="Pron">tuo (kauempana oleva)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">dovletje</l>
+         <l pos="A">dovletje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">entinen</t>
-            <t pos="a">muinainen</t>
+            <t pos="A">entinen</t>
+            <t pos="A">muinainen</t>
          </tg>
       </mg>
    </e>
@@ -1214,11 +1214,11 @@
    </e>
    <e>
       <lg>
-         <l pos="po">duakan</l>
+         <l pos="Po">duakan</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">taakse</t>
+            <t pos="Po">taakse</t>
          </tg>
       </mg>
    </e>
@@ -1265,32 +1265,32 @@
    </e>
    <e>
       <lg>
-         <l pos="po">duekesne</l>
+         <l pos="Po">duekesne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">takana</t>
+            <t pos="Po">takana</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dunnie</l>
+         <l pos="Pron">dunnie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">siinä</t>
+            <t pos="Pron">siinä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">tuolla</t>
+            <t pos="Pron">tuolla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dusnie</l>
+         <l pos="Pron">dusnie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1311,11 +1311,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dööpmedh</l>
+         <l pos="V">dööpmedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">tuomita</t>
+            <t pos="V">tuomita</t>
          </tg>
       </mg>
    </e>
@@ -1332,11 +1332,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dööpmesovvedh</l>
+         <l pos="V">dööpmesovvedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">saada tuomio</t>
+            <t pos="V">saada tuomio</t>
          </tg>
       </mg>
    </e>
@@ -1353,11 +1353,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">dåajmetje</l>
+         <l pos="A">dåajmetje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kohtelias</t>
+            <t pos="A">kohtelias</t>
          </tg>
       </mg>
    </e>
@@ -1414,51 +1414,51 @@
    </e>
    <e>
       <lg>
-         <l pos="v">davvodh</l>
+         <l pos="V">davvodh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">korjata</t>
+            <t pos="V">korjata</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">dåårrehtidh</l>
+         <l pos="V">dåårrehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">hankkia</t>
-            <t pos="v">huolehtia</t>
+            <t pos="V">hankkia</t>
+            <t pos="V">huolehtia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">eajhnadovvedh</l>
+         <l pos="V">eajhnadovvedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">päättää</t>
-            <t pos="v">aikoa</t>
-            <t pos="v">saada päähänsä</t>
+            <t pos="V">päättää</t>
+            <t pos="V">aikoa</t>
+            <t pos="V">saada päähänsä</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="a">ealehke</l>
+         <l pos="A">ealehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">paha</t>
-            <t pos="a">työläs</t>
-            <t pos="a">ikävä</t>
+            <t pos="A">paha</t>
+            <t pos="A">työläs</t>
+            <t pos="A">ikävä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">katkera (ruuasta)</t>
+            <t pos="A">katkera (ruuasta)</t>
          </tg>
       </mg>
    </e>
@@ -1474,21 +1474,21 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="a">earoeladtje</l>
+         <l pos="A">earoeladtje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">rehellinen</t>
+            <t pos="A">rehellinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">eavadidh</l>
+         <l pos="V">eavadidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">välittää</t>
+            <t pos="V">välittää</t>
          </tg>
       </mg>
    </e>
@@ -1504,11 +1504,11 @@
    </e>
    <e>
       <lg>
-         <l pos="cc">enn</l>
+         <l pos="CC">enn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="cc">kuin</t>
+            <t pos="CC">kuin</t>
          </tg>
       </mg>
    </e>
@@ -1535,22 +1535,22 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">fearhkasidh</l>
+         <l pos="V">fearhkasidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sortua</t>
-            <t pos="v">valua</t>
+            <t pos="V">sortua</t>
+            <t pos="V">valua</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">fehkiehtidh</l>
+         <l pos="V">fehkiehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">havahtua</t>
+            <t pos="V">havahtua</t>
          </tg>
       </mg>
    </e>
@@ -1596,21 +1596,21 @@
    </e>
    <e>
       <lg>
-         <l pos="v">firredh</l>
+         <l pos="V">firredh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">ravistaa</t>
+            <t pos="V">ravistaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">firrestidh</l>
+         <l pos="V">firrestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">ravistella (vähän)</t>
+            <t pos="V">ravistella (vähän)</t>
          </tg>
       </mg>
    </e>
@@ -1657,11 +1657,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">gaaktsede</l>
+         <l pos="A">gaaktsede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kahdeksas</t>
+            <t pos="A">kahdeksas</t>
          </tg>
       </mg>
    </e>
@@ -1677,11 +1677,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gaamhparostedh</l>
+         <l pos="V">gaamhparostedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">muksahtaa nurin</t>
+            <t pos="V">muksahtaa nurin</t>
          </tg>
       </mg>
    </e>
@@ -1697,11 +1697,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">gaarkeles</l>
+         <l pos="A">gaarkeles</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">selvä (vastakohta sotkuiselle)</t>
+            <t pos="A">selvä (vastakohta sotkuiselle)</t>
          </tg>
       </mg>
    </e>
@@ -1754,32 +1754,32 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gejvielidh</l>
+         <l pos="V">gejvielidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">koota takaisin omia teitään kulkevat porot</t>
+            <t pos="V">koota takaisin omia teitään kulkevat porot</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">gahtjedidh</l>
+         <l pos="V">gahtjedidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">putoilla</t>
+            <t pos="V">putoilla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">gahtjehtalledh</l>
+         <l pos="V">gahtjehtalledh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">pudottaa</t>
-            <t pos="v">pudotella</t>
+            <t pos="V">pudottaa</t>
+            <t pos="V">pudotella</t>
          </tg>
       </mg>
    </e>
@@ -1805,11 +1805,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">gallasodtje</l>
+         <l pos="A">gallasodtje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kylläinen</t>
+            <t pos="A">kylläinen</t>
          </tg>
       </mg>
    </e>
@@ -1825,21 +1825,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">garres</l>
+         <l pos="A">garres</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kova</t>
+            <t pos="A">kova</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">gaskese</l>
+         <l pos="Po">gaskese</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">väliin</t>
+            <t pos="Po">väliin</t>
          </tg>
       </mg>
    </e>
@@ -1855,11 +1855,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gavtjedh</l>
+         <l pos="V">gavtjedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kaatua selälleen</t>
+            <t pos="V">kaatua selälleen</t>
          </tg>
       </mg>
    </e>
@@ -1885,12 +1885,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">geehtedidh</l>
+         <l pos="V">geehtedidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">pitää varansa</t>
-            <t pos="v">varoa</t>
+            <t pos="V">pitää varansa</t>
+            <t pos="V">varoa</t>
          </tg>
       </mg>
    </e>
@@ -1921,32 +1921,32 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">gïeltegs</l>
+         <l pos="A">gïeltegs</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">jännittävä</t>
+            <t pos="A">jännittävä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">gïengele</l>
+         <l pos="A">gïengele</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">syvä</t>
+            <t pos="A">syvä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">gïertedh</l>
+         <l pos="V">gïertedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sietää</t>
-            <t pos="v">kärsiä</t>
+            <t pos="V">sietää</t>
+            <t pos="V">kärsiä</t>
          </tg>
       </mg>
    </e>
@@ -1973,11 +1973,11 @@
    </e>
    <e>
       <lg>
-         <l pos="po">gietskiebasse</l>
+         <l pos="Po">gietskiebasse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">lähemmäksi</t>
+            <t pos="Po">lähemmäksi</t>
          </tg>
       </mg>
    </e>
@@ -2013,11 +2013,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gilledidh</l>
+         <l pos="V">gilledidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">mennä makuulle</t>
+            <t pos="V">mennä makuulle</t>
          </tg>
       </mg>
    </e>
@@ -2033,11 +2033,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gïrmedh</l>
+         <l pos="V">gïrmedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kehua</t>
+            <t pos="V">kehua</t>
          </tg>
       </mg>
    </e>
@@ -2122,11 +2122,11 @@
    </e>
    <e>
       <lg>
-         <l pos="num">golmeluhkie</l>
+         <l pos="Num">golmeluhkie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">kolmekymmentä</t>
+            <t pos="Num">kolmekymmentä</t>
          </tg>
       </mg>
    </e>
@@ -2173,11 +2173,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">govhtede</l>
+         <l pos="A">govhtede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kuudes</t>
+            <t pos="A">kuudes</t>
          </tg>
       </mg>
    </e>
@@ -2316,23 +2316,23 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gurkedh</l>
+         <l pos="V">gurkedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kaataa</t>
-            <t pos="v">valaa</t>
+            <t pos="V">kaataa</t>
+            <t pos="V">valaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">gurkestidh</l>
+         <l pos="V">gurkestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kaataa</t>
-            <t pos="v">valaa hiukan</t>
+            <t pos="V">kaataa</t>
+            <t pos="V">valaa hiukan</t>
          </tg>
       </mg>
    </e>
@@ -2353,31 +2353,31 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gyölledh</l>
+         <l pos="V">gyölledh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">pysyä mukana</t>
+            <t pos="V">pysyä mukana</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">gyösedidh</l>
+         <l pos="V">gyösedidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">laahata (jatkuvasti)</t>
+            <t pos="V">laahata (jatkuvasti)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">gæbjan</l>
+         <l pos="A">gæbjan</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">sairas</t>
+            <t pos="A">sairas</t>
          </tg>
       </mg>
    </e>
@@ -2414,11 +2414,11 @@
    </e>
    <e>
       <lg>
-         <l pos="num">göökteluhkie</l>
+         <l pos="Num">göökteluhkie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">kaksikymmentä</t>
+            <t pos="Num">kaksikymmentä</t>
          </tg>
       </mg>
    </e>
@@ -2466,22 +2466,22 @@
    </e>
    <e>
       <lg>
-         <l pos="po">gåajkoe</l>
+         <l pos="Po">gåajkoe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">luo</t>
-            <t pos="po">suuntaan</t>
+            <t pos="Po">luo</t>
+            <t pos="Po">suuntaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">gåalmede</l>
+         <l pos="A">gåalmede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kolmas</t>
+            <t pos="A">kolmas</t>
          </tg>
       </mg>
    </e>
@@ -2527,11 +2527,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">gårreldihkie</l>
+         <l pos="A">gårreldihkie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">sidottuna</t>
+            <t pos="A">sidottuna</t>
          </tg>
       </mg>
    </e>
@@ -2557,51 +2557,51 @@
    </e>
    <e>
       <lg>
-         <l pos="v">haavjoelidh</l>
+         <l pos="V">haavjoelidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">hävitä</t>
-            <t pos="v">kadota (nopeasti)</t>
+            <t pos="V">hävitä</t>
+            <t pos="V">kadota (nopeasti)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">hahtadidh</l>
+         <l pos="V">hahtadidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">keksiä</t>
-            <t pos="v">hoksata</t>
-            <t pos="v">saada idea</t>
+            <t pos="V">keksiä</t>
+            <t pos="V">hoksata</t>
+            <t pos="V">saada idea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">hæhtadidh</l>
+         <l pos="V">hæhtadidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">keksiä</t>
-            <t pos="v">hoksata</t>
-            <t pos="v">saada idea</t>
+            <t pos="V">keksiä</t>
+            <t pos="V">hoksata</t>
+            <t pos="V">saada idea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">hapsahtalledh</l>
+         <l pos="V">hapsahtalledh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">haistella</t>
+            <t pos="V">haistella</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">vainuta</t>
+            <t pos="V">vainuta</t>
          </tg>
       </mg>
    </e>
@@ -2627,11 +2627,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">hearskoe</l>
+         <l pos="A">hearskoe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">herkullinen</t>
+            <t pos="A">herkullinen</t>
          </tg>
       </mg>
    </e>
@@ -2647,12 +2647,12 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">hoejhkesjidh</l>
+         <l pos="V">hoejhkesjidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">huutaa</t>
-            <t pos="v">huikata</t>
+            <t pos="V">huutaa</t>
+            <t pos="V">huikata</t>
          </tg>
       </mg>
    </e>
@@ -2674,12 +2674,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">hujnesne</l>
+         <l pos="A">hujnesne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">surullinen</t>
-            <t pos="a">huolestunut</t>
+            <t pos="A">surullinen</t>
+            <t pos="A">huolestunut</t>
          </tg>
       </mg>
    </e>
@@ -2777,13 +2777,13 @@
    </e>
    <e>
       <lg>
-         <l pos="a">isveligs</l>
+         <l pos="A">isveligs</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">hirveä</t>
-            <t pos="a">kauhea</t>
-            <t pos="a">kamala</t>
+            <t pos="A">hirveä</t>
+            <t pos="A">kauhea</t>
+            <t pos="A">kamala</t>
          </tg>
       </mg>
    </e>
@@ -2829,23 +2829,23 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jakselidh</l>
+         <l pos="V">jakselidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">saavuttaa</t>
-            <t pos="v">tavoittaa (nopeasti)</t>
+            <t pos="V">saavuttaa</t>
+            <t pos="V">tavoittaa (nopeasti)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">jaksoes</l>
+         <l pos="A">jaksoes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">käsillä oleva</t>
-            <t pos="a">saavutettavissa oleva</t>
+            <t pos="A">käsillä oleva</t>
+            <t pos="A">saavutettavissa oleva</t>
          </tg>
       </mg>
    </e>
@@ -2861,11 +2861,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">jalle</l>
+         <l pos="A">jalle</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">korkea</t>
+            <t pos="A">korkea</t>
          </tg>
       </mg>
    </e>
@@ -2882,27 +2882,27 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jamhkelidh</l>
+         <l pos="V">jamhkelidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sammuttaa</t>
+            <t pos="V">sammuttaa</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">hävittää</t>
-            <t pos="v">tuhota</t>
+            <t pos="V">hävittää</t>
+            <t pos="V">tuhota</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">jamhkedh</l>
+         <l pos="V">jamhkedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sammua</t>
+            <t pos="V">sammua</t>
          </tg>
       </mg>
    </e>
@@ -2918,11 +2918,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">jassije</l>
+         <l pos="A">jassije</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">paksu</t>
+            <t pos="A">paksu</t>
          </tg>
       </mg>
    </e>
@@ -2959,31 +2959,31 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jidtedh</l>
+         <l pos="V">jidtedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">irvistellä</t>
+            <t pos="V">irvistellä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">jeedtedh</l>
+         <l pos="V">jeedtedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">irvistellä</t>
+            <t pos="V">irvistellä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">jïejkedh</l>
+         <l pos="V">jïejkedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">epäröidä</t>
+            <t pos="V">epäröidä</t>
          </tg>
       </mg>
    </e>
@@ -3021,32 +3021,32 @@
    </e>
    <e>
       <lg>
-         <l pos="cc">jïh</l>
+         <l pos="CC">jïh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="cc">ja</t>
+            <t pos="CC">ja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">jïjhtelidh</l>
+         <l pos="V">jïjhtelidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">tulla esiin</t>
-            <t pos="v">näkyviin</t>
+            <t pos="V">tulla esiin</t>
+            <t pos="V">näkyviin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">jijhtiestidh</l>
+         <l pos="V">jijhtiestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">tulla hiukan näkyviin</t>
+            <t pos="V">tulla hiukan näkyviin</t>
          </tg>
       </mg>
    </e>
@@ -3156,21 +3156,21 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">jimkelidh</l>
+         <l pos="V">jimkelidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sammuttaa</t>
+            <t pos="V">sammuttaa</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">jïpsadidh</l>
+         <l pos="V">jïpsadidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kipsata</t>
+            <t pos="V">kipsata</t>
          </tg>
       </mg>
    </e>
@@ -3206,11 +3206,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">jorpehke</l>
+         <l pos="A">jorpehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">pyöreä</t>
+            <t pos="A">pyöreä</t>
          </tg>
       </mg>
    </e>
@@ -3257,23 +3257,23 @@
    </e>
    <e>
       <lg>
-         <l pos="a">juhtele</l>
+         <l pos="A">juhtele</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">nopea kulkemaan</t>
-            <t pos="a">luistava</t>
+            <t pos="A">nopea kulkemaan</t>
+            <t pos="A">luistava</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">juhtiehtidh</l>
+         <l pos="V">juhtiehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">auttaa muuttamaan</t>
-            <t pos="v">auttaa siirtymään</t>
+            <t pos="V">auttaa muuttamaan</t>
+            <t pos="V">auttaa siirtymään</t>
          </tg>
       </mg>
    </e>
@@ -3309,34 +3309,34 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">jyörtedh</l>
+         <l pos="V">jyörtedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">oleskella</t>
-            <t pos="v">viipyä</t>
-            <t pos="v">pysytellä</t>
+            <t pos="V">oleskella</t>
+            <t pos="V">viipyä</t>
+            <t pos="V">pysytellä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">jåaskoestidh</l>
+         <l pos="V">jåaskoestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">jäähtyä vähän</t>
+            <t pos="V">jäähtyä vähän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">jårrehtidh</l>
+         <l pos="V">jårrehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kääntää ylösalaisin</t>
-            <t pos="v">tosinpäin</t>
+            <t pos="V">kääntää ylösalaisin</t>
+            <t pos="V">tosinpäin</t>
          </tg>
       </mg>
    </e>
@@ -3372,22 +3372,22 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">klaahtoehtidh</l>
+         <l pos="V">klaahtoehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">leikkiä</t>
-            <t pos="v">pitää hauskaa</t>
+            <t pos="V">leikkiä</t>
+            <t pos="V">pitää hauskaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">klovperdidh</l>
+         <l pos="V">klovperdidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">olla lumisokea</t>
+            <t pos="V">olla lumisokea</t>
          </tg>
       </mg>
    </e>
@@ -3413,21 +3413,21 @@
    </e>
    <e>
       <lg>
-         <l pos="v">krïbpesjidh</l>
+         <l pos="V">krïbpesjidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">vaatia</t>
+            <t pos="V">vaatia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">krinngehke</l>
+         <l pos="A">krinngehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vikkelästi (edestakaisin)</t>
+            <t pos="A">vikkelästi (edestakaisin)</t>
          </tg>
       </mg>
    </e>
@@ -3443,11 +3443,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">kråavhkasjidh</l>
+         <l pos="V">kråavhkasjidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">maata käpertyneenä</t>
+            <t pos="V">maata käpertyneenä</t>
          </tg>
       </mg>
    </e>
@@ -3473,11 +3473,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">kåvrohte</l>
+         <l pos="A">kåvrohte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">unenpöpperöinen</t>
+            <t pos="A">unenpöpperöinen</t>
          </tg>
       </mg>
    </e>
@@ -3519,21 +3519,21 @@
    </e>
    <e>
       <lg>
-         <l pos="v">laetjedh</l>
+         <l pos="V">laetjedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sijata vuode</t>
+            <t pos="V">sijata vuode</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">lahkaskidh</l>
+         <l pos="V">lahkaskidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">onnistua</t>
+            <t pos="V">onnistua</t>
          </tg>
       </mg>
    </e>
@@ -3570,11 +3570,11 @@
    </e>
    <e>
       <lg>
-         <l pos="po">lïhke</l>
+         <l pos="Po">lïhke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">lähellä</t>
+            <t pos="Po">lähellä</t>
          </tg>
       </mg>
    </e>
@@ -3610,11 +3610,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">lilla</l>
+         <l pos="A">lilla</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">liilanvärinen</t>
+            <t pos="A">liilanvärinen</t>
          </tg>
       </mg>
    </e>
@@ -3651,62 +3651,62 @@
    </e>
    <e>
       <lg>
-         <l pos="a">lovves</l>
+         <l pos="A">lovves</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">märkä</t>
+            <t pos="A">märkä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">luajhtasovvedh</l>
+         <l pos="V">luajhtasovvedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">päästä irti</t>
+            <t pos="V">päästä irti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">luhkiegåalmede</l>
+         <l pos="A">luhkiegåalmede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kolmastoista</t>
+            <t pos="A">kolmastoista</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">luhkiemubpie</l>
+         <l pos="A">luhkiemubpie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kahdestoista</t>
+            <t pos="A">kahdestoista</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">luhkievoestes</l>
+         <l pos="A">luhkievoestes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">yhdestoista</t>
+            <t pos="A">yhdestoista</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">luhpiehtidh</l>
+         <l pos="V">luhpiehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">luvata</t>
-            <t pos="v">myöntyä</t>
+            <t pos="V">luvata</t>
+            <t pos="V">myöntyä</t>
          </tg>
       </mg>
    </e>
@@ -3722,65 +3722,65 @@
    </e>
    <e>
       <lg>
-         <l pos="po">luvnie</l>
+         <l pos="Po">luvnie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">luona</t>
+            <t pos="Po">luona</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">luvrege</l>
+         <l pos="A">luvrege</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">tottelevainen</t>
+            <t pos="A">tottelevainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">lyövlehke</l>
+         <l pos="A">lyövlehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">raskas</t>
-            <t pos="a">painava</t>
+            <t pos="A">raskas</t>
+            <t pos="A">painava</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">löönestidh</l>
+         <l pos="V">löönestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">lainata vähäksi aikaa</t>
+            <t pos="V">lainata vähäksi aikaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">lööveldidh</l>
+         <l pos="V">lööveldidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">irrottaa</t>
-            <t pos="v">ottaa irti</t>
+            <t pos="V">irrottaa</t>
+            <t pos="V">ottaa irti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">löövles</l>
+         <l pos="A">löövles</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">painava</t>
-            <t pos="a">raskas</t>
-            <t pos="a">vaikea</t>
+            <t pos="A">painava</t>
+            <t pos="A">raskas</t>
+            <t pos="A">vaikea</t>
          </tg>
       </mg>
    </e>
@@ -3816,32 +3816,32 @@
    </e>
    <e>
       <lg>
-         <l pos="a">låemtie</l>
+         <l pos="A">låemtie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kesy</t>
+            <t pos="A">kesy</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">låhkede</l>
+         <l pos="A">låhkede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kymmenes</t>
+            <t pos="A">kymmenes</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">lååjedidh</l>
+         <l pos="V">lååjedidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sarastaa</t>
-            <t pos="v">koittaa (päivä)</t>
+            <t pos="V">sarastaa</t>
+            <t pos="V">koittaa (päivä)</t>
          </tg>
       </mg>
    </e>
@@ -3919,64 +3919,64 @@
    </e>
    <e>
       <lg>
-         <l pos="a">madtege</l>
+         <l pos="A">madtege</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">niukka</t>
-            <t pos="a">kehnonlainen</t>
+            <t pos="A">niukka</t>
+            <t pos="A">kehnonlainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">mådtege</l>
+         <l pos="A">mådtege</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">niukka</t>
-            <t pos="a">kehnonlainen</t>
+            <t pos="A">niukka</t>
+            <t pos="A">kehnonlainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">maehtele</l>
+         <l pos="A">maehtele</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">taitava</t>
+            <t pos="A">taitava</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">maehteles</l>
+         <l pos="A">maehteles</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">taitava</t>
+            <t pos="A">taitava</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">maehtetje</l>
+         <l pos="A">maehtetje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">taitava</t>
+            <t pos="A">taitava</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">maereles</l>
+         <l pos="A">maereles</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">taitava</t>
-            <t pos="a">onnekas</t>
+            <t pos="A">taitava</t>
+            <t pos="A">onnekas</t>
          </tg>
       </mg>
    </e>
@@ -4026,12 +4026,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">måskoestidh</l>
+         <l pos="V">måskoestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">ommella kiinni</t>
-            <t pos="v">ommella umpeen</t>
+            <t pos="V">ommella kiinni</t>
+            <t pos="V">ommella umpeen</t>
          </tg>
       </mg>
    </e>
@@ -4131,21 +4131,21 @@
    </e>
    <e>
       <lg>
-         <l pos="v">milkedh</l>
+         <l pos="V">milkedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">syödä ja talloa pilalle</t>
+            <t pos="V">syödä ja talloa pilalle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">milkesovvedh</l>
+         <l pos="V">milkesovvedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">tulla syödyksi ja tallotuksi</t>
+            <t pos="V">tulla syödyksi ja tallotuksi</t>
          </tg>
       </mg>
    </e>
@@ -4182,13 +4182,13 @@
    </e>
    <e>
       <lg>
-         <l pos="v">moenedh</l>
+         <l pos="V">moenedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sanoa</t>
-            <t pos="v">kertoa</t>
-            <t pos="v">virkkaa</t>
+            <t pos="V">sanoa</t>
+            <t pos="V">kertoa</t>
+            <t pos="V">virkkaa</t>
          </tg>
       </mg>
    </e>
@@ -4226,11 +4226,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">mojjesidh</l>
+         <l pos="V">mojjesidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">hymyillä</t>
+            <t pos="V">hymyillä</t>
          </tg>
       </mg>
    </e>
@@ -4266,12 +4266,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">murries</l>
+         <l pos="A">murries</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">viihtyisä</t>
-            <t pos="a">rauhaisa</t>
+            <t pos="A">viihtyisä</t>
+            <t pos="A">rauhaisa</t>
          </tg>
       </mg>
    </e>
@@ -4298,21 +4298,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">myvhke</l>
+         <l pos="A">myvhke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">pehmeä</t>
+            <t pos="A">pehmeä</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">möövkes</l>
+         <l pos="A">möövkes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">pehmeä</t>
+            <t pos="A">pehmeä</t>
          </tg>
       </mg>
    </e>
@@ -4350,12 +4350,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">måsnoes</l>
+         <l pos="A">måsnoes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">suuttunut</t>
-            <t pos="a">pahantuulinen</t>
+            <t pos="A">suuttunut</t>
+            <t pos="A">pahantuulinen</t>
          </tg>
       </mg>
    </e>
@@ -4422,12 +4422,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">nannoes</l>
+         <l pos="A">nannoes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vahva</t>
-            <t pos="a">luja</t>
+            <t pos="A">vahva</t>
+            <t pos="A">luja</t>
          </tg>
       </mg>
    </e>
@@ -4444,104 +4444,104 @@
    </e>
    <e>
       <lg>
-         <l pos="v">narhkelidh</l>
+         <l pos="V">narhkelidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">estää poroja menemästä</t>
-            <t pos="v">ohjata toiseen suuntaan</t>
+            <t pos="V">estää poroja menemästä</t>
+            <t pos="V">ohjata toiseen suuntaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">nelhtie</l>
+         <l pos="Po">nelhtie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">päältä</t>
+            <t pos="Po">päältä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">nelnie</l>
+         <l pos="Po">nelnie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">päällä</t>
+            <t pos="Po">päällä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">nille</l>
+         <l pos="Po">nille</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">päälle</t>
+            <t pos="Po">päälle</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="a">njaelkie</l>
+         <l pos="A">njaelkie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">maukas</t>
-            <t pos="a">hyvänmakuinen</t>
+            <t pos="A">maukas</t>
+            <t pos="A">hyvänmakuinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">njeerpes</l>
+         <l pos="A">njeerpes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">ohut</t>
-            <t pos="a">laiha</t>
+            <t pos="A">ohut</t>
+            <t pos="A">laiha</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">njeervedh</l>
+         <l pos="V">njeervedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">jauhaa</t>
+            <t pos="V">jauhaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">njielje</l>
+         <l pos="Num">njielje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">neljä</t>
+            <t pos="Num">neljä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">njieljie</l>
+         <l pos="Num">njieljie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="num">neljä</t>
+            <t pos="Num">neljä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">njieljede</l>
+         <l pos="A">njieljede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">neljäs</t>
+            <t pos="A">neljäs</t>
          </tg>
       </mg>
    </e>
@@ -4577,11 +4577,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">njylledh</l>
+         <l pos="V">njylledh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">irrota (puun kuori)</t>
+            <t pos="V">irrota (puun kuori)</t>
          </tg>
       </mg>
    </e>
@@ -4597,11 +4597,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">njårkoehtidh</l>
+         <l pos="V">njårkoehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">viheltää</t>
+            <t pos="V">viheltää</t>
          </tg>
       </mg>
    </e>
@@ -4711,11 +4711,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">nåake</l>
+         <l pos="A">nåake</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">huono</t>
+            <t pos="A">huono</t>
          </tg>
       </mg>
    </e>
@@ -4791,27 +4791,27 @@
    </e>
    <e>
       <lg>
-         <l pos="v">orrestehtedh</l>
+         <l pos="V">orrestehtedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">uudistaa</t>
+            <t pos="V">uudistaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">ovnuhtege</l>
+         <l pos="A">ovnuhtege</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">paha</t>
-            <t pos="a">tuhma</t>
+            <t pos="A">paha</t>
+            <t pos="A">tuhma</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">hyödytön</t>
+            <t pos="A">hyödytön</t>
          </tg>
       </mg>
    </e>
@@ -4858,11 +4858,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">provnelaaketje</l>
+         <l pos="A">provnelaaketje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">ruskeansävyinen</t>
+            <t pos="A">ruskeansävyinen</t>
          </tg>
       </mg>
    </e>
@@ -4899,21 +4899,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">raajnes</l>
+         <l pos="A">raajnes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">puhdas</t>
+            <t pos="A">puhdas</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">raajne</l>
+         <l pos="A">raajne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">puhdas</t>
+            <t pos="A">puhdas</t>
          </tg>
       </mg>
    </e>
@@ -5049,11 +5049,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">rïevhkestidh</l>
+         <l pos="V">rïevhkestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">polttaa tupakkaa</t>
+            <t pos="V">polttaa tupakkaa</t>
          </tg>
       </mg>
    </e>
@@ -5069,12 +5069,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">rijtedh</l>
+         <l pos="V">rijtedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">panna</t>
-            <t pos="v">pistää (jonnekin)</t>
+            <t pos="V">panna</t>
+            <t pos="V">pistää (jonnekin)</t>
          </tg>
       </mg>
    </e>
@@ -5084,13 +5084,13 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">oikein</t>
-            <t pos="a">hyvin</t>
+            <t pos="A">oikein</t>
+            <t pos="A">hyvin</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kunnossa (oleva)</t>
+            <t pos="A">kunnossa (oleva)</t>
          </tg>
       </mg>
    </e>
@@ -5126,11 +5126,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">rööpseslaaketje</l>
+         <l pos="A">rööpseslaaketje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">punertava</t>
+            <t pos="A">punertava</t>
          </tg>
       </mg>
    </e>
@@ -5167,12 +5167,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">saatnan</l>
+         <l pos="A">saatnan</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">tosi</t>
-            <t pos="a">totta</t>
+            <t pos="A">tosi</t>
+            <t pos="A">totta</t>
          </tg>
       </mg>
    </e>
@@ -5220,21 +5220,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">seakoes</l>
+         <l pos="A">seakoes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">käheä</t>
+            <t pos="A">käheä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">sïemes</l>
+         <l pos="A">sïemes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">yksimielinen</t>
+            <t pos="A">yksimielinen</t>
          </tg>
       </mg>
    </e>
@@ -5250,11 +5250,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sïevehtidh</l>
+         <l pos="V">sïevehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">vilkuttaa</t>
+            <t pos="V">vilkuttaa</t>
          </tg>
       </mg>
    </e>
@@ -5270,11 +5270,11 @@
    </e>
    <e>
       <lg>
-         <l pos="po">sïjse</l>
+         <l pos="Po">sïjse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">sisään</t>
+            <t pos="Po">sisään</t>
          </tg>
       </mg>
    </e>
@@ -5300,46 +5300,46 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">sinsitnien</l>
+         <l pos="Pron">sinsitnien</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">toistensa</t>
+            <t pos="Pron">toistensa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">sisnie</l>
+         <l pos="Po">sisnie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">sisällä</t>
+            <t pos="Po">sisällä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">sistie</l>
+         <l pos="Po">sistie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">sisältä</t>
+            <t pos="Po">sisältä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">sinsætnan</l>
+         <l pos="Pron">sinsætnan</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">toisillensa</t>
+            <t pos="Pron">toisillensa</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="pron">toisiinsa</t>
+            <t pos="Pron">toisiinsa</t>
          </tg>
       </mg>
    </e>
@@ -5356,31 +5356,31 @@
    </e>
    <e>
       <lg>
-         <l pos="a">sjuevnjede</l>
+         <l pos="A">sjuevnjede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">hämärä</t>
+            <t pos="A">hämärä</t>
          </tg>
       </mg>
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">sjædtoes</l>
+         <l pos="A">sjædtoes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kasvillisuuden peittämä</t>
+            <t pos="A">kasvillisuuden peittämä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">sjöövedh</l>
+         <l pos="V">sjöövedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">sekoittaa</t>
+            <t pos="V">sekoittaa</t>
          </tg>
       </mg>
    </e>
@@ -5396,12 +5396,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">skïemtjes</l>
+         <l pos="A">skïemtjes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">sairas</t>
-            <t pos="a">kipeä</t>
+            <t pos="A">sairas</t>
+            <t pos="A">kipeä</t>
          </tg>
       </mg>
    </e>
@@ -5417,12 +5417,12 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">skïerke</l>
+         <l pos="A">skïerke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kirkas</t>
-            <t pos="a">pilvetön</t>
+            <t pos="A">kirkas</t>
+            <t pos="A">pilvetön</t>
          </tg>
       </mg>
    </e>
@@ -5491,38 +5491,38 @@
    </e>
    <e>
       <lg>
-         <l pos="v">slaamedh</l>
+         <l pos="V">slaamedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">luhistua</t>
-            <t pos="v">romahtaa</t>
+            <t pos="V">luhistua</t>
+            <t pos="V">romahtaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">slajpan</l>
+         <l pos="A">slajpan</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">longollaan</t>
-            <t pos="a">lerpallaan</t>
+            <t pos="A">longollaan</t>
+            <t pos="A">lerpallaan</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">huolimattomasti pantuna</t>
+            <t pos="A">huolimattomasti pantuna</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">sleagran</l>
+         <l pos="A">sleagran</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">likainen</t>
+            <t pos="A">likainen</t>
          </tg>
       </mg>
    </e>
@@ -5591,21 +5591,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">soevine</l>
+         <l pos="A">soevine</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">likainen</t>
+            <t pos="A">likainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">sovhtine</l>
+         <l pos="A">sovhtine</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vilustunut</t>
+            <t pos="A">vilustunut</t>
          </tg>
       </mg>
    </e>
@@ -5642,32 +5642,32 @@
    </e>
    <e>
       <lg>
-         <l pos="a">staake</l>
+         <l pos="A">staake</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">käytössä oleva</t>
-            <t pos="a">selvästi näkyvä (polku)</t>
+            <t pos="A">käytössä oleva</t>
+            <t pos="A">selvästi näkyvä (polku)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">staaran</l>
+         <l pos="A">staaran</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">oikein</t>
+            <t pos="A">oikein</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">stoerre</l>
+         <l pos="A">stoerre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">iso</t>
+            <t pos="A">iso</t>
          </tg>
       </mg>
    </e>
@@ -5703,11 +5703,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">strerkies</l>
+         <l pos="A">strerkies</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">säikähtänyt</t>
+            <t pos="A">säikähtänyt</t>
          </tg>
       </mg>
    </e>
@@ -5723,46 +5723,46 @@
    </e>
    <e>
       <lg>
-         <l pos="a">stööves</l>
+         <l pos="A">stööves</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">rauhallinen</t>
+            <t pos="A">rauhallinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">suajas</l>
+         <l pos="A">suajas</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">suojaisa</t>
+            <t pos="A">suojaisa</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">tuulensuoja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">suvvedh</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="v">kasvaa umpeen</t>
+            <t pos="A">tuulensuoja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">svihtjedh</l>
+         <l pos="V">suvvedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">liikkua</t>
+            <t pos="V">kasvaa umpeen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">svihtjedh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">liikkua</t>
          </tg>
       </mg>
    </e>
@@ -5778,12 +5778,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">syjhtedh</l>
+         <l pos="V">syjhtedh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">vahtia</t>
-            <t pos="v">hoitaa</t>
+            <t pos="V">vahtia</t>
+            <t pos="V">hoitaa</t>
          </tg>
       </mg>
    </e>
@@ -5820,11 +5820,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">såajnodh</l>
+         <l pos="V">såajnodh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">heinittää (kenkä)</t>
+            <t pos="V">heinittää (kenkä)</t>
          </tg>
       </mg>
    </e>
@@ -5887,22 +5887,22 @@
    </e>
    <e>
       <lg>
-         <l pos="a">såålhtehke</l>
+         <l pos="A">såålhtehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">suolattu</t>
-            <t pos="a">suolainen</t>
+            <t pos="A">suolattu</t>
+            <t pos="A">suolainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">sååvrehke</l>
+         <l pos="A">sååvrehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">irtonainen ja karkea (lumi keväällä)</t>
+            <t pos="A">irtonainen ja karkea (lumi keväällä)</t>
          </tg>
       </mg>
    </e>
@@ -5948,41 +5948,41 @@
    </e>
    <e>
       <lg>
-         <l pos="v">tjaaleldh</l>
+         <l pos="V">tjaaleldh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kirjallisesti</t>
+            <t pos="V">kirjallisesti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">tjaangelidh</l>
+         <l pos="V">tjaangelidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">pujahtaa</t>
+            <t pos="V">pujahtaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">tjaangestidh</l>
+         <l pos="V">tjaangestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">pistäytyä</t>
+            <t pos="V">pistäytyä</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="a">tjaebpie</l>
+         <l pos="A">tjaebpie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kaunis</t>
+            <t pos="A">kaunis</t>
          </tg>
       </mg>
    </e>
@@ -6019,12 +6019,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">tjeehpeslaaketje</l>
+         <l pos="A">tjeehpeslaaketje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">mustahko</t>
-            <t pos="a">mustanlainen</t>
+            <t pos="A">mustahko</t>
+            <t pos="A">mustanlainen</t>
          </tg>
       </mg>
    </e>
@@ -6071,27 +6071,27 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="v">tjïjhkestidh</l>
+         <l pos="V">tjïjhkestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kiikaroida</t>
+            <t pos="V">kiikaroida</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">tjïjhtjede</l>
+         <l pos="A">tjïjhtjede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">seitsemäs</t>
+            <t pos="A">seitsemäs</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">tjïrrh</l>
+         <l pos="Po">tjïrrh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6102,11 +6102,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">tjoejkelidh</l>
+         <l pos="V">tjoejkelidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">lähteä pois hiihtäen</t>
+            <t pos="V">lähteä pois hiihtäen</t>
          </tg>
       </mg>
    </e>
@@ -6122,11 +6122,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">tjoejkijidh</l>
+         <l pos="V">tjoejkijidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">lähteä hiihtämään</t>
+            <t pos="V">lähteä hiihtämään</t>
          </tg>
       </mg>
    </e>
@@ -6193,11 +6193,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">tjöönghkestalledh</l>
+         <l pos="V">tjöönghkestalledh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">keräillä</t>
+            <t pos="V">keräillä</t>
          </tg>
       </mg>
    </e>
@@ -6235,12 +6235,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">tjåenghkies</l>
+         <l pos="A">tjåenghkies</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">koossa</t>
-            <t pos="a">koottu(na)</t>
+            <t pos="A">koossa</t>
+            <t pos="A">koottu(na)</t>
          </tg>
       </mg>
    </e>
@@ -6330,31 +6330,31 @@
    </e>
    <e>
       <lg>
-         <l pos="a">tråjjes</l>
+         <l pos="A">tråjjes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">viihtyisä</t>
+            <t pos="A">viihtyisä</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="a">tröjjes</l>
+         <l pos="A">tröjjes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">viihtyisä</t>
+            <t pos="A">viihtyisä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">tsaapestidh</l>
+         <l pos="V">tsaapestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">leikata palasiksi</t>
+            <t pos="V">leikata palasiksi</t>
          </tg>
       </mg>
    </e>
@@ -6411,42 +6411,42 @@
    </e>
    <e>
       <lg>
-         <l pos="a">unnebe</l>
+         <l pos="A">unnebe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">pienempi</t>
+            <t pos="A">pienempi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">unnemes</l>
+         <l pos="A">unnemes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">pienin</t>
+            <t pos="A">pienin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">uvte</l>
+         <l pos="Po">uvte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">eteen</t>
+            <t pos="Po">eteen</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="a">vaajhkoen</l>
+         <l pos="A">vaajhkoen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">ainoa</t>
-            <t pos="a">vähäinen</t>
+            <t pos="A">ainoa</t>
+            <t pos="A">vähäinen</t>
          </tg>
       </mg>
    </e>
@@ -6472,11 +6472,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">vaane</l>
+         <l pos="A">vaane</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">tottunut</t>
+            <t pos="A">tottunut</t>
          </tg>
       </mg>
    </e>
@@ -6502,12 +6502,12 @@
    </e>
    <e>
       <lg>
-         <l pos="v">vaaroehtidh</l>
+         <l pos="V">vaaroehtidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">varoittaa</t>
-            <t pos="v">kehottaa</t>
+            <t pos="V">varoittaa</t>
+            <t pos="V">kehottaa</t>
          </tg>
       </mg>
    </e>
@@ -6533,21 +6533,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">vaenemes</l>
+         <l pos="A">vaenemes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vähintään</t>
+            <t pos="A">vähintään</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="a">vaenies</l>
+         <l pos="A">vaenies</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vähän</t>
+            <t pos="A">vähän</t>
          </tg>
       </mg>
    </e>
@@ -6584,21 +6584,21 @@
    </e>
    <e>
       <lg>
-         <l pos="a">veaksahkåbpoe</l>
+         <l pos="A">veaksahkåbpoe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vahvempi</t>
+            <t pos="A">vahvempi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">veaksehke</l>
+         <l pos="A">veaksehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vahva</t>
+            <t pos="A">vahva</t>
          </tg>
       </mg>
    </e>
@@ -6614,44 +6614,44 @@
    </e>
    <e>
       <lg>
-         <l pos="v">veelestidh</l>
+         <l pos="V">veelestidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">paneutua makuulle (nopeasti)</t>
+            <t pos="V">paneutua makuulle (nopeasti)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">veerremes</l>
+         <l pos="A">veerremes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">pahin</t>
+            <t pos="A">pahin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vervesne</l>
+         <l pos="A">vervesne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">terve</t>
-            <t pos="a">hyväkuntoinen</t>
+            <t pos="A">terve</t>
+            <t pos="A">hyväkuntoinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vestie</l>
+         <l pos="A">vestie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">paha</t>
-            <t pos="a">huono</t>
-            <t pos="a">ruma</t>
+            <t pos="A">paha</t>
+            <t pos="A">huono</t>
+            <t pos="A">ruma</t>
          </tg>
       </mg>
    </e>
@@ -6693,54 +6693,54 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="a">vïevtjije</l>
+         <l pos="A">vïevtjije</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">sätkyttelevä</t>
+            <t pos="A">sätkyttelevä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vihtie</l>
+         <l pos="A">vihtie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">tietty</t>
-            <t pos="a">tunnettu</t>
-            <t pos="a">varma</t>
+            <t pos="A">tietty</t>
+            <t pos="A">tunnettu</t>
+            <t pos="A">varma</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vïjhtede</l>
+         <l pos="A">vïjhtede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">viides</t>
+            <t pos="A">viides</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">vijredh</l>
+         <l pos="V">vijredh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">metsästää</t>
+            <t pos="V">metsästää</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vissjeles</l>
+         <l pos="A">vissjeles</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">ahkera</t>
-            <t pos="a">viitseliäs</t>
+            <t pos="A">ahkera</t>
+            <t pos="A">viitseliäs</t>
          </tg>
       </mg>
    </e>
@@ -6766,11 +6766,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">voeres</l>
+         <l pos="A">voeres</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vanha</t>
+            <t pos="A">vanha</t>
          </tg>
       </mg>
       <mg>
@@ -6781,11 +6781,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">voerese</l>
+         <l pos="A">voerese</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">vanha</t>
+            <t pos="A">vanha</t>
          </tg>
       </mg>
       <mg>
@@ -6806,11 +6806,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">voestes</l>
+         <l pos="A">voestes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">ensimmäinen</t>
+            <t pos="A">ensimmäinen</t>
          </tg>
       </mg>
    </e>
@@ -6846,21 +6846,21 @@
    </e>
    <e>
       <lg>
-         <l pos="v">vyskedidh</l>
+         <l pos="V">vyskedidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">kellastua</t>
+            <t pos="V">kellastua</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vyskehke</l>
+         <l pos="A">vyskehke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">keltainen</t>
+            <t pos="A">keltainen</t>
          </tg>
       </mg>
    </e>
@@ -6877,62 +6877,62 @@
    </e>
    <e>
       <lg>
-         <l pos="a">væjkele</l>
+         <l pos="A">væjkele</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">taitava</t>
-            <t pos="a">kelpo</t>
+            <t pos="A">taitava</t>
+            <t pos="A">kelpo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vöölemes</l>
+         <l pos="A">vöölemes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">alin</t>
+            <t pos="A">alin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="po">vööste</l>
+         <l pos="Po">vööste</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="po">vastaan</t>
+            <t pos="Po">vastaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vååjnoes</l>
+         <l pos="A">vååjnoes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">nähtävä(sti)</t>
+            <t pos="A">nähtävä(sti)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">åajvoe</l>
+         <l pos="A">åajvoe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">oiva(llinen)</t>
+            <t pos="A">oiva(llinen)</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">åaksesjidh</l>
+         <l pos="V">åaksesjidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="v">karsia oksat</t>
+            <t pos="V">karsia oksat</t>
          </tg>
       </mg>
    </e>
@@ -6948,22 +6948,22 @@
    </e>
    <e>
       <lg>
-         <l pos="a">åavroes</l>
+         <l pos="A">åavroes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">kuuma</t>
-            <t pos="a">helteinen</t>
+            <t pos="A">kuuma</t>
+            <t pos="A">helteinen</t>
          </tg>
       </mg>
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="a">åejjienååleh</l>
+         <l pos="A">åejjienååleh</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">tyyny</t>
+            <t pos="A">tyyny</t>
          </tg>
       </mg>
    </e>
@@ -7019,11 +7019,11 @@
    </e>
    <e>
       <lg>
-         <l pos="a">åktsede</l>
+         <l pos="A">åktsede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">yhdeksäs</t>
+            <t pos="A">yhdeksäs</t>
          </tg>
       </mg>
    </e>
@@ -7115,12 +7115,12 @@
    </e>
    <e>
       <lg>
-         <l pos="a">åålijes</l>
+         <l pos="A">åålijes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="a">mehukas</t>
-            <t pos="a">maukas (lihasta)</t>
+            <t pos="A">mehukas</t>
+            <t pos="A">maukas (lihasta)</t>
          </tg>
       </mg>
    </e>
