@@ -2203,11 +2203,11 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="i">gudtsene</l>
+         <l pos="Xxx">gudtsene</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="i">ole hyvä</t>
+            <t pos="Xxx">ole hyvä</t>
          </tg>
       </mg>
    </e>
@@ -2338,16 +2338,16 @@
    </e>
    <e note="TIL FST interj">
       <lg>
-         <l pos="i">gussene</l>
+         <l pos="Xxx">gussene</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="i">eipä kestä (kiittää)</t>
+            <t pos="Xxx">eipä kestä (kiittää)</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="i">ole hyvä</t>
+            <t pos="Xxx">ole hyvä</t>
          </tg>
       </mg>
    </e>
