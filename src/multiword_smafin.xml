@@ -203,10 +203,11 @@
    </e>
    <e>
       <lg>
-         <l pos="mwe">gudtsien (aelties)</l>
+         <l pos="mwe">gudtsien</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
+            <re>aelties</re>
             <t pos="Xxx">kiitoksia ruuasta</t>
          </tg>
       </mg>
@@ -287,10 +288,11 @@
    </e>
    <e>
       <lg>
-         <l pos="mwe">klååmsehth (vearelde)</l>
+         <l pos="mwe">klååmsehth</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
+            <re>vearelde</re>
             <t pos="Xxx">epävakainen sää</t>
             <t pos="Xxx">jolloin savu tulee sisään</t>
          </tg>
