@@ -82,7 +82,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron">hän (itse)</t>
+            <re>itse</re>
+            <t pos="Pron">hän</t>
          </tg>
       </mg>
    </e>
@@ -92,7 +93,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron">he kaksi (itse)</t>
+            <re>itse</re>
+            <t pos="Pron">he kaksi</t>
          </tg>
       </mg>
    </e>

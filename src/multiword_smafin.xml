@@ -26,7 +26,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Xxx">hus pois (koiralle)</t>
+            <re>koiralle</re>
+            <t pos="Xxx">hus pois</t>
          </tg>
       </mg>
    </e>
@@ -146,7 +147,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Xxx">lohduta (ja kanna) minua</t>
+            <re>ja kanna</re>
+            <t pos="Xxx">lohduta minua</t>
          </tg>
       </mg>
    </e>
@@ -167,7 +169,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Xxx">kaikki (tyynni)</t>
+            <re>tyynni</re>
+            <t pos="Xxx">kaikki</t>
          </tg>
       </mg>
    </e>

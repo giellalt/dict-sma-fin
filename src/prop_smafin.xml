@@ -20,7 +20,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Fatmomakke (Ruotsissa)</t>
+            <re>Ruotsissa</re>
+            <t pos="Prop">Fatmomakke</t>
          </tg>
       </mg>
    </e>

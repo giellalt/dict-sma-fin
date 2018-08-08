@@ -439,7 +439,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">tuolla (kaukana)</t>
+            <re>kaukana</re>
+            <t pos="Adv">tuolla</t>
          </tg>
       </mg>
    </e>
@@ -454,7 +455,8 @@
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">siinä (on)</t>
+            <re>on</re>
+            <t pos="Adv">siinä</t>
          </tg>
       </mg>
    </e>
@@ -464,7 +466,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">siinä (on)</t>
+            <re>on</re>
+            <t pos="Adv">siinä</t>
          </tg>
       </mg>
    </e>
@@ -688,7 +691,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">mistä (suunnasta)</t>
+            <re>suunnasta</re>
+            <t pos="Adv">mistä</t>
          </tg>
       </mg>
    </e>

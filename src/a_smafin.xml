@@ -123,7 +123,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">vaaleanharmaa (poro)</t>
+            <re>poro</re>
+            <t pos="A">vaaleanharmaa</t>
          </tg>
       </mg>
    </e>
@@ -143,7 +144,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">hajallaan (oleva)</t>
+            <re>oleva</re>
+            <t pos="A">hajallaan</t>
          </tg>
       </mg>
    </e>
