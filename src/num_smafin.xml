@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smafin" xml:lang="sma">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smafin" xml:lang="sma">
    <e>
       <lg>
          <l pos="Num">akte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="akte 0a9d0f48-e3e8-41a5-9690-4a5f9c476fd6">
             <t pos="Num">yksi</t>
          </tg>
       </mg>
@@ -19,7 +18,7 @@
          <l pos="Num">gaektsie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="gaektsie ccb73815-303e-4b33-b27e-a69bc839d22b">
             <t pos="Num">kahdeksan</t>
          </tg>
       </mg>
@@ -29,7 +28,7 @@
          <l pos="Num">golme</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="golme 79a57ebc-e750-4db1-9235-f14bc4b9bba5">
             <t pos="Num">kolme</t>
          </tg>
       </mg>
@@ -39,7 +38,7 @@
          <l pos="Num">govhte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="govhte 7e33a22e-a651-49dc-a019-44f6b4a12db3">
             <t pos="Num">kuusi</t>
          </tg>
       </mg>
@@ -49,7 +48,7 @@
          <l pos="Num">göökte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="göökte 3864fdc7-2309-4903-871e-5fd51aa012e9">
             <t pos="Num">kaksi</t>
          </tg>
       </mg>
@@ -59,7 +58,7 @@
          <l pos="Num">luhkie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="luhkie b5d17eb3-406e-48c6-84e2-dd6a9c249e41">
             <t pos="Num">kymmenen</t>
          </tg>
       </mg>
@@ -69,7 +68,7 @@
          <l pos="Num">nieljie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="nieljie 8f23fb4b-7a80-4d22-aa89-8998396e402a">
             <t pos="Num">neljä</t>
          </tg>
       </mg>
@@ -79,7 +78,7 @@
          <l pos="Num">tjïjhtje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="tjïjhtje c41c823b-c60a-4682-a991-883b79f625c9">
             <t pos="Num">seitsemän</t>
          </tg>
       </mg>
@@ -89,7 +88,7 @@
          <l pos="Num">uktsie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="uktsie f0509326-20c9-44b7-8b19-faa34b47ef82">
             <t pos="Num">yhdeksän</t>
          </tg>
       </mg>
@@ -99,7 +98,7 @@
          <l pos="Num">vïjhte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="vïjhte f78a87fd-cce5-4dca-bf22-e1dbebf671b8">
             <t pos="Num">viisi</t>
          </tg>
       </mg>

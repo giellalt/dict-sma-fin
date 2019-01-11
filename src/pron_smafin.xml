@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smafin" xml:lang="sma">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smafin" xml:lang="sma">
    <e>
       <lg>
          <l pos="Pron">dah</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dah da183f35-851a-463b-8559-cafe19ebdc41">
             <t pos="Pron">ne</t>
             <t pos="Pron">he</t>
          </tg>
@@ -20,7 +19,7 @@
          <l pos="Pron">datne</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="datne fcfdcf87-37bd-4546-bf1f-ccd2df43715b">
             <t pos="Pron">sinä</t>
          </tg>
       </mg>
@@ -30,7 +29,7 @@
          <l pos="Pron">dïhte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dïhte 894b1172-373e-492b-afb1-57010502767e">
             <t pos="Pron">se</t>
             <t pos="Pron">hän</t>
          </tg>
@@ -41,7 +40,7 @@
          <l pos="Pron">dijjieh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dijjieh e15c10b4-e215-4e11-bb2a-bf796bf28634">
             <t pos="Pron">te</t>
          </tg>
       </mg>
@@ -51,7 +50,7 @@
          <l pos="Pron">dåtnoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="dåtnoeh 39921595-eec3-4ff2-9da7-1319ce5d9584">
             <t pos="Pron">te kaksi</t>
          </tg>
       </mg>
@@ -61,7 +60,7 @@
          <l pos="Pron">manne</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="manne 932d16cd-976c-4c6b-8a87-5f0a1a4e9892">
             <t pos="Pron">minä</t>
          </tg>
       </mg>
@@ -71,7 +70,7 @@
          <l pos="Pron">månnoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="månnoeh 90f4d6bc-3a66-43d9-bf84-7853785181b2">
             <t pos="Pron">me kaksi</t>
          </tg>
       </mg>
@@ -81,7 +80,7 @@
          <l pos="Pron">satne</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="satne 008131bc-ddc1-43c6-863b-b89cddc320fc">
             <re>itse</re>
             <t pos="Pron">hän</t>
          </tg>
@@ -92,7 +91,7 @@
          <l pos="Pron">såtnoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="såtnoeh f6e0278f-c648-4aae-b930-2b4a738aa5cf">
             <re>itse</re>
             <t pos="Pron">he kaksi</t>
          </tg>

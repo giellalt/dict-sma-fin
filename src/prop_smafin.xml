@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="smafin" xml:lang="sma">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smafin" xml:lang="sma">
    <e>
       <lg>
          <l pos="Prop">Dearna</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="Dearna 0f836021-c759-4a2d-97b8-8ace60ff30f4">
             <t pos="Prop">Tärnaby</t>
          </tg>
       </mg>
@@ -19,7 +18,7 @@
          <l pos="Prop">Faepmie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="Faepmie a3b4d8cd-62c3-4bf0-8bdd-34b1798a0e94">
             <re>Ruotsissa</re>
             <t pos="Prop">Fatmomakke</t>
          </tg>
@@ -30,7 +29,7 @@
          <l pos="Prop">Nöörje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="Nöörje 39d0751a-700e-4d8a-acdc-3660819b9c2e">
             <t pos="Prop">Norja</t>
          </tg>
       </mg>
@@ -40,7 +39,7 @@
          <l pos="Prop">Sveerje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" tw_id="Sveerje 05ab55a8-2402-4c1f-886f-2e644c100a51">
             <t pos="Prop">Ruotsi</t>
          </tg>
       </mg>
