@@ -902,23 +902,7 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
-      <lg>
-         <l pos="Xxx">darks</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin" tw_id="darks fc9bdaf9-1aa1-4907-8fcf-ba8af97f2cc5">
-            <t pos="Xxx">sitten</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin" tw_id="darks 2e511546-f565-40b0-9dd2-16d977bdc521">
-            <t pos="Xxx">kaan</t>
-            <t pos="Xxx">kään</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+      <e>
       <lg>
          <l pos="Pcle">darhke</l>
       </lg>
