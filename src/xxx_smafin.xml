@@ -6092,16 +6092,6 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
-      <lg>
-         <l pos="N">tjïjhke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin" tw_id="tjïjhke a46bd327-40f1-46f4-85c2-70e0b6074231">
-            <t pos="N">kiikari</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">tjïjhkerde</l>
@@ -6112,9 +6102,9 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
+   <e note="sjekket ok">
       <lg>
-         <l pos="V">tjïjhkestidh</l>
+         <l pos="V">tjïjhkerdidh</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="tjïjhkestidh 529f3914-0e68-4910-9362-3a355ff406ab">
