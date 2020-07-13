@@ -6433,9 +6433,9 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
+   <e note="checked">
       <lg>
-         <l pos="N">tuvriste</l>
+         <l pos="N">stuara</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="tuvriste 8ce0cfde-1849-4a15-83cf-572d01b44c58">
@@ -6443,9 +6443,9 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
+   <e note="checked">
       <lg>
-         <l pos="N">turriste</l>
+         <l pos="N">turiste</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="turriste 5580e406-9fb7-4cdd-87be-413df19cfe81">
