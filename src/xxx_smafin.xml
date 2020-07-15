@@ -1218,16 +1218,6 @@
          </tg>
       </mg>
    </e>
-   <e note="TIL FST">
-      <lg>
-         <l pos="Adv">duarstabiejjegi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin" tw_id="duarstabiejjegi e92dc6c4-e164-45a3-b96f-904ce87c6b0c">
-            <t pos="Adv">torstaisin</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="Po">dubpelen</l>
@@ -2960,9 +2950,9 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
+   <e note="checked">
       <lg>
-         <l pos="N">jeeste</l>
+         <l pos="N">jeestere</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="jeeste 535d71cd-71ab-4d9e-9a7d-3314639bfd60">
@@ -5440,12 +5430,12 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
+   <e note="checked">
       <lg>
-         <l pos="N">skïemtjesyjhtere</l>
+         <l pos="N">skïemtjesåjhtere</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="skïemtjesyjhtere a556ef9f-ad4d-4dd6-8517-05d0c202d8aa">
+         <tg xml:lang="fin" tw_id="skïemtjesåjhtere a556ef9f-ad4d-4dd6-8517-05d0c202d8aa">
             <t pos="N">sairaanhoitaja</t>
          </tg>
       </mg>
@@ -5828,12 +5818,12 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
+   <e note="checked">
       <lg>
-         <l pos="N">syjhtere</l>
+         <l pos="N">såjhtere</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="syjhtere 52245466-aeec-495f-9428-93247e890e35">
+         <tg xml:lang="fin" tw_id="såjhtere 52245466-aeec-495f-9428-93247e890e35">
             <t pos="N">sairaanhoitaja</t>
             <t pos="N">hoitaja</t>
          </tg>
