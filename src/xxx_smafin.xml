@@ -1911,10 +1911,10 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="A">gïeltegs</l>
+         <l pos="A">gieltegs</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gïeltegs 099d8e68-ff06-4a35-a5a6-9af4df4edbb0">
+         <tg xml:lang="fin" tw_id="gieltegs 099d8e68-ff06-4a35-a5a6-9af4df4edbb0">
             <t pos="A">jännittävä</t>
          </tg>
       </mg>
@@ -5941,10 +5941,10 @@
    </e>
    <e>
       <lg>
-         <l pos="N">tabledth</l>
+         <l pos="N">tablehte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tabledth fff1836f-fa54-4e61-879b-fffdebedc437">
+         <tg xml:lang="fin" tw_id="tablehte fff1836f-fa54-4e61-879b-fffdebedc437">
             <t pos="N">tabletit</t>
          </tg>
       </mg>
