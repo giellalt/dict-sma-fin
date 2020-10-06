@@ -1,3 +1,4 @@
+
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
@@ -2285,7 +2286,7 @@
          </tg>
       </mg>
    </e>
-   <e note="USIKKER">
+   <e note="checked">
       <lg>
          <l pos="Xxx">guktie</l>
       </lg>
