@@ -3116,23 +3116,12 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked" >
       <lg>
          <l pos="N">jïllemsgenhtseme</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="jïllemsgenhtseme 91a10861-3823-44f5-a00c-103f3e1a6552">
-            <re>poron sarvessa</re>
-            <t pos="N">takakaihdin</t>
-         </tg>
-      </mg>
-   </e>
-   <e note="USIKKER">
-      <lg>
-         <l pos="N">jïlleskenteme</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin" tw_id="jïlleskenteme 89a9cae0-56e4-425a-a8cb-1341d4c5d2c2">
             <re>poron sarvessa</re>
             <t pos="N">takakaihdin</t>
          </tg>
