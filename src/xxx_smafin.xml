@@ -4240,7 +4240,7 @@
    </e>
    <e note="USIKKER">
       <lg>
-         <l pos="Xxx">mubpehte</l>
+         <l pos="Xxx">mubpesth</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="mubpehte b8ac8e4e-bc30-4d61-86cc-623112dbdb1c">
@@ -6407,7 +6407,7 @@
          <l pos="N">stuara</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tuvriste 8ce0cfde-1849-4a15-83cf-572d01b44c58">
+         <tg xml:lang="fin" tw_id="turiste 8ce0cfde-1849-4a15-83cf-572d01b44c58">
             <t pos="N">turisti</t>
          </tg>
       </mg>
