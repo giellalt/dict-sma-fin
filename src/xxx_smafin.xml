@@ -6175,7 +6175,9 @@
    </e>
    <e note="TIL FST">
       <lg>
-         <l pos="N">tjyöresthtjelmieh</l>
+         <l pos="N">
+	         
+         </l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="tjyöresthtjelmieh 450cf6c6-9422-4721-a428-661e79f8e9c7">
@@ -6975,9 +6977,9 @@
          </tg>
       </mg>
    </e>
-   <e note="TIL FST">
+   <e note="checked">
       <lg>
-         <l pos="A">åejjieååleh</l>
+         <l pos="A">åejjie-nååleh</l>
       </lg>
       <mg>
          <tg xml:lang="fin" tw_id="åejjienååleh 0acd6568-c779-43ed-b483-87f80b854dc2">
