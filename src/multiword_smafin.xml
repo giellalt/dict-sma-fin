@@ -5,16 +5,16 @@
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smafin" xml:lang="sma">
    <e>
       <lg>
-         <l pos="mwe">ae nagkh</l>
+         <l pos="mwe">nagkh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ae nagkh f22b2b0d-6f70-45f1-839e-5fc82f8d3f7b">
+         <tg xml:lang="fin" tw_id="nagkh f22b2b0d-6f70-45f1-839e-5fc82f8d3f7b">
             <t pos="Xxx">han</t>
             <t pos="Xxx">hän</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="ae nagkh 44cbf8a4-0784-48d0-8c62-d5bd77d13835">
+         <tg xml:lang="fin" tw_id="nagkh 44cbf8a4-0784-48d0-8c62-d5bd77d13835">
             <t pos="Xxx">siis</t>
          </tg>
       </mg>
