@@ -8,7 +8,7 @@
          <l pos="A">aales</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="aales 768602a6-8e27-4f75-b1a1-b02a283afe1b">
+         <tg xml:lang="fin">
             <t pos="A">rauhallinen</t>
             <t pos="A">pedoton</t>
          </tg>
@@ -19,12 +19,12 @@
          <l pos="A">aarehke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="aarehke e1506a86-e0b6-4224-a21c-cd49a8df1dfc">
+         <tg xml:lang="fin">
             <t stat="pref" pos="A">varhainen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="aarehke 618e0d55-59a8-40a6-8fcc-6e9ca848da08">
+         <tg xml:lang="fin">
             <t stat="pref" pos="A">valppas</t>
          </tg>
       </mg>
@@ -34,7 +34,7 @@
          <l pos="A">aavrehke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="aavrehke 98aa9627-0179-4ba9-94a2-f7b1b217117a">
+         <tg xml:lang="fin">
             <t pos="A">onnekas</t>
          </tg>
       </mg>
@@ -44,7 +44,7 @@
          <l pos="A">aelmies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="aelmies 73878134-b070-4c0b-ae52-50291b498338">
+         <tg xml:lang="fin">
             <t pos="A">maukas</t>
          </tg>
       </mg>
@@ -54,7 +54,7 @@
          <l pos="A">aerkies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="aerkies eb285ee0-74f8-4338-a0a9-b24d83e4de7d">
+         <tg xml:lang="fin">
             <t stat="pref" pos="A">arka</t>
             <t stat="notpref" pos="A">pelokas</t>
          </tg>
@@ -65,7 +65,7 @@
          <l pos="A">ammes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ammes cc86102f-5641-4875-a830-98d690995f73">
+         <tg xml:lang="fin">
             <t pos="A">vieras</t>
             <t pos="A">outo</t>
          </tg>
@@ -76,12 +76,12 @@
          <l pos="A">beagkoes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="beagkoes 9110b2fd-74aa-4c23-b376-7912840f0036">
+         <tg xml:lang="fin">
             <t pos="A">tuulinen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="beagkoes c0a41455-c856-44ef-ba39-50d34b85b56a">
+         <tg xml:lang="fin">
             <t pos="A">kuuluisa</t>
          </tg>
       </mg>
@@ -91,7 +91,7 @@
          <l pos="A">beavloes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="beavloes 2ac11fb7-e643-4e7f-9b05-f7b2c1d351a1">
+         <tg xml:lang="fin">
             <t pos="A">lumeton</t>
          </tg>
       </mg>
@@ -101,7 +101,7 @@
          <l pos="A">besteles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="besteles 3b9ca05b-b199-4c55-8875-7bacaebf77d1">
+         <tg xml:lang="fin">
             <t pos="A">terävä</t>
          </tg>
       </mg>
@@ -111,7 +111,7 @@
          <l pos="A">boerehks</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="boerehks 9d7b269d-b000-4e8a-9791-83919914edf4">
+         <tg xml:lang="fin">
             <t pos="A">antelias</t>
          </tg>
       </mg>
@@ -121,7 +121,7 @@
          <l pos="A">båavjoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="båavjoeh f2bab2c2-728e-42f5-9d6f-d7081cd55559">
+         <tg xml:lang="fin">
             <re>poro</re>
             <t pos="A">vaaleanharmaa</t>
          </tg>
@@ -132,7 +132,7 @@
          <l pos="A">båeries</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="båeries 69de64f9-8fd5-47ac-94ba-0d1ce2284d1d">
+         <tg xml:lang="fin">
             <t pos="A">vanha</t>
          </tg>
       </mg>
@@ -142,7 +142,7 @@
          <l pos="A">bårras</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="bårras d6bc9c67-b1d6-4b8c-a461-b99612785817">
+         <tg xml:lang="fin">
             <re>oleva</re>
             <t pos="A">hajallaan</t>
          </tg>
@@ -153,7 +153,7 @@
          <l pos="A">bååktjehke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="bååktjehke fd09be4a-72bd-44ba-aa69-0e8d636bbb28">
+         <tg xml:lang="fin">
             <t pos="A">kipeä</t>
          </tg>
       </mg>
@@ -163,7 +163,7 @@
          <l pos="A">daajroes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="daajroes 11385a30-46d1-458b-adb4-d8e3e32aaa21">
+         <tg xml:lang="fin">
             <t pos="A">tiettävästi</t>
             <t pos="A">tietysti</t>
          </tg>
@@ -174,7 +174,7 @@
          <l pos="A">daemies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="daemies d66e5e8d-dee5-42d1-8864-989999c73981">
+         <tg xml:lang="fin">
             <t pos="A">kesy</t>
          </tg>
       </mg>
@@ -184,7 +184,7 @@
          <l pos="A">daerpies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="daerpies 80346642-d93e-41e9-bbe3-714c8f1e17d4">
+         <tg xml:lang="fin">
             <t pos="A">tarpeellinen</t>
             <t pos="A">tarpeen</t>
          </tg>
@@ -195,7 +195,7 @@
          <l pos="A">dïeve</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dïeve a6959c02-331d-4d62-81cd-c6787da02193">
+         <tg xml:lang="fin">
             <t pos="A">täysi</t>
          </tg>
       </mg>
@@ -205,7 +205,7 @@
          <l pos="A">dovres</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dovres b27f8eef-db11-4b89-8c95-e4ffc3bcf134">
+         <tg xml:lang="fin">
             <t pos="A">kallis</t>
          </tg>
       </mg>
@@ -215,7 +215,7 @@
          <l pos="A">dulvies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dulvies 0643ab86-eeaf-46f1-8dd7-9f2932a22366">
+         <tg xml:lang="fin">
             <t pos="A">tulviva</t>
          </tg>
       </mg>
@@ -225,7 +225,7 @@
          <l pos="A">duvhties</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="duvhties c8dcf89f-308e-4561-a442-997f431ae419">
+         <tg xml:lang="fin">
             <t pos="A">tiivis</t>
             <t pos="A">tiheä</t>
          </tg>
@@ -236,7 +236,7 @@
          <l pos="A">dæjpeles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dæjpeles 9ef02345-4fa1-49ac-8230-b18b211d9791">
+         <tg xml:lang="fin">
             <t pos="A">hyvä</t>
             <t pos="A">sopiva</t>
             <t pos="A">mukava</t>
@@ -248,7 +248,7 @@
          <l pos="A">dåajmijes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="dåajmijes 84073e7c-e2fe-4960-9ebc-32e3a4646df5">
+         <tg xml:lang="fin">
             <t pos="A">kohtelias</t>
             <t pos="A">kunnolla käyttäytyvä</t>
          </tg>
@@ -259,7 +259,7 @@
          <l pos="A">eadtjohke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="eadtjohke 9750a874-4555-4cb2-a03a-2c560484680c">
+         <tg xml:lang="fin">
             <t pos="A">innokas</t>
             <t pos="A">tarmokas</t>
          </tg>
@@ -270,7 +270,7 @@
          <l pos="A">eensi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="eensi 87954060-4ba0-4eda-a9df-f47e569ce36c">
+         <tg xml:lang="fin">
             <t pos="A">taitava</t>
             <t pos="A">kunnollinen</t>
          </tg>
@@ -281,17 +281,17 @@
          <l pos="A">faatoes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="faatoes fc038595-aff6-4085-8acf-38476ce22714">
+         <tg xml:lang="fin">
             <t pos="A">puuttuva</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="faatoes 35fb0ebd-464c-4845-809e-a1f6fa38c545">
+         <tg xml:lang="fin">
             <t pos="A">puute</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="faatoes 66d517ff-cf11-4881-9565-f3a26f4d95d0">
+         <tg xml:lang="fin">
             <t pos="A">vaiva</t>
          </tg>
       </mg>
@@ -301,7 +301,7 @@
          <l pos="A">faavroes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="faavroes a7d99cd7-7678-4a73-abae-51beeaa0615c">
+         <tg xml:lang="fin">
             <t pos="A">kaunis</t>
          </tg>
       </mg>
@@ -311,7 +311,7 @@
          <l pos="A">fïerske</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="fïerske 740a08b1-3daa-4e2d-b15b-3a3cb6857425">
+         <tg xml:lang="fin">
             <t pos="A">tuore</t>
          </tg>
       </mg>
@@ -321,7 +321,7 @@
          <l pos="A">gaavnjeres</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gaavnjeres 7101b6e3-ee92-45f3-bd7b-8ad025fb105c">
+         <tg xml:lang="fin">
             <t pos="A">soikea</t>
             <t pos="A">pitkulainen</t>
          </tg>
@@ -332,7 +332,7 @@
          <l pos="A">gaervies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gaervies 0df7f2e2-8058-4eb2-82b9-c8d54c4ef0e2">
+         <tg xml:lang="fin">
             <t pos="A">valmis</t>
          </tg>
       </mg>
@@ -342,7 +342,7 @@
          <l pos="A">gaptjeldihkie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gaptjeldihkie 9645397d-462a-45c4-b6e4-afa647b38ba9">
+         <tg xml:lang="fin">
             <t pos="A">peitossa</t>
          </tg>
       </mg>
@@ -352,7 +352,7 @@
          <l pos="A">garre</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="garre d2d92fbe-3f5d-413f-bd4b-da31356f476d">
+         <tg xml:lang="fin">
             <t pos="A">kova</t>
          </tg>
       </mg>
@@ -362,7 +362,7 @@
          <l pos="A">geehpes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="geehpes 6e14dd1a-2f33-4d42-9b70-ea9b4862d051">
+         <tg xml:lang="fin">
             <t pos="A">kevyt</t>
             <t pos="A">helppo</t>
          </tg>
@@ -373,7 +373,7 @@
          <l pos="A">geeles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="geeles bfbec4bd-845c-4189-a103-a38c22c8115b">
+         <tg xml:lang="fin">
             <t pos="A">kesy</t>
             <t pos="A">taluisa</t>
          </tg>
@@ -384,7 +384,7 @@
          <l pos="A">geerjene</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="geerjene 989e19f3-ddff-44bc-be6a-6d9092ca3a23">
+         <tg xml:lang="fin">
             <t pos="A">iloinen</t>
          </tg>
       </mg>
@@ -394,18 +394,18 @@
          <l pos="A">geerve</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="geerve 1aa31360-3a0c-4907-868b-d02cda330ec9">
+         <tg xml:lang="fin">
 	 <re>säästä</re>
             <t pos="A">huono</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="geerve bb48234e-e660-42c0-aeba-2b817550d5d9">
+         <tg xml:lang="fin">
             <t pos="A">vaikea</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="geerve 9b16abbd-46b7-4b43-b0e8-83a5708a9a94">
+         <tg xml:lang="fin">
             <t pos="A">aikuinen</t>
          </tg>
       </mg>
@@ -415,7 +415,7 @@
          <l pos="A">geesjelihks</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="geesjelihks e585830f-f5c7-40c0-93c3-166c4fa27625">
+         <tg xml:lang="fin">
             <t pos="A">kunnollinen</t>
             <t pos="A">kelpo</t>
          </tg>
@@ -426,7 +426,7 @@
          <l pos="A">gejhkie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gejhkie 955d8cd1-0777-4d69-b048-bace1c75dbb2">
+         <tg xml:lang="fin">
             <t pos="A">kuiva</t>
          </tg>
       </mg>
@@ -436,7 +436,7 @@
          <l pos="A">geljies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="geljies 1f2f4ff9-e43c-4760-bbfd-496f69ff3e7f">
+         <tg xml:lang="fin">
             <t pos="A">väljä</t>
             <t pos="A">leveä</t>
          </tg>
@@ -447,7 +447,7 @@
          <l pos="A">giedtsies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="giedtsies f37e86c0-4d92-4238-b631-b00f5a735510">
+         <tg xml:lang="fin">
             <t pos="A">kapea</t>
          </tg>
       </mg>
@@ -457,7 +457,7 @@
          <l pos="A">gïelehtadtje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gïelehtadtje 5e0b1f8c-3388-4fd3-8f0c-cb388ee07ee6">
+         <tg xml:lang="fin">
             <t pos="A">mykkä</t>
          </tg>
       </mg>
@@ -467,7 +467,7 @@
          <l pos="A">gïemhpes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gïemhpes 9bdd56cf-d474-438a-95cd-67a106f6cbf3">
+         <tg xml:lang="fin">
             <t pos="A">kiltti</t>
          </tg>
       </mg>
@@ -477,7 +477,7 @@
          <l pos="A">gïengeles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gïengeles 43f8542c-2315-46df-a475-09d4a8999efa">
+         <tg xml:lang="fin">
             <t pos="A">syvä</t>
          </tg>
       </mg>
@@ -487,7 +487,7 @@
          <l pos="A">gieries</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gieries edeccb84-7e2e-4a0c-9bc1-f202347f3c0c">
+         <tg xml:lang="fin">
             <t pos="A">rakas</t>
          </tg>
       </mg>
@@ -497,7 +497,7 @@
          <l pos="A">gïsse</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gïsse 4479a3db-b8de-4581-a453-7f1f559905bc">
+         <tg xml:lang="fin">
             <t pos="A">paksu</t>
          </tg>
       </mg>
@@ -507,7 +507,7 @@
          <l pos="A">gualijes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gualijes 4e1339f1-c857-47b0-b982-0dfd4298672f">
+         <tg xml:lang="fin">
             <t pos="A">kalaisa</t>
          </tg>
       </mg>
@@ -517,7 +517,7 @@
          <l pos="A">guelehts</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="guelehts d41ae0a2-d152-4316-bff4-410a8692a4d6">
+         <tg xml:lang="fin">
             <t pos="A">kalaton</t>
          </tg>
       </mg>
@@ -527,7 +527,7 @@
          <l pos="A">guhkies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="guhkies d011034a-265e-423f-a638-c1725fac95ab">
+         <tg xml:lang="fin">
             <t pos="A">pitkä</t>
          </tg>
       </mg>
@@ -537,7 +537,7 @@
          <l pos="A">gyönegs</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gyönegs b1b87498-db00-4f3d-87da-db46a07b3ca3">
+         <tg xml:lang="fin">
             <t pos="A">kelvollinen</t>
             <t pos="A">sopiva</t>
          </tg>
@@ -548,7 +548,7 @@
          <l pos="A">gåangkoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gåangkoeh 6440daf4-c312-4da6-a8bd-6bd7540aa94d">
+         <tg xml:lang="fin">
             <t pos="A">käyrä</t>
          </tg>
       </mg>
@@ -558,7 +558,7 @@
          <l pos="A">gåaroes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gåaroes 9645f212-afcf-40e9-af15-e83b0c2d7662">
+         <tg xml:lang="fin">
             <t pos="A">tyhjä</t>
          </tg>
       </mg>
@@ -568,7 +568,7 @@
          <l pos="A">gårroeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gårroeh 525361eb-cb73-40ab-a52a-d04431f3de13">
+         <tg xml:lang="fin">
             <t pos="A">vase(mmanpuoleine)n</t>
          </tg>
       </mg>
@@ -578,7 +578,7 @@
          <l pos="A">gåvva</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gåvva ee81297c-8ad6-4463-b7bb-3a1afad54caf">
+         <tg xml:lang="fin">
             <t pos="A">hyvä</t>
             <t pos="A">helppo</t>
          </tg>
@@ -589,7 +589,7 @@
          <l pos="A">gåårveldihkie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="gåårveldihkie 59b46950-9b7d-4dfe-a405-e1bc39170981">
+         <tg xml:lang="fin">
             <t pos="A">pukeutuneena</t>
          </tg>
       </mg>
@@ -599,7 +599,7 @@
          <l pos="A">harhtsoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="harhtsoeh ff84273e-f151-45a1-af46-defd3d6da59e">
+         <tg xml:lang="fin">
             <t pos="A">kovakourainen</t>
             <t pos="A">huolimaton</t>
          </tg>
@@ -610,7 +610,7 @@
          <l pos="A">hearskoes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="hearskoes 31839f33-bb3e-46fe-a697-e186f22b98fb">
+         <tg xml:lang="fin">
             <t pos="A">herkullinen</t>
          </tg>
       </mg>
@@ -620,7 +620,7 @@
          <l pos="A">hijven</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="hijven 8772df93-c3e0-4177-8491-71a05fe491de">
+         <tg xml:lang="fin">
             <t pos="A">hyvä</t>
             <t pos="A">hyvin</t>
          </tg>
@@ -631,7 +631,7 @@
          <l pos="A">hååkene</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="hååkene 5bf51dd5-ce40-44b4-88ee-4e39f29c37f3">
+         <tg xml:lang="fin">
             <t pos="A">taipuvainen</t>
          </tg>
       </mg>
@@ -641,7 +641,7 @@
          <l pos="A">isvelihks</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="isvelihks 6979b32c-265d-49e5-9766-1b89769ff1fe">
+         <tg xml:lang="fin">
             <t pos="A">hirveä</t>
             <t pos="A">kauhea</t>
             <t pos="A">kamala</t>
@@ -653,7 +653,7 @@
          <l pos="A">jalke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jalke 4403cd61-7dad-4a31-b473-9e6991aefbf3">
+         <tg xml:lang="fin">
             <t pos="A">tasainen</t>
          </tg>
       </mg>
@@ -663,7 +663,7 @@
          <l pos="A">jïlle</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jïlle 4695d4f4-7c79-4487-98a0-16ae19abaa92">
+         <tg xml:lang="fin">
             <t pos="A">korkea</t>
          </tg>
       </mg>
@@ -673,7 +673,7 @@
          <l pos="A">jarhpoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jarhpoeh 8ab3be25-bda8-4382-8718-cdfb2e1728de">
+         <tg xml:lang="fin">
             <t pos="A">vallaton</t>
             <t pos="A">rasavilli</t>
          </tg>
@@ -684,7 +684,7 @@
          <l pos="A">jassijes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jassijes 88aa8055-bd2c-4b49-9143-306c7aa2d49d">
+         <tg xml:lang="fin">
             <t pos="A">paksu</t>
          </tg>
       </mg>
@@ -694,7 +694,7 @@
          <l pos="A">jïjnje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jïjnje 0a4bd2d7-a611-40c3-8adb-47526c1c0a03">
+         <tg xml:lang="fin">
             <t pos="A">paljon</t>
          </tg>
       </mg>
@@ -704,7 +704,7 @@
          <l pos="A">jissehts</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jissehts d7f8f035-f811-4956-b846-8c1fef8d5895">
+         <tg xml:lang="fin">
             <t pos="A">ohut</t>
          </tg>
       </mg>
@@ -714,7 +714,7 @@
          <l pos="A">jorpe</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jorpe 5875e8e5-0666-441f-87d5-c390f8966fe2">
+         <tg xml:lang="fin">
             <t pos="A">pyöreä</t>
          </tg>
       </mg>
@@ -724,7 +724,7 @@
          <l pos="A">juhteles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="juhteles a8cf099c-2bd2-4b35-8dfc-3b330b8f261a">
+         <tg xml:lang="fin">
             <t pos="A">nopea kulkemaan</t>
             <t pos="A">luistava</t>
          </tg>
@@ -735,7 +735,7 @@
          <l pos="A">jåasoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jåasoeh ae32ec47-01f1-45cc-b679-6ed51bb6e132">
+         <tg xml:lang="fin">
             <t pos="A">tyhmä</t>
          </tg>
       </mg>
@@ -745,7 +745,7 @@
          <l pos="A">kraevies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="kraevies 333e1fdb-c377-4139-a5c5-766cfb28074a">
+         <tg xml:lang="fin">
             <t pos="A">harmaa</t>
          </tg>
       </mg>
@@ -755,7 +755,7 @@
          <l pos="A">kroenes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="kroenes e979dd7d-2e3c-4e8a-8e96-a2e5eab2b0bd">
+         <tg xml:lang="fin">
             <t pos="A">vihreä</t>
          </tg>
       </mg>
@@ -765,7 +765,7 @@
          <l pos="A">kruana</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="kruana ac72bee2-a14f-4e2d-9414-0d0475273292">
+         <tg xml:lang="fin">
             <t pos="A">vihreä</t>
          </tg>
       </mg>
@@ -775,7 +775,7 @@
          <l pos="A">kruepies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="kruepies b23248b8-c223-4a5c-aff9-2ad83ae45ade">
+         <tg xml:lang="fin">
             <t pos="A">karkea</t>
          </tg>
       </mg>
@@ -785,7 +785,7 @@
          <l pos="A">liehties</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="liehties 21e235b3-8cb1-4143-b619-f862f2a0d69d">
+         <tg xml:lang="fin">
             <t pos="A">halpa</t>
          </tg>
       </mg>
@@ -795,7 +795,7 @@
          <l pos="A">låemties</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="låemties 8c5ad34c-a9fc-4089-b12d-e198fb3aaddf">
+         <tg xml:lang="fin">
             <t pos="A">kesy</t>
          </tg>
       </mg>
@@ -805,7 +805,7 @@
          <l pos="A">madtan</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="madtan add5d974-1666-43a1-bbce-47332085204a">
+         <tg xml:lang="fin">
             <t pos="A">huonosti</t>
             <t pos="A">niukasti</t>
          </tg>
@@ -816,7 +816,7 @@
          <l pos="A">madtjeles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="madtjeles 69e2722a-1b39-453a-b16d-9cb7388fd2b5">
+         <tg xml:lang="fin">
             <t pos="A">iloinen</t>
             <t pos="A">tyytyväinen</t>
          </tg>
@@ -827,7 +827,7 @@
          <l pos="A">maedeles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="maedeles be749fef-fd9f-417d-b90c-3245d318635d">
+         <tg xml:lang="fin">
             <t pos="A">taitava</t>
             <t pos="A">onnekas</t>
          </tg>
@@ -838,7 +838,7 @@
          <l pos="A">mïrhkekruana</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="mïrhkekruana c7a78934-2acc-4c34-81e4-59dadd31931b">
+         <tg xml:lang="fin">
             <t pos="A">tummanvihreä</t>
          </tg>
       </mg>
@@ -848,7 +848,7 @@
          <l pos="A">murreds</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="murreds d36a2d1a-5bf1-47f8-890b-2f85608edc01">
+         <tg xml:lang="fin">
             <t pos="A">viihtyisä</t>
             <t pos="A">mukava</t>
          </tg>
@@ -859,7 +859,7 @@
          <l pos="A">myövhke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="myövhke a5926600-9106-4b2e-be41-44e9e4d9a373">
+         <tg xml:lang="fin">
             <t pos="A">pehmeä</t>
          </tg>
       </mg>
@@ -869,7 +869,7 @@
          <l pos="A">mïevhke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="mïevhke 11790354-2290-43ed-85c6-674dbcad4a3f">
+         <tg xml:lang="fin">
             <t pos="A">pehmeä</t>
          </tg>
       </mg>
@@ -879,7 +879,7 @@
          <l pos="A">måarehks</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="måarehks 8ce129a2-800f-4b0f-9550-9a621dcb932a">
+         <tg xml:lang="fin">
             <t pos="A">vihainen</t>
          </tg>
       </mg>
@@ -889,7 +889,7 @@
          <l pos="A">mådtan</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="mådtan b08da3e7-27f6-4ab0-a487-46c020fd5542">
+         <tg xml:lang="fin">
             <t pos="A">huono(kuntoinen)</t>
          </tg>
       </mg>
@@ -899,7 +899,7 @@
          <l pos="A">naarpehke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="naarpehke ea80364d-0691-4d2d-8c6b-09c29e5d2536">
+         <tg xml:lang="fin">
             <t pos="A">ahne</t>
             <t pos="A">perso</t>
             <t pos="A">himokas</t>
@@ -911,7 +911,7 @@
          <l pos="A">nahkeren</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nahkeren 9fe0ff24-b4f1-4fa0-bcc3-daba094727e6">
+         <tg xml:lang="fin">
             <t pos="A">väsynyt</t>
             <t pos="A">uninen</t>
          </tg>
@@ -922,12 +922,12 @@
          <l pos="A">nænnoes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nænnoes fa693f03-de98-4d6e-bfec-85eaa372e85d">
+         <tg xml:lang="fin">
             <t pos="A">luja</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" tw_id="nænnoes f8a8fa9e-4925-48a7-b7aa-c93e4b225688">
+         <tg xml:lang="fin">
             <t pos="A">vahva</t>
          </tg>
       </mg>
@@ -937,7 +937,7 @@
          <l pos="A">njaelkies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="njaelkies cb9a6340-17ba-4d27-964e-91fa0f4354a1">
+         <tg xml:lang="fin">
             <t pos="A">maukas</t>
             <t pos="A">hyvänmakuinen</t>
          </tg>
@@ -948,7 +948,7 @@
          <l pos="A">njalhkedihks</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="njalhkedihks fc391da1-285a-4412-bbb7-b5a645103c9d">
+         <tg xml:lang="fin">
             <t pos="A">liukas</t>
          </tg>
       </mg>
@@ -958,7 +958,7 @@
          <l pos="A">njoetjeles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="njoetjeles 2541143a-1a39-46cf-9143-b2f40a7cc362">
+         <tg xml:lang="fin">
             <t pos="A">taipuisa</t>
             <t pos="A">pehmeä</t>
          </tg>
@@ -969,7 +969,7 @@
          <l pos="A">njoetseldh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="njoetseldh ab5d6fe8-82e5-4973-a9a7-150b1990b50f">
+         <tg xml:lang="fin">
             <t pos="A">kypsynyt</t>
             <t pos="A">kypsä</t>
          </tg>
@@ -980,7 +980,7 @@
          <l pos="A">noere</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="noere a0e7e4d9-326c-439c-814b-8cb6ad71f183">
+         <tg xml:lang="fin">
             <t pos="A">nuori</t>
          </tg>
       </mg>
@@ -990,7 +990,7 @@
          <l pos="A">nuarvan</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="nuarvan 17f7735c-5615-4567-a24d-ec58ca69d525">
+         <tg xml:lang="fin">
             <t pos="A">likainen</t>
             <t pos="A">roskainen</t>
          </tg>
@@ -1001,7 +1001,7 @@
          <l pos="A">ohtje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ohtje e9541b8e-9cff-4f91-8b46-ffda9493c768">
+         <tg xml:lang="fin">
             <t pos="A">pieni</t>
          </tg>
       </mg>
@@ -1011,7 +1011,7 @@
          <l pos="A">onne</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="onne 51b9c923-a303-405c-939f-b645661a42f1">
+         <tg xml:lang="fin">
             <t pos="A">pieni</t>
          </tg>
       </mg>
@@ -1021,7 +1021,7 @@
          <l pos="A">orre</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="orre c27d9998-6380-4312-b50d-4d4d4afac205">
+         <tg xml:lang="fin">
             <t pos="A">uusi</t>
          </tg>
       </mg>
@@ -1031,7 +1031,7 @@
          <l pos="A">ovmese</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ovmese 2a8d414e-0110-4216-a7e8-26dbadc82a6d">
+         <tg xml:lang="fin">
             <t pos="A">kaikenlainen</t>
          </tg>
       </mg>
@@ -1041,7 +1041,7 @@
          <l pos="A">ovnohkens</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ovnohkens 94e67beb-a648-424e-94d1-e36eeb5f8cf7">
+         <tg xml:lang="fin">
             <t pos="A">tuntematon</t>
          </tg>
       </mg>
@@ -1051,7 +1051,7 @@
          <l pos="A">plaave</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="plaave 8a64ef15-f198-4758-af1e-718fba9d699c">
+         <tg xml:lang="fin">
             <t pos="A">sininen</t>
          </tg>
       </mg>
@@ -1061,7 +1061,7 @@
          <l pos="A">pleasoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="pleasoeh 2f747eaf-bb6a-4a73-b7c0-bddb014083e5">
+         <tg xml:lang="fin">
             <t pos="A">hidas huomaamaan</t>
             <t pos="A">huononäköinen</t>
          </tg>
@@ -1072,7 +1072,7 @@
          <l pos="A">pliejhkies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="pliejhkies c05ab8dc-c7cf-4a1e-bbc3-f8e23928ed9e">
+         <tg xml:lang="fin">
             <t pos="A">kalpea</t>
          </tg>
       </mg>
@@ -1082,7 +1082,7 @@
          <l pos="A">praare</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="praare 217b0ee6-612c-4a74-b58d-a267cf25de8e">
+         <tg xml:lang="fin">
             <t pos="A">jyrkkä</t>
          </tg>
       </mg>
@@ -1092,7 +1092,7 @@
          <l pos="A">provne</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="provne b53c6a8d-3733-439b-9c11-d38eadb251e4">
+         <tg xml:lang="fin">
             <t pos="A">ruskea</t>
          </tg>
       </mg>
@@ -1102,7 +1102,7 @@
          <l pos="A">pruvres</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="pruvres 98a5bd58-5795-4f86-83a2-0106dee05dce">
+         <tg xml:lang="fin">
             <t pos="A">naimisissa</t>
          </tg>
       </mg>
@@ -1112,7 +1112,7 @@
          <l pos="A">radtjoes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="radtjoes 6545eb89-1382-49b8-ae3e-e6b9e8ae652f">
+         <tg xml:lang="fin">
             <t pos="A">reipas</t>
             <t pos="A">tehokas</t>
          </tg>
@@ -1123,7 +1123,7 @@
          <l pos="A">riejries</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="riejries 3c0604aa-5096-4907-a0f5-bdedad02d026">
+         <tg xml:lang="fin">
             <t pos="A">lähtövalmis</t>
             <t pos="A">valmis</t>
          </tg>
@@ -1134,7 +1134,7 @@
          <l pos="A">rovnegs</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="rovnegs 65822fec-9644-4eb3-9cba-cf6d9b0bce06">
+         <tg xml:lang="fin">
             <t pos="A">kummallinen</t>
             <t pos="A">erikoinen</t>
             <t pos="A">outo</t>
@@ -1146,7 +1146,7 @@
          <l pos="A">ræjhkoes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ræjhkoes 81beaa27-663c-425a-8703-1092b983955d">
+         <tg xml:lang="fin">
             <t pos="A">rikas</t>
          </tg>
       </mg>
@@ -1156,7 +1156,7 @@
          <l pos="A">rööpses</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="rööpses 42301040-93d4-40f0-91d5-8fc1d705f64c">
+         <tg xml:lang="fin">
             <t pos="A">punainen</t>
          </tg>
       </mg>
@@ -1166,7 +1166,7 @@
          <l pos="A">seadtoes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="seadtoes f87e93a0-44c4-4661-853e-7c9d85ae0ff7">
+         <tg xml:lang="fin">
             <t pos="A">rauhallinen</t>
             <t pos="A">rauhaisa</t>
          </tg>
@@ -1177,7 +1177,7 @@
          <l pos="A">seammaplïeres</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="seammaplïeres 5da386a2-f2d0-4e50-8017-9fe20e59a454">
+         <tg xml:lang="fin">
             <t pos="A">samanlainen</t>
             <t pos="A">samankaltainen</t>
             <t pos="A">samannäköinen</t>
@@ -1189,7 +1189,7 @@
          <l pos="A">sjeavodh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sjeavodh d762f775-2d62-4378-9aca-f3851781f127">
+         <tg xml:lang="fin">
             <t pos="A">hiljaa</t>
             <t pos="A">ääneti</t>
          </tg>
@@ -1200,7 +1200,7 @@
          <l pos="A">sjeavohth</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sjeavohth a9e190d5-bdf7-4e6f-9ab7-69e767239c08">
+         <tg xml:lang="fin">
             <t pos="A">hiljaa</t>
             <t pos="A">ääneti</t>
          </tg>
@@ -1211,7 +1211,7 @@
          <l pos="A">sjïere</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sjïere eb9c52d7-7ad3-4244-b3e7-e5f6541e473b">
+         <tg xml:lang="fin">
             <t pos="A">erillinen</t>
             <t pos="A">oma</t>
          </tg>
@@ -1222,7 +1222,7 @@
          <l pos="A">sjiehteles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sjiehteles df9d14a4-e41d-4702-80d6-22abd9355ef7">
+         <tg xml:lang="fin">
             <t pos="A">sopiva</t>
          </tg>
       </mg>
@@ -1232,7 +1232,7 @@
          <l pos="A">sjuevnjeds</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sjuevnjeds 02e13e78-0f0f-4ba3-9902-3de22eecc5e3">
+         <tg xml:lang="fin">
             <t pos="A">hämärä</t>
          </tg>
       </mg>
@@ -1242,7 +1242,7 @@
          <l pos="A">slahtjan</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="slahtjan efdab993-3c6c-476f-bf80-d6cb535ca470">
+         <tg xml:lang="fin">
             <t pos="A">rikki</t>
             <t pos="A">epäkunnossa</t>
          </tg>
@@ -1253,7 +1253,7 @@
          <l pos="A">smaave</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="smaave 6833e6f5-58cc-4c31-95de-e78f16474dcd">
+         <tg xml:lang="fin">
             <t pos="A">pieni</t>
          </tg>
       </mg>
@@ -1263,7 +1263,7 @@
          <l pos="A">sneehpes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sneehpes 763a036f-9076-4b4f-a9a9-965f5f24ae26">
+         <tg xml:lang="fin">
             <t pos="A">nopea</t>
          </tg>
       </mg>
@@ -1273,7 +1273,7 @@
          <l pos="A">spaajhte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="spaajhte f08a35f2-38e2-45ee-8b66-139bfae47b61">
+         <tg xml:lang="fin">
             <t pos="A">nopeasti</t>
             <t pos="A">reippaasti</t>
          </tg>
@@ -1284,7 +1284,7 @@
          <l pos="A">stïeres</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="stïeres 73ab3058-6c7a-411f-9122-0976c20b92ef">
+         <tg xml:lang="fin">
             <t pos="A">valmis</t>
          </tg>
       </mg>
@@ -1294,7 +1294,7 @@
          <l pos="A">stoere</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="stoere 16a5224a-cc99-4e8b-b90c-c7cd26871b5e">
+         <tg xml:lang="fin">
             <t pos="A">iso</t>
          </tg>
       </mg>
@@ -1304,7 +1304,7 @@
          <l pos="A">suejies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="suejies 339f030a-9efc-43c8-be02-51af93f14f54">
+         <tg xml:lang="fin">
             <t pos="A">tuulensuojainen</t>
          </tg>
       </mg>
@@ -1314,7 +1314,7 @@
          <l pos="A">sæjloes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sæjloes 8414e066-4601-46c0-99c6-f46215c1da5c">
+         <tg xml:lang="fin">
             <t pos="A">väsynyt</t>
          </tg>
       </mg>
@@ -1324,7 +1324,7 @@
          <l pos="A">sööjmes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="sööjmes 2ae79b62-7d57-4c8b-9805-ac36ae22bb92">
+         <tg xml:lang="fin">
             <t pos="A">hidas</t>
          </tg>
       </mg>
@@ -1334,7 +1334,7 @@
          <l pos="A">tjaebpies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tjaebpies 4fb3791d-73a4-4be6-871d-78251391bcfb">
+         <tg xml:lang="fin">
             <t pos="A">kaunis</t>
          </tg>
       </mg>
@@ -1344,7 +1344,7 @@
          <l pos="A">tjeehpes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tjeehpes 4585c1dc-a2c1-4910-a95c-393212d398e9">
+         <tg xml:lang="fin">
             <t pos="A">musta</t>
          </tg>
       </mg>
@@ -1354,7 +1354,7 @@
          <l pos="A">tjelmehts</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tjelmehts 6d43f838-b077-47e0-9ac8-d44e69a9a85d">
+         <tg xml:lang="fin">
             <t pos="A">sokea</t>
          </tg>
       </mg>
@@ -1364,7 +1364,7 @@
          <l pos="A">tjetskehke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tjetskehke 5995dc84-bc59-4594-be18-3e74531dbee9">
+         <tg xml:lang="fin">
             <t pos="A">utelias</t>
             <t pos="A">kiinnostunut</t>
          </tg>
@@ -1375,7 +1375,7 @@
          <l pos="A">tjevties</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tjevties 359a9057-62a0-43c5-a791-5f7e1a92e8d5">
+         <tg xml:lang="fin">
             <t pos="A">tiukkalihainen</t>
             <t pos="A">tuore (kala)</t>
          </tg>
@@ -1386,7 +1386,7 @@
          <l pos="A">tjuavkeds</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tjuavkeds e80909a8-1dce-407c-a315-7c6cd04f0e88">
+         <tg xml:lang="fin">
             <t pos="A">valoisa</t>
          </tg>
       </mg>
@@ -1396,7 +1396,7 @@
          <l pos="A">tjuerpies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tjuerpies 343bdef2-3256-4f69-a4b5-7ff57f691c8d">
+         <tg xml:lang="fin">
             <t pos="A">kömpelö</t>
          </tg>
       </mg>
@@ -1406,7 +1406,7 @@
          <l pos="A">tråmhpoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tråmhpoeh 05c1055b-f7cb-4c6c-824e-b2f3a55fb3e1">
+         <tg xml:lang="fin">
             <t pos="A">nykerö</t>
          </tg>
       </mg>
@@ -1416,7 +1416,7 @@
          <l pos="A">tryjjes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="tryjjes 29429c60-8e73-474e-82ac-ea5cdf302306">
+         <tg xml:lang="fin">
             <t pos="A">viihtyisä</t>
          </tg>
       </mg>
@@ -1426,7 +1426,7 @@
          <l pos="A">vaenie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vaenie e0b29741-1802-484c-8355-896acd3e9a93">
+         <tg xml:lang="fin">
             <t pos="A">vähän</t>
          </tg>
       </mg>
@@ -1436,7 +1436,7 @@
          <l pos="A">varres</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="varres 0e92239e-f25e-4402-ab0a-8740a8a67e79">
+         <tg xml:lang="fin">
             <t pos="A">tuore</t>
          </tg>
       </mg>
@@ -1446,7 +1446,7 @@
          <l pos="A">veelkes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="veelkes 7d968f81-8938-4faa-a37d-f8f6efc53dfe">
+         <tg xml:lang="fin">
             <t pos="A">valkoinen</t>
          </tg>
       </mg>
@@ -1456,7 +1456,7 @@
          <l pos="A">vesties</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vesties ccb04bbe-7114-436d-8a1e-8fd1fb78d1bd">
+         <tg xml:lang="fin">
             <t pos="A">paha</t>
             <t pos="A">huono</t>
             <t pos="A">ruma</t>
@@ -1468,7 +1468,7 @@
          <l pos="A">vietseles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vietseles 3dc1c134-efc8-4f35-b8ae-243e764d18c8">
+         <tg xml:lang="fin">
             <t pos="A">ystävällinen</t>
          </tg>
       </mg>
@@ -1478,7 +1478,7 @@
          <l pos="A">vihkeles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vihkeles 5242a72f-59bc-43fb-9ca9-540c866a389b">
+         <tg xml:lang="fin">
             <t pos="A">tärkeä</t>
          </tg>
       </mg>
@@ -1488,7 +1488,7 @@
          <l pos="A">vihties</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="vihties 206dffb5-75a4-43e7-b741-be015be7c0f5">
+         <tg xml:lang="fin">
             <t pos="A">tietty</t>
             <t pos="A">tunnettu</t>
             <t pos="A">varma</t>
@@ -1500,7 +1500,7 @@
          <l pos="A">viskes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="viskes 829f0518-76a4-4a35-ae9d-7af7335496b8">
+         <tg xml:lang="fin">
             <t pos="A">keltainen</t>
          </tg>
       </mg>
@@ -1510,7 +1510,7 @@
          <l pos="A">væjkeles</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="væjkeles 78885c42-84f0-4f65-8bc5-219c47b5d772">
+         <tg xml:lang="fin">
             <t pos="A">taitava</t>
             <t pos="A">kelpo</t>
          </tg>
@@ -1521,7 +1521,7 @@
          <l pos="A">våaroes</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="våaroes 0df82608-0409-4111-8e5f-0c8626842935">
+         <tg xml:lang="fin">
             <t pos="A">varovainen</t>
             <t pos="A">arka</t>
             <t pos="A">valpas</t>
@@ -1533,7 +1533,7 @@
          <l pos="A">evtebe</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="evtebe 74541a93-0234-41b9-bec2-8ba3235b7607">
+         <tg xml:lang="fin">
             <t pos="A">edellinen</t>
             <t pos="A">viime</t>
          </tg>
@@ -1544,7 +1544,7 @@
          <l pos="A">ööjeldihks</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="ööjeldihks eaea6bfd-5c88-41e6-b417-796ffb0eb4a0">
+         <tg xml:lang="fin">
             <t pos="A">unohtavainen</t>
             <t pos="A">hajamielinen</t>
          </tg>
@@ -1555,7 +1555,7 @@
          <l pos="A">åajvoeh</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="åajvoeh 39cfd9a7-2649-4241-9d73-5c5268ecc12b">
+         <tg xml:lang="fin">
             <t pos="A">oiva(llinen)</t>
          </tg>
       </mg>
@@ -1565,7 +1565,7 @@
          <l pos="A">åehpies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="åehpies 5ad8c597-ea61-4a8b-bb16-b145485c9537">
+         <tg xml:lang="fin">
             <t pos="A">tuttu</t>
          </tg>
       </mg>
@@ -1575,7 +1575,7 @@
          <l pos="A">åelkies</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="åelkies d04bc814-18ac-4d5d-a907-379adae61f58">
+         <tg xml:lang="fin">
             <t pos="A">oikea(npuoleinen)</t>
          </tg>
       </mg>
@@ -1585,7 +1585,7 @@
          <l pos="A">åenehks</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="åenehks 1c323ce5-fb12-4a09-b184-332b6275cde4">
+         <tg xml:lang="fin">
             <t pos="A">lyhyt</t>
          </tg>
       </mg>
@@ -1595,7 +1595,7 @@
          <l pos="Adv">rïekte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="rïekte cb149fbe-8ccf-4429-9931-a4a1fb04d863">
+         <tg xml:lang="fin">
             <t pos="Adv">suoraan</t>
          </tg>
       </mg>
@@ -1605,7 +1605,7 @@
          <l pos="A">baahke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="baahke db4b534f-180a-4255-a855-ca5a3a01ce64">
+         <tg xml:lang="fin">
             <t pos="A">lämmin</t>
          </tg>
       </mg>
@@ -1615,7 +1615,7 @@
          <l pos="A">buerie</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="buerie 3000ce7d-3ea1-441b-9e23-7371052c268e">
+         <tg xml:lang="fin">
             <t pos="A">hyvä</t>
          </tg>
       </mg>
@@ -1625,7 +1625,7 @@
          <l pos="A">lovve</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="lovve 49287085-a5db-4dd3-8c93-be618385f59e">
+         <tg xml:lang="fin">
             <t pos="A">märkä</t>
          </tg>
       </mg>
@@ -1635,7 +1635,7 @@
          <l pos="A">snjaltje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="snjaltje 41fe0836-82fc-4156-a5e5-7e9146ddfe3b">
+         <tg xml:lang="fin">
             <t pos="A">kulunut</t>
          </tg>
       </mg>
@@ -1645,7 +1645,7 @@
          <l pos="A">jovje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="jovje ab39a4bd-5192-4d08-a6b6-db3c40863d3a">
+         <tg xml:lang="fin">
             <t pos="A">vaaleanharmaa</t>
             <t pos="A">vaalean harmaa</t>
          </tg>
@@ -1656,7 +1656,7 @@
          <l pos="A">plïehtje</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" tw_id="plïehtje d03004c6-94b0-4d17-97cf-6446f7408da2">
+         <tg xml:lang="fin">
             <t pos="A">laakea</t>
          </tg>
       </mg>
